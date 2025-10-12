@@ -18,7 +18,6 @@ MODEL_DIR = os.path.join(BASE_DIR, "files", "04_models")
 REPORT_DIR = os.path.join(BASE_DIR, "files", "05_reports")
 os.makedirs(REPORT_DIR, exist_ok=True)
 
-
 # ========================
 # FUNCIONES AUXILIARES
 # ========================
@@ -30,34 +29,32 @@ def generar_features(df, window=5):
     ga_col = "ga_x" if "ga_x" in df.columns else "ga"
     poss_col = "poss_x" if "poss_x" in df.columns else "poss"
 
-    df["GF_rolling5"] = group[gf_col].transform(lambda x: x.shift().rolling(window, 1).mean())
-    df["GA_rolling5"] = group[ga_col].transform(lambda x: x.shift().rolling(window, 1).mean())
-    df["Poss_rolling5"] = group[poss_col].transform(lambda x: x.shift().rolling(window, 1).mean())
+    # Rolling 5
+    df["GF_rolling5"] = group[gf_col].transform(lambda x: x.shift().rolling(5, 1).mean())
+    df["GA_rolling5"] = group[ga_col].transform(lambda x: x.shift().rolling(5, 1).mean())
+    df["Poss_rolling5"] = group[poss_col].transform(lambda x: x.shift().rolling(5, 1).mean())
     df["GolesDif_rolling5"] = group.apply(
-        lambda g: (g[gf_col] - g[ga_col]).shift().rolling(window, 1).mean()
+        lambda g: (g[gf_col] - g[ga_col]).shift().rolling(5, 1).mean(),
+        include_groups=False  # 👈 evita el FutureWarning
     ).reset_index(level=0, drop=True)
+    df["WinRate_rolling5"] = group["result"].transform(lambda x: x.shift().eq("W").rolling(5, 1).mean())
 
-    df["WinRate_rolling5"] = group["result"].transform(lambda x: x.shift().eq("W").rolling(window, 1).mean())
-
-    df["Momentum"] = group["result"].transform(
-        lambda x: x.map({"W": 1, "D": 0, "L": -1}).shift().rolling(window, 1).sum()
-    )
-
-    if "performance_g+a_for" in df.columns:
-        df["xG_for_rolling5"] = group["performance_g+a_for"].transform(lambda x: x.shift().rolling(window, 1).mean())
-    if "performance_g+a_agn" in df.columns:
-        df["xG_against_rolling5"] = group["performance_g+a_agn"].transform(lambda x: x.shift().rolling(window, 1).mean())
-
-    if "home_pts_ha" in df.columns and "away_pts_ha" in df.columns:
-        df["HomePts_avg"] = group["home_pts_ha"].transform("mean")
-        df["AwayPts_avg"] = group["away_pts_ha"].transform("mean")
+    # Rolling 3
+    df["GF_rolling3"] = group[gf_col].transform(lambda x: x.shift().rolling(3, 1).mean())
+    df["GA_rolling3"] = group[ga_col].transform(lambda x: x.shift().rolling(3, 1).mean())
+    df["Poss_rolling3"] = group[poss_col].transform(lambda x: x.shift().rolling(3, 1).mean())
+    df["GolesDif_rolling3"] = group.apply(
+        lambda g: (g[gf_col] - g[ga_col]).shift().rolling(3, 1).mean(),
+        include_groups=False  # 👈 evita el FutureWarning
+    ).reset_index(level=0, drop=True)
+    df["WinRate_rolling3"] = group["result"].transform(lambda x: x.shift().eq("W").rolling(3, 1).mean())
 
     return df
 
 
+
 def normalizar_partido(equipo, rival):
     return tuple(sorted([equipo.strip().lower(), rival.strip().lower()]))
-
 
 # ========================
 # SCRIPT PRINCIPAL
@@ -65,7 +62,7 @@ def normalizar_partido(equipo, rival):
 def main():
     print(f"📅 Generando predicciones para la Matchweek {MATCHWEEK_OBJETIVO}...\n")
 
-    # Usamos el dataset extendido con rivales
+    # Dataset procesado extendido
     path_clean = os.path.join(RAW_DIR, "chile_clean_full.csv")
     if not os.path.exists(path_clean):
         print("❌ No se encontró chile_clean_full.csv en files/02_processed/")
@@ -90,7 +87,6 @@ def main():
     print(f"🎯 Fecha seleccionada: Matchweek {MATCHWEEK_OBJETIVO} ({len(df_target)} partidos)")
     df_target["Partido_ID"] = df_target.apply(lambda x: normalizar_partido(x["equipo"], x["opponent"]), axis=1)
     df_target = df_target.drop_duplicates("Partido_ID")
-
     print(f"✅ Después de eliminar duplicados: {len(df_target)} partidos\n")
 
     model_path = os.path.join(MODEL_DIR, "modelo_resultados.joblib")
@@ -107,8 +103,9 @@ def main():
     # Predicción base
     # ========================
     features = [
-        "Local", "GF_rolling5", "GA_rolling5", "Poss_rolling5",
-        "GolesDif_rolling5", "WinRate_rolling5"
+        "Local",
+        "GF_rolling5", "GA_rolling5", "Poss_rolling5", "GolesDif_rolling5", "WinRate_rolling5",
+        "GF_rolling3", "GA_rolling3", "Poss_rolling3", "GolesDif_rolling3", "WinRate_rolling3"
     ]
     df_target["Local"] = (df_target["venue"].str.lower() == "home").astype(int)
     X = df_target[features].fillna(0)
@@ -119,6 +116,10 @@ def main():
 
     proba_cols = [f"P_{c}" for c in model.classes_]
     df_pred = pd.DataFrame(y_proba, columns=proba_cols)
+
+    # 🔧 Normalizar nombres por si las clases son floats (ej: -1.0, 0.0, 1.0)
+    df_pred.columns = df_pred.columns.str.replace(".0", "", regex=False)
+
     df_pred["Prediccion"] = y_pred
     df_pred["Equipo"] = df_target["equipo"].values
     df_pred["Opponent"] = df_target["opponent"].values
@@ -127,7 +128,7 @@ def main():
     # ========================
     # AJUSTE POST-MODELO
     # ========================
-    print("⚙️ Aplicando ajuste post-modelo según standings y forma reciente...")
+    print("⚙️ Aplicando ajuste post-modelo según standings y rendimiento reciente...")
 
     df_pred["equipo"] = df_pred["Equipo"]
     df_pred["opponent"] = df_pred["Opponent"]
@@ -141,7 +142,7 @@ def main():
     for col in [pts_col, gd_col, pts_opp_col, gd_opp_col,
                 "performance_g+a_for", "performance_g+a_agn",
                 "performance_g+a_for_for_opp", "performance_g+a_agn_agn_opp",
-                "HomePts_avg", "AwayPts_avg", "Momentum", "Poss_rolling5"]:
+                "HomePts_avg", "AwayPts_avg", "Poss_rolling5"]:
         if col and col in df_target.columns:
             cols_extra.append(col)
 
@@ -154,14 +155,15 @@ def main():
     if gd_opp_col: rename_map[gd_opp_col] = "gd_opp"
     df_pred.rename(columns=rename_map, inplace=True)
 
+    # --- Diferencias clave ---
     df_pred["pts"] = df_pred.get("pts", 0)
     df_pred["gd"] = df_pred.get("gd", 0)
     df_pred["pts_opp"] = df_pred.get("pts_opp", 0)
     df_pred["gd_opp"] = df_pred.get("gd_opp", 0)
-
     df_pred["diff_pts"] = df_pred["pts"] - df_pred["pts_opp"]
-    df_pred["diff_gd"] = df_pred["gd"] - df_pred["gd_opp"]
+    df_pred["diff_gd"]  = df_pred["gd"]  - df_pred["gd_opp"]
 
+    # Producción ofensiva y defensiva (G+A reales)
     df_pred["diff_g+a_for"] = (
         df_pred.get("performance_g+a_for", 0) -
         df_pred.get("performance_g+a_agn_agn_opp", 0)
@@ -171,6 +173,7 @@ def main():
         df_pred.get("performance_g+a_for_for_opp", 0)
     )
 
+    # Localía efectiva
     if "HomePts_avg" in df_pred.columns and "AwayPts_avg" in df_pred.columns:
         df_pred["diff_homeaway"] = np.where(
             df_pred["Venue"].str.lower() == "home",
@@ -180,16 +183,13 @@ def main():
     else:
         df_pred["diff_homeaway"] = 0
 
-    df_pred["Momentum"] = df_pred.get("Momentum", 0)
-
-    # --- Ajuste ponderado ---
+    # --- Ajuste ponderado reescalado ---
     df_pred["adj_factor"] = (
-        0.10 * np.tanh(df_pred["diff_pts"] / 10)
-      + 0.08 * np.tanh(df_pred["diff_gd"] / 10)
-      + 0.05 * np.tanh(df_pred["diff_g+a_for"] / 5)
-      - 0.05 * np.tanh(df_pred["diff_g+a_agn"] / 5)
-      + 0.05 * np.tanh(df_pred["diff_homeaway"] / 3)
-      + 0.04 * np.tanh(df_pred["Momentum"] / 5)
+          0.14 * np.tanh(df_pred["diff_pts"] / 10)
+        + 0.12 * np.tanh(df_pred["diff_gd"]  / 10)
+        + 0.13 * np.tanh(df_pred["diff_g+a_for"] / 5)
+        - 0.18 * np.tanh(df_pred["diff_g+a_agn"] / 5)
+        + 0.13 * np.tanh(df_pred["diff_homeaway"] / 3)
     )
 
     # Aplicar ajuste y renormalizar

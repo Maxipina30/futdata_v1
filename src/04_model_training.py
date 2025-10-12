@@ -27,9 +27,13 @@ def main():
 
     # === Selección de variables ===
     features = [
-        "Local", "GF_rolling5", "GA_rolling5",
-        "Poss_rolling5", "GolesDif_rolling5", "WinRate_rolling5"
+        "Local",
+        "GF_rolling5", "GA_rolling5", "Poss_rolling5",
+        "GolesDif_rolling5", "WinRate_rolling5",
+        "GF_rolling3", "GA_rolling3", "Poss_rolling3",
+        "GolesDif_rolling3", "WinRate_rolling3"
     ]
+
     X = df[features]
     y = df["Target"]
 
