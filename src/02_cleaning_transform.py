@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 import re
+import unicodedata
 
 # ========================
 # RUTAS
@@ -11,19 +12,33 @@ RAW_DIR = os.path.join(BASE_DIR, "files", "01_raw")
 OUT_DIR = os.path.join(BASE_DIR, "files", "02_processed")
 os.makedirs(OUT_DIR, exist_ok=True)
 
-# Archivos esperados
 PATH_MATCHES = os.path.join(RAW_DIR, "chile_partidos.csv")
 PATH_STAND   = os.path.join(RAW_DIR, "chile_standings.csv")
 PATH_FOR     = os.path.join(RAW_DIR, "chile_stats_for.csv")
 PATH_AGAINST = os.path.join(RAW_DIR, "chile_stats_against.csv")
 PATH_HA      = os.path.join(RAW_DIR, "chile_home_away.csv")
 
+
 # ========================
-# HELPERS
+# FUNCIONES AUXILIARES
 # ========================
 
-def normalize_cols(df: pd.DataFrame) -> pd.DataFrame:
-    df = df.copy()
+def strip_accents(text):
+    if not isinstance(text, str):
+        return text
+    return unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("utf-8")
+
+
+def clean_team_name(name):
+    if not isinstance(name, str):
+        return name
+    name = re.sub(r"^(vs\.?|contra|versus)\s+", "", name.strip(), flags=re.IGNORECASE)
+    name = strip_accents(name)
+    name = re.sub(r"\s+", " ", name.strip())
+    return name
+
+
+def normalize_cols(df):
     df.columns = (
         df.columns
         .str.strip()
@@ -32,165 +47,215 @@ def normalize_cols(df: pd.DataFrame) -> pd.DataFrame:
         .str.replace("[()]", "", regex=True)
         .str.lower()
     )
-    df = df.rename(columns={
-        "squad": "equipo",
-        "team": "equipo",
-        "opponent": "opponent",
-        "round": "round",
-        "matchweek": "matchweek",
-    })
     return df
 
-def strip_accents(s: str) -> str:
-    if not isinstance(s, str):
-        return s
-    trans = str.maketrans("áéíóúüñÁÉÍÓÚÜÑ", "aeiouunAEIOUUN")
-    return s.translate(trans)
 
-def clean_team_name(s: str) -> str:
-    if not isinstance(s, str):
-        return s
-    s = strip_accents(s)
-    s = s.strip()
-    s = re.sub(r"\s+", " ", s)
-    return s
-
-def add_round_number(df: pd.DataFrame) -> pd.DataFrame:
-    df = df.copy()
-    if "round" in df.columns:
-        df["round_num"] = pd.to_numeric(df["round"].astype(str).str.extract(r"(\d+)")[0], errors="coerce")
-    elif "matchweek" in df.columns:
-        df["round_num"] = pd.to_numeric(df["matchweek"].astype(str).str.extract(r"(\d+)")[0], errors="coerce")
-    else:
-        df["round_num"] = np.nan
-    return df
-
-def select_standings_cols(df: pd.DataFrame) -> pd.DataFrame:
-    candidates = ["equipo", "pos", "pts", "w", "d", "l", "gf", "ga", "gd", "mp", "xg", "xga", "xgd", "xpts"]
-    keep = [c for c in candidates if c in df.columns]
-    return df[keep].copy()
-
-def select_stats_cols(df: pd.DataFrame, suffix: str) -> pd.DataFrame:
-    base_candidates = [
-        "equipo", "mp", "min", "poss", "sh", "sot", "fk", "pk",
-        "passes", "passes_completed", "cmp_pct", "ast", "crdy", "crdr", "fld", "off", "xg", "npxg", "xa"
-    ]
-    keep = [c for c in base_candidates if c in df.columns]
-    out = df[keep].copy()
-    rename_map = {c: f"{c}_{suffix}" for c in out.columns if c != "equipo"}
-    out = out.rename(columns=rename_map)
-    return out
-
-def select_homeaway_cols(df: pd.DataFrame) -> pd.DataFrame:
-    candidates = ["equipo", "home", "away", "mp_home", "w_home", "d_home", "l_home", "gf_home", "ga_home",
-                  "mp_away", "w_away", "d_away", "l_away", "gf_away", "ga_away", "pts_home", "pts_away"]
-    # Autogenerar nombres uniformes si las columnas están separadas por condición
-    out = df.copy()
-    for c in out.columns:
-        if "home" in c.lower() or "away" in c.lower():
-            continue
-    return out
-
-def safe_read_csv(path: str, parse_dates: list | None = None) -> pd.DataFrame:
+def safe_read_csv(path):
     if not os.path.exists(path):
-        print(f"⚠️  No se encontró: {path}")
+        print(f"⚠️  Archivo no encontrado: {path}")
         return pd.DataFrame()
+
     try:
-        return pd.read_csv(path, parse_dates=parse_dates)
+        # Leer primer par de filas para detectar encabezado múltiple
+        first_row = pd.read_csv(path, nrows=1)
+        second_row = pd.read_csv(path, nrows=1, skiprows=1)
+
+        if any(col.startswith("Unnamed") for col in first_row.columns):
+            df = pd.read_csv(path, header=[0, 1])
+            df.columns = [
+                "_".join([str(x) for x in col if str(x) != "nan"]).strip()
+                for col in df.columns.values
+            ]
+        else:
+            df = pd.read_csv(path)
+        return df
     except Exception as e:
         print(f"❌ Error leyendo {path}: {e}")
         return pd.DataFrame()
 
+
+def find_team_col(df):
+    """Detecta la columna de equipo en cualquier combinación posible."""
+    for c in df.columns:
+        if any(keyword in c.lower() for keyword in ["squad", "team", "equipo"]):
+            return c
+    return None
+
+
+def clean_and_numeric(df, suffix):
+    """Deja solo columnas numéricas y la columna equipo."""
+    df = df.copy()
+    team_col = find_team_col(df)
+    
+    # --- 🔧 FIX especial para stats_against ---
+    if team_col is None and "squad" in df.columns:
+        team_col = "squad"
+    if team_col is None and any(df.iloc[:, 0].astype(str).str.startswith("vs ")):
+        df["equipo"] = df.iloc[:, 0].astype(str).apply(clean_team_name)
+    elif team_col:
+        df = df.rename(columns={team_col: "equipo"})
+        df["equipo"] = df["equipo"].apply(clean_team_name)
+    else:
+        print(f"⚠️  No se encontró columna de equipo en dataset ({suffix}), se omite.")
+        return pd.DataFrame()
+    # --------------------------------------------------
+
+    for c in df.columns:
+        if c != "equipo":
+            df[c] = pd.to_numeric(df[c], errors="coerce")
+
+    num_cols = [c for c in df.columns if c != "equipo" and pd.api.types.is_numeric_dtype(df[c])]
+    df = df[["equipo"] + num_cols]
+    rename_map = {c: f"{c}_{suffix}" for c in num_cols}
+    return df.rename(columns=rename_map)
+
+
+def safe_merge(left, right, name):
+    if right.empty or "equipo" not in right.columns:
+        print(f"⚠️  No se unió {name}: dataframe vacío o sin 'equipo'.")
+        return left
+    return left.merge(right, on="equipo", how="left")
+
+
+def safe_merge_opp(left, right, suffix, name):
+    if right.empty or "equipo" not in right.columns:
+        print(f"⚠️  No se unió {name}: dataframe vacío o sin 'equipo'.")
+        return left
+    return left.merge(
+        right.add_suffix(suffix),
+        left_on="opponent",
+        right_on=f"equipo{suffix}",
+        how="left"
+    )
+
+
 # ========================
-# MAIN
+# PIPELINE PRINCIPAL
 # ========================
 
 def main():
     print("🧹 Iniciando 02_cleaning_transform...\n")
 
     # ---- Partidos ----
-    matches = safe_read_csv(PATH_MATCHES, parse_dates=["Date"])
+    matches = safe_read_csv(PATH_MATCHES)
     if matches.empty:
         print("❌ No se pudo continuar: chile_partidos.csv no disponible/legible.")
         return
 
     matches = normalize_cols(matches)
+    for c in ["equipo", "team", "squad", "opponent"]:
+        if c in matches.columns:
+            matches[c] = matches[c].apply(clean_team_name)
+
     if "date" in matches.columns:
         matches["date"] = pd.to_datetime(matches["date"], errors="coerce")
     for c in ["gf", "ga", "poss"]:
         if c in matches.columns:
             matches[c] = pd.to_numeric(matches[c], errors="coerce")
 
-    if "comp" in matches.columns:
-        matches = matches[matches["comp"].astype(str).str.contains("Primera", case=False, na=False)].copy()
+    if "round" in matches.columns:
+        matches["round_num"] = pd.to_numeric(matches["round"].astype(str).str.extract(r"(\d+)")[0], errors="coerce")
 
-    for c in ["equipo", "opponent"]:
-        if c in matches.columns:
-            matches[c] = matches[c].apply(clean_team_name)
-
-    matches = add_round_number(matches)
     out_partidos = os.path.join(OUT_DIR, "chile_partidos_limpio.csv")
     matches.to_csv(out_partidos, index=False)
-    print(f"💾 Guardado partidos limpios: {out_partidos} ({matches.shape[0]} filas)")
+    print(f"💾 Guardado partidos limpios: {out_partidos} ({len(matches)} filas)\n")
 
-    # ---- Cargar y limpiar los demás CSV ----
+    # ---- Otros CSVs ----
     standings = normalize_cols(safe_read_csv(PATH_STAND))
     stats_for = normalize_cols(safe_read_csv(PATH_FOR))
     stats_against = normalize_cols(safe_read_csv(PATH_AGAINST))
     home_away = normalize_cols(safe_read_csv(PATH_HA))
 
-    for df in [standings, stats_for, stats_against, home_away]:
-        if "equipo" in df.columns:
-            df["equipo"] = df["equipo"].apply(clean_team_name)
+    standings_num = clean_and_numeric(standings, "stand")
+    stats_for_num = clean_and_numeric(stats_for, "for")
+    stats_against_num = clean_and_numeric(stats_against, "agn")
+    home_away_num = clean_and_numeric(home_away, "ha")
 
-    standings = select_standings_cols(standings)
-    stats_for = select_stats_cols(stats_for, suffix="for")
-    stats_against = select_stats_cols(stats_against, suffix="agn")
+    print(f"📊 Columnas detectadas:")
+    print(f" - standings: {len(standings_num.columns)-1 if not standings_num.empty else 0} numéricas")
+    print(f" - stats_for: {len(stats_for_num.columns)-1 if not stats_for_num.empty else 0} numéricas")
+    print(f" - stats_against: {len(stats_against_num.columns)-1 if not stats_against_num.empty else 0} numéricas")
+    print(f" - home_away: {len(home_away_num.columns)-1 if not home_away_num.empty else 0} numéricas\n")
 
-    if not home_away.empty:
-        home_away = select_standings_cols(home_away)
-        ha_cols = [c for c in home_away.columns if c != "equipo"]
-        home_away = home_away.rename(columns={c: f"{c}_ha" for c in ha_cols})
-    else:
-        print("⚠️ No se encontró chile_home_away.csv o vacío.")
-
-    # ---- Merge con equipo ----
+    # ---- Merge ----
     df = matches.copy()
-    if not standings.empty:
-        df = df.merge(standings, on="equipo", how="left")
-    if not stats_for.empty:
-        df = df.merge(stats_for, on="equipo", how="left")
-    if not stats_against.empty:
-        df = df.merge(stats_against, on="equipo", how="left")
-    if not home_away.empty:
-        df = df.merge(home_away, on="equipo", how="left")
+    df = safe_merge(df, standings_num, "standings")
+    df = safe_merge(df, stats_for_num, "stats_for")
+    df = safe_merge(df, stats_against_num, "stats_against")
+    df = safe_merge(df, home_away_num, "home_away")
 
-    # ---- Merge con rival (_opp) ----
-    for merge_df, suf in [
-        (standings, "stand"),
-        (stats_for, "for"),
-        (stats_against, "agn"),
-        (home_away, "ha"),
-    ]:
-        if not merge_df.empty:
-            df = df.merge(
-                merge_df.add_suffix(f"_{suf}_opp"),
-                left_on="opponent",
-                right_on=f"equipo_{suf}_opp",
-                how="left",
-            )
+    # ---- Oponentes ----
+    df_full = df.copy()
+    df_full = safe_merge_opp(df_full, standings_num, "_stand_opp", "standings_opp")
+    df_full = safe_merge_opp(df_full, stats_for_num, "_for_opp", "stats_for_opp")
+    df_full = safe_merge_opp(df_full, stats_against_num, "_agn_opp", "stats_against_opp")
+    df_full = safe_merge_opp(df_full, home_away_num, "_ha_opp", "home_away_opp")
 
-    # ---- Orden final ----
-    front_cols = [c for c in ["date", "round", "round_num", "equipo", "opponent", "venue", "result", "gf", "ga", "poss"] if c in df.columns]
-    df = df[front_cols + [c for c in df.columns if c not in front_cols]]
+    # ---- Drop columnas inútiles ----
+    cols_to_drop = [
+        "attendance", "notes", "xg", "xga",
+        "attendance_stand", "notes_stand", "goalkeeper_stand",
+        "attendance_stand_stand_opp", "goalkeeper_stand_stand_opp", "notes_stand_stand_opp"
+    ]
+    df_full.drop(columns=[c for c in cols_to_drop if c in df_full.columns], errors="ignore", inplace=True)
 
+    # ---- Guardar ----
     out_clean = os.path.join(OUT_DIR, "chile_clean.csv")
+    out_clean_full = os.path.join(OUT_DIR, "chile_clean_full.csv")
     df.to_csv(out_clean, index=False)
-    print(f"💾 Guardado dataset fusionado: {out_clean} ({df.shape[0]} filas, {df.shape[1]} columnas)")
+    df_full.to_csv(out_clean_full, index=False)
 
-    print("\n🔎 Vista previa:")
-    print(df.head(8).to_string(index=False))
+    print(f"💾 Guardado dataset fusionado: {out_clean} ({df.shape[0]} filas, {df.shape[1]} columnas)")
+    print(f"💾 Guardado dataset extendido: {out_clean_full}\n")
+
+    print("🔎 Vista previa:")
+    print(df_full.head(8).to_string(index=False))
     print("\n✅ 02_cleaning_transform finalizado.")
 
+    # ========================
+    # RESUMEN DE NaN POR GRUPO
+    # ========================
+    # ========================
+    # RESUMEN DETALLADO DE NaN
+    # ========================
+    print("\n" + "="*53)
+    print("🔍 Resumen detallado de columnas con valores faltantes")
+    print("="*53)
+
+    # Calcular porcentaje y conteo de NaN por columna
+    na_summary = (
+        df_full.isna()
+        .sum()
+        .reset_index()
+        .rename(columns={"index": "columna", 0: "num_na"})
+    )
+    na_summary["pct_na"] = na_summary["num_na"] / len(df_full) * 100
+    na_summary = na_summary[na_summary["num_na"] > 0].sort_values("pct_na", ascending=False)
+
+    total_cols = df_full.shape[1]
+    cols_with_na = len(na_summary)
+    pct_global_na = df_full.isna().mean().mean() * 100
+
+    print("="*53)
+    print(f"🔍 Total columnas: {total_cols}")
+    print(f"Columnas con al menos un NaN: {cols_with_na}")
+    print(f"Promedio de NaN global: {pct_global_na:.2f}%")
+    print("="*53 + "\n")
+
+    for _, row in na_summary.iterrows():
+        col = row["columna"]
+        pct = row["pct_na"]
+        n = int(row["num_na"])
+        print(f"{col:<60} {pct:6.2f}% ({n} filas)")
+
+    print("\n✅ Listado completo de columnas con NaN mostrado.")
+    print("="*53 + "\n")
+
+
+
+
+# ========================
+# EJECUCIÓN
+# ========================
 if __name__ == "__main__":
     main()
