@@ -199,6 +199,31 @@ def main():
     ]
     df_full.drop(columns=[c for c in cols_to_drop if c in df_full.columns], errors="ignore", inplace=True)
 
+    # === Ajustes mínimos para preparar features posteriores ===
+
+    # Si no existe 'venue', renombrar
+    if "venue" not in df.columns and "home_away" in df.columns:
+        df = df.rename(columns={"home_away": "venue"})
+
+    # Asegurar columnas clave para features
+    for col in ["gf", "ga", "poss"]:
+        if col not in df.columns:
+            print(f"⚠️ Columna {col} no encontrada, no se podrá calcular rolling global/contextual")
+
+    # Crear resultado si no existe
+    if "result" not in df.columns and {"gf", "ga"}.issubset(df.columns):
+        df["result"] = np.where(df["gf"] > df["ga"], "W",
+                        np.where(df["gf"] == df["ga"], "D", "L"))
+
+    # Confirmar columnas esenciales
+    essential_cols = ["equipo", "opponent", "venue", "date", "gf", "ga", "poss", "result"]
+    missing = [c for c in essential_cols if c not in df.columns]
+    if missing:
+        print(f"⚠️ Faltan columnas esenciales para features: {missing}")
+    else:
+        print("✅ Todas las columnas esenciales para features están presentes.")
+
+
     # ---- Guardar ----
     out_clean = os.path.join(OUT_DIR, "chile_clean.csv")
     out_clean_full = os.path.join(OUT_DIR, "chile_clean_full.csv")
