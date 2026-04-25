@@ -1,182 +1,127 @@
-import pandas as pd
-import numpy as np
 import os
+
 import joblib
+import pandas as pd
+from sklearn.metrics import (
+    accuracy_score,
+    balanced_accuracy_score,
+    classification_report,
+    confusion_matrix,
+    f1_score,
+)
 
 # ========================
-# CONFIGURACIÓN PRINCIPAL
+# CONFIGURACION
 # ========================
-MATCHWEEK_OBJETIVO = 25  # 👉 cambia aquí la fecha a predecir
-WINDOW = 5
+MATCHWEEK_OBJETIVO = int(os.getenv("FUTDATA_MATCHWEEK_OBJETIVO", "34"))
+MODEL_CLASSES = [-1, 0, 1]
 
 # ========================
 # RUTAS
 # ========================
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
-RAW_DIR = os.path.join(BASE_DIR, "files", "02_processed")
+FEATURES_DIR = os.path.join(BASE_DIR, "files", "03_features")
 MODEL_DIR = os.path.join(BASE_DIR, "files", "04_models")
 REPORT_DIR = os.path.join(BASE_DIR, "files", "05_reports")
 os.makedirs(REPORT_DIR, exist_ok=True)
 
-# ========================
-# FUNCIONES AUXILIARES
-# ========================
-def generar_features(df, window=5):
-    df = df.sort_values(["equipo", "date"]).copy()
-    group = df.groupby("equipo")
-
-    gf_col = "gf_x" if "gf_x" in df.columns else "gf"
-    ga_col = "ga_x" if "ga_x" in df.columns else "ga"
-    poss_col = "poss_x" if "poss_x" in df.columns else "poss"
-
-    # Rolling 5
-    df["GF_rolling5"] = group[gf_col].transform(lambda x: x.shift().rolling(5, 1).mean())
-    df["GA_rolling5"] = group[ga_col].transform(lambda x: x.shift().rolling(5, 1).mean())
-    df["Poss_rolling5"] = group[poss_col].transform(lambda x: x.shift().rolling(5, 1).mean())
-    df["GolesDif_rolling5"] = group.apply(
-        lambda g: (g[gf_col] - g[ga_col]).shift().rolling(5, 1).mean(),
-        include_groups=False
-    ).reset_index(level=0, drop=True)
-    df["WinRate_rolling5"] = group["result"].transform(lambda x: x.shift().eq("W").rolling(5, 1).mean())
-
-    # Rolling 3
-    df["GF_rolling3"] = group[gf_col].transform(lambda x: x.shift().rolling(3, 1).mean())
-    df["GA_rolling3"] = group[ga_col].transform(lambda x: x.shift().rolling(3, 1).mean())
-    df["Poss_rolling3"] = group[poss_col].transform(lambda x: x.shift().rolling(3, 1).mean())
-    df["GolesDif_rolling3"] = group.apply(
-        lambda g: (g[gf_col] - g[ga_col]).shift().rolling(3, 1).mean(),
-        include_groups=False
-    ).reset_index(level=0, drop=True)
-    df["WinRate_rolling3"] = group["result"].transform(lambda x: x.shift().eq("W").rolling(3, 1).mean())
-
-    return df
+PREDICT_DATASET = os.path.join(FEATURES_DIR, "dataset_prediccion_mw34_plus.csv")
+MODEL_PATH = os.path.join(MODEL_DIR, "modelo_partidos.joblib")
+METADATA_PATH = os.path.join(MODEL_DIR, "modelo_partidos_metadata.joblib")
 
 
-def normalizar_partido(equipo, rival):
-    return tuple(sorted([equipo.strip().lower(), rival.strip().lower()]))
+def outcome_text(row):
+    pred = int(row["prediccion"])
+    if pred == 1:
+        return f"Gana {row['local_team']}"
+    if pred == -1:
+        return f"Gana {row['away_team']}"
+    return "Empate"
 
-# ========================
-# SCRIPT PRINCIPAL
-# ========================
+
+def aligned_probabilities(model, x_data):
+    probabilities = model.predict_proba(x_data)
+    aligned = pd.DataFrame(0.0, index=x_data.index, columns=MODEL_CLASSES)
+    for index, klass in enumerate(model.classes_):
+        aligned[int(klass)] = probabilities[:, index]
+    return aligned
+
+
+def add_display_probabilities(predictions, probabilities):
+    predictions["p_away_win"] = probabilities[-1].to_numpy()
+    predictions["p_draw"] = probabilities[0].to_numpy()
+    predictions["p_home_win"] = probabilities[1].to_numpy()
+    return predictions
+
+
 def main():
-    print(f"📅 Generando predicciones (modelo base) para la Matchweek {MATCHWEEK_OBJETIVO}...\n")
+    print(f"Generando predicciones para Matchweek {MATCHWEEK_OBJETIVO}\n")
 
-    path_clean = os.path.join(RAW_DIR, "chile_clean_full.csv")
-    if not os.path.exists(path_clean):
-        print("❌ No se encontró chile_clean_full.csv en files/02_processed/")
+    if not os.path.exists(PREDICT_DATASET):
+        raise FileNotFoundError(PREDICT_DATASET)
+    if not os.path.exists(MODEL_PATH):
+        raise FileNotFoundError(MODEL_PATH)
+    if not os.path.exists(METADATA_PATH):
+        raise FileNotFoundError(METADATA_PATH)
+
+    df = pd.read_csv(PREDICT_DATASET, parse_dates=["date"])
+    df = df[df["round_num"] == MATCHWEEK_OBJETIVO].copy()
+    if df.empty:
+        print(f"No hay partidos para Matchweek {MATCHWEEK_OBJETIVO}.")
         return
 
-    df = pd.read_csv(path_clean)
-    print(f"✅ Datos cargados: {df.shape[0]} registros totales")
+    model = joblib.load(MODEL_PATH)
+    metadata = joblib.load(METADATA_PATH)
+    features = metadata["features"]
 
-    df["date"] = pd.to_datetime(df["date"], errors="coerce")
-    for col in ["gf", "ga", "poss"]:
-        if col in df.columns:
-            df[col] = pd.to_numeric(df[col], errors="coerce")
+    missing = [feature for feature in features if feature not in df.columns]
+    if missing:
+        raise RuntimeError(f"Faltan features en dataset de prediccion: {missing}")
 
-    df = generar_features(df, window=WINDOW)
+    probabilities = aligned_probabilities(model, df[features])
+    predictions = df[["date", "round_num", "local_team", "away_team", "Target"]].copy()
+    predictions["prediccion"] = probabilities.idxmax(axis=1).astype(int)
+    predictions = add_display_probabilities(predictions, probabilities)
+    predictions["resultado_esperado"] = predictions.apply(outcome_text, axis=1)
+    predictions["confianza"] = predictions[["p_home_win", "p_draw", "p_away_win"]].max(axis=1)
+    predictions = predictions.sort_values(["date", "local_team"]).reset_index(drop=True)
 
-    df_target = df[df["round_num"] == MATCHWEEK_OBJETIVO].copy()
-    if df_target.empty:
-        print(f"⚠️ No se encontraron partidos para la Matchweek {MATCHWEEK_OBJETIVO}.")
-        return
+    out_path = os.path.join(REPORT_DIR, f"predicciones_matchweek{MATCHWEEK_OBJETIVO}.csv")
+    predictions.to_csv(out_path, index=False)
 
-    print(f"🎯 Fecha seleccionada: Matchweek {MATCHWEEK_OBJETIVO} ({len(df_target)} partidos)")
-    df_target["Partido_ID"] = df_target.apply(lambda x: normalizar_partido(x["equipo"], x["opponent"]), axis=1)
-    df_target = df_target.drop_duplicates("Partido_ID")
-    print(f"✅ Después de eliminar duplicados: {len(df_target)} partidos\n")
+    print(
+        "Modelo usado: "
+        f"{metadata.get('best_model')} | "
+        f"{metadata.get('feature_set')} | "
+        f"C={metadata.get('C')} | "
+        f"features={len(features)}"
+    )
+    print("Predicciones:")
+    for _, row in predictions.iterrows():
+        print(f"{row['local_team']} vs {row['away_team']}")
+        print(
+            f"  Local: {row['p_home_win']:.3f} | "
+            f"Empate: {row['p_draw']:.3f} | "
+            f"Visita: {row['p_away_win']:.3f}"
+        )
+        print(f"  Resultado esperado: {row['resultado_esperado']}\n")
 
-    model_path = os.path.join(MODEL_DIR, "modelo_resultados.joblib")
-    scaler_path = os.path.join(MODEL_DIR, "scaler.joblib")
-
-    if not os.path.exists(model_path) or not os.path.exists(scaler_path):
-        print("❌ No se encontró el modelo o el scaler. Ejecuta primero 04_model_training.py")
-        return
-
-    model = joblib.load(model_path)
-    scaler = joblib.load(scaler_path)
-
-    # ========================
-    # PREDICCIÓN BASE (sin ajuste)
-    # ========================
-    features = [
-        "Local",
-        "GF_rolling5", "GA_rolling5", "Poss_rolling5", "GolesDif_rolling5", "WinRate_rolling5",
-        "GF_rolling3", "GA_rolling3", "Poss_rolling3", "GolesDif_rolling3", "WinRate_rolling3"
-    ]
-    df_target["Local"] = (df_target["venue"].str.lower() == "home").astype(int)
-    X = df_target[features].fillna(0)
-    X_scaled = scaler.transform(X)
-
-    y_proba = model.predict_proba(X_scaled)
-    y_pred = model.predict(X_scaled)
-
-    # === DEBUG: inspeccionar la misma fila que imprime 0.80 ===
-    equipo_dbg = "La Serena"
-
-    print(sorted(df_target["equipo"].unique()))
-
-
-    # buscar índice en df_target del partido de ese equipo
-    mask_dbg = (df_target["equipo"] == equipo_dbg)
-    if mask_dbg.any():
-        idx = np.flatnonzero(mask_dbg)[0]
-        x_row = X.iloc[[idx]].fillna(0)
-        x_scaled = X_scaled[idx:idx+1]
-
-        # logits y proba exactamente de ESA fila
-        logits_dbg = model.decision_function(x_scaled)[0]
-        proba_dbg = model.predict_proba(x_scaled)[0]
-
-        print("\n🔎 DEBUG La Serena (misma fila que imprime el 0.80):")
-        print("Logits (-1,0,1):", logits_dbg)
-        print("Probas  (-1,0,1):", proba_dbg)
-        print("Fila features (sin escalar):")
-        print(x_row.to_string(index=False))
+    known = predictions[predictions["Target"].notna()].copy()
+    if not known.empty:
+        y_true = known["Target"].astype(int)
+        y_pred = known["prediccion"].astype(int)
+        print("Evaluacion parcial MW34 con partidos que ya tienen resultado:")
+        print(f"Partidos evaluables: {len(known)}")
+        print(f"Accuracy: {accuracy_score(y_true, y_pred):.3f}")
+        print(f"Balanced accuracy: {balanced_accuracy_score(y_true, y_pred):.3f}")
+        print(f"Macro F1: {f1_score(y_true, y_pred, average='macro'):.3f}")
+        print("Matriz de confusion labels [-1, 0, 1]:")
+        print(confusion_matrix(y_true, y_pred, labels=MODEL_CLASSES))
+        print(classification_report(y_true, y_pred, labels=MODEL_CLASSES, digits=3, zero_division=0))
     else:
-        print("\n⚠️ DEBUG: no se encontró La Serena en df_target para esta jornada.")
+        print("MW34 aun no tiene resultados reales en el dataset; solo se generaron predicciones.")
 
-
-    proba_cols = [f"P_{c}" for c in model.classes_]
-    df_pred = pd.DataFrame(y_proba, columns=proba_cols)
-    df_pred.columns = df_pred.columns.str.replace(".0", "", regex=False)
-
-    df_pred["Prediccion"] = y_pred
-    df_pred["Equipo"] = df_target["equipo"].values
-    df_pred["Opponent"] = df_target["opponent"].values
-    df_pred["Venue"] = df_target["venue"].values
-
-    # ========================
-    # OUTPUT FINAL
-    # ========================
-    print("\n📊 Predicciones generadas (modelo base):\n")
-    for _, row in df_pred.iterrows():
-        local = row["Equipo"] if row["Venue"].lower() == "home" else row["Opponent"]
-        visita = row["Opponent"] if row["Venue"].lower() == "home" else row["Equipo"]
-
-        if row["Venue"].lower() == "home":
-            p_local = row["P_1"]
-            p_visita = row["P_-1"]
-        else:
-            p_local = row["P_-1"]
-            p_visita = row["P_1"]
-
-        print(f"{local} vs {visita}")
-        print(f"   → Prob {local}: {p_local:.2f} | Empate: {row['P_0']:.2f} | {visita}: {p_visita:.2f}")
-
-        if p_local > p_visita and p_local > row["P_0"]:
-            resultado = f"Gana {local}"
-        elif p_visita > p_local and p_visita > row["P_0"]:
-            resultado = f"Gana {visita}"
-        else:
-            resultado = "Empate"
-
-        print(f"   → Resultado esperado: {resultado}\n")
-
-    out_path = os.path.join(REPORT_DIR, f"predicciones_matchweek{MATCHWEEK_OBJETIVO}_base.csv")
-    df_pred.to_csv(out_path, index=False)
-    print(f"💾 Guardado en: {out_path}")
-    print("✅ Proceso finalizado correctamente 🇨🇱")
+    print(f"Guardado en: {out_path}")
 
 
 if __name__ == "__main__":

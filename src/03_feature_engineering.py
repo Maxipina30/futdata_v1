@@ -10,6 +10,12 @@ PROCESSED_DIR = os.path.join(BASE_DIR, "files", "02_processed")
 OUT_DIR = os.path.join(BASE_DIR, "files", "03_features")
 os.makedirs(OUT_DIR, exist_ok=True)
 
+TRAIN_ROUND_MIN = 1
+TRAIN_ROUND_MAX = 28
+TEST_ROUND_MIN = 29
+TEST_ROUND_MAX = 33
+PREDICT_ROUND_MIN = 34
+
 
 # ========================
 # FUNCIONES AUXILIARES
@@ -68,9 +74,20 @@ def build_match_level_dataset(df):
     mapping = {"W": 1, "D": 0, "L": -1}
     merged["Target"] = merged["result_local"].map(mapping)
 
+    # Crear features diferenciales local - visitante para evitar pares duplicados.
+    rolling_cols = [c for c in df.columns if "rolling" in c]
+    diff_cols = []
+    for col in rolling_cols:
+        local_col = f"{col}_local"
+        away_col = f"{col}_away"
+        if local_col in merged.columns and away_col in merged.columns:
+            diff_col = f"diff_{col.lstrip('_')}"
+            merged[diff_col] = merged[local_col] - merged[away_col]
+            diff_cols.append(diff_col)
+
     # Seleccionar columnas relevantes
-    feature_cols = [c for c in merged.columns if "rolling" in c]
-    cols_keep = ["date", "round_num_local", "equipo_local", "opponent_local", "Target"] + feature_cols
+    feature_cols = [c for c in merged.columns if "rolling" in c and not c.startswith("diff_")]
+    cols_keep = ["date", "round_num_local", "equipo_local", "opponent_local", "Target"] + feature_cols + diff_cols
     cols_keep = [c for c in cols_keep if c in merged.columns]
 
     merged = merged[cols_keep].rename(columns={
@@ -128,8 +145,8 @@ def main():
 
     # 🔧 CORRECCIÓN: los nombres correctos NO llevan '_' al inicio
     global_features = [
-        "gf_rolling5", "ga_rolling5", "poss_rolling5", "winrate_rolling5",
-        "gf_rolling3", "ga_rolling3", "poss_rolling3", "winrate_rolling3"
+        "_gf_rolling5", "_ga_rolling5", "_poss_rolling5", "_winrate_rolling5",
+        "_gf_rolling3", "_ga_rolling3", "_poss_rolling3", "_winrate_rolling3"
     ]
     existing_globals = [c for c in global_features if c in df.columns]
 
@@ -149,9 +166,32 @@ def main():
     out_path = os.path.join(OUT_DIR, "dataset_modelo_partidos.csv")
     df_matches.to_csv(out_path, index=False)
 
+    train = df_matches[
+        df_matches["round_num"].between(TRAIN_ROUND_MIN, TRAIN_ROUND_MAX)
+        & df_matches["Target"].notna()
+    ].copy()
+    test = df_matches[
+        df_matches["round_num"].between(TEST_ROUND_MIN, TEST_ROUND_MAX)
+        & df_matches["Target"].notna()
+    ].copy()
+    predict = df_matches[
+        (df_matches["round_num"] >= PREDICT_ROUND_MIN)
+        | df_matches["Target"].isna()
+    ].copy()
+
+    train_path = os.path.join(OUT_DIR, "dataset_modelo_train_mw1_28.csv")
+    test_path = os.path.join(OUT_DIR, "dataset_modelo_test_mw29_33.csv")
+    predict_path = os.path.join(OUT_DIR, "dataset_prediccion_mw34_plus.csv")
+    train.to_csv(train_path, index=False)
+    test.to_csv(test_path, index=False)
+    predict.to_csv(predict_path, index=False)
+
     print(f"💾 Dataset de modelado guardado en: {out_path}")
     print(f"📊 Filas: {len(df_matches)}, Columnas: {len(df_matches.columns)}\n")
     print("🔍 Vista previa:")
+    print(f"Train MW {TRAIN_ROUND_MIN}-{TRAIN_ROUND_MAX}: {len(train)} filas -> {train_path}")
+    print(f"Test MW {TEST_ROUND_MIN}-{TEST_ROUND_MAX}: {len(test)} filas -> {test_path}")
+    print(f"Prediccion MW {PREDICT_ROUND_MIN}+: {len(predict)} filas -> {predict_path}\n")
     print(df_matches.head(10).to_string(index=False))
     print("\n✅ 03_features completado correctamente.")
 

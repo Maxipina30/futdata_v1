@@ -6,3 +6,6 @@ __pycache__/
 *.log
 .ipynb_checkpoints/
 .env
+venv*/
+files/00_cache/
+files/*_files/
