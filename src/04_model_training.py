@@ -77,14 +77,37 @@ def build_model(model_kind, c_value):
 
 def model_features(train):
     feature_cols = []
+    contextual_metrics = (
+        "gf",
+        "ga",
+        "sot",
+        "sot_allowed",
+        "winrate",
+        "points_per_match",
+    )
     for col in train.columns:
         is_global_team_feature = (
             col.startswith("_")
             and col.endswith(("_local", "_away"))
             and ("rolling" in col or "season_avg" in col)
         )
+        is_contextual_home_feature = (
+            col.startswith("home_")
+            and col.endswith("_local")
+            and any(metric in col for metric in contextual_metrics)
+        )
+        is_contextual_away_feature = (
+            col.startswith("away_")
+            and col.endswith("_away")
+            and any(metric in col for metric in contextual_metrics)
+        )
         is_table_difference = col.startswith("diff_table_")
-        if is_global_team_feature or is_table_difference:
+        if (
+            is_global_team_feature
+            or is_contextual_home_feature
+            or is_contextual_away_feature
+            or is_table_difference
+        ):
             feature_cols.append(col)
     return feature_cols
 

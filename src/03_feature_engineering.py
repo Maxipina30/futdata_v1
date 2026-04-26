@@ -217,7 +217,20 @@ def build_match_level_dataset(df):
         )
         and not c.startswith("diff_")
     ]
-    cols_keep = ["date", "round_num_local", "equipo_local", "opponent_local", "Target"] + feature_cols + diff_cols
+    result_cols = [
+        "gf_local",
+        "ga_local",
+        "gf_away",
+        "ga_away",
+        "result_local",
+    ]
+    cols_keep = [
+        "date",
+        "round_num_local",
+        "equipo_local",
+        "opponent_local",
+        "Target",
+    ] + result_cols + feature_cols + diff_cols
     cols_keep = [c for c in cols_keep if c in merged.columns]
 
     merged = merged[cols_keep].rename(columns={
@@ -281,9 +294,13 @@ def main():
     ]
     existing_globals = [c for c in global_features if c in df.columns]
 
-    # Solo eliminar filas sin rolling global (mantener aunque falte home/away)
-    df = df.dropna(subset=existing_globals)
-    print(f"✅ Partidos restantes tras filtro global: {len(df)}")
+    # No eliminamos filas con rolling global parcial antes de armar partidos:
+    # el modelo imputa esos valores y, si botamos un equipo futuro, se borra
+    # el partido completo del calendario de prediccion.
+    if existing_globals:
+        missing_global_rows = df[existing_globals].isna().any(axis=1).sum()
+        print(f"ℹ️ Filas con rolling global parcial: {missing_global_rows} (se imputan en el modelo)")
+    print(f"✅ Partidos conservados tras chequeo global: {len(df)}")
 
     # ========================
     # CONSTRUIR DATASET POR PARTIDO
