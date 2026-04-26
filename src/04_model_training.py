@@ -39,17 +39,6 @@ C_GRID = [0.01, 0.03, 0.1, 0.3, 1.0]
 MODEL_CLASSES = [-1, 0, 1]
 MACRO_F1_TOLERANCE = 0.01
 
-LEGACY_FEATURES = [
-    "_gf_rolling5_local", "_ga_rolling5_local", "_poss_rolling5_local", "_winrate_rolling5_local",
-    "_gf_rolling3_local", "_ga_rolling3_local", "_poss_rolling3_local", "_winrate_rolling3_local",
-    "_gf_rolling5_away", "_ga_rolling5_away", "_poss_rolling5_away", "_winrate_rolling5_away",
-    "_gf_rolling3_away", "_ga_rolling3_away", "_poss_rolling3_away", "_winrate_rolling3_away",
-    "home_gf_rolling5_local", "home_ga_rolling5_local", "home_poss_rolling5_local", "home_winrate_rolling5_local",
-    "home_gf_rolling3_local", "home_ga_rolling3_local", "home_poss_rolling3_local", "home_winrate_rolling3_local",
-    "away_gf_rolling5_away", "away_ga_rolling5_away", "away_poss_rolling5_away", "away_winrate_rolling5_away",
-    "away_gf_rolling3_away", "away_ga_rolling3_away", "away_poss_rolling3_away", "away_winrate_rolling3_away",
-]
-
 
 def load_split(path):
     if not os.path.exists(path):
@@ -86,24 +75,18 @@ def build_model(model_kind, c_value):
     return base_model
 
 
-def feature_sets(train):
-    diff_features = [col for col in train.columns if col.startswith("diff_")]
-    diff_global = [
-        col for col in diff_features
-        if not col.startswith("diff_home_") and not col.startswith("diff_away_")
-    ]
-
-    sets = {
-        "diff_global_no_poss": [col for col in diff_global if "poss" not in col],
-        "diff_global_all": diff_global,
-        "diff_all_no_poss": [col for col in diff_features if "poss" not in col],
-        "diff_all": diff_features,
-        "legacy_no_poss": [
-            col for col in LEGACY_FEATURES if col in train.columns and "_poss_" not in col
-        ],
-        "legacy_all": [col for col in LEGACY_FEATURES if col in train.columns],
-    }
-    return {name: cols for name, cols in sets.items() if cols}
+def model_features(train):
+    feature_cols = []
+    for col in train.columns:
+        is_global_team_feature = (
+            col.startswith("_")
+            and col.endswith(("_local", "_away"))
+            and ("rolling" in col or "season_avg" in col)
+        )
+        is_table_difference = col.startswith("diff_table_")
+        if is_global_team_feature or is_table_difference:
+            feature_cols.append(col)
+    return feature_cols
 
 
 def aligned_probabilities(model, x_data):
@@ -140,49 +123,48 @@ def score_model(model, x_data, y_true):
 
 def model_selection(train):
     rows = []
-    available_sets = feature_sets(train)
-    for set_name, cols in available_sets.items():
-        for model_kind in ["logreg", "logreg_calibrated"]:
-            for c_value in C_GRID:
-                fold_scores = []
-                for fold in MODEL_SELECTION_FOLDS:
-                    train_core = train[train["round_num"] <= fold["train_max_round"]].copy()
-                    validation = train[
-                        train["round_num"].between(
-                            fold["valid_min_round"],
-                            fold["valid_max_round"],
-                        )
-                    ].copy()
-                    if train_core.empty or validation.empty:
-                        continue
-
-                    model = build_model(model_kind, c_value)
-                    model.fit(train_core[cols], train_core["Target"])
-                    fold_scores.append(score_model(model, validation[cols], validation["Target"]))
-
-                if not fold_scores:
+    features = model_features(train)
+    for model_kind in ["logreg", "logreg_calibrated"]:
+        for c_value in C_GRID:
+            fold_scores = []
+            for fold in MODEL_SELECTION_FOLDS:
+                train_core = train[train["round_num"] <= fold["train_max_round"]].copy()
+                validation = train[
+                    train["round_num"].between(
+                        fold["valid_min_round"],
+                        fold["valid_max_round"],
+                    )
+                ].copy()
+                if train_core.empty or validation.empty:
                     continue
 
-                rows.append(
-                    {
-                        "feature_set": set_name,
-                        "model_kind": model_kind,
-                        "C": c_value,
-                        "n_features": len(cols),
-                        "folds": len(fold_scores),
-                        "accuracy": np.mean([score["accuracy"] for score in fold_scores]),
-                        "balanced_accuracy": np.mean(
-                            [score["balanced_accuracy"] for score in fold_scores]
-                        ),
-                        "macro_f1": np.mean([score["macro_f1"] for score in fold_scores]),
-                        "weighted_f1": np.mean([score["weighted_f1"] for score in fold_scores]),
-                        "log_loss": np.mean([score["log_loss"] for score in fold_scores]),
-                        "brier_multiclass": np.mean(
-                            [score["brier_multiclass"] for score in fold_scores]
-                        ),
-                        "macro_f1_std": np.std([score["macro_f1"] for score in fold_scores]),
-                    }
-                )
+                model = build_model(model_kind, c_value)
+                model.fit(train_core[features], train_core["Target"])
+                fold_scores.append(score_model(model, validation[features], validation["Target"]))
+
+            if not fold_scores:
+                continue
+
+            rows.append(
+                {
+                    "feature_set": "all_generated_features",
+                    "model_kind": model_kind,
+                    "C": c_value,
+                    "n_features": len(features),
+                    "folds": len(fold_scores),
+                    "accuracy": np.mean([score["accuracy"] for score in fold_scores]),
+                    "balanced_accuracy": np.mean(
+                        [score["balanced_accuracy"] for score in fold_scores]
+                    ),
+                    "macro_f1": np.mean([score["macro_f1"] for score in fold_scores]),
+                    "weighted_f1": np.mean([score["weighted_f1"] for score in fold_scores]),
+                    "log_loss": np.mean([score["log_loss"] for score in fold_scores]),
+                    "brier_multiclass": np.mean(
+                        [score["brier_multiclass"] for score in fold_scores]
+                    ),
+                    "macro_f1_std": np.std([score["macro_f1"] for score in fold_scores]),
+                }
+            )
 
     results = pd.DataFrame(rows).sort_values(
         ["macro_f1", "log_loss", "brier_multiclass", "n_features"],
@@ -254,7 +236,7 @@ def main():
     set_name = best["feature_set"]
     model_kind = best["model_kind"]
     c_value = float(best["C"])
-    features = feature_sets(train)[set_name]
+    features = model_features(train)
 
     final_model = build_model(model_kind, c_value)
     final_model.fit(train[features], train["Target"])
@@ -287,9 +269,11 @@ def main():
     joblib.dump(
         {
             "features": features,
+            "selected_features": features,
             "best_model": model_kind,
             "feature_set": set_name,
             "C": c_value,
+            "select_k": None,
             "classes": MODEL_CLASSES,
             "selection_metric": "macro_f1_desc_log_loss_asc",
             "probabilities": "model_calibrated" if model_kind == "logreg_calibrated" else "model_direct",

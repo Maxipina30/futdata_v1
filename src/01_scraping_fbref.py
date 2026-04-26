@@ -473,17 +473,17 @@ def main():
     soup = soup_with_commented_tables(html)
 
     standings, home_away, stats_for, stats_against = find_main_tables(soup)
-    save_csv(standings, f"{LEAGUE_KEY}_standings.csv", "chile_standings.csv")
-    save_csv(home_away, f"{LEAGUE_KEY}_home_away.csv", "chile_home_away.csv")
-    save_csv(stats_for, f"{LEAGUE_KEY}_stats_for.csv", "chile_stats_for.csv")
-    save_csv(stats_against, f"{LEAGUE_KEY}_stats_against.csv", "chile_stats_against.csv")
+    save_csv(standings, f"{LEAGUE_KEY}_standings.csv")
+    save_csv(home_away, f"{LEAGUE_KEY}_home_away.csv")
+    save_csv(stats_for, f"{LEAGUE_KEY}_stats_for.csv")
+    save_csv(stats_against, f"{LEAGUE_KEY}_stats_against.csv")
     save_extra_squad_tables(soup)
 
     schedule = read_local_scores_fixtures()
     if schedule is not None:
         save_csv(schedule, f"{LEAGUE_KEY}_scores_fixtures.csv")
         matches = build_matchlogs_from_schedule(schedule, stats_for)
-        save_csv(matches, f"{LEAGUE_KEY}_partidos.csv", "chile_partidos.csv")
+        save_csv(matches, f"{LEAGUE_KEY}_partidos.csv")
         print("01_scraping_fbref completado con stats y fixtures locales.")
         return
 
@@ -499,7 +499,7 @@ def main():
         raise RuntimeError(f"Se esperaban al menos 20 equipos, se detectaron {len(team_links)}")
 
     matches = read_all_matches(team_links)
-    save_csv(matches, f"{LEAGUE_KEY}_partidos.csv", "chile_partidos.csv")
+    save_csv(matches, f"{LEAGUE_KEY}_partidos.csv")
     print("01_scraping_fbref completado.")
 
 

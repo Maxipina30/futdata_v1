@@ -17,6 +17,13 @@ PATH_STAND   = os.path.join(RAW_DIR, "chile_standings.csv")
 PATH_FOR     = os.path.join(RAW_DIR, "chile_stats_for.csv")
 PATH_AGAINST = os.path.join(RAW_DIR, "chile_stats_against.csv")
 PATH_HA      = os.path.join(RAW_DIR, "chile_home_away.csv")
+PREMIER_RAW_DIR = os.path.join(RAW_DIR, "premier")
+PATH_PREMIER_MATCHES = os.path.join(PREMIER_RAW_DIR, "premier_partidos.csv")
+PATH_PREMIER_STAND = os.path.join(PREMIER_RAW_DIR, "premier_standings.csv")
+PATH_PREMIER_FOR = os.path.join(PREMIER_RAW_DIR, "premier_stats_for.csv")
+PATH_PREMIER_AGAINST = os.path.join(PREMIER_RAW_DIR, "premier_stats_against.csv")
+PATH_PREMIER_HA = os.path.join(PREMIER_RAW_DIR, "premier_home_away.csv")
+PATH_TEAM_MATCHLOGS = os.path.join(RAW_DIR, "premier", "team_matchlogs")
 
 
 # ========================
@@ -35,7 +42,12 @@ def clean_team_name(name):
     name = re.sub(r"^(vs\.?|contra|versus)\s+", "", name.strip(), flags=re.IGNORECASE)
     name = strip_accents(name)
     name = re.sub(r"\s+", " ", name.strip())
-    return name
+    aliases = {
+        "Brighton & Hove Albion": "Brighton",
+        "Manchester United": "Manchester Utd",
+        "Wolverhampton Wanderers": "Wolves",
+    }
+    return aliases.get(name, name)
 
 
 def normalize_cols(df):
@@ -72,6 +84,13 @@ def safe_read_csv(path):
     except Exception as e:
         print(f"❌ Error leyendo {path}: {e}")
         return pd.DataFrame()
+
+
+def first_existing_path(*paths):
+    for path in paths:
+        if os.path.exists(path):
+            return path
+    return paths[0]
 
 
 def find_team_col(df):
@@ -129,6 +148,122 @@ def safe_merge_opp(left, right, suffix, name):
     )
 
 
+def load_team_matchlogs():
+    schedule_path = os.path.join(PATH_TEAM_MATCHLOGS, "premier_team_schedule.csv")
+    shooting_for_path = os.path.join(PATH_TEAM_MATCHLOGS, "premier_team_shooting_for.csv")
+    shooting_against_path = os.path.join(PATH_TEAM_MATCHLOGS, "premier_team_shooting_against.csv")
+
+    if not os.path.exists(schedule_path):
+        return pd.DataFrame()
+
+    schedule = normalize_cols(pd.read_csv(schedule_path))
+    if schedule.empty:
+        return pd.DataFrame()
+
+    schedule = schedule.rename(
+        columns={
+            "team": "equipo",
+            "goals_for": "gf",
+            "goals_against": "ga",
+            "possession": "poss",
+            "start_time": "time",
+        }
+    )
+    schedule = schedule.drop(columns=[c for c in ["table_side"] if c in schedule.columns])
+
+    if os.path.exists(shooting_for_path):
+        shooting_for = normalize_cols(pd.read_csv(shooting_for_path))
+        if "table_side" in shooting_for.columns:
+            shooting_for = shooting_for[shooting_for["table_side"].eq("for")].copy()
+        keep_cols = [
+            c for c in [
+                "team", "date", "opponent", "shots", "shots_on_target",
+                "shots_on_target_pct", "sh", "sot", "sotpct", "g_per_sh",
+                "g_per_sot", "goals_per_shot", "goals_per_shot_on_target",
+                "pens_made", "pens_att", "pk", "pkatt",
+            ]
+            if c in shooting_for.columns
+        ]
+        shooting_for = shooting_for[keep_cols].rename(
+            columns={
+                "team": "equipo",
+                "shots": "sh",
+                "shots_on_target": "sot",
+                "shots_on_target_pct": "sot_pct",
+                "sotpct": "sot_pct",
+                "goals_per_shot": "g_per_sh",
+                "goals_per_shot_on_target": "g_per_sot",
+                "pens_made": "pk",
+                "pens_att": "pkatt",
+            }
+        )
+        schedule = schedule.merge(shooting_for, on=["equipo", "date", "opponent"], how="left")
+
+    if os.path.exists(shooting_against_path):
+        shooting_against = normalize_cols(pd.read_csv(shooting_against_path))
+        if "table_side" in shooting_against.columns:
+            shooting_against = shooting_against[shooting_against["table_side"].eq("against")].copy()
+        keep_cols = [
+            c for c in [
+                "team", "date", "opponent", "shots", "shots_on_target",
+                "shots_on_target_pct", "sh", "sot", "sotpct", "g_per_sh",
+                "g_per_sot", "goals_per_shot", "goals_per_shot_on_target",
+                "pens_made", "pens_att", "pk", "pkatt",
+            ]
+            if c in shooting_against.columns
+        ]
+        shooting_against = shooting_against[keep_cols].rename(
+            columns={
+                "team": "equipo",
+                "shots": "sh_allowed",
+                "shots_on_target": "sot_allowed",
+                "shots_on_target_pct": "sot_allowed_pct",
+                "sh": "sh_allowed",
+                "sot": "sot_allowed",
+                "sotpct": "sot_allowed_pct",
+                "goals_per_shot": "g_per_sh_allowed",
+                "goals_per_shot_on_target": "g_per_sot_allowed",
+                "g_per_sh": "g_per_sh_allowed",
+                "g_per_sot": "g_per_sot_allowed",
+                "pens_made": "pk_allowed",
+                "pens_att": "pkatt_allowed",
+                "pk": "pk_allowed",
+                "pkatt": "pkatt_allowed",
+            }
+        )
+        schedule = schedule.merge(shooting_against, on=["equipo", "date", "opponent"], how="left")
+
+    for col in ["equipo", "opponent"]:
+        if col in schedule.columns:
+            schedule[col] = schedule[col].apply(clean_team_name)
+    if "date" in schedule.columns:
+        schedule["date"] = pd.to_datetime(schedule["date"], errors="coerce")
+    if "round" in schedule.columns:
+        schedule["round_num"] = pd.to_numeric(
+            schedule["round"].astype(str).str.extract(r"(\d+)")[0],
+            errors="coerce",
+        )
+
+    numeric_cols = [
+        "gf", "ga", "poss", "attendance", "sh", "sot", "sot_pct",
+        "g_per_sh", "g_per_sot", "pk", "pkatt", "sh_allowed",
+        "sot_allowed", "sot_allowed_pct", "g_per_sh_allowed",
+        "g_per_sot_allowed", "pk_allowed", "pkatt_allowed",
+    ]
+    for col in numeric_cols:
+        if col in schedule.columns:
+            schedule[col] = pd.to_numeric(schedule[col], errors="coerce")
+
+    if "result" not in schedule.columns and {"gf", "ga"}.issubset(schedule.columns):
+        schedule["result"] = np.where(
+            schedule["gf"] > schedule["ga"],
+            "W",
+            np.where(schedule["gf"] == schedule["ga"], "D", "L"),
+        )
+
+    return schedule
+
+
 # ========================
 # PIPELINE PRINCIPAL
 # ========================
@@ -137,9 +272,13 @@ def main():
     print("🧹 Iniciando 02_cleaning_transform...\n")
 
     # ---- Partidos ----
-    matches = safe_read_csv(PATH_MATCHES)
+    matches = load_team_matchlogs()
+    if not matches.empty:
+        print(f"✅ Usando matchlogs locales por equipo: {len(matches)} filas")
+    else:
+        matches = safe_read_csv(first_existing_path(PATH_PREMIER_MATCHES, PATH_MATCHES))
     if matches.empty:
-        print("❌ No se pudo continuar: chile_partidos.csv no disponible/legible.")
+        print("❌ No se pudo continuar: partidos Premier no disponibles/legibles.")
         return
 
     matches = normalize_cols(matches)
@@ -156,15 +295,15 @@ def main():
     if "round" in matches.columns:
         matches["round_num"] = pd.to_numeric(matches["round"].astype(str).str.extract(r"(\d+)")[0], errors="coerce")
 
-    out_partidos = os.path.join(OUT_DIR, "chile_partidos_limpio.csv")
+    out_partidos = os.path.join(OUT_DIR, "premier_partidos_limpio.csv")
     matches.to_csv(out_partidos, index=False)
     print(f"💾 Guardado partidos limpios: {out_partidos} ({len(matches)} filas)\n")
 
     # ---- Otros CSVs ----
-    standings = normalize_cols(safe_read_csv(PATH_STAND))
-    stats_for = normalize_cols(safe_read_csv(PATH_FOR))
-    stats_against = normalize_cols(safe_read_csv(PATH_AGAINST))
-    home_away = normalize_cols(safe_read_csv(PATH_HA))
+    standings = normalize_cols(safe_read_csv(first_existing_path(PATH_PREMIER_STAND, PATH_STAND)))
+    stats_for = normalize_cols(safe_read_csv(first_existing_path(PATH_PREMIER_FOR, PATH_FOR)))
+    stats_against = normalize_cols(safe_read_csv(first_existing_path(PATH_PREMIER_AGAINST, PATH_AGAINST)))
+    home_away = normalize_cols(safe_read_csv(first_existing_path(PATH_PREMIER_HA, PATH_HA)))
 
     standings_num = clean_and_numeric(standings, "stand")
     stats_for_num = clean_and_numeric(stats_for, "for")
@@ -225,8 +364,8 @@ def main():
 
 
     # ---- Guardar ----
-    out_clean = os.path.join(OUT_DIR, "chile_clean.csv")
-    out_clean_full = os.path.join(OUT_DIR, "chile_clean_full.csv")
+    out_clean = os.path.join(OUT_DIR, "premier_clean.csv")
+    out_clean_full = os.path.join(OUT_DIR, "premier_clean_full.csv")
     df.to_csv(out_clean, index=False)
     df_full.to_csv(out_clean_full, index=False)
 

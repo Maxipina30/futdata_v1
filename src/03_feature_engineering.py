@@ -10,11 +10,34 @@ PROCESSED_DIR = os.path.join(BASE_DIR, "files", "02_processed")
 OUT_DIR = os.path.join(BASE_DIR, "files", "03_features")
 os.makedirs(OUT_DIR, exist_ok=True)
 
-TRAIN_ROUND_MIN = 1
+TRAIN_ROUND_MIN = 6
 TRAIN_ROUND_MAX = 28
 TEST_ROUND_MIN = 29
 TEST_ROUND_MAX = 33
 PREDICT_ROUND_MIN = 34
+ROLLING_WINDOWS = [5, 3]
+MIN_HISTORY_MATCHES = 5
+ROLLING_NUMERIC_METRICS = [
+    "gf",
+    "ga",
+    "poss",
+    "sh",
+    "sot",
+    "sot_pct",
+    "sh_allowed",
+    "sot_allowed",
+    "sot_allowed_pct",
+]
+TABLE_PRIOR_FEATURES = [
+    "table_mp_prev",
+    "table_pts_prev",
+    "table_ppg_prev",
+    "table_gf_prev",
+    "table_ga_prev",
+    "table_gd_prev",
+    "table_rank_prev",
+]
+SEASON_AVG_FEATURE_SUFFIX = "_season_avg"
 
 
 # ========================
@@ -23,26 +46,122 @@ PREDICT_ROUND_MIN = 34
 
 def rolling_stats(df, group_cols, prefix, window):
     """
-    Calcula rolling means (GF, GA, Poss, WinRate) agrupado por equipo o por tipo de venue.
-    Usa min_periods=window para asegurar que solo se consideren promedios completos.
+    Calcula rolling means agrupado por equipo o por tipo de venue.
+    Exige al menos 3 partidos previos para evitar ruido de MW1-MW3.
+    """
+    df = df.sort_values(["equipo", "date"]).copy()
+    group = df.groupby(group_cols, group_keys=False)
+    min_periods = min(window, MIN_HISTORY_MATCHES)
+
+    for metric in ROLLING_NUMERIC_METRICS:
+        if metric in df.columns:
+            df[f"{prefix}_{metric}_rolling{window}"] = group[metric].transform(
+                lambda x: x.shift().rolling(window=window, min_periods=min_periods).mean()
+            )
+
+    if "result" in df.columns:
+        df[f"{prefix}_winrate_rolling{window}"] = group["result"].transform(
+            lambda x: x.shift().eq("W").rolling(window=window, min_periods=min_periods).mean()
+        )
+
+    return df
+
+
+def expanding_stats(df, group_cols, prefix):
+    """
+    Promedios acumulados de temporada hasta antes del partido.
     """
     df = df.sort_values(["equipo", "date"]).copy()
     group = df.groupby(group_cols, group_keys=False)
 
-    df[f"{prefix}_gf_rolling{window}"] = group["gf"].transform(
-        lambda x: x.shift().rolling(window=window, min_periods=window).mean()
-    )
-    df[f"{prefix}_ga_rolling{window}"] = group["ga"].transform(
-        lambda x: x.shift().rolling(window=window, min_periods=window).mean()
-    )
-    df[f"{prefix}_poss_rolling{window}"] = group["poss"].transform(
-        lambda x: x.shift().rolling(window=window, min_periods=window).mean()
-    )
-    df[f"{prefix}_winrate_rolling{window}"] = group["result"].transform(
-        lambda x: x.shift().eq("W").rolling(window=window, min_periods=window).mean()
-    )
+    for metric in ROLLING_NUMERIC_METRICS:
+        if metric in df.columns:
+            df[f"{prefix}_{metric}{SEASON_AVG_FEATURE_SUFFIX}"] = group[metric].transform(
+                lambda x: x.shift().expanding(min_periods=MIN_HISTORY_MATCHES).mean()
+            )
+
+    if "result" in df.columns:
+        df[f"{prefix}_winrate{SEASON_AVG_FEATURE_SUFFIX}"] = group["result"].transform(
+            lambda x: x.shift().eq("W").expanding(min_periods=MIN_HISTORY_MATCHES).mean()
+        )
 
     return df
+
+
+def add_prior_table_features(df):
+    """
+    Agrega estado de tabla previo al partido, sin usar el resultado actual.
+    """
+    sort_cols = ["date"]
+    if "time" in df.columns:
+        sort_cols.append("time")
+    elif "round_num" in df.columns:
+        sort_cols.append("round_num")
+    sort_cols.append("equipo")
+
+    df = df.sort_values(sort_cols).copy()
+    teams = sorted(df["equipo"].dropna().unique())
+    table = {
+        team: {"mp": 0, "pts": 0, "gf": 0, "ga": 0, "gd": 0}
+        for team in teams
+    }
+
+    prior_rows = []
+    group_cols = ["date"]
+    if "time" in df.columns:
+        group_cols.append("time")
+
+    for _, match_block in df.groupby(group_cols, sort=True, dropna=False):
+        standings = pd.DataFrame(
+            [
+                {
+                    "equipo": team,
+                    "pts": values["pts"],
+                    "gd": values["gd"],
+                    "gf": values["gf"],
+                    "ga": values["ga"],
+                    "mp": values["mp"],
+                }
+                for team, values in table.items()
+            ]
+        ).sort_values(["pts", "gd", "gf", "equipo"], ascending=[False, False, False, True])
+        ranks = {
+            row.equipo: rank
+            for rank, row in enumerate(standings.itertuples(index=False), start=1)
+        }
+
+        for idx, row in match_block.iterrows():
+            values = table.get(row["equipo"], {"mp": 0, "pts": 0, "gf": 0, "ga": 0, "gd": 0})
+            prior_rows.append(
+                {
+                    "index": idx,
+                    "table_mp_prev": values["mp"],
+                    "table_pts_prev": values["pts"],
+                    "table_ppg_prev": values["pts"] / values["mp"] if values["mp"] else 0.0,
+                    "table_gf_prev": values["gf"],
+                    "table_ga_prev": values["ga"],
+                    "table_gd_prev": values["gd"],
+                    "table_rank_prev": ranks.get(row["equipo"], np.nan),
+                }
+            )
+
+        for _, row in match_block.iterrows():
+            if pd.isna(row.get("gf")) or pd.isna(row.get("ga")) or pd.isna(row.get("result")):
+                continue
+            team = row["equipo"]
+            gf = int(row["gf"])
+            ga = int(row["ga"])
+            points = 3 if row["result"] == "W" else 1 if row["result"] == "D" else 0
+            table[team]["mp"] += 1
+            table[team]["pts"] += points
+            table[team]["gf"] += gf
+            table[team]["ga"] += ga
+            table[team]["gd"] = table[team]["gf"] - table[team]["ga"]
+
+    prior = pd.DataFrame(prior_rows).set_index("index")
+    for col in TABLE_PRIOR_FEATURES:
+        df[col] = prior[col]
+    return df.sort_index()
 
 
 def build_match_level_dataset(df):
@@ -53,10 +172,13 @@ def build_match_level_dataset(df):
     df_local = df[df["venue"].str.lower() == "home"].copy()
     df_away = df[df["venue"].str.lower() == "away"].copy()
 
-    # Solo renombrar columnas de rolling
-    rolling_cols = [c for c in df.columns if "rolling" in c]
-    rename_local = {c: f"{c}_local" for c in rolling_cols}
-    rename_away = {c: f"{c}_away" for c in rolling_cols}
+    feature_source_cols = [
+        c for c in df.columns if "rolling" in c or c.endswith(SEASON_AVG_FEATURE_SUFFIX)
+    ] + [
+        c for c in TABLE_PRIOR_FEATURES if c in df.columns
+    ]
+    rename_local = {c: f"{c}_local" for c in feature_source_cols}
+    rename_away = {c: f"{c}_away" for c in feature_source_cols}
 
     df_local = df_local.rename(columns=rename_local)
     df_away = df_away.rename(columns=rename_away)
@@ -75,9 +197,8 @@ def build_match_level_dataset(df):
     merged["Target"] = merged["result_local"].map(mapping)
 
     # Crear features diferenciales local - visitante para evitar pares duplicados.
-    rolling_cols = [c for c in df.columns if "rolling" in c]
     diff_cols = []
-    for col in rolling_cols:
+    for col in feature_source_cols:
         local_col = f"{col}_local"
         away_col = f"{col}_away"
         if local_col in merged.columns and away_col in merged.columns:
@@ -86,7 +207,16 @@ def build_match_level_dataset(df):
             diff_cols.append(diff_col)
 
     # Seleccionar columnas relevantes
-    feature_cols = [c for c in merged.columns if "rolling" in c and not c.startswith("diff_")]
+    feature_cols = [
+        c for c in merged.columns
+        if (
+            "rolling" in c
+            or "table_" in c
+            or c.endswith(f"{SEASON_AVG_FEATURE_SUFFIX}_local")
+            or c.endswith(f"{SEASON_AVG_FEATURE_SUFFIX}_away")
+        )
+        and not c.startswith("diff_")
+    ]
     cols_keep = ["date", "round_num_local", "equipo_local", "opponent_local", "Target"] + feature_cols + diff_cols
     cols_keep = [c for c in cols_keep if c in merged.columns]
 
@@ -105,9 +235,9 @@ def build_match_level_dataset(df):
 def main():
     print("⚙️ Generando dataset de modelado (rolling global + contextual, 3 y 5 partidos)...\n")
 
-    path = os.path.join(PROCESSED_DIR, "chile_clean_full.csv")
+    path = os.path.join(PROCESSED_DIR, "premier_clean_full.csv")
     if not os.path.exists(path):
-        print("❌ No se encontró chile_clean_full.csv en files/02_processed/")
+        print("❌ No se encontró premier_clean_full.csv en files/02_processed/")
         return
 
     df = pd.read_csv(path, parse_dates=["date"])
@@ -129,23 +259,24 @@ def main():
     # CALCULAR ROLLING FEATURES
     # ========================
     print("📊 Calculando rolling global (últimos 5 y 3 partidos)...")
-    df = rolling_stats(df, ["equipo"], "", 5)
-    df = rolling_stats(df, ["equipo"], "", 3)
+    df = add_prior_table_features(df)
+    for window in ROLLING_WINDOWS:
+        df = rolling_stats(df, ["equipo"], "", window)
+    df = expanding_stats(df, ["equipo"], "")
 
     print("🏟️ Calculando rolling contextual (por tipo de venue, últimos 5 y 3)...")
-    df = rolling_stats(df, ["equipo", "venue"], "home", 5)
-    df = rolling_stats(df, ["equipo", "venue"], "home", 3)
-    df = rolling_stats(df, ["equipo", "venue"], "away", 5)
-    df = rolling_stats(df, ["equipo", "venue"], "away", 3)
+    for venue_prefix in ["home", "away"]:
+        for window in ROLLING_WINDOWS:
+            df = rolling_stats(df, ["equipo", "venue"], venue_prefix, window)
+        df = expanding_stats(df, ["equipo", "venue"], venue_prefix)
 
     # ========================
     # FILTRAR SOLO SI FALTAN ROLLING GLOBALES (CORREGIDO)
     # ========================
-    print("🧹 Filtrando partidos sin suficientes datos globales (mínimo 3-5 previos)...")
+    print(f"🧹 Filtrando partidos sin al menos {MIN_HISTORY_MATCHES} partidos previos...")
 
     # 🔧 CORRECCIÓN: los nombres correctos NO llevan '_' al inicio
     global_features = [
-        "_gf_rolling5", "_ga_rolling5", "_poss_rolling5", "_winrate_rolling5",
         "_gf_rolling3", "_ga_rolling3", "_poss_rolling3", "_winrate_rolling3"
     ]
     existing_globals = [c for c in global_features if c in df.columns]

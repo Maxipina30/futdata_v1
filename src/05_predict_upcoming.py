@@ -73,6 +73,7 @@ def main():
     model = joblib.load(MODEL_PATH)
     metadata = joblib.load(METADATA_PATH)
     features = metadata["features"]
+    selected_features = metadata.get("selected_features", features)
 
     missing = [feature for feature in features if feature not in df.columns]
     if missing:
@@ -94,7 +95,7 @@ def main():
         f"{metadata.get('best_model')} | "
         f"{metadata.get('feature_set')} | "
         f"C={metadata.get('C')} | "
-        f"features={len(features)}"
+        f"features={len(selected_features)}"
     )
     print("Predicciones:")
     for _, row in predictions.iterrows():
