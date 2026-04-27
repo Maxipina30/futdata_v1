@@ -1,5 +1,7 @@
+import argparse
 import os
 import re
+import sys
 from io import StringIO
 from pathlib import Path
 
@@ -8,6 +10,8 @@ from bs4 import BeautifulSoup, Comment
 
 
 BASE_DIR = Path(__file__).resolve().parents[1]
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
 FILES_DIR = BASE_DIR / "files"
 RAW_DIR = FILES_DIR / "01_raw" / "premier"
 OUT_DIR = RAW_DIR / "team_matchlogs"
@@ -19,6 +23,13 @@ HTML_SEARCH_DIRS = [
 ]
 
 COMPETITION = "Premier League"
+
+LEAGUE_COMPETITIONS = {
+    "premier": "Premier League",
+    "la_liga": "La Liga",
+    "serie_a": "Serie A",
+    "chile": "Liga de Primera",
+}
 
 
 def soup_with_commented_tables(html):
@@ -104,7 +115,16 @@ def read_matchlogs_table(soup, table_id):
     return flatten_columns(pd.read_html(StringIO(str(table)))[0])
 
 
-def clean_matchlog(df, team, table_side):
+def table_has_competition(df, competition):
+    columns = {normalize_column_name(col): col for col in df.columns}
+    comp_col = columns.get("comp")
+    if comp_col is None:
+        return False
+    comp_values = df[comp_col].dropna().astype(str).str.strip().str.lower()
+    return comp_values.eq(competition.lower()).any()
+
+
+def clean_matchlog(df, team, table_side, competition):
     df = df.copy()
     df.columns = [normalize_column_name(col) for col in df.columns]
 
@@ -115,7 +135,7 @@ def clean_matchlog(df, team, table_side):
     df = df[df["date"].astype(str).str.lower() != "date"]
 
     if "comp" in df.columns:
-        df = df[df["comp"].astype(str).eq(COMPETITION)].copy()
+        df = df[df["comp"].astype(str).eq(competition)].copy()
 
     df["team"] = team
     df["table_side"] = table_side
@@ -151,10 +171,10 @@ def clean_matchlog(df, team, table_side):
     return df
 
 
-def discover_html_files():
+def discover_html_files(html_search_dirs):
     seen = set()
     files = []
-    for directory in HTML_SEARCH_DIRS:
+    for directory in html_search_dirs:
         if not directory.exists():
             continue
         for path in directory.glob("*.html"):
@@ -167,25 +187,30 @@ def discover_html_files():
     return sorted(files)
 
 
-def parse_files():
+def parse_files(competition, html_search_dirs):
     schedule_rows = []
+    schedule_fallback_rows = []
     shooting_for_rows = []
     shooting_against_rows = []
 
-    for path in discover_html_files():
+    for path in discover_html_files(html_search_dirs):
         html = path.read_text(encoding="utf-8", errors="ignore")
         if "matchlogs_for" not in html:
             continue
 
         soup = soup_with_commented_tables(html)
+        title_text = soup.find("title").get_text(" ", strip=True) if soup.find("title") else ""
         team = infer_team_name(path, soup)
 
         matchlogs_for = read_matchlogs_table(soup, "matchlogs_for")
         if matchlogs_for is None:
             continue
+        page_text = f"{path.name} {title_text}".lower()
+        if competition.lower() not in page_text and not table_has_competition(matchlogs_for, competition):
+            continue
 
         kind = infer_page_kind(path, soup, matchlogs_for)
-        cleaned_for = clean_matchlog(matchlogs_for, team, "for")
+        cleaned_for = clean_matchlog(matchlogs_for, team, "for", competition)
         if cleaned_for.empty:
             continue
 
@@ -194,18 +219,42 @@ def parse_files():
         if kind == "schedule":
             schedule_rows.append(cleaned_for)
         elif kind == "shooting":
+            shooting_cols = [
+                "sh",
+                "sot",
+                "sot_pct",
+                "sotpct",
+                "g_per_sh",
+                "g_per_sot",
+                "pk",
+                "pkatt",
+                "dist",
+                "fk",
+            ]
+            schedule_fallback_rows.append(
+                cleaned_for.drop(columns=[col for col in shooting_cols if col in cleaned_for.columns])
+            )
             shooting_for_rows.append(cleaned_for)
             matchlogs_against = read_matchlogs_table(soup, "matchlogs_against")
             if matchlogs_against is not None:
-                cleaned_against = clean_matchlog(matchlogs_against, team, "against")
+                cleaned_against = clean_matchlog(matchlogs_against, team, "against", competition)
                 if not cleaned_against.empty:
                     shooting_against_rows.append(cleaned_against)
+
+    scheduled_teams = set()
+    if schedule_rows:
+        scheduled_teams = set(pd.concat(schedule_rows, ignore_index=True)["team"].dropna())
+    for fallback in schedule_fallback_rows:
+        team = fallback["team"].dropna().iloc[0] if "team" in fallback.columns and fallback["team"].notna().any() else None
+        if team and team not in scheduled_teams:
+            schedule_rows.append(fallback)
+            scheduled_teams.add(team)
 
     return schedule_rows, shooting_for_rows, shooting_against_rows
 
 
-def write_output(name, frames):
-    path = OUT_DIR / name
+def write_output(out_dir, name, frames):
+    path = out_dir / name
     if not frames:
         print(f"Sin datos para {name}")
         return
@@ -218,10 +267,22 @@ def write_output(name, frames):
 
 
 def main():
-    schedule_rows, shooting_for_rows, shooting_against_rows = parse_files()
-    write_output("premier_team_schedule.csv", schedule_rows)
-    write_output("premier_team_shooting_for.csv", shooting_for_rows)
-    write_output("premier_team_shooting_against.csv", shooting_against_rows)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--league", default="premier", choices=sorted(LEAGUE_COMPETITIONS))
+    parser.add_argument("--competition", default=None)
+    args = parser.parse_args()
+
+    competition = args.competition or LEAGUE_COMPETITIONS[args.league]
+    raw_dir = FILES_DIR / "01_raw" / args.league
+    out_dir = raw_dir / "team_matchlogs"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    html_search_dirs = [FILES_DIR, out_dir]
+
+    print(f"Parseando matchlogs de {competition} -> {out_dir}")
+    schedule_rows, shooting_for_rows, shooting_against_rows = parse_files(competition, html_search_dirs)
+    write_output(out_dir, f"{args.league}_team_schedule.csv", schedule_rows)
+    write_output(out_dir, f"{args.league}_team_shooting_for.csv", shooting_for_rows)
+    write_output(out_dir, f"{args.league}_team_shooting_against.csv", shooting_against_rows)
 
 
 if __name__ == "__main__":

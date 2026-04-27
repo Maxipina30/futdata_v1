@@ -1,8 +1,13 @@
+import argparse
 import pandas as pd
 import numpy as np
 import os
 import re
+import sys
 import unicodedata
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
 
 # ========================
 # RUTAS
@@ -46,6 +51,22 @@ def clean_team_name(name):
         "Brighton & Hove Albion": "Brighton",
         "Manchester United": "Manchester Utd",
         "Wolverhampton Wanderers": "Wolves",
+        "Dep. Concepcion": "Deportes Concepcion",
+        "Deportes Concepcion": "Deportes Concepcion",
+        "U Concepcion": "Universidad de Concepcion",
+        "U. Concepcion": "Universidad de Concepcion",
+        "Universidad de Concepcion": "Universidad de Concepcion",
+        "U de Chile": "Universidad de Chile",
+        "U. de Chile": "Universidad de Chile",
+        "U Catolica": "Universidad Catolica",
+        "U. Catolica": "Universidad Catolica",
+        "Universidad Catolica": "Universidad Catolica",
+        "Limache": "CD Limache",
+        "Dep. Limache": "CD Limache",
+        "Coquimbo": "Coquimbo Unido",
+        "Union La Calera": "Union La Calera",
+        "Nublense": "Nublense",
+        "Colo Colo": "Colo-Colo",
     }
     return aliases.get(name, name)
 
@@ -104,6 +125,8 @@ def find_team_col(df):
 def clean_and_numeric(df, suffix):
     """Deja solo columnas numéricas y la columna equipo."""
     df = df.copy()
+    if df.empty:
+        return pd.DataFrame()
     team_col = find_team_col(df)
     
     # --- 🔧 FIX especial para stats_against ---
@@ -148,10 +171,11 @@ def safe_merge_opp(left, right, suffix, name):
     )
 
 
-def load_team_matchlogs():
-    schedule_path = os.path.join(PATH_TEAM_MATCHLOGS, "premier_team_schedule.csv")
-    shooting_for_path = os.path.join(PATH_TEAM_MATCHLOGS, "premier_team_shooting_for.csv")
-    shooting_against_path = os.path.join(PATH_TEAM_MATCHLOGS, "premier_team_shooting_against.csv")
+def load_team_matchlogs(league="premier"):
+    matchlogs_dir = os.path.join(RAW_DIR, league, "team_matchlogs")
+    schedule_path = os.path.join(matchlogs_dir, f"{league}_team_schedule.csv")
+    shooting_for_path = os.path.join(matchlogs_dir, f"{league}_team_shooting_for.csv")
+    shooting_against_path = os.path.join(matchlogs_dir, f"{league}_team_shooting_against.csv")
 
     if not os.path.exists(schedule_path):
         return pd.DataFrame()
@@ -268,11 +292,25 @@ def load_team_matchlogs():
 # PIPELINE PRINCIPAL
 # ========================
 
+def output_dir_for_league(league):
+    if league == "premier":
+        return OUT_DIR
+    league_out_dir = os.path.join(OUT_DIR, league)
+    os.makedirs(league_out_dir, exist_ok=True)
+    return league_out_dir
+
+
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--league", default="premier")
+    args = parser.parse_args()
+    league = args.league
+    out_dir = output_dir_for_league(league)
+
     print("🧹 Iniciando 02_cleaning_transform...\n")
 
     # ---- Partidos ----
-    matches = load_team_matchlogs()
+    matches = load_team_matchlogs(league)
     if not matches.empty:
         print(f"✅ Usando matchlogs locales por equipo: {len(matches)} filas")
     else:
@@ -295,15 +333,21 @@ def main():
     if "round" in matches.columns:
         matches["round_num"] = pd.to_numeric(matches["round"].astype(str).str.extract(r"(\d+)")[0], errors="coerce")
 
-    out_partidos = os.path.join(OUT_DIR, "premier_partidos_limpio.csv")
+    out_partidos = os.path.join(out_dir, f"{league}_partidos_limpio.csv")
     matches.to_csv(out_partidos, index=False)
     print(f"💾 Guardado partidos limpios: {out_partidos} ({len(matches)} filas)\n")
 
     # ---- Otros CSVs ----
-    standings = normalize_cols(safe_read_csv(first_existing_path(PATH_PREMIER_STAND, PATH_STAND)))
-    stats_for = normalize_cols(safe_read_csv(first_existing_path(PATH_PREMIER_FOR, PATH_FOR)))
-    stats_against = normalize_cols(safe_read_csv(first_existing_path(PATH_PREMIER_AGAINST, PATH_AGAINST)))
-    home_away = normalize_cols(safe_read_csv(first_existing_path(PATH_PREMIER_HA, PATH_HA)))
+    if league == "premier":
+        standings = normalize_cols(safe_read_csv(first_existing_path(PATH_PREMIER_STAND, PATH_STAND)))
+        stats_for = normalize_cols(safe_read_csv(first_existing_path(PATH_PREMIER_FOR, PATH_FOR)))
+        stats_against = normalize_cols(safe_read_csv(first_existing_path(PATH_PREMIER_AGAINST, PATH_AGAINST)))
+        home_away = normalize_cols(safe_read_csv(first_existing_path(PATH_PREMIER_HA, PATH_HA)))
+    else:
+        standings = pd.DataFrame()
+        stats_for = pd.DataFrame()
+        stats_against = pd.DataFrame()
+        home_away = pd.DataFrame()
 
     standings_num = clean_and_numeric(standings, "stand")
     stats_for_num = clean_and_numeric(stats_for, "for")
@@ -364,8 +408,8 @@ def main():
 
 
     # ---- Guardar ----
-    out_clean = os.path.join(OUT_DIR, "premier_clean.csv")
-    out_clean_full = os.path.join(OUT_DIR, "premier_clean_full.csv")
+    out_clean = os.path.join(out_dir, f"{league}_clean.csv")
+    out_clean_full = os.path.join(out_dir, f"{league}_clean_full.csv")
     df.to_csv(out_clean, index=False)
     df_full.to_csv(out_clean_full, index=False)
 

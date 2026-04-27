@@ -26,6 +26,12 @@ DEFAULT_SOURCE_URL = (
     "https://www.cuotasahora.com/football/h2h/arsenal-hA1Zm19f/"
     "newcastle-p6ahwuwJ/#OQsq6PYa:over-under;2;"
 )
+LEAGUE_SOURCE_URLS = {
+    "chile": "https://www.cuotasahora.com/football/chile/liga-de-primera/",
+    "la_liga": "https://www.cuotasahora.com/football/spain/laliga-ea-sports/",
+    "serie_a": "https://www.cuotasahora.com/football/italy/serie-a/",
+    "premier": "https://www.cuotasahora.com/football/england/premier-league/",
+}
 
 PASSWORD = ("J*8sQ!p" + chr(36) + "7aD_fR2yW@gHn*3bVp#sAdLd_k").encode()
 SALT = b"5b9a8f2c3e6d1a4b7c8e9d0f1a2b3c4d"
@@ -43,6 +49,19 @@ TEAM_ALIASES = {
     "manchester utd": "Manchester United",
     "nottingham": "Nottingham Forest",
     "wolves": "Wolves",
+    "coquimbo": "Coquimbo Unido",
+    "u catolica": "Universidad Catolica",
+    "u. catolica": "Universidad Catolica",
+    "u de chile": "Universidad de Chile",
+    "u. de chile": "Universidad de Chile",
+    "u concepcion": "Universidad de Concepcion",
+    "u. concepcion": "Universidad de Concepcion",
+    "dep. concepcion": "Deportes Concepcion",
+    "limache": "CD Limache",
+    "dep. limache": "CD Limache",
+    "nublense": "Nublense",
+    "colo colo": "Colo-Colo",
+    "union la calera": "Union La Calera",
 }
 
 
@@ -148,6 +167,97 @@ def extract_related_events(soup, event_data):
     return events
 
 
+def extract_events_from_listing(html):
+    soup = BeautifulSoup(html, "html.parser")
+    rows = []
+    for node in soup.find_all(id="react-leagues-events"):
+        if node.get("data"):
+            rows.extend(json.loads(node["data"]).get("rows", []))
+
+    events = []
+    seen = set()
+    for row in rows:
+        url = row.get("url")
+        event = row.get("event")
+        if not url or not event or url in seen:
+            continue
+        if " - " in event:
+            home, away = [normalize_event_team(x) for x in re.split(r"\s+-\s+", event, maxsplit=1)]
+        else:
+            home, away = "", ""
+        seen.add(url)
+        events.append(
+            {
+                "home": home,
+                "away": away,
+                "url": urljoin(BASE_URL, url),
+                "formatted_date": row.get("formattedDate", "").replace("&nbsp;", " "),
+            }
+        )
+
+    if events:
+        return events
+
+    for script in soup.find_all("script", {"type": "application/ld+json"}):
+        text = script.string or script.get_text()
+        try:
+            payload = json.loads(text)
+        except Exception:
+            continue
+        items = payload if isinstance(payload, list) else [payload]
+        for item in items:
+            if not isinstance(item, dict):
+                continue
+            item_type = item.get("@type")
+            is_sports_event = item_type == "SportsEvent" or (
+                isinstance(item_type, list) and "SportsEvent" in item_type
+            )
+            url = item.get("url")
+            event = item.get("name")
+            if not is_sports_event or not url or url in seen:
+                continue
+            home, away = "", ""
+            if isinstance(event, str) and " - " in event:
+                home, away = [
+                    normalize_event_team(part)
+                    for part in re.split(r"\s+-\s+", event, maxsplit=1)
+                ]
+            seen.add(url)
+            events.append(
+                {
+                    "home": home,
+                    "away": away,
+                    "url": urljoin(BASE_URL, url),
+                    "formatted_date": item.get("startDate", ""),
+                }
+            )
+
+    if events:
+        return events
+
+    for link in soup.find_all("a", href=True):
+        href = link["href"]
+        if "/football/h2h/" not in href or href in seen:
+            continue
+        seen.add(href)
+        events.append(
+            {
+                "home": "",
+                "away": "",
+                "url": urljoin(BASE_URL, href),
+                "formatted_date": "",
+            }
+        )
+    return events
+
+
+def discover_events_from_url(url, session=None):
+    session = session or get_session()
+    response = session.get(url, timeout=30)
+    response.raise_for_status()
+    return extract_events_from_listing(response.text)
+
+
 def market_endpoint(meta, market):
     return (
         f"{BASE_URL}/match-event/{meta['version_id']}-{meta['sport_id']}-"
@@ -166,9 +276,27 @@ def fetch_market(session, meta, market, referer):
     return decode_payload(response.text)
 
 
+def iter_market_odds(market_data):
+    odds = market_data.get("odds", {}) if isinstance(market_data, dict) else {}
+    if isinstance(odds, dict):
+        return odds.values()
+    if isinstance(odds, list):
+        return odds
+    return []
+
+
+def iter_back_markets(decoded_by_market, market):
+    back = decoded_by_market.get(market, {}).get("d", {}).get("oddsdata", {}).get("back", {})
+    if isinstance(back, dict):
+        return back.values()
+    if isinstance(back, list):
+        return back
+    return []
+
+
 def best_from_mapping(market_data, key):
     values = []
-    for bookmaker_odds in market_data.get("odds", {}).values():
+    for bookmaker_odds in iter_market_odds(market_data):
         if isinstance(bookmaker_odds, dict):
             values.append(clean_number(bookmaker_odds.get(key)))
     values = [value for value in values if value]
@@ -177,7 +305,7 @@ def best_from_mapping(market_data, key):
 
 def best_from_list(market_data, index):
     values = []
-    for bookmaker_odds in market_data.get("odds", {}).values():
+    for bookmaker_odds in iter_market_odds(market_data):
         if isinstance(bookmaker_odds, list) and len(bookmaker_odds) > index:
             values.append(clean_number(bookmaker_odds[index]))
     values = [value for value in values if value]
@@ -191,21 +319,19 @@ def parse_odds(meta, decoded_by_market):
         "away_team": meta["away"],
     }
 
-    h2h = next(iter(decoded_by_market.get("h2h", {}).get("d", {}).get("oddsdata", {}).get("back", {}).values()), {})
+    h2h = next(iter(iter_back_markets(decoded_by_market, "h2h")), {})
     row["decimal_home_win"] = best_from_mapping(h2h, "0")
     row["decimal_draw"] = best_from_mapping(h2h, "1")
     row["decimal_away_win"] = best_from_mapping(h2h, "2")
 
-    double = next(
-        iter(decoded_by_market.get("double_chance", {}).get("d", {}).get("oddsdata", {}).get("back", {}).values()),
-        {},
-    )
+    double = next(iter(iter_back_markets(decoded_by_market, "double_chance")), {})
     row["decimal_home_or_draw"] = best_from_mapping(double, "0")
     row["decimal_home_or_away"] = best_from_mapping(double, "1")
     row["decimal_draw_or_away"] = best_from_mapping(double, "2")
 
-    over_under = decoded_by_market.get("over_under", {}).get("d", {}).get("oddsdata", {}).get("back", {})
-    for market_data in over_under.values():
+    for market_data in iter_back_markets(decoded_by_market, "over_under"):
+        if not isinstance(market_data, dict):
+            continue
         handicap = clean_number(market_data.get("handicapValue"))
         if handicap == 1.5:
             row["decimal_over_15"] = best_from_list(market_data, 0)
@@ -214,7 +340,7 @@ def parse_odds(meta, decoded_by_market):
             row["decimal_over_25"] = best_from_list(market_data, 0)
             row["decimal_under_25"] = best_from_list(market_data, 1)
 
-    btts = next(iter(decoded_by_market.get("btts", {}).get("d", {}).get("oddsdata", {}).get("back", {}).values()), {})
+    btts = next(iter(iter_back_markets(decoded_by_market, "btts")), {})
     row["decimal_btts_yes"] = best_from_list(btts, 0)
     row["decimal_btts_no"] = best_from_list(btts, 1)
     return row
@@ -258,17 +384,40 @@ def scrape_urls(urls):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--url", action="append", default=[])
-    parser.add_argument("--discover-from", default=DEFAULT_SOURCE_URL)
+    parser.add_argument("--league", choices=sorted(LEAGUE_SOURCE_URLS), default=None)
+    parser.add_argument("--discover-from", default=None)
     parser.add_argument("--limit", type=int, default=6)
-    parser.add_argument("--out", default=str(ODDS_DIR / "cuotasahora_matchweek35_sample.csv"))
-    parser.add_argument("--related-out", default=str(ODDS_DIR / "cuotasahora_related_events.csv"))
+    parser.add_argument("--out", default=None)
+    parser.add_argument("--related-out", default=None)
     args = parser.parse_args()
+
+    discover_from = args.discover_from or (
+        LEAGUE_SOURCE_URLS[args.league] if args.league else DEFAULT_SOURCE_URL
+    )
+    out_path = args.out or str(
+        ODDS_DIR / (
+            f"cuotasahora_{args.league}_consolidated.csv"
+            if args.league
+            else "cuotasahora_matchweek35_sample.csv"
+        )
+    )
+    related_out = args.related_out or str(
+        ODDS_DIR / (
+            f"cuotasahora_{args.league}_related.csv"
+            if args.league
+            else "cuotasahora_related_events.csv"
+        )
+    )
 
     urls = args.url
     related = pd.DataFrame()
     failures = pd.DataFrame()
     if not urls:
-        _, discovered, failures = scrape_urls([args.discover_from])
+        try:
+            discovered = pd.DataFrame(discover_events_from_url(discover_from))
+            failures = pd.DataFrame()
+        except Exception:
+            _, discovered, failures = scrape_urls([discover_from])
         related = discovered
         if discovered.empty or "url" not in discovered.columns:
             raise RuntimeError("No pude descubrir URLs relacionadas desde la pagina semilla")
@@ -279,13 +428,13 @@ def main():
     if related.empty:
         related = more_related
 
-    odds.to_csv(args.out, index=False)
+    odds.to_csv(out_path, index=False)
     if not related.empty:
-        related.to_csv(args.related_out, index=False)
+        related.to_csv(related_out, index=False)
     if not failures.empty:
         failures.to_csv(ODDS_DIR / "cuotasahora_scrape_failures.csv", index=False)
 
-    print(f"Cuotas guardadas en: {args.out}")
+    print(f"Cuotas guardadas en: {out_path}")
     print(odds.to_string(index=False) if not odds.empty else "Sin cuotas decodificadas")
 
 

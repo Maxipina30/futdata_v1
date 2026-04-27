@@ -1,6 +1,11 @@
 import pandas as pd
 import numpy as np
 import os
+import argparse
+import sys
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
 
 # ========================
 # RUTAS
@@ -246,11 +251,19 @@ def build_match_level_dataset(df):
 # SCRIPT PRINCIPAL
 # ========================
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--league", default="premier")
+    args = parser.parse_args()
+    league = args.league
+    processed_dir = PROCESSED_DIR if league == "premier" else os.path.join(PROCESSED_DIR, league)
+    out_dir = OUT_DIR if league == "premier" else os.path.join(OUT_DIR, league)
+    os.makedirs(out_dir, exist_ok=True)
+
     print("⚙️ Generando dataset de modelado (rolling global + contextual, 3 y 5 partidos)...\n")
 
-    path = os.path.join(PROCESSED_DIR, "premier_clean_full.csv")
+    path = os.path.join(processed_dir, f"{league}_clean_full.csv")
     if not os.path.exists(path):
-        print("❌ No se encontró premier_clean_full.csv en files/02_processed/")
+        print(f"❌ No se encontró {league}_clean_full.csv en {processed_dir}")
         return
 
     df = pd.read_csv(path, parse_dates=["date"])
@@ -307,11 +320,20 @@ def main():
     # ========================
     print("⚽ Combinando estadísticas del local y visitante...")
     df_matches = build_match_level_dataset(df)
+    if df_matches.empty or "round_num" not in df_matches.columns:
+        out_path = os.path.join(out_dir, "dataset_modelo_partidos.csv")
+        df_matches.to_csv(out_path, index=False)
+        print(
+            f"⚠️ Dataset de partidos vacío para {league}. "
+            "Con un solo equipo no se pueden emparejar local y visitante; "
+            "descarga los equipos restantes de la liga."
+        )
+        return
 
     # ========================
     # GUARDAR RESULTADOS
     # ========================
-    out_path = os.path.join(OUT_DIR, "dataset_modelo_partidos.csv")
+    out_path = os.path.join(out_dir, "dataset_modelo_partidos.csv")
     df_matches.to_csv(out_path, index=False)
 
     train = df_matches[
@@ -327,9 +349,9 @@ def main():
         | df_matches["Target"].isna()
     ].copy()
 
-    train_path = os.path.join(OUT_DIR, "dataset_modelo_train_mw1_28.csv")
-    test_path = os.path.join(OUT_DIR, "dataset_modelo_test_mw29_33.csv")
-    predict_path = os.path.join(OUT_DIR, "dataset_prediccion_mw34_plus.csv")
+    train_path = os.path.join(out_dir, "dataset_modelo_train_mw1_28.csv")
+    test_path = os.path.join(out_dir, "dataset_modelo_test_mw29_33.csv")
+    predict_path = os.path.join(out_dir, "dataset_prediccion_mw34_plus.csv")
     train.to_csv(train_path, index=False)
     test.to_csv(test_path, index=False)
     predict.to_csv(predict_path, index=False)

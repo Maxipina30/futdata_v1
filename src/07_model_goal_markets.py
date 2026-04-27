@@ -1,4 +1,6 @@
 import os
+import argparse
+import sys
 
 import joblib
 import numpy as np
@@ -26,6 +28,8 @@ MODEL_DIR = os.path.join(BASE_DIR, "files", "04_models")
 REPORT_DIR = os.path.join(BASE_DIR, "files", "05_reports")
 os.makedirs(MODEL_DIR, exist_ok=True)
 os.makedirs(REPORT_DIR, exist_ok=True)
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
 
 TRAIN_PATH = os.path.join(FEATURES_DIR, "dataset_modelo_train_mw1_28.csv")
 TEST_PATH = os.path.join(FEATURES_DIR, "dataset_modelo_test_mw29_33.csv")
@@ -154,6 +158,12 @@ def load_dataset(path, require_targets=True):
     return df.replace([np.inf, -np.inf], np.nan)
 
 
+def load_train_all(features_dir):
+    path = os.path.join(features_dir, "dataset_modelo_partidos.csv")
+    df = load_dataset(path)
+    return df.dropna(subset=list(MARKETS)).copy()
+
+
 def build_model(model_kind, c_value):
     if model_kind == "logreg_woe":
         return Pipeline(
@@ -274,14 +284,32 @@ def save_market_predictions(models, features, dataset, path):
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--league", default="premier")
+    parser.add_argument("--train-all", action="store_true")
+    args = parser.parse_args()
+    league = args.league
+
+    features_dir = FEATURES_DIR if league == "premier" else os.path.join(FEATURES_DIR, league)
+    model_dir = MODEL_DIR if league == "premier" else os.path.join(MODEL_DIR, league)
+    report_dir = REPORT_DIR if league == "premier" else os.path.join(REPORT_DIR, league)
+    os.makedirs(model_dir, exist_ok=True)
+    os.makedirs(report_dir, exist_ok=True)
+    train_path = os.path.join(features_dir, "dataset_modelo_train_mw1_28.csv")
+    test_path = os.path.join(features_dir, "dataset_modelo_test_mw29_33.csv")
+    predict_path = os.path.join(features_dir, "dataset_prediccion_mw34_plus.csv")
+
     print("Entrenando modelos binarios: Over 1.5, Over 2.5 y Ambos Anotan\n")
 
-    train = load_dataset(TRAIN_PATH)
-    test = load_dataset(TEST_PATH)
-    predict = load_dataset(PREDICT_PATH, require_targets=False)
+    train = load_train_all(features_dir) if args.train_all else load_dataset(train_path)
+    test = pd.DataFrame() if args.train_all else load_dataset(test_path)
+    predict = load_dataset(predict_path, require_targets=False)
     features = model_features(train)
     print(f"Features limpias usadas: {len(features)}")
-    print(f"Train: {len(train)} filas | Test: {len(test)} filas\n")
+    if args.train_all:
+        print(f"Train all: {len(train)} filas | sin test por pocas fechas\n")
+    else:
+        print(f"Train: {len(train)} filas | Test: {len(test)} filas\n")
 
     all_selection = []
     final_metrics = []
@@ -290,7 +318,23 @@ def main():
 
     for target, label in MARKETS.items():
         print(f"=== {label} ({target}) ===")
-        selection = model_selection(train, features, target)
+        selection = pd.DataFrame() if args.train_all else model_selection(train, features, target)
+        if args.train_all and train[target].nunique() >= 2:
+            selection = pd.DataFrame(
+                [
+                    {
+                        "target": target,
+                        "model_kind": "logreg",
+                        "C": 0.1,
+                        "n_features": len(features),
+                        "folds": 0,
+                        "selection_note": "train_all_no_test",
+                    }
+                ]
+            )
+        if selection.empty:
+            print(f"Sin folds validos para {target}; se omite.")
+            continue
         all_selection.append(selection)
         print(selection.head(6).to_string(index=False, float_format=lambda value: f"{value:.3f}"))
 
@@ -299,7 +343,8 @@ def main():
         model.fit(train[features], train[target])
         final_models[target] = model
 
-        for split_name, split_df in [("train_mw6_28", train), ("test_mw29_33", test)]:
+        splits = [("train_all", train)] if args.train_all else [("train_mw6_28", train), ("test_mw29_33", test)]
+        for split_name, split_df in splits:
             scores = score_model(model, split_df[features], split_df[target])
             final_metrics.append(
                 {
@@ -318,22 +363,30 @@ def main():
         importance["target"] = target
         importance_rows.append(importance)
 
-        print("Reporte test:")
-        y_pred = model.predict(test[features])
-        print(classification_report(test[target], y_pred, digits=3, zero_division=0))
-        print()
+        if not args.train_all:
+            print("Reporte test:")
+            y_pred = model.predict(test[features])
+            print(classification_report(test[target], y_pred, digits=3, zero_division=0))
+            print()
 
-    selection_path = os.path.join(REPORT_DIR, "seleccion_modelos_goles.csv")
-    metrics_path = os.path.join(REPORT_DIR, "metricas_modelos_goles.csv")
-    importance_path = os.path.join(REPORT_DIR, "importancia_modelos_goles.csv")
-    test_pred_path = os.path.join(REPORT_DIR, "predicciones_goles_test_mw29_33.csv")
-    future_pred_path = os.path.join(REPORT_DIR, "predicciones_goles_mw34_plus.csv")
-    model_path = os.path.join(MODEL_DIR, "modelos_goles.joblib")
+    selection_path = os.path.join(report_dir, "seleccion_modelos_goles.csv")
+    metrics_path = os.path.join(report_dir, "metricas_modelos_goles.csv")
+    importance_path = os.path.join(report_dir, "importancia_modelos_goles.csv")
+    test_pred_path = os.path.join(
+        report_dir,
+        "predicciones_goles_train_all.csv" if args.train_all else "predicciones_goles_test_mw29_33.csv",
+    )
+    future_pred_path = os.path.join(report_dir, "predicciones_goles_mw34_plus.csv")
+    model_path = os.path.join(model_dir, "modelos_goles.joblib")
+
+    if not final_models:
+        print("No se entrenaron modelos de goles.")
+        return
 
     pd.concat(all_selection, ignore_index=True).to_csv(selection_path, index=False)
     pd.DataFrame(final_metrics).to_csv(metrics_path, index=False)
     pd.concat(importance_rows, ignore_index=True).to_csv(importance_path, index=False)
-    save_market_predictions(final_models, features, test, test_pred_path)
+    save_market_predictions(final_models, features, train if args.train_all else test, test_pred_path)
     save_market_predictions(final_models, features, predict, future_pred_path)
     joblib.dump(
         {
