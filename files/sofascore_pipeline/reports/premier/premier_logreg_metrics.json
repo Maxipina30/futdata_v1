@@ -1,0 +1,33 @@
+{
+  "league":"premier",
+  "rows_total":1081,
+  "rows_train":931,
+  "rows_test":150,
+  "current_season_id":76986,
+  "test_round_min":20,
+  "features_raw":549,
+  "features_pool":516,
+  "features_selected":24,
+  "feature_set":"rolling_plus_table",
+  "corr_threshold":0.95,
+  "k":24,
+  "C":0.003,
+  "class_weight":"none",
+  "test_accuracy":0.4733333333,
+  "test_balanced_accuracy":0.4343869732,
+  "test_macro_f1":0.3564109188,
+  "test_weighted_f1":0.383504693,
+  "test_log_loss":1.0681307601,
+  "test_brier_multiclass":0.6468199651,
+  "train_accuracy":0.559613319,
+  "train_balanced_accuracy":0.4790413236,
+  "train_macro_f1":0.419035258,
+  "train_weighted_f1":0.4850127658,
+  "train_log_loss":0.9591441571,
+  "train_brier_multiclass":0.5686593032,
+  "classes":[
+    "1",
+    "2",
+    "X"
+  ]
+}

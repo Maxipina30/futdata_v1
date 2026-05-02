@@ -1,0 +1,33 @@
+{
+  "league":"serie_a",
+  "rows_total":1080,
+  "rows_train":930,
+  "rows_test":150,
+  "current_season_id":76457,
+  "test_round_min":20,
+  "features_raw":549,
+  "features_pool":504,
+  "features_selected":48,
+  "feature_set":"rolling_only",
+  "corr_threshold":0.95,
+  "k":48,
+  "C":0.01,
+  "class_weight":"none",
+  "test_accuracy":0.5533333333,
+  "test_balanced_accuracy":0.4937728938,
+  "test_macro_f1":0.4783568246,
+  "test_weighted_f1":0.524955878,
+  "test_log_loss":0.9927473876,
+  "test_brier_multiclass":0.5872106561,
+  "train_accuracy":0.5612903226,
+  "train_balanced_accuracy":0.5336104483,
+  "train_macro_f1":0.5182641187,
+  "train_weighted_f1":0.5339872563,
+  "train_log_loss":0.9487802001,
+  "train_brier_multiclass":0.5653638173,
+  "classes":[
+    "1",
+    "2",
+    "X"
+  ]
+}

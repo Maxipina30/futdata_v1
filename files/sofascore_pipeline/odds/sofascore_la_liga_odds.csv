@@ -1,0 +1,1094 @@
+source_url,date,time,local_team,away_team,decimal_home_win,decimal_draw,decimal_away_win,decimal_home_or_draw,decimal_draw_or_away,decimal_home_or_away,decimal_btts_yes,decimal_btts_no,season_id,season_name
+https://www.sofascore.com/girona-fc-rayo-vallecano/tgbsoKj,2025-08-15,14:00,Girona FC,Rayo Vallecano,2.4,3.2,3.1,1.3636,1.5333,1.3636,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-villarreal/ugbsbhb,2025-08-15,16:30,Villarreal,Real Oviedo,1.4,4.75,8.0,1.1,2.75,1.1818,2.1,1.6667,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-barcelona/rgbsBgb,2025-08-16,14:30,Mallorca,FC Barcelona,8.5,5.25,1.33,3.0,1.1,1.1667,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-real-sociedad/zgbsDgb,2025-08-16,16:30,Valencia,Real Sociedad,2.45,3.0,3.2,1.3636,1.5333,1.3636,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-levante-ud/ZgbsKhb,2025-08-16,16:30,Deportivo Alavés,Levante UD,2.05,3.1,4.1,1.25,1.6667,1.3636,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-celta-vigo/wgbsjhb,2025-08-17,12:00,Celta Vigo,Getafe,1.67,3.5,5.75,1.1429,2.15,1.2857,2.25,1.5714,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-athletic-club/AgbsIgb,2025-08-17,14:30,Athletic Club,Sevilla,1.53,3.8,6.5,1.1111,2.375,1.25,2.25,1.5714,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-espanyol/ogbsLgb,2025-08-17,16:30,Espanyol,Atlético Madrid,5.5,3.9,1.62,2.25,1.1429,1.25,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/elche-real-betis/qgbsWgb,2025-08-18,16:00,Elche,Real Betis,3.2,3.25,2.3,1.5714,1.3636,1.3333,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-osasuna/vgbsEgb,2025-08-19,16:00,Real Madrid,Osasuna,1.2,7.0,13.0,1.05,4.0,1.1,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-real-betis/qgbsKhb,2025-08-22,16:30,Real Betis,Deportivo Alavés,1.83,3.4,4.5,1.2,1.9091,1.3,2.1,1.6667,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-celta-vigo/wgbsBgb,2025-08-23,12:00,Mallorca,Celta Vigo,3.1,3.1,2.45,1.5,1.3636,1.3636,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/elche-atletico-madrid/LgbsWgb,2025-08-23,14:30,Atlético Madrid,Elche,1.29,5.75,10.0,1.05,3.75,1.1429,2.25,1.5714,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-barcelona/rgbsZgb,2025-08-23,16:30,Levante UD,FC Barcelona,13.0,6.5,1.22,4.0,1.05,1.1111,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-osasuna/vgbsDgb,2025-08-24,12:00,Osasuna,Valencia,2.25,3.25,3.4,1.3,1.6154,1.3333,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-villarreal/ugbsoKj,2025-08-24,14:30,Villarreal,Girona FC,1.5,4.2,6.5,1.1,2.625,1.1818,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/real-sociedad-espanyol/ogbszgb,2025-08-24,14:30,Real Sociedad,Espanyol,1.85,3.5,4.3333,1.1818,1.95,1.2857,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-real-madrid/Egbsbhb,2025-08-24,16:30,Real Oviedo,Real Madrid,9.0,5.25,1.33,3.25,1.0833,1.1667,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/athletic-club-rayo-vallecano/tgbsAgb,2025-08-25,14:30,Athletic Club,Rayo Vallecano,1.75,3.4,5.25,1.1667,2.1,1.2857,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-sevilla/Igbsjhb,2025-08-25,16:30,Sevilla,Getafe,2.0,3.1,4.3333,1.2222,1.7273,1.3636,2.25,1.5714,77559,LaLiga 25/26
+https://www.sofascore.com/celta-vigo-real-betis/qgbswgb,2025-08-27,16:00,Celta Vigo,Real Betis,2.35,3.5,2.9,1.4,1.5714,1.2857,1.5714,2.25,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-elche/WgbsZgb,2025-08-29,14:30,Elche,Levante UD,2.15,3.2,3.7,1.2857,1.6667,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-valencia/Dgbsjhb,2025-08-29,16:30,Valencia,Getafe,2.35,2.88,3.6,1.2857,1.5714,1.4,2.25,1.5714,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-atletico-madrid/LgbsKhb,2025-08-30,12:00,Deportivo Alavés,Atlético Madrid,5.5,3.6,1.7,2.1,1.1429,1.2857,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-real-sociedad/zgbsbhb,2025-08-30,14:00,Real Oviedo,Real Sociedad,3.4,3.1,2.3,1.6667,1.2857,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-sevilla/IgbsoKj,2025-08-30,14:30,Girona FC,Sevilla,2.45,3.1,3.1,1.3636,1.5333,1.3636,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-mallorca/BgbsEgb,2025-08-30,16:30,Real Madrid,Mallorca,1.17,8.0,15.0,1.04,5.0,1.1,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/celta-vigo-villarreal/ugbswgb,2025-08-31,12:00,Celta Vigo,Villarreal,3.2,3.5,2.2,1.6667,1.3636,1.2857,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/athletic-club-real-betis/qgbsAgb,2025-08-31,14:00,Real Betis,Athletic Club,3.1,3.2,2.4,1.5333,1.3636,1.3636,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/osasuna-espanyol/ogbsvgb,2025-08-31,14:30,Espanyol,Osasuna,2.5,3.0,3.1,1.3636,1.5,1.3636,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/rayo-vallecano-barcelona/rgbstgb,2025-08-31,16:30,Rayo Vallecano,FC Barcelona,6.75,5.25,1.4,2.75,1.1111,1.1667,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/elche-sevilla/IgbsWgb,2025-09-12,16:00,Sevilla,Elche,1.9,3.3,4.5,1.1818,1.9091,1.3333,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-real-oviedo/bhbsjhb,2025-09-13,09:00,Getafe,Real Oviedo,1.95,3.0,4.75,1.1818,1.8,1.4,2.5,1.5,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-real-sociedad/zgbsEgb,2025-09-13,11:15,Real Sociedad,Real Madrid,5.5,4.2,1.57,2.3,1.1429,1.2222,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-villarreal/ugbsLgb,2025-09-13,16:00,Atlético Madrid,Villarreal,1.75,3.8,4.5,1.1818,2.0,1.25,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-celta-vigo/wgbsoKj,2025-09-14,09:00,Celta Vigo,Girona FC,1.83,3.7,4.2,1.2222,1.9091,1.2857,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-real-betis/qgbsZgb,2025-09-14,11:15,Levante UD,Real Betis,3.6,3.4,2.05,1.8,1.2857,1.3,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/osasuna-rayo-vallecano/tgbsvgb,2025-09-14,13:30,Osasuna,Rayo Vallecano,2.8,2.9,2.8,1.4,1.4,1.4,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-espanyol/ogbsBgb,2025-09-15,16:00,Espanyol,Mallorca,2.2,3.1,3.6,1.2857,1.6154,1.3636,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/real-sociedad-real-betis/qgbszgb,2025-09-19,16:00,Real Betis,Real Sociedad,1.95,3.6,3.75,1.25,1.8,1.2857,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-mallorca/BgbsLgb,2025-09-21,11:15,Mallorca,Atlético Madrid,5.0,3.6,1.75,2.0,1.1667,1.2857,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-athletic-club/AgbsoKj,2025-09-23,14:00,Athletic Club,Girona FC,1.48,4.2,6.5,1.1111,2.625,1.2222,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-espanyol/ogbsDgb,2025-09-23,14:00,Espanyol,Valencia,2.3,3.1,3.25,1.3333,1.5714,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-real-madrid/EgbsZgb,2025-09-23,16:30,Levante UD,Real Madrid,9.0,5.75,1.3,3.25,1.0833,1.1429,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-villarreal/ugbsIgb,2025-09-23,16:30,Sevilla,Villarreal,3.3,3.4,2.2,1.6667,1.3333,1.3,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-getafe/jhbsKhb,2025-09-24,14:00,Getafe,Deportivo Alavés,2.05,2.88,4.5,1.1818,1.7273,1.4,2.75,1.4,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-rayo-vallecano/tgbsLgb,2025-09-24,16:30,Atlético Madrid,Rayo Vallecano,1.44,4.3333,8.0,1.1,2.625,1.2222,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-real-sociedad/zgbsBgb,2025-09-24,16:30,Real Sociedad,Mallorca,1.75,3.5,5.0,1.1667,2.0,1.2857,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/elche-osasuna/vgbsWgb,2025-09-25,14:30,Osasuna,Elche,1.85,3.2,4.75,1.1818,1.9091,1.3333,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-barcelona/rgbsbhb,2025-09-25,16:30,Real Oviedo,FC Barcelona,13.0,7.0,1.2,4.3333,1.04,1.1,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-espanyol/ogbsoKj,2025-09-26,16:00,Girona FC,Espanyol,2.55,3.25,2.8,1.4,1.5,1.3333,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-levante-ud/Zgbsjhb,2025-09-27,09:00,Getafe,Levante UD,2.15,3.0,3.9,1.25,1.6667,1.3636,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-real-madrid/EgbsLgb,2025-09-27,11:15,Atlético Madrid,Real Madrid,3.2,3.5,2.2,1.6667,1.3636,1.2857,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-mallorca/BgbsKhb,2025-09-27,13:30,Mallorca,Deportivo Alavés,2.45,2.8,3.5,1.2857,1.5333,1.4,2.375,1.5333,77559,LaLiga 25/26
+https://www.sofascore.com/athletic-club-villarreal/ugbsAgb,2025-09-27,16:00,Villarreal,Athletic Club,2.0,3.3,3.9,1.25,1.8,1.3333,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-rayo-vallecano/tgbsIgb,2025-09-28,09:00,Rayo Vallecano,Sevilla,1.95,3.3,4.1,1.2222,1.8333,1.3333,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/elche-celta-vigo/wgbsWgb,2025-09-28,11:15,Elche,Celta Vigo,2.8,3.1,2.7,1.4444,1.4,1.3636,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/real-sociedad-barcelona/rgbszgb,2025-09-28,13:30,FC Barcelona,Real Sociedad,1.36,5.25,8.0,1.0833,3.25,1.1429,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/osasuna-real-betis/qgbsvgb,2025-09-28,16:00,Real Betis,Osasuna,1.85,3.5,4.3333,1.2,1.9091,1.2857,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-valencia/Dgbsbhb,2025-09-30,15:00,Valencia,Real Oviedo,1.65,3.6,5.75,1.1429,2.15,1.2857,2.1,1.6667,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-osasuna/vgbsjhb,2025-10-03,16:00,Osasuna,Getafe,2.15,2.9,4.2,1.2222,1.6667,1.4,2.5,1.5,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-levante-ud/Zgbsbhb,2025-10-04,09:00,Real Oviedo,Levante UD,2.4,3.1,3.1,1.3636,1.5333,1.3636,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-valencia/DgbsoKj,2025-10-04,11:15,Girona FC,Valencia,2.3,3.3,3.1,1.3636,1.5714,1.3333,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-athletic-club/AgbsBgb,2025-10-04,13:30,Athletic Club,Mallorca,1.62,3.7,6.0,1.125,2.25,1.2857,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-villarreal/ugbsEgb,2025-10-04,16:00,Real Madrid,Villarreal,1.38,5.0,7.5,1.1,3.0,1.1667,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-elche/WgbsKhb,2025-10-05,09:00,Deportivo Alavés,Elche,2.25,3.0,3.7,1.2857,1.6667,1.3636,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-barcelona/rgbsIgb,2025-10-05,11:15,Sevilla,FC Barcelona,5.25,5.0,1.5,2.5,1.1667,1.1667,1.5333,2.375,77559,LaLiga 25/26
+https://www.sofascore.com/real-betis-espanyol/ogbsqgb,2025-10-05,13:30,Espanyol,Real Betis,2.5,3.4,2.75,1.4,1.5,1.3,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/real-sociedad-rayo-vallecano/tgbszgb,2025-10-05,13:30,Real Sociedad,Rayo Vallecano,2.15,3.4,3.4,1.3,1.6667,1.3,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-celta-vigo/wgbsLgb,2025-10-05,16:00,Celta Vigo,Atlético Madrid,4.5,3.7,1.75,1.95,1.2,1.2857,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-espanyol/ogbsbhb,2025-10-17,16:00,Real Oviedo,Espanyol,2.8,3.1,2.63,1.4444,1.4,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-mallorca/BgbsIgb,2025-10-18,09:00,Sevilla,Mallorca,1.8,3.4,4.75,1.1818,1.9091,1.3,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-barcelona/rgbsoKj,2025-10-18,11:15,FC Barcelona,Girona FC,1.22,6.5,13.0,1.04,4.3333,1.1,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/villarreal-real-betis/qgbsugb,2025-10-18,13:30,Villarreal,Real Betis,2.1,3.6,3.3,1.2857,1.7273,1.2857,1.5,2.5,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-osasuna/vgbsLgb,2025-10-18,16:00,Atlético Madrid,Osasuna,1.33,5.0,9.5,1.0714,3.25,1.1667,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/elche-athletic-club/AgbsWgb,2025-10-19,09:00,Elche,Athletic Club,4.1,3.4,1.95,1.8,1.2222,1.3,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/real-sociedad-celta-vigo/wgbszgb,2025-10-19,11:15,Celta Vigo,Real Sociedad,2.05,3.5,3.5,1.2857,1.8,1.2857,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-rayo-vallecano/tgbsZgb,2025-10-19,13:30,Levante UD,Rayo Vallecano,2.7,3.2,2.7,1.4,1.4444,1.3636,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-real-madrid/Egbsjhb,2025-10-19,16:00,Getafe,Real Madrid,7.0,4.5,1.45,2.625,1.1,1.1818,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-valencia/DgbsKhb,2025-10-20,16:00,Deportivo Alavés,Valencia,2.2,3.1,3.6,1.2857,1.6667,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-real-sociedad/zgbsIgb,2025-10-24,16:00,Real Sociedad,Sevilla,1.95,3.5,3.8,1.25,1.8333,1.2857,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-real-oviedo/bhbsoKj,2025-10-25,09:00,Girona FC,Real Oviedo,1.75,3.6,5.0,1.1667,2.05,1.2857,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/elche-espanyol/ogbsWgb,2025-10-25,11:15,Espanyol,Elche,2.0,3.4,3.8,1.25,1.8,1.3333,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-athletic-club/Agbsjhb,2025-10-25,13:30,Athletic Club,Getafe,1.6,3.6,6.25,1.1111,2.3,1.2857,2.625,1.4444,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-villarreal/ugbsDgb,2025-10-25,16:00,Valencia,Villarreal,3.5,3.7,2.05,1.8,1.2857,1.2857,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-mallorca/BgbsZgb,2025-10-26,10:00,Mallorca,Levante UD,1.95,3.4,4.0,1.2222,1.8333,1.3,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-barcelona/rgbsEgb,2025-10-26,12:15,Real Madrid,FC Barcelona,1.85,4.3333,3.6,1.2857,1.9091,1.2,1.3,3.4,77559,LaLiga 25/26
+https://www.sofascore.com/celta-vigo-osasuna/vgbswgb,2025-10-26,14:30,Osasuna,Celta Vigo,2.35,3.2,3.2,1.3636,1.5333,1.3636,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-rayo-vallecano/tgbsKhb,2025-10-26,17:00,Rayo Vallecano,Deportivo Alavés,2.2,3.1,3.6,1.2857,1.6667,1.3636,2.1,1.6667,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-real-betis/qgbsLgb,2025-10-27,17:00,Real Betis,Atlético Madrid,3.25,3.5,2.15,1.6667,1.3333,1.2857,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-getafe/jhbsoKj,2025-10-31,17:00,Getafe,Girona FC,2.05,3.0,4.0,1.25,1.7,1.3636,2.1,1.6667,77559,LaLiga 25/26
+https://www.sofascore.com/villarreal-rayo-vallecano/tgbsugb,2025-11-01,10:00,Villarreal,Rayo Vallecano,1.67,3.9,5.0,1.1667,2.15,1.25,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-sevilla/IgbsLgb,2025-11-01,12:15,Atlético Madrid,Sevilla,1.33,5.0,9.0,1.0714,3.25,1.1667,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/athletic-club-real-sociedad/zgbsAgb,2025-11-01,14:30,Real Sociedad,Athletic Club,2.7,2.9,2.88,1.4,1.4444,1.4,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-valencia/DgbsEgb,2025-11-01,17:00,Real Madrid,Valencia,1.14,8.0,17.0,1.025,5.5,1.0833,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-celta-vigo/wgbsZgb,2025-11-02,10:00,Levante UD,Celta Vigo,3.25,3.4,2.3,1.5714,1.3636,1.3,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-espanyol/ogbsKhb,2025-11-02,12:15,Deportivo Alavés,Espanyol,2.4,3.1,3.2,1.3333,1.5333,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/elche-barcelona/rgbsWgb,2025-11-02,14:30,FC Barcelona,Elche,1.18,7.5,13.0,1.04,4.5,1.1,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-real-betis/qgbsBgb,2025-11-02,17:00,Real Betis,Mallorca,1.53,4.2,5.75,1.1429,2.375,1.2222,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-osasuna/vgbsbhb,2025-11-03,17:00,Real Oviedo,Osasuna,3.2,3.1,2.4,1.5714,1.3333,1.3636,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/elche-real-sociedad/zgbsWgb,2025-11-07,17:00,Elche,Real Sociedad,3.1,3.1,2.45,1.5333,1.3636,1.3636,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-deportivo-alaves/KhbsoKj,2025-11-08,10:00,Girona FC,Deportivo Alavés,2.1,3.3,3.6,1.25,1.7273,1.3333,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-osasuna/vgbsIgb,2025-11-08,12:15,Sevilla,Osasuna,2.1,3.3,3.6,1.3,1.6667,1.3333,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-atletico-madrid/LgbsZgb,2025-11-08,14:30,Atlético Madrid,Levante UD,1.2,7.0,12.0,1.05,4.3333,1.1,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/villarreal-espanyol/ogbsugb,2025-11-08,17:00,Espanyol,Villarreal,2.7,3.4,2.55,1.5,1.4444,1.3,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-athletic-club/Agbsbhb,2025-11-09,10:00,Athletic Club,Real Oviedo,1.62,3.5,6.5,1.1,2.3,1.2857,2.25,1.5714,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-rayo-vallecano/tgbsEgb,2025-11-09,12:15,Rayo Vallecano,Real Madrid,5.25,4.75,1.5,2.5,1.1667,1.1818,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-real-betis/qgbsDgb,2025-11-09,14:30,Valencia,Real Betis,3.4,3.4,2.15,1.7,1.2857,1.3,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-mallorca/Bgbsjhb,2025-11-09,14:30,Mallorca,Getafe,2.5,2.9,3.2,1.3636,1.5,1.4,2.25,1.5714,77559,LaLiga 25/26
+https://www.sofascore.com/celta-vigo-barcelona/rgbswgb,2025-11-09,17:00,Celta Vigo,FC Barcelona,4.0,4.2,1.75,2.0,1.2222,1.2222,1.4,2.75,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-valencia/DgbsZgb,2025-11-21,17:00,Valencia,Levante UD,2.0,3.6,3.6,1.2857,1.8,1.2857,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-celta-vigo/wgbsKhb,2025-11-22,10:00,Deportivo Alavés,Celta Vigo,2.7,3.0,2.88,1.4,1.4444,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/athletic-club-barcelona/rgbsAgb,2025-11-22,12:15,FC Barcelona,Athletic Club,1.42,5.0,6.5,1.1111,2.75,1.1667,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/real-sociedad-osasuna/vgbszgb,2025-11-22,14:30,Osasuna,Real Sociedad,2.7,2.9,2.9,1.4,1.4444,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-villarreal/ugbsBgb,2025-11-22,17:00,Villarreal,Mallorca,1.38,5.0,7.5,1.1,2.75,1.1818,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-rayo-vallecano/tgbsbhb,2025-11-23,10:00,Real Oviedo,Rayo Vallecano,3.5,3.2,2.2,1.6667,1.2857,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-real-betis/qgbsoKj,2025-11-23,12:15,Real Betis,Girona FC,1.48,4.5,5.75,1.1429,2.625,1.1818,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-atletico-madrid/Lgbsjhb,2025-11-23,14:30,Getafe,Atlético Madrid,4.5,3.3,1.85,1.9091,1.1818,1.3,2.375,1.5333,77559,LaLiga 25/26
+https://www.sofascore.com/elche-real-madrid/EgbsWgb,2025-11-23,17:00,Elche,Real Madrid,6.5,5.25,1.4,2.75,1.1111,1.1667,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-espanyol/ogbsIgb,2025-11-24,17:00,Espanyol,Sevilla,1.83,3.6,4.3333,1.1818,1.95,1.2857,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-elche/Wgbsjhb,2025-11-28,17:00,Getafe,Elche,2.2,2.9,4.0,1.25,1.6154,1.4,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-osasuna/vgbsBgb,2025-11-29,10:00,Mallorca,Osasuna,2.4,3.2,3.2,1.3636,1.5333,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-barcelona/rgbsKhb,2025-11-29,12:15,FC Barcelona,Deportivo Alavés,1.22,7.0,11.0,1.0625,3.75,1.1111,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-athletic-club/AgbsZgb,2025-11-29,14:30,Levante UD,Athletic Club,3.8,3.4,2.0,1.8,1.25,1.3,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-atletico-madrid/Lgbsbhb,2025-11-29,17:00,Atlético Madrid,Real Oviedo,1.22,5.5,9.5,1.0625,3.75,1.125,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/real-sociedad-villarreal/ugbszgb,2025-11-30,10:00,Real Sociedad,Villarreal,2.75,3.4,2.5,1.5,1.4,1.3,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-real-betis/qgbsIgb,2025-11-30,12:15,Sevilla,Real Betis,2.8,3.25,2.55,1.5,1.4,1.3333,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/celta-vigo-espanyol/ogbswgb,2025-11-30,14:30,Celta Vigo,Espanyol,1.85,3.5,4.3333,1.2857,1.7273,1.3,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-real-madrid/EgbsoKj,2025-11-30,17:00,Girona FC,Real Madrid,7.0,5.5,1.36,3.0,1.1,1.1429,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-rayo-vallecano/tgbsDgb,2025-12-01,17:00,Rayo Vallecano,Valencia,2.0,3.3,3.9,1.25,1.7273,1.3333,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-barcelona/rgbsLgb,2025-12-02,17:00,FC Barcelona,Atlético Madrid,1.7,4.2,4.3333,1.1818,2.15,1.2,1.4444,2.625,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-athletic-club/AgbsEgb,2025-12-03,15:00,Athletic Club,Real Madrid,4.3333,3.8,1.8,1.9091,1.2222,1.25,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-mallorca/Bgbsbhb,2025-12-05,17:00,Real Oviedo,Mallorca,2.55,2.9,3.0,1.3636,1.5,1.4,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-villarreal/ugbsjhb,2025-12-06,10:00,Villarreal,Getafe,1.6,3.8,6.0,1.1429,2.25,1.25,2.1,1.6667,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-real-sociedad/zgbsKhb,2025-12-06,12:15,Deportivo Alavés,Real Sociedad,2.75,2.9,2.88,1.4,1.4444,1.4,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/barcelona-real-betis/qgbsrgb,2025-12-06,14:30,Real Betis,FC Barcelona,3.75,4.0,1.85,1.9091,1.2857,1.2,1.3636,3.0,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-athletic-club/AgbsLgb,2025-12-06,17:00,Athletic Club,Atlético Madrid,2.8,3.2,2.55,1.5,1.4,1.3636,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-elche/WgbsoKj,2025-12-07,10:00,Elche,Girona FC,2.1,3.2,3.75,1.25,1.7,1.3636,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-valencia/DgbsIgb,2025-12-07,12:15,Valencia,Sevilla,2.0,3.3,3.8,1.25,1.8,1.3,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/rayo-vallecano-espanyol/ogbstgb,2025-12-07,14:30,Espanyol,Rayo Vallecano,2.38,3.2,3.1,1.3636,1.5714,1.3333,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-celta-vigo/wgbsEgb,2025-12-07,17:00,Real Madrid,Celta Vigo,1.25,6.5,9.5,1.0714,3.75,1.1111,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-osasuna/vgbsZgb,2025-12-08,17:00,Osasuna,Levante UD,1.67,3.9,5.0,1.1667,2.15,1.25,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-real-sociedad/zgbsoKj,2025-12-12,17:00,Real Sociedad,Girona FC,1.75,3.75,4.5,1.1818,2.0,1.25,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-sevilla/Igbsbhb,2025-12-14,10:00,Sevilla,Real Oviedo,2.1,3.2,3.75,1.25,1.7,1.3636,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/athletic-club-celta-vigo/wgbsAgb,2025-12-14,12:15,Celta Vigo,Athletic Club,2.8,3.25,2.55,1.5,1.4,1.3333,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-villarreal/ugbsZgb,2025-12-14,14:30,Levante UD,Villarreal,4.0,4.3333,1.75,2.0,1.2222,1.2,1.5714,2.25,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-real-madrid/EgbsKhb,2025-12-14,17:00,Deportivo Alavés,Real Madrid,5.75,4.0,1.57,2.3,1.1429,1.2222,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/rayo-vallecano-real-betis/qgbstgb,2025-12-15,17:00,Rayo Vallecano,Real Betis,2.5,3.25,2.9,1.4,1.5,1.3636,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-mallorca/BgbsDgb,2025-12-19,17:00,Valencia,Mallorca,2.05,3.2,3.8,1.25,1.7273,1.3636,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-celta-vigo/wgbsbhb,2025-12-20,10:00,Real Oviedo,Celta Vigo,3.4,3.2,2.2,1.6667,1.3,1.3333,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-real-sociedad/zgbsZgb,2025-12-20,12:15,Levante UD,Real Sociedad,3.0,3.3,2.4,1.5333,1.3636,1.3333,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-osasuna/vgbsKhb,2025-12-20,14:30,Osasuna,Deportivo Alavés,2.2,2.875,4.0,1.25,1.6154,1.4,2.375,1.5333,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-real-madrid/EgbsIgb,2025-12-20,17:00,Real Madrid,Sevilla,1.2,7.5,12.0,1.05,4.3333,1.1,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-atletico-madrid/LgbsoKj,2025-12-21,10:00,Girona FC,Atlético Madrid,5.0,3.9,1.6667,2.0,1.1818,1.25,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/villarreal-barcelona/rgbsugb,2025-12-21,12:15,Villarreal,FC Barcelona,3.8,4.3333,1.75,2.0,1.25,1.2,1.4,2.75,77559,LaLiga 25/26
+https://www.sofascore.com/elche-rayo-vallecano/tgbsWgb,2025-12-21,14:30,Elche,Rayo Vallecano,2.5,2.9,3.2,1.3636,1.5,1.4,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-real-betis/qgbsjhb,2025-12-21,17:00,Real Betis,Getafe,1.7273,3.3,5.5,1.1667,2.0,1.3333,2.375,1.5333,77559,LaLiga 25/26
+https://www.sofascore.com/athletic-club-espanyol/ogbsAgb,2025-12-22,17:00,Athletic Club,Espanyol,1.85,3.3,4.75,1.1818,1.9091,1.3333,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-rayo-vallecano/tgbsjhb,2026-01-02,17:00,Rayo Vallecano,Getafe,2.1,2.8,4.3333,1.2,1.7273,1.4,2.625,1.4444,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-celta-vigo/wgbsDgb,2026-01-03,10:00,Celta Vigo,Valencia,2.0,3.25,3.9,1.25,1.8,1.3333,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/athletic-club-osasuna/vgbsAgb,2026-01-03,12:15,Osasuna,Athletic Club,3.1,2.875,2.6,1.5,1.3636,1.4,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/elche-villarreal/ugbsWgb,2026-01-03,14:30,Elche,Villarreal,3.1,3.4,2.25,1.5714,1.3636,1.3,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/barcelona-espanyol/ogbsrgb,2026-01-03,17:00,Espanyol,FC Barcelona,5.5,4.5,1.5,2.5,1.1429,1.1818,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-sevilla/IgbsZgb,2026-01-04,10:00,Sevilla,Levante UD,1.7273,3.8,4.5,1.1818,2.0,1.2857,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-real-betis/qgbsEgb,2026-01-04,12:15,Real Madrid,Real Betis,1.5,4.6,6.0,1.1429,2.5,1.1818,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-mallorca/BgbsoKj,2026-01-04,14:30,Mallorca,Girona FC,2.3,3.1,3.4,1.3,1.5714,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-real-oviedo/bhbsKhb,2026-01-04,14:30,Deportivo Alavés,Real Oviedo,2.0,2.8,5.25,1.1429,1.9091,1.3636,2.5,1.5,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-real-sociedad/zgbsLgb,2026-01-04,17:00,Real Sociedad,Atlético Madrid,3.75,3.8,1.9,1.9091,1.25,1.25,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-real-sociedad/zgbsjhb,2026-01-09,17:00,Getafe,Real Sociedad,3.5,2.9,2.35,1.5333,1.3333,1.3636,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-real-betis/qgbsbhb,2026-01-10,10:00,Real Oviedo,Real Betis,3.8,3.3,2.0,1.8,1.25,1.3,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-villarreal/ugbsKhb,2026-01-10,12:15,Villarreal,Deportivo Alavés,1.45,4.5,7.0,1.1,2.625,1.1818,2.1,1.6667,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-osasuna/vgbsoKj,2026-01-10,14:30,Girona FC,Osasuna,2.4,3.0,2.75,1.3636,1.5333,1.3636,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/elche-valencia/DgbsWgb,2026-01-10,17:00,Valencia,Elche,1.95,3.2,4.2,1.2222,1.8,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-rayo-vallecano/tgbsBgb,2026-01-11,10:00,Rayo Vallecano,Mallorca,1.9,3.2,4.75,1.1818,1.8333,1.3636,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-espanyol/ogbsZgb,2026-01-11,12:15,Levante UD,Espanyol,3.0,3.3,2.38,1.5333,1.3636,1.3333,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-celta-vigo/wgbsIgb,2026-01-12,17:00,Sevilla,Celta Vigo,2.75,3.1,2.8,1.4,1.4,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-espanyol/ogbsoKj,2026-01-16,17:00,Espanyol,Girona FC,1.85,3.4,4.5,1.2,1.9091,1.3,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-real-madrid/EgbsZgb,2026-01-17,10:00,Real Madrid,Levante UD,1.17,8.5,13.0,1.0303,5.5,1.0714,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-athletic-club/AgbsBgb,2026-01-17,12:15,Mallorca,Athletic Club,3.8,3.0,2.15,1.6667,1.2857,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-osasuna/vgbsbhb,2026-01-17,14:30,Osasuna,Real Oviedo,1.73,3.5,5.25,1.1667,2.0,1.3,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/villarreal-real-betis/qgbsugb,2026-01-17,17:00,Real Betis,Villarreal,2.55,3.5,2.7,1.4444,1.5,1.2857,1.5714,2.25,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-valencia/Dgbsjhb,2026-01-18,10:00,Getafe,Valencia,2.4,2.8,3.6,1.2857,1.5333,1.4,2.5,1.5,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-atletico-madrid/LgbsKhb,2026-01-18,12:15,Atlético Madrid,Deportivo Alavés,1.36,4.75,9.0,1.0714,3.0,1.1818,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/celta-vigo-rayo-vallecano/tgbswgb,2026-01-18,14:30,Celta Vigo,Rayo Vallecano,1.91,3.4,4.5,1.1818,1.9091,1.3,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/real-sociedad-barcelona/rgbszgb,2026-01-18,17:00,Real Sociedad,FC Barcelona,5.0,4.5,1.57,2.2,1.1818,1.1818,1.5,2.5,77559,LaLiga 25/26
+https://www.sofascore.com/elche-sevilla/IgbsWgb,2026-01-19,17:00,Elche,Sevilla,2.38,3.1,3.25,1.3333,1.5333,1.3636,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-elche/WgbsZgb,2026-01-23,17:00,Levante UD,Elche,2.2,3.3,3.25,1.3333,1.6667,1.3333,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/osasuna-rayo-vallecano/tgbsvgb,2026-01-24,10:00,Rayo Vallecano,Osasuna,2.25,3.1,3.5,1.2857,1.6667,1.3636,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-espanyol/ogbsDgb,2026-01-24,12:15,Valencia,Espanyol,2.4,3.1,3.2,1.3636,1.5333,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-athletic-club/AgbsIgb,2026-01-24,14:30,Sevilla,Athletic Club,2.63,2.9,2.9,1.4,1.4444,1.4,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-villarreal/ugbsEgb,2026-01-24,17:00,Villarreal,Real Madrid,3.9,4.0,1.83,1.9091,1.25,1.2222,1.4444,2.625,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-mallorca/BgbsLgb,2026-01-25,10:00,Atlético Madrid,Mallorca,1.33,5.25,9.0,1.0714,3.25,1.1667,2.1,1.6667,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-barcelona/rgbsbhb,2026-01-25,12:15,FC Barcelona,Real Oviedo,1.11,10.0,19.0,1.02,6.5,1.0625,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/real-sociedad-celta-vigo/wgbszgb,2026-01-25,14:30,Real Sociedad,Celta Vigo,2.15,3.3,3.5,1.2857,1.7,1.3,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-real-betis/qgbsKhb,2026-01-25,17:00,Deportivo Alavés,Real Betis,2.55,3.0,3.0,1.4,1.5,1.3636,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-getafe/jhbsoKj,2026-01-26,17:00,Girona FC,Getafe,2.2,2.9,3.8,1.25,1.6667,1.4,2.25,1.5714,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-espanyol/ogbsKhb,2026-01-30,17:00,Espanyol,Deportivo Alavés,1.91,3.0,4.5,1.1818,1.8333,1.3636,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-real-oviedo/bhbsoKj,2026-01-31,10:00,Real Oviedo,Girona FC,2.75,3.0,2.75,1.4,1.4,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/osasuna-villarreal/ugbsvgb,2026-01-31,12:15,Osasuna,Villarreal,2.75,3.3,2.55,1.5,1.4,1.3333,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-real-betis/qgbsDgb,2026-02-01,12:15,Real Betis,Valencia,1.83,3.5,4.5,1.1818,1.9091,1.2857,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-celta-vigo/wgbsjhb,2026-02-01,14:30,Getafe,Celta Vigo,2.8,2.9,2.8,1.4,1.4,1.4,2.375,1.5333,77559,LaLiga 25/26
+https://www.sofascore.com/athletic-club-real-sociedad/zgbsAgb,2026-02-01,17:00,Athletic Club,Real Sociedad,2.15,3.1,3.8,1.2857,1.6667,1.3636,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-mallorca/BgbsIgb,2026-02-02,17:00,Mallorca,Sevilla,2.7,3.0,2.9,1.4,1.4444,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/celta-vigo-osasuna/vgbswgb,2026-02-06,17:00,Celta Vigo,Osasuna,2.0,3.4,4.0,1.25,1.7,1.3333,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-rayo-vallecano/tgbsbhb,2026-02-07,10:00,Rayo Vallecano,Real Oviedo,1.0,1.0,1.0,1.1818,1.95,1.2857,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-barcelona/rgbsBgb,2026-02-07,12:15,FC Barcelona,Mallorca,1.14,9.0,13.0,1.04,5.5,1.0714,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/elche-real-sociedad/zgbsWgb,2026-02-07,17:00,Real Sociedad,Elche,1.65,4.1,5.0,1.1667,2.2,1.2222,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-getafe/jhbsKhb,2026-02-08,10:00,Deportivo Alavés,Getafe,2.3,2.63,4.1,1.2222,1.5714,1.4444,2.75,1.4,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-sevilla/IgbsoKj,2026-02-08,12:15,Sevilla,Girona FC,2.0,3.4,3.75,1.25,1.8,1.3,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-athletic-club/AgbsZgb,2026-02-08,12:15,Athletic Club,Levante UD,1.6,3.9,6.0,1.125,2.3,1.25,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-real-betis/qgbsLgb,2026-02-08,14:30,Atlético Madrid,Real Betis,1.48,4.75,5.75,1.125,2.625,1.1818,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-valencia/DgbsEgb,2026-02-08,17:00,Valencia,Real Madrid,4.75,4.3333,1.67,2.2,1.1818,1.2,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/villarreal-espanyol/ogbsugb,2026-02-09,17:00,Villarreal,Espanyol,1.7,4.0,4.5,1.1818,2.1,1.2222,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/elche-osasuna/vgbsWgb,2026-02-13,17:00,Elche,Osasuna,3.1,3.2,2.45,1.5,1.4,1.3636,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/celta-vigo-espanyol/ogbswgb,2026-02-14,10:00,Espanyol,Celta Vigo,2.63,3.1,2.8,1.4,1.4444,1.3636,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-villarreal/ugbsjhb,2026-02-14,12:15,Getafe,Villarreal,3.1,3.0,2.5,1.4444,1.3636,1.4,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-sevilla/IgbsKhb,2026-02-14,14:30,Sevilla,Deportivo Alavés,2.15,2.9,3.9,1.25,1.7,1.3636,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-real-sociedad/zgbsEgb,2026-02-14,17:00,Real Madrid,Real Sociedad,1.38,5.0,7.5,1.1,2.75,1.1667,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-athletic-club/Agbsbhb,2026-02-15,10:00,Real Oviedo,Athletic Club,3.7,3.0,2.25,1.5714,1.2857,1.3636,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-rayo-vallecano/tgbsLgb,2026-02-15,12:15,Rayo Vallecano,Atlético Madrid,4.2,3.6,1.85,1.9091,1.2222,1.2857,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-valencia/DgbsZgb,2026-02-15,14:30,Levante UD,Valencia,2.7,3.2,2.7,1.4444,1.4444,1.3636,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-real-betis/qgbsBgb,2026-02-15,17:00,Mallorca,Real Betis,3.1,3.2,2.38,1.5333,1.3636,1.3636,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-barcelona/rgbsoKj,2026-02-16,17:00,Girona FC,FC Barcelona,7.5,5.75,1.33,3.25,1.1,1.1429,1.5,2.5,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-villarreal/ugbsZgb,2026-02-18,16:00,Levante UD,Villarreal,4.3333,4.0,1.75,2.0,1.2,1.2222,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/elche-athletic-club/AgbsWgb,2026-02-20,17:00,Athletic Club,Elche,1.7,3.8,5.0,1.1667,2.15,1.25,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-real-sociedad/zgbsbhb,2026-02-21,10:00,Real Sociedad,Real Oviedo,1.53,3.8,6.5,1.125,2.375,1.25,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/rayo-vallecano-real-betis/qgbstgb,2026-02-21,12:15,Real Betis,Rayo Vallecano,1.91,3.3,4.3333,1.2,1.8333,1.3333,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-osasuna/vgbsEgb,2026-02-21,14:30,Osasuna,Real Madrid,4.5,4.0,1.7,2.1,1.1818,1.2222,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-espanyol/ogbsLgb,2026-02-21,17:00,Atlético Madrid,Espanyol,1.42,4.5,8.0,1.0833,2.75,1.1818,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-sevilla/Igbsjhb,2026-02-22,10:00,Getafe,Sevilla,2.3,2.8,3.8,1.25,1.5714,1.4,2.625,1.4444,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-barcelona/rgbsZgb,2026-02-22,12:15,FC Barcelona,Levante UD,1.11,11.0,17.0,1.025,6.5,1.05,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-celta-vigo/wgbsBgb,2026-02-22,14:30,Celta Vigo,Mallorca,1.75,3.5,5.0,1.1667,2.0,1.2857,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-villarreal/ugbsDgb,2026-02-22,17:00,Villarreal,Valencia,1.67,4.0,4.75,1.1818,2.15,1.2222,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-deportivo-alaves/KhbsoKj,2026-02-23,17:00,Deportivo Alavés,Girona FC,2.4,3.0,3.25,1.3333,1.5333,1.3636,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-levante-ud/ZgbsKhb,2026-02-27,17:00,Levante UD,Deportivo Alavés,2.7,3.1,2.75,1.4,1.4444,1.3636,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/athletic-club-rayo-vallecano/tgbsAgb,2026-02-28,10:00,Rayo Vallecano,Athletic Club,2.4,3.1,3.2,1.3636,1.5333,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/villarreal-barcelona/rgbsugb,2026-02-28,12:15,FC Barcelona,Villarreal,1.36,5.75,7.0,1.1,3.0,1.1429,1.4444,2.625,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-real-sociedad/zgbsBgb,2026-02-28,14:30,Mallorca,Real Sociedad,3.0,3.3,2.38,1.5333,1.3636,1.3333,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-atletico-madrid/Lgbsbhb,2026-02-28,17:00,Real Oviedo,Atlético Madrid,4.75,3.5,1.8,1.95,1.1818,1.2857,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/elche-espanyol/ogbsWgb,2026-03-01,10:00,Elche,Espanyol,2.5,3.3,2.88,1.4,1.5,1.3333,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-osasuna/vgbsDgb,2026-03-01,12:15,Valencia,Osasuna,2.4,3.1,3.2,1.3636,1.5333,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-real-betis/qgbsIgb,2026-03-01,14:30,Real Betis,Sevilla,1.75,3.9,4.5,1.1818,2.0,1.25,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-celta-vigo/wgbsoKj,2026-03-01,17:00,Girona FC,Celta Vigo,2.45,3.25,2.9,1.4,1.5333,1.3333,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-real-madrid/Egbsjhb,2026-03-02,17:00,Real Madrid,Getafe,1.36,4.75,9.5,1.0625,3.25,1.1667,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-rayo-vallecano/tgbsbhb,2026-03-04,15:00,Rayo Vallecano,Real Oviedo,1.75,3.5,5.0,1.1667,2.0,1.2857,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-celta-vigo/wgbsEgb,2026-03-06,17:00,Celta Vigo,Real Madrid,3.0,3.3,2.35,1.6154,1.3636,1.2857,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-osasuna/vgbsBgb,2026-03-07,10:00,Osasuna,Mallorca,1.9,3.4,4.2,1.1667,2.05,1.2857,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-levante-ud/ZgbsoKj,2026-03-07,12:15,Levante UD,Girona FC,2.8,3.3,2.5,1.5,1.4,1.3333,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-real-sociedad/zgbsLgb,2026-03-07,14:30,Atlético Madrid,Real Sociedad,1.62,4.0,5.25,1.1818,2.15,1.2222,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/athletic-club-barcelona/rgbsAgb,2026-03-07,17:00,Athletic Club,FC Barcelona,4.5,4.2,1.67,2.15,1.1818,1.2222,1.5333,2.375,77559,LaLiga 25/26
+https://www.sofascore.com/elche-villarreal/ugbsWgb,2026-03-08,10:00,Villarreal,Elche,1.45,4.5,6.5,1.1111,2.625,1.1818,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-real-betis/qgbsjhb,2026-03-08,12:15,Getafe,Real Betis,2.6,2.9,3.0,1.3636,1.4,1.4,2.2,1.6154,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-rayo-vallecano/tgbsIgb,2026-03-08,14:30,Sevilla,Rayo Vallecano,2.55,3.0,3.0,1.3636,1.5,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-valencia/DgbsKhb,2026-03-08,17:00,Valencia,Deportivo Alavés,2.1,3.0,4.0,1.2222,1.7,1.3636,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-espanyol/ogbsbhb,2026-03-09,17:00,Espanyol,Real Oviedo,1.91,3.3,4.2,1.2222,1.8333,1.3333,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-villarreal/ugbsKhb,2026-03-13,17:00,Deportivo Alavés,Villarreal,3.4,3.25,2.2,1.6667,1.3,1.3333,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-espanyol/ogbsBgb,2026-03-15,10:00,Mallorca,Espanyol,2.45,3.2,3.1,1.3636,1.5333,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-barcelona/rgbsIgb,2026-03-15,12:15,FC Barcelona,Sevilla,1.3,6.0,8.5,1.0833,3.4,1.125,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/celta-vigo-real-betis/qgbswgb,2026-03-15,14:30,Real Betis,Celta Vigo,2.05,3.3,3.9,1.25,1.7273,1.3333,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/real-sociedad-osasuna/vgbszgb,2026-03-15,17:00,Real Sociedad,Osasuna,1.9,3.6,4.0,1.2222,1.9091,1.2857,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-rayo-vallecano/tgbsZgb,2026-03-16,17:00,Rayo Vallecano,Levante UD,1.7,3.7,5.25,1.1667,2.15,1.25,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/real-sociedad-villarreal/ugbszgb,2026-03-20,17:00,Villarreal,Real Sociedad,1.95,3.6,3.8,1.25,1.8,1.2857,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/elche-mallorca/BgbsWgb,2026-03-21,10:00,Elche,Mallorca,2.05,3.4,3.7,1.2857,1.7273,1.3,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-espanyol/ogbsjhb,2026-03-21,12:15,Espanyol,Getafe,2.45,3.0,3.2,1.3636,1.5333,1.3636,2.375,1.5333,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-osasuna/vgbsoKj,2026-03-21,14:30,Osasuna,Girona FC,2.0,3.6,3.75,1.25,1.8,1.2857,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-levante-ud/Zgbsbhb,2026-03-21,14:30,Levante UD,Real Oviedo,2.35,3.2,3.2,1.3636,1.5714,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-valencia/DgbsIgb,2026-03-21,17:00,Sevilla,Valencia,2.2,3.25,3.4,1.3,1.6667,1.3333,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/rayo-vallecano-barcelona/rgbstgb,2026-03-22,10:00,FC Barcelona,Rayo Vallecano,1.22,7.5,9.5,1.0714,4.0,1.1,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-celta-vigo/wgbsKhb,2026-03-22,12:15,Celta Vigo,Deportivo Alavés,2.0,3.25,4.1,1.2222,1.8,1.3333,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/athletic-club-real-betis/qgbsAgb,2026-03-22,14:30,Athletic Club,Real Betis,2.0,3.6,3.6,1.2857,1.7,1.2857,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-real-madrid/EgbsLgb,2026-03-22,17:00,Real Madrid,Atlético Madrid,2.0,3.8,3.4,1.3,1.8,1.25,1.5333,2.375,77559,LaLiga 25/26
+https://www.sofascore.com/elche-rayo-vallecano/tgbsWgb,2026-04-03,16:00,Rayo Vallecano,Elche,1.7,3.9,5.0,1.1818,2.05,1.25,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-real-sociedad/zgbsZgb,2026-04-04,09:00,Real Sociedad,Levante UD,1.55,4.3333,5.5,1.1429,2.375,1.2,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-mallorca/BgbsEgb,2026-04-04,11:15,Mallorca,Real Madrid,5.5,4.3333,1.57,2.3,1.1429,1.2,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/real-betis-espanyol/ogbsqgb,2026-04-04,13:30,Real Betis,Espanyol,1.83,3.8,4.1,1.2222,1.9091,1.25,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-barcelona/rgbsLgb,2026-04-04,16:00,Atlético Madrid,FC Barcelona,3.1,4.0,2.05,1.7273,1.3636,1.2222,1.4,2.75,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-athletic-club/Agbsjhb,2026-04-05,09:00,Getafe,Athletic Club,3.2,2.9,2.5,1.5333,1.3333,1.4,2.25,1.5714,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-celta-vigo/wgbsDgb,2026-04-05,11:15,Valencia,Celta Vigo,2.3,3.3,3.2,1.3636,1.5714,1.3333,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-sevilla/Igbsbhb,2026-04-05,13:30,Real Oviedo,Sevilla,2.75,3.0,2.75,1.4,1.4,1.3636,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-osasuna/vgbsKhb,2026-04-05,16:00,Deportivo Alavés,Osasuna,2.63,3.2,2.75,1.4,1.4444,1.3636,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-villarreal/ugbsoKj,2026-04-06,16:00,Girona FC,Villarreal,3.1,3.6,2.25,1.6154,1.3636,1.2857,1.5333,2.375,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-real-madrid/EgbsoKj,2026-04-10,16:00,Real Madrid,Girona FC,1.3,6.0,8.5,1.0833,3.4,1.125,1.5,2.5,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-real-sociedad/zgbsKhb,2026-04-11,09:00,Real Sociedad,Deportivo Alavés,1.85,3.6,4.0,1.2222,1.9091,1.2857,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/elche-valencia/DgbsWgb,2026-04-11,11:15,Elche,Valencia,2.6,3.5,2.6,1.5,1.5,1.2857,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/barcelona-espanyol/ogbsrgb,2026-04-11,13:30,FC Barcelona,Espanyol,1.3,5.75,9.0,1.0714,3.5,1.125,1.5714,2.25,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-sevilla/IgbsLgb,2026-04-11,16:00,Sevilla,Atlético Madrid,2.25,3.6,3.0,1.3636,1.6154,1.2857,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/osasuna-real-betis/qgbsvgb,2026-04-12,09:00,Osasuna,Real Betis,2.25,3.4,3.2,1.3636,1.6154,1.3,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-rayo-vallecano/tgbsBgb,2026-04-12,11:15,Mallorca,Rayo Vallecano,2.38,3.3,3.0,1.3636,1.5333,1.3333,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-celta-vigo/wgbsbhb,2026-04-12,13:30,Celta Vigo,Real Oviedo,1.7,3.3,4.5,1.1429,2.2,1.25,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/athletic-club-villarreal/ugbsAgb,2026-04-12,16:00,Athletic Club,Villarreal,2.0,3.5,3.7,1.2857,1.8,1.2857,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-levante-ud/Zgbsjhb,2026-04-13,16:00,Levante UD,Getafe,2.63,3.0,3.0,1.3636,1.4444,1.3636,2.05,1.7,77559,LaLiga 25/26
+https://www.sofascore.com/athletic-club-osasuna/vgbsAgb,2026-04-21,14:00,Athletic Club,Osasuna,1.8,3.4,4.5,1.1818,1.95,1.3,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-mallorca/BgbsDgb,2026-04-21,14:00,Mallorca,Valencia,2.5,3.25,2.88,1.4,1.5,1.3333,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-real-madrid/EgbsKhb,2026-04-21,16:30,Real Madrid,Deportivo Alavés,1.2,7.5,10.0,1.0625,4.3333,1.1,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-real-betis/qgbsoKj,2026-04-21,16:30,Girona FC,Real Betis,2.4,3.3,3.0,1.3636,1.5333,1.3333,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/elche-atletico-madrid/LgbsWgb,2026-04-22,14:00,Elche,Atlético Madrid,2.35,3.7,2.8,1.4,1.5333,1.2857,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-real-sociedad/zgbsjhb,2026-04-22,15:00,Real Sociedad,Getafe,2.25,3.1,3.5,1.2857,1.6154,1.3636,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/celta-vigo-barcelona/rgbswgb,2026-04-22,16:30,FC Barcelona,Celta Vigo,1.22,7.0,10.5,1.0625,4.0,1.1,1.5714,2.25,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-sevilla/IgbsZgb,2026-04-23,14:00,Levante UD,Sevilla,2.5,3.2,2.9,1.4,1.5,1.3636,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/rayo-vallecano-espanyol/ogbstgb,2026-04-23,15:00,Rayo Vallecano,Espanyol,2.1,3.3,3.6,1.2857,1.7,1.3333,1.7,2.05,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-villarreal/ugbsbhb,2026-04-23,16:30,Real Oviedo,Villarreal,3.25,3.2,2.25,1.6154,1.3333,1.3636,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-real-betis/qgbsEgb,2026-04-24,16:00,Real Betis,Real Madrid,3.6,4.1,1.9,1.9091,1.2857,1.2222,1.4444,2.625,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-mallorca/BgbsKhb,2026-04-25,09:00,Deportivo Alavés,Mallorca,2.05,3.3,3.8,1.25,1.7273,1.3333,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-barcelona/rgbsjhb,2026-04-25,11:15,Getafe,FC Barcelona,5.25,3.8,1.67,2.15,1.1667,1.25,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-valencia/DgbsoKj,2026-04-25,13:30,Valencia,Girona FC,2.25,3.25,3.2,1.3636,1.6154,1.3333,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-athletic-club/AgbsLgb,2026-04-25,16:00,Atlético Madrid,Athletic Club,1.9091,3.75,3.75,1.2857,1.8,1.2857,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/real-sociedad-rayo-vallecano/tgbszgb,2026-04-26,09:00,Rayo Vallecano,Real Sociedad,2.63,3.25,2.75,1.4,1.4444,1.3333,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-elche/Wgbsbhb,2026-04-26,11:15,Real Oviedo,Elche,2.2,3.6,3.1,1.3636,1.6667,1.2857,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-osasuna/vgbsIgb,2026-04-26,13:30,Osasuna,Sevilla,1.9,3.4,4.5,1.1818,1.9091,1.3,2.0,1.75,77559,LaLiga 25/26
+https://www.sofascore.com/celta-vigo-villarreal/ugbswgb,2026-04-26,16:00,Villarreal,Celta Vigo,1.91,3.6,3.9,1.25,1.8333,1.2857,1.6154,2.2,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-espanyol/ogbsZgb,2026-04-27,16:00,Espanyol,Levante UD,2.15,3.3,3.6,1.2857,1.6667,1.3333,1.8,1.95,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-mallorca/BgbsoKj,2026-05-01,16:00,Girona FC,Mallorca,1.95,3.6,3.9,1.25,1.8,1.2857,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-villarreal/ugbsZgb,2026-05-02,09:00,Villarreal,Levante UD,1.73,4.2,4.1,1.2222,2.05,1.2222,1.5,2.5,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-valencia/DgbsLgb,2026-05-02,11:15,Valencia,Atlético Madrid,1.7,4.0,4.5,1.1818,2.1,1.2222,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-athletic-club/AgbsKhb,2026-05-02,13:30,Deportivo Alavés,Athletic Club,2.7,3.3,2.6,1.5,1.4444,1.3333,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/osasuna-barcelona/rgbsvgb,2026-05-02,16:00,Osasuna,FC Barcelona,4.6,4.2,1.67,1.6667,1.125,1.5,4.5,1.1818,77559,LaLiga 25/26
+https://www.sofascore.com/elche-celta-vigo/wgbsWgb,2026-05-03,09:00,Celta Vigo,Elche,1.75,3.8,4.5,1.1818,2.0,1.25,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-rayo-vallecano/tgbsjhb,2026-05-03,11:15,Getafe,Rayo Vallecano,1.91,3.4,4.2,1.2222,1.8333,1.3,2.25,1.5714,77559,LaLiga 25/26
+https://www.sofascore.com/real-oviedo-real-betis/qgbsbhb,2026-05-03,13:30,Real Betis,Real Oviedo,1.55,4.1,5.75,1.1429,2.375,1.2222,1.95,1.8,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-espanyol/ogbsEgb,2026-05-03,16:00,Espanyol,Real Madrid,4.5,3.8,1.75,2.0,1.1818,1.25,1.5714,2.25,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-real-sociedad/zgbsIgb,2026-05-04,16:00,Sevilla,Real Sociedad,2.45,3.5,2.88,1.4,1.5333,1.2857,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/levante-ud-osasuna/vgbsZgb,2026-05-08,16:00,Levante UD,Osasuna,2.6,3.3,2.63,1.4444,1.5,1.3333,1.75,2.0,77559,LaLiga 25/26
+https://www.sofascore.com/deportivo-alaves-elche/WgbsKhb,2026-05-09,09:00,Elche,Deportivo Alavés,2.2,3.5,3.0,1.3636,1.6667,1.2857,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/sevilla-espanyol/ogbsIgb,2026-05-09,11:15,Sevilla,Espanyol,2.0,3.3,3.6,1.2857,1.8,1.3333,1.9091,1.9091,77559,LaLiga 25/26
+https://www.sofascore.com/atletico-madrid-celta-vigo/wgbsLgb,2026-05-09,13:30,Atlético Madrid,Celta Vigo,1.8,3.5,4.2,1.2222,1.95,1.2857,1.6667,2.1,77559,LaLiga 25/26
+https://www.sofascore.com/real-sociedad-real-betis/qgbszgb,2026-05-09,16:00,Real Sociedad,Real Betis,2.2,3.5,3.1,1.3636,1.6667,1.2857,1.5714,2.25,77559,LaLiga 25/26
+https://www.sofascore.com/mallorca-villarreal/ugbsBgb,2026-05-10,09:00,Mallorca,Villarreal,2.5,3.4,2.6,,,,,,77559,LaLiga 25/26
+https://www.sofascore.com/valencia-athletic-club/AgbsDgb,2026-05-10,11:15,Athletic Club,Valencia,1.83,3.6,4.5,,,,,,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-real-oviedo/bhbsjhb,2026-05-10,13:30,Real Oviedo,Getafe,2.7,2.9,2.8,,,,,,77559,LaLiga 25/26
+https://www.sofascore.com/real-madrid-barcelona/rgbsEgb,2026-05-10,16:00,FC Barcelona,Real Madrid,1.75,4.2,3.6,,,,,,77559,LaLiga 25/26
+https://www.sofascore.com/girona-fc-rayo-vallecano/tgbsoKj,2026-05-11,16:00,Rayo Vallecano,Girona FC,2.15,3.4,3.1,,,,,,77559,LaLiga 25/26
+https://www.sofascore.com/getafe-athletic-club/Agbsjhb,2024-08-15,14:00,Athletic Club,Getafe,1.6,3.6,7.0,1.1,2.3,1.2857,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-real-betis/qgbsoKj,2024-08-15,16:30,Real Betis,Girona FC,2.3,3.4,3.1,1.3636,1.5714,1.3,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-celta-vigo/wgbsKhb,2024-08-16,14:00,Celta Vigo,Deportivo Alavés,2.1,3.1,3.9,1.25,1.7,1.3636,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-sevilla/IgbsCGc,2024-08-16,16:30,Las Palmas,Sevilla,2.55,3.3,2.8,1.4,1.4444,1.3636,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-osasuna/vgbsVgb,2024-08-17,14:00,Osasuna,Leganés,1.8,3.25,5.0,1.1818,1.9091,1.3636,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-barcelona/rgbsDgb,2024-08-17,16:30,Valencia,FC Barcelona,4.2,3.7,1.85,1.9091,1.2222,1.2857,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/real-sociedad-rayo-vallecano/tgbszgb,2024-08-18,14:00,Real Sociedad,Rayo Vallecano,1.75,3.3,5.5,1.1429,2.0,1.3333,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-mallorca/BgbsEgb,2024-08-18,16:30,Mallorca,Real Madrid,7.5,4.75,1.4,2.75,1.1,1.1818,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-espanyol/ogbsGgb,2024-08-19,14:00,Real Valladolid,Espanyol,2.3,2.88,3.7,1.2857,1.5714,1.4,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-villarreal/ugbsLgb,2024-08-19,16:30,Villarreal,Atlético Madrid,3.4,3.6,2.1,1.8,1.2857,1.25,1.6154,2.2,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-celta-vigo/wgbsDgb,2024-08-23,14:00,Celta Vigo,Valencia,2.15,3.3,3.5,1.2857,1.6667,1.3333,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-villarreal/ugbsIgb,2024-08-23,16:30,Sevilla,Villarreal,2.15,3.6,3.2,1.3636,1.6667,1.2857,1.6154,2.2,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-osasuna/vgbsBgb,2024-08-24,12:00,Osasuna,Mallorca,2.3,3.2,3.25,1.3333,1.5714,1.3636,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-barcelona/rgbsAgb,2024-08-24,14:00,FC Barcelona,Athletic Club,1.5714,4.3333,5.25,1.1667,2.375,1.1818,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/real-sociedad-espanyol/ogbszgb,2024-08-24,16:30,Espanyol,Real Sociedad,3.8,3.2,2.1,1.7,1.25,1.3636,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-rayo-vallecano/tgbsjhb,2024-08-24,16:30,Getafe,Rayo Vallecano,2.63,2.8,3.2,1.3636,1.5,1.3636,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-real-madrid/EgbsGgb,2024-08-25,12:00,Real Madrid,Real Valladolid,1.14,8.0,17.0,1.025,5.5,1.0833,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-leganes/VgbsCGc,2024-08-25,14:00,Leganés,Las Palmas,2.38,3.0,3.3,1.3333,1.5333,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-real-betis/qgbsKhb,2024-08-25,14:15,Deportivo Alavés,Real Betis,2.4,3.1,3.25,1.3333,1.5333,1.3636,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-atletico-madrid/LgbsoKj,2024-08-25,16:30,Atlético Madrid,Girona FC,1.5,4.5,6.0,1.125,2.5,1.1818,1.7,2.05,61643,LaLiga 24/25
+https://www.sofascore.com/celta-vigo-villarreal/ugbswgb,2024-08-26,16:30,Villarreal,Celta Vigo,1.67,4.2,4.75,1.1818,2.15,1.2222,1.6154,2.2,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-mallorca/BgbsIgb,2024-08-27,14:00,Mallorca,Sevilla,2.25,3.2,3.4,1.3,1.6154,1.3636,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/rayo-vallecano-barcelona/rgbstgb,2024-08-27,16:30,Rayo Vallecano,FC Barcelona,5.0,3.8,1.67,2.15,1.1667,1.25,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-athletic-club/AgbsDgb,2024-08-28,14:00,Athletic Club,Valencia,1.73,3.7,5.0,1.1667,2.1,1.2857,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-real-valladolid/GgbsVgb,2024-08-28,14:00,Real Valladolid,Leganés,2.2,3.0,3.7,1.2857,1.6667,1.3636,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-espanyol/ogbsLgb,2024-08-28,16:30,Atlético Madrid,Espanyol,1.27,5.75,13.0,1.04,3.75,1.1429,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-real-sociedad/zgbsKhb,2024-08-28,16:30,Real Sociedad,Deportivo Alavés,1.57,3.75,6.5,1.125,2.25,1.2857,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-osasuna/vgbsoKj,2024-08-29,14:00,Girona FC,Osasuna,1.7,3.9,4.75,1.1818,2.1,1.25,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-real-madrid/EgbsCGc,2024-08-29,16:30,Las Palmas,Real Madrid,8.0,5.25,1.33,3.25,1.0833,1.1667,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-barcelona/rgbsGgb,2024-08-31,12:00,FC Barcelona,Real Valladolid,1.2,7.0,13.0,1.04,4.3333,1.1,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-athletic-club/AgbsLgb,2024-08-31,14:00,Athletic Club,Atlético Madrid,2.7,3.3,2.6,1.5,1.4444,1.3333,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/rayo-vallecano-espanyol/ogbstgb,2024-08-31,14:15,Espanyol,Rayo Vallecano,2.75,3.0,2.88,1.4,1.4,1.3636,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-villarreal/ugbsDgb,2024-08-31,16:30,Valencia,Villarreal,2.55,3.25,2.8,1.4,1.5,1.3333,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-mallorca/BgbsVgb,2024-08-31,16:30,Leganés,Mallorca,2.8,2.75,3.0,1.3636,1.4,1.4,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/celta-vigo-osasuna/vgbswgb,2024-09-01,12:00,Osasuna,Celta Vigo,2.45,3.2,3.0,1.3636,1.5333,1.3636,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-deportivo-alaves/KhbsCGc,2024-09-01,12:00,Deportivo Alavés,Las Palmas,1.7,3.6,5.0,1.1818,2.05,1.2857,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-sevilla/IgbsoKj,2024-09-01,14:00,Sevilla,Girona FC,2.75,3.75,2.35,1.5714,1.4,1.25,1.6154,2.2,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-real-sociedad/zgbsjhb,2024-09-01,14:15,Getafe,Real Sociedad,3.1,2.8,2.63,1.4444,1.3636,1.4,2.375,1.5333,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-real-betis/qgbsEgb,2024-09-01,16:30,Real Madrid,Real Betis,1.22,6.5,12.0,1.05,4.0,1.1111,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-real-betis/qgbsVgb,2024-09-13,16:00,Real Betis,Leganés,1.7,3.5,5.75,1.1429,2.1,1.2857,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-villarreal/ugbsBgb,2024-09-14,09:00,Mallorca,Villarreal,2.35,3.25,3.1,1.3333,1.5714,1.3333,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-espanyol/ogbsKhb,2024-09-14,11:15,Espanyol,Deportivo Alavés,2.88,3.0,2.75,1.4444,1.4,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-sevilla/Igbsjhb,2024-09-14,13:30,Sevilla,Getafe,2.25,3.0,3.6,1.2857,1.6154,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-real-sociedad/zgbsEgb,2024-09-14,16:00,Real Sociedad,Real Madrid,4.5,3.6,1.8,1.95,1.1818,1.2857,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-celta-vigo/wgbsGgb,2024-09-15,09:00,Celta Vigo,Real Valladolid,1.65,3.75,5.25,1.1429,2.25,1.25,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-barcelona/rgbsoKj,2024-09-15,11:15,Girona FC,FC Barcelona,4.3333,4.1,1.75,2.0,1.2,1.2222,1.4444,2.625,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-athletic-club/AgbsCGc,2024-09-15,13:30,Las Palmas,Athletic Club,4.0,3.4,1.95,1.7273,1.25,1.3,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-valencia/DgbsLgb,2024-09-15,16:00,Atlético Madrid,Valencia,1.3,4.75,11.0,1.05,3.4,1.1818,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/osasuna-rayo-vallecano/tgbsvgb,2024-09-16,16:00,Rayo Vallecano,Osasuna,2.0,3.2,4.1,1.2222,1.7273,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-real-sociedad/zgbsBgb,2024-09-17,14:00,Mallorca,Real Sociedad,3.0,2.63,2.9,1.3636,1.3636,1.4444,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-real-betis/qgbsjhb,2024-09-18,14:00,Real Betis,Getafe,1.85,3.1,5.25,1.1667,1.9091,1.3636,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-athletic-club/AgbsVgb,2024-09-19,14:00,Leganés,Athletic Club,4.2,3.1,2.05,1.7273,1.2222,1.3636,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-real-sociedad/zgbsGgb,2024-09-21,09:00,Real Valladolid,Real Sociedad,3.9,3.0,2.15,1.6667,1.25,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-osasuna/vgbsCGc,2024-09-21,11:15,Osasuna,Las Palmas,1.85,3.5,4.2,1.2222,1.9091,1.2857,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-valencia/DgbsoKj,2024-09-21,13:30,Valencia,Girona FC,2.45,3.1,3.0,1.3636,1.5714,1.3636,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-espanyol/ogbsEgb,2024-09-21,16:00,Real Madrid,Espanyol,1.14,8.0,19.0,1.0152,6.0,1.0833,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-leganes/Vgbsjhb,2024-09-22,09:00,Getafe,Leganés,2.0,2.75,5.0,1.1667,1.8,1.4,3.0,1.3636,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-celta-vigo/wgbsAgb,2024-09-22,11:15,Athletic Club,Celta Vigo,1.75,3.5,5.0,1.1667,2.0,1.2857,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/villarreal-barcelona/rgbsugb,2024-09-22,13:30,Villarreal,FC Barcelona,3.9,3.9,1.85,1.9091,1.25,1.25,1.4,2.75,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-rayo-vallecano/tgbsLgb,2024-09-22,16:00,Rayo Vallecano,Atlético Madrid,5.25,3.5,1.73,2.05,1.1667,1.2857,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-real-betis/qgbsBgb,2024-09-23,16:00,Real Betis,Mallorca,1.85,3.2,5.0,1.1667,1.9091,1.3636,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-real-valladolid/GgbsIgb,2024-09-24,14:00,Sevilla,Real Valladolid,1.6,3.8,5.75,1.1429,2.3,1.25,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-osasuna/vgbsDgb,2024-09-24,14:00,Valencia,Osasuna,2.0,3.1,4.2,1.2222,1.8,1.3636,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-real-madrid/EgbsKhb,2024-09-24,16:00,Real Madrid,Deportivo Alavés,1.17,7.5,15.0,1.0303,5.0,1.1,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-rayo-vallecano/tgbsoKj,2024-09-25,14:00,Girona FC,Rayo Vallecano,1.7,3.9,5.0,1.1667,2.1,1.25,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-barcelona/rgbsjhb,2024-09-25,16:00,FC Barcelona,Getafe,1.2,7.0,12.0,1.05,4.3333,1.1,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/villarreal-espanyol/ogbsugb,2024-09-26,14:00,Espanyol,Villarreal,3.5,3.6,2.05,1.7,1.3,1.2857,1.6154,2.2,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-real-betis/qgbsCGc,2024-09-26,14:00,Las Palmas,Real Betis,3.7,3.3,2.1,1.7,1.2857,1.3333,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-celta-vigo/wgbsLgb,2024-09-26,16:00,Celta Vigo,Atlético Madrid,4.0,3.6,1.9,1.9091,1.2222,1.2857,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-mallorca/BgbsGgb,2024-09-27,16:00,Real Valladolid,Mallorca,3.2,2.88,2.5,1.5,1.3333,1.4,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-getafe/jhbsKhb,2024-09-28,09:00,Getafe,Deportivo Alavés,2.5,2.8,3.3,1.3333,1.5,1.4,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-rayo-vallecano/tgbsVgb,2024-09-28,11:15,Rayo Vallecano,Leganés,1.8,3.1,5.5,1.1429,1.95,1.3636,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-real-sociedad/zgbsDgb,2024-09-28,13:30,Real Sociedad,Valencia,1.85,3.2,4.75,1.1667,1.95,1.3333,2.375,1.5333,61643,LaLiga 24/25
+https://www.sofascore.com/osasuna-barcelona/rgbsvgb,2024-09-28,16:00,Osasuna,FC Barcelona,4.75,3.75,1.73,2.05,1.1818,1.25,1.5714,2.25,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-celta-vigo/wgbsoKj,2024-09-29,09:00,Celta Vigo,Girona FC,2.6,3.5,2.63,1.5,1.4444,1.2857,1.6154,2.2,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-athletic-club/AgbsIgb,2024-09-29,11:15,Athletic Club,Sevilla,1.7,3.7,5.25,1.1667,2.1,1.2857,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/real-betis-espanyol/ogbsqgb,2024-09-29,13:30,Real Betis,Espanyol,1.5,4.1,7.0,1.1,2.5,1.2222,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-real-madrid/EgbsLgb,2024-09-29,16:00,Atlético Madrid,Real Madrid,2.88,3.2,2.55,1.5,1.4,1.3636,1.7,2.05,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-villarreal/ugbsCGc,2024-09-30,16:00,Villarreal,Las Palmas,1.44,5.25,6.0,1.125,2.625,1.1667,1.6154,2.2,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-valencia/DgbsVgb,2024-10-04,16:00,Leganés,Valencia,2.88,2.8,2.88,1.4,1.4,1.4,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-espanyol/ogbsBgb,2024-10-05,09:00,Espanyol,Mallorca,3.5,3.0,2.3,1.5714,1.2857,1.3636,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-osasuna/vgbsjhb,2024-10-05,11:15,Getafe,Osasuna,2.15,3.0,3.9,1.25,1.6667,1.3636,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-celta-vigo/wgbsCGc,2024-10-05,13:30,Las Palmas,Celta Vigo,3.8,3.6,1.91,1.8,1.2857,1.2857,1.6667,2.1,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-rayo-vallecano/tgbsGgb,2024-10-05,13:30,Real Valladolid,Rayo Vallecano,3.4,3.0,2.3,1.5714,1.3,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-villarreal/ugbsEgb,2024-10-05,16:00,Real Madrid,Villarreal,1.29,6.25,8.5,1.0833,3.5,1.125,1.6667,2.1,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-athletic-club/AgbsoKj,2024-10-06,09:00,Girona FC,Athletic Club,2.3,3.3,3.2,1.3636,1.5714,1.3333,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-barcelona/rgbsKhb,2024-10-06,11:15,Deportivo Alavés,FC Barcelona,4.3333,4.3333,1.7,2.1,1.2,1.2,1.6154,2.2,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-real-betis/qgbsIgb,2024-10-06,13:30,Sevilla,Real Betis,2.7,3.2,2.7,1.4444,1.4444,1.3636,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-real-sociedad/zgbsLgb,2024-10-06,16:00,Real Sociedad,Atlético Madrid,2.75,3.1,2.75,1.4,1.4,1.3636,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-real-valladolid/GgbsKhb,2024-10-18,16:00,Deportivo Alavés,Real Valladolid,1.62,3.8,5.5,1.1429,2.25,1.25,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-espanyol/ogbsAgb,2024-10-19,09:00,Athletic Club,Espanyol,1.42,4.2,8.0,1.0833,2.75,1.2222,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/osasuna-real-betis/qgbsvgb,2024-10-19,11:15,Osasuna,Real Betis,2.38,3.2,3.0,1.3636,1.5333,1.3636,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-real-sociedad/zgbsoKj,2024-10-19,13:30,Girona FC,Real Sociedad,2.63,3.3,2.6,1.4444,1.5,1.3333,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-celta-vigo/wgbsEgb,2024-10-19,16:00,Celta Vigo,Real Madrid,5.0,4.5,1.55,2.375,1.1667,1.1818,1.6667,2.1,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-rayo-vallecano/tgbsBgb,2024-10-20,09:00,Mallorca,Rayo Vallecano,2.0,3.2,4.2,1.2222,1.8,1.3636,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-atletico-madrid/LgbsVgb,2024-10-20,11:15,Atlético Madrid,Leganés,1.45,4.0,8.0,1.0833,2.75,1.2222,2.375,1.5333,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-villarreal/ugbsjhb,2024-10-20,13:30,Villarreal,Getafe,1.85,3.5,4.5,1.1818,1.95,1.2857,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-barcelona/rgbsIgb,2024-10-20,16:00,FC Barcelona,Sevilla,1.27,6.25,9.0,1.0714,3.75,1.125,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-valencia/DgbsCGc,2024-10-21,16:00,Valencia,Las Palmas,1.9,3.3,4.3333,1.1818,1.9091,1.3,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-espanyol/ogbsIgb,2024-10-25,16:00,Espanyol,Sevilla,2.9,3.2,2.5,1.5,1.4,1.3636,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-villarreal/ugbsGgb,2024-10-26,09:00,Real Valladolid,Villarreal,3.75,3.6,1.95,1.8,1.25,1.2857,1.6667,2.1,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-rayo-vallecano/tgbsKhb,2024-10-26,11:15,Rayo Vallecano,Deportivo Alavés,1.95,3.2,4.3333,1.2,1.8,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-las-palmas/CGcsoKj,2024-10-26,13:30,Las Palmas,Girona FC,2.6,3.2,2.88,1.4,1.5,1.3636,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-barcelona/rgbsEgb,2024-10-26,16:00,Real Madrid,FC Barcelona,1.91,4.2,3.4,1.3,1.8333,1.2222,1.4,2.75,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-celta-vigo/wgbsVgb,2024-10-27,10:00,Leganés,Celta Vigo,3.6,3.4,2.1,1.7,1.2857,1.3,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-valencia/Dgbsjhb,2024-10-27,12:15,Getafe,Valencia,2.0,2.88,4.75,1.1818,1.8,1.4,2.625,1.4444,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-real-betis/qgbsLgb,2024-10-27,14:30,Real Betis,Atlético Madrid,3.4,3.4,2.15,1.6667,1.2857,1.3333,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/real-sociedad-osasuna/vgbszgb,2024-10-27,17:00,Real Sociedad,Osasuna,1.62,3.8,5.75,1.1429,2.25,1.25,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-athletic-club/AgbsBgb,2024-10-28,17:00,Mallorca,Athletic Club,2.55,3.1,3.0,1.3636,1.5,1.3636,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-mallorca/BgbsKhb,2024-11-01,17:00,Deportivo Alavés,Mallorca,2.3,3.0,3.5,1.2857,1.5714,1.3636,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-osasuna/vgbsGgb,2024-11-02,10:00,Osasuna,Real Valladolid,1.67,3.6,5.5,1.1429,2.15,1.2857,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-leganes/VgbsoKj,2024-11-02,12:15,Girona FC,Leganés,1.62,3.6,6.25,1.125,2.15,1.2857,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/villarreal-rayo-vallecano/tgbsugb,2024-11-02,14:30,Villarreal,Rayo Vallecano,1.0,1.0,1.0,1.1667,2.15,1.25,1.7,2.05,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-valencia/DgbsEgb,2024-11-02,17:00,Valencia,Real Madrid,1.0,1.0,1.0,2.625,1.1,1.1818,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-atletico-madrid/LgbsCGc,2024-11-03,10:00,Atlético Madrid,Las Palmas,1.33,5.0,8.5,1.0833,3.25,1.1667,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/barcelona-espanyol/ogbsrgb,2024-11-03,12:15,FC Barcelona,Espanyol,1.14,8.0,17.0,1.025,5.5,1.0833,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-real-sociedad/zgbsIgb,2024-11-03,14:30,Sevilla,Real Sociedad,3.25,3.2,2.35,1.5714,1.3333,1.3636,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-real-betis/qgbsAgb,2024-11-03,17:00,Athletic Club,Real Betis,1.83,3.6,4.2,1.2222,1.9091,1.2857,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-celta-vigo/wgbsjhb,2024-11-04,17:00,Celta Vigo,Getafe,2.05,3.1,4.0,1.2222,1.7273,1.3636,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-rayo-vallecano/tgbsCGc,2024-11-08,17:00,Rayo Vallecano,Las Palmas,1.9,3.3,4.5,1.1818,1.9091,1.3333,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-osasuna/vgbsEgb,2024-11-09,10:00,Real Madrid,Osasuna,1.25,6.0,11.0,1.05,3.75,1.125,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-villarreal/ugbsKhb,2024-11-09,12:15,Villarreal,Deportivo Alavés,1.55,3.9,6.25,1.125,2.375,1.25,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-espanyol/ogbsDgb,2024-11-09,14:30,Espanyol,Valencia,2.6,3.0,3.0,1.3636,1.5,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-sevilla/IgbsVgb,2024-11-09,17:00,Leganés,Sevilla,2.9,3.0,2.6,1.5,1.4,1.3636,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/celta-vigo-real-betis/qgbswgb,2024-11-10,10:00,Real Betis,Celta Vigo,2.15,3.2,3.5,1.2857,1.6667,1.3636,1.7,2.05,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-mallorca/BgbsLgb,2024-11-10,12:15,Mallorca,Atlético Madrid,3.4,2.9,2.3,1.5714,1.3,1.4,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-getafe/jhbsoKj,2024-11-10,14:30,Getafe,Girona FC,2.5,2.9,3.2,1.3333,1.5333,1.4,2.375,1.5333,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-athletic-club/AgbsGgb,2024-11-10,14:30,Real Valladolid,Athletic Club,4.3333,3.3,1.95,1.8,1.2,1.3333,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/real-sociedad-barcelona/rgbszgb,2024-11-10,17:00,Real Sociedad,FC Barcelona,3.75,3.75,1.9,1.9091,1.25,1.25,1.6667,2.1,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-real-valladolid/Ggbsjhb,2024-11-22,17:00,Getafe,Real Valladolid,1.65,3.5,6.25,1.125,2.2,1.2857,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-real-betis/qgbsDgb,2024-11-23,10:00,Valencia,Real Betis,2.5,3.0,3.2,1.3636,1.5,1.3636,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-atletico-madrid/LgbsKhb,2024-11-23,12:15,Atlético Madrid,Deportivo Alavés,1.5,4.1,7.0,1.1,2.625,1.2222,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-espanyol/ogbsoKj,2024-11-23,14:30,Girona FC,Espanyol,1.7,3.7,5.25,1.1818,2.0,1.2857,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-mallorca/BgbsCGc,2024-11-23,14:30,Las Palmas,Mallorca,2.75,2.9,2.8,1.4,1.4,1.4,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/celta-vigo-barcelona/rgbswgb,2024-11-23,17:00,Celta Vigo,FC Barcelona,4.3333,4.2,1.73,2.05,1.2,1.2222,1.4444,2.625,61643,LaLiga 24/25
+https://www.sofascore.com/osasuna-villarreal/ugbsvgb,2024-11-24,10:00,Osasuna,Villarreal,2.55,3.4,2.75,1.4444,1.4444,1.3333,1.6667,2.1,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-rayo-vallecano/tgbsIgb,2024-11-24,12:15,Sevilla,Rayo Vallecano,2.1,3.4,3.7,1.2857,1.7,1.3,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-real-madrid/EgbsVgb,2024-11-24,14:30,Leganés,Real Madrid,8.5,5.0,1.33,3.25,1.0833,1.1667,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-real-sociedad/zgbsAgb,2024-11-24,17:00,Athletic Club,Real Sociedad,2.4,2.9,3.4,1.3,1.5333,1.4,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-mallorca/BgbsDgb,2024-11-29,17:00,Mallorca,Valencia,2.1,2.88,4.3333,1.2,1.7,1.4,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-barcelona/rgbsCGc,2024-11-30,10:00,FC Barcelona,Las Palmas,1.17,8.0,13.0,1.04,5.0,1.0833,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-leganes/VgbsKhb,2024-11-30,12:15,Deportivo Alavés,Leganés,1.73,3.25,5.75,1.125,2.0,1.3636,2.625,1.4444,61643,LaLiga 24/25
+https://www.sofascore.com/celta-vigo-espanyol/ogbswgb,2024-11-30,14:30,Espanyol,Celta Vigo,3.5,3.25,2.15,1.6667,1.2857,1.3636,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-real-valladolid/GgbsLgb,2024-11-30,17:00,Real Valladolid,Atlético Madrid,6.5,4.5,1.45,2.625,1.1111,1.1818,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-real-madrid/Egbsjhb,2024-12-01,12:15,Real Madrid,Getafe,1.38,4.75,9.0,1.0714,3.0,1.1818,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-rayo-vallecano/tgbsAgb,2024-12-01,14:30,Rayo Vallecano,Athletic Club,3.1,3.1,2.45,1.5333,1.3636,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/real-sociedad-real-betis/qgbszgb,2024-12-01,17:00,Real Sociedad,Real Betis,1.67,3.75,5.25,1.1667,2.15,1.25,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-barcelona/rgbsBgb,2024-12-03,15:00,Mallorca,FC Barcelona,4.75,4.1,1.65,2.2,1.1818,1.2222,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-athletic-club/AgbsEgb,2024-12-04,17:00,Athletic Club,Real Madrid,3.1,3.3,2.3,1.5714,1.3636,1.3333,1.6667,2.1,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-celta-vigo/wgbsBgb,2024-12-06,17:00,Celta Vigo,Mallorca,1.85,3.4,4.75,1.1818,1.9091,1.3,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-real-valladolid/GgbsCGc,2024-12-07,10:00,Las Palmas,Real Valladolid,1.62,3.8,5.75,1.1429,2.25,1.25,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/barcelona-real-betis/qgbsrgb,2024-12-07,12:15,Real Betis,FC Barcelona,5.5,4.75,1.5,2.5,1.1429,1.1818,1.5333,2.375,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-rayo-vallecano/tgbsDgb,2024-12-07,14:30,Valencia,Rayo Vallecano,2.15,3.0,3.9,1.25,1.6667,1.3636,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-real-madrid/EgbsoKj,2024-12-07,17:00,Girona FC,Real Madrid,4.0,3.9,1.8,1.95,1.2222,1.25,1.5714,2.25,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-real-sociedad/zgbsVgb,2024-12-08,10:00,Leganés,Real Sociedad,5.5,3.1,1.8,1.95,1.1429,1.3636,2.625,1.4444,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-villarreal/ugbsAgb,2024-12-08,12:15,Athletic Club,Villarreal,1.83,3.6,4.3333,1.2,1.9091,1.2857,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-osasuna/vgbsKhb,2024-12-08,14:30,Osasuna,Deportivo Alavés,2.3,3.1,3.5,1.2857,1.5714,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-sevilla/IgbsLgb,2024-12-08,17:00,Atlético Madrid,Sevilla,1.36,4.75,9.0,1.0714,3.0,1.1818,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-espanyol/ogbsjhb,2024-12-09,17:00,Getafe,Espanyol,1.75,3.0,6.5,1.1111,2.0,1.3636,2.625,1.4444,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-valencia/DgbsGgb,2024-12-13,17:00,Real Valladolid,Valencia,3.1,3.1,2.35,1.5333,1.3636,1.3636,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/osasuna-espanyol/ogbsvgb,2024-12-14,10:00,Espanyol,Osasuna,2.8,3.25,2.6,1.5,1.4,1.3333,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-mallorca/BgbsoKj,2024-12-14,12:15,Mallorca,Girona FC,2.5,3.2,2.9,1.4,1.5,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-celta-vigo/wgbsIgb,2024-12-14,14:30,Sevilla,Celta Vigo,2.6,3.1,2.9,1.4,1.5,1.3636,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-rayo-vallecano/tgbsEgb,2024-12-14,17:00,Rayo Vallecano,Real Madrid,5.75,4.0,1.57,2.3,1.125,1.2222,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-atletico-madrid/Lgbsjhb,2024-12-15,10:00,Atlético Madrid,Getafe,1.33,5.0,10.0,1.0625,3.4,1.1667,2.625,1.4444,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-athletic-club/AgbsKhb,2024-12-15,12:15,Deportivo Alavés,Athletic Club,4.0,3.2,2.0,1.8,1.2222,1.3636,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/villarreal-real-betis/qgbsugb,2024-12-15,14:30,Villarreal,Real Betis,1.9,3.8,3.75,1.25,1.9091,1.25,1.6154,2.2,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-real-sociedad/zgbsCGc,2024-12-15,14:30,Real Sociedad,Las Palmas,1.33,5.0,9.5,1.0714,3.25,1.1667,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-barcelona/rgbsVgb,2024-12-15,17:00,FC Barcelona,Leganés,1.13,9.0,19.0,1.02,6.0,1.0833,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/villarreal-rayo-vallecano/tgbsugb,2024-12-18,17:30,Villarreal,Rayo Vallecano,1.73,3.7,4.75,1.1667,2.1,1.25,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-espanyol/ogbsDgb,2024-12-18,17:30,Espanyol,Valencia,2.5,3.0,3.1,1.3636,1.5,1.4,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-real-valladolid/GgbsoKj,2024-12-20,17:00,Girona FC,Real Valladolid,1.36,5.0,8.5,1.0833,3.0,1.1667,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-mallorca/Bgbsjhb,2024-12-21,10:00,Getafe,Mallorca,2.38,2.55,4.0,1.2222,1.5333,1.5,2.75,1.4,61643,LaLiga 24/25
+https://www.sofascore.com/real-sociedad-celta-vigo/wgbszgb,2024-12-21,12:15,Celta Vigo,Real Sociedad,2.9,3.0,2.7,1.4444,1.4,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-osasuna/vgbsAgb,2024-12-21,14:30,Osasuna,Athletic Club,4.2,3.1,2.0,1.8,1.2222,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-barcelona/rgbsLgb,2024-12-21,17:00,FC Barcelona,Atlético Madrid,1.95,3.75,3.7,1.2857,1.8,1.25,1.5,2.5,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-valencia/DgbsKhb,2024-12-22,10:00,Valencia,Deportivo Alavés,2.15,3.2,3.6,1.2857,1.6667,1.3636,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-real-madrid/EgbsIgb,2024-12-22,12:15,Real Madrid,Sevilla,1.27,6.25,9.5,1.0714,3.75,1.125,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-villarreal/ugbsVgb,2024-12-22,14:30,Leganés,Villarreal,4.2,3.5,1.9,1.9091,1.2222,1.2857,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-espanyol/ogbsCGc,2024-12-22,14:30,Las Palmas,Espanyol,2.05,3.3,3.8,1.25,1.7273,1.3333,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/rayo-vallecano-real-betis/qgbstgb,2024-12-22,17:00,Real Betis,Rayo Vallecano,1.65,3.9,5.25,1.1667,2.2,1.25,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-valencia/DgbsEgb,2025-01-03,17:00,Valencia,Real Madrid,7.0,4.75,1.42,2.75,1.1,1.1818,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/celta-vigo-rayo-vallecano/tgbswgb,2025-01-10,17:00,Rayo Vallecano,Celta Vigo,2.8,3.2,2.625,1.5,1.4,1.3636,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-deportivo-alaves/KhbsoKj,2025-01-11,10:00,Deportivo Alavés,Girona FC,3.3,3.0,2.35,1.5714,1.3333,1.3636,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-real-betis/qgbsGgb,2025-01-11,12:15,Real Valladolid,Real Betis,4.75,3.6,1.73,2.05,1.1818,1.2857,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-espanyol/ogbsVgb,2025-01-11,14:30,Espanyol,Leganés,2.05,2.9,4.5,1.1818,1.7273,1.4,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-valencia/DgbsIgb,2025-01-11,17:00,Sevilla,Valencia,2.05,3.25,3.8,1.25,1.7273,1.3333,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-getafe/jhbsCGc,2025-01-12,10:00,Las Palmas,Getafe,2.4,2.75,3.6,1.2857,1.5333,1.4,2.375,1.5333,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-osasuna/vgbsLgb,2025-01-12,12:15,Atlético Madrid,Osasuna,1.3,5.25,11.0,1.05,3.4,1.1667,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/real-sociedad-villarreal/ugbszgb,2025-01-13,17:00,Real Sociedad,Villarreal,2.0,3.3,3.9,1.2222,1.8,1.3,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-espanyol/ogbsGgb,2025-01-17,17:00,Espanyol,Real Valladolid,1.8,3.3,5.0,1.1667,2.0,1.3,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-sevilla/IgbsoKj,2025-01-18,10:00,Girona FC,Sevilla,1.9,3.4,4.2,1.2222,1.9091,1.3,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-atletico-madrid/LgbsVgb,2025-01-18,12:15,Leganés,Atlético Madrid,7.5,4.1,1.48,2.375,1.1,1.2222,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-real-betis/qgbsKhb,2025-01-18,14:30,Real Betis,Deportivo Alavés,1.85,3.4,4.3333,1.1818,1.9091,1.2857,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-barcelona/rgbsjhb,2025-01-18,17:00,Getafe,FC Barcelona,6.5,4.3333,1.48,2.625,1.1111,1.2,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-celta-vigo/wgbsAgb,2025-01-19,10:00,Celta Vigo,Athletic Club,3.2,3.25,2.3,1.5714,1.3636,1.3333,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-real-madrid/EgbsCGc,2025-01-19,12:15,Real Madrid,Las Palmas,1.17,7.0,17.0,1.025,5.0,1.1,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/osasuna-rayo-vallecano/tgbsvgb,2025-01-19,14:30,Osasuna,Rayo Vallecano,2.3,3.1,3.4,1.3,1.5714,1.3636,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-real-sociedad/zgbsDgb,2025-01-19,17:00,Valencia,Real Sociedad,3.0,2.88,2.63,1.4444,1.3636,1.4,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-villarreal/ugbsBgb,2025-01-20,17:00,Villarreal,Mallorca,1.65,3.75,5.5,1.1429,2.2,1.25,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-osasuna/vgbsCGc,2025-01-24,17:00,Las Palmas,Osasuna,2.45,3.1,3.1,1.3636,1.5333,1.3636,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-real-betis/qgbsBgb,2025-01-25,10:00,Mallorca,Real Betis,2.15,3.0,4.0,1.2222,1.6667,1.3636,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-villarreal/ugbsLgb,2025-01-25,12:15,Atlético Madrid,Villarreal,1.85,3.7,4.0,1.25,1.8333,1.2857,1.6667,2.1,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-espanyol/ogbsIgb,2025-01-25,14:30,Sevilla,Espanyol,1.72,3.5,5.0,1.1667,2.0,1.2857,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-real-madrid/EgbsGgb,2025-01-25,17:00,Real Valladolid,Real Madrid,12.0,6.25,1.22,4.0,1.05,1.125,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-rayo-vallecano/tgbsoKj,2025-01-26,10:00,Rayo Vallecano,Girona FC,2.55,3.1,3.0,1.3636,1.5,1.3636,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-real-sociedad/zgbsjhb,2025-01-26,12:15,Real Sociedad,Getafe,1.91,3.0,5.0,1.1667,1.8333,1.3636,2.625,1.4444,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-athletic-club/AgbsVgb,2025-01-26,14:30,Athletic Club,Leganés,1.36,4.5,10.0,1.0625,3.0,1.1818,2.375,1.5333,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-barcelona/rgbsDgb,2025-01-26,17:00,FC Barcelona,Valencia,1.22,6.5,11.0,1.05,4.0,1.1111,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-celta-vigo/wgbsKhb,2025-01-27,17:00,Deportivo Alavés,Celta Vigo,2.38,3.1,3.25,1.3,1.6154,1.3636,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-rayo-vallecano/tgbsVgb,2025-01-31,17:00,Leganés,Rayo Vallecano,3.3,3.0,2.38,1.5333,1.3333,1.3636,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-sevilla/Igbsjhb,2025-02-01,10:00,Getafe,Sevilla,2.63,2.75,3.1,1.3636,1.4444,1.4,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-villarreal/ugbsGgb,2025-02-01,12:15,Villarreal,Real Valladolid,1.22,7.0,11.0,1.05,4.0,1.1,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-mallorca/BgbsLgb,2025-02-01,14:30,Atlético Madrid,Mallorca,1.5,4.1,7.0,1.1,2.5,1.2222,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-espanyol/ogbsEgb,2025-02-01,17:00,Espanyol,Real Madrid,9.0,5.75,1.3,3.4,1.0714,1.1429,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-barcelona/rgbsKhb,2025-02-02,10:00,FC Barcelona,Deportivo Alavés,1.17,8.5,15.0,1.0303,5.0,1.0833,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-celta-vigo/wgbsDgb,2025-02-02,12:15,Valencia,Celta Vigo,2.25,3.0,3.5,1.2857,1.6154,1.3636,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/real-sociedad-osasuna/vgbszgb,2025-02-02,14:30,Osasuna,Real Sociedad,3.0,3.1,2.45,1.5333,1.3636,1.3636,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-real-betis/qgbsAgb,2025-02-02,17:00,Real Betis,Athletic Club,3.1,3.3,2.3,1.5714,1.3636,1.3333,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-las-palmas/CGcsoKj,2025-02-03,17:00,Girona FC,Las Palmas,1.48,4.5,6.25,1.125,2.625,1.1818,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-rayo-vallecano/tgbsGgb,2025-02-07,17:00,Rayo Vallecano,Real Valladolid,1.4,4.5,8.5,1.0714,2.75,1.2,2.375,1.5333,61643,LaLiga 24/25
+https://www.sofascore.com/celta-vigo-real-betis/qgbswgb,2025-02-08,10:00,Celta Vigo,Real Betis,2.15,3.4,3.5,1.2857,1.6667,1.3,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-athletic-club/AgbsoKj,2025-02-08,12:15,Athletic Club,Girona FC,1.73,3.6,5.0,1.1667,2.05,1.2857,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-villarreal/ugbsCGc,2025-02-08,14:30,Las Palmas,Villarreal,5.5,4.0,1.6,2.25,1.1429,1.2222,1.6667,2.1,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-real-madrid/EgbsLgb,2025-02-08,17:00,Real Madrid,Atlético Madrid,1.95,3.75,3.6,1.2857,1.8,1.25,1.5714,2.25,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-getafe/jhbsKhb,2025-02-09,10:00,Deportivo Alavés,Getafe,2.35,2.8,3.7,1.2857,1.5714,1.4,2.625,1.4444,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-valencia/DgbsVgb,2025-02-09,12:15,Valencia,Leganés,1.73,3.5,5.25,1.1667,2.05,1.2857,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/real-sociedad-espanyol/ogbszgb,2025-02-09,14:30,Real Sociedad,Espanyol,1.62,3.75,6.0,1.125,2.25,1.25,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-barcelona/rgbsIgb,2025-02-09,17:00,Sevilla,FC Barcelona,6.25,4.75,1.44,2.625,1.125,1.1818,1.6154,2.2,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-osasuna/vgbsBgb,2025-02-10,17:00,Mallorca,Osasuna,2.25,3.0,3.5,1.2857,1.6154,1.3636,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-getafe/jhbsoKj,2025-02-14,17:00,Girona FC,Getafe,1.91,3.1,4.75,1.1818,1.8,1.3636,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-leganes/VgbsKhb,2025-02-15,10:00,Leganés,Deportivo Alavés,3.7,3.0,2.25,1.6154,1.2857,1.3636,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-osasuna/vgbsEgb,2025-02-15,12:15,Osasuna,Real Madrid,6.0,4.75,1.48,2.625,1.125,1.1818,1.6154,2.2,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-celta-vigo/wgbsLgb,2025-02-15,14:30,Atlético Madrid,Celta Vigo,1.4,4.5,8.0,1.0833,2.75,1.1818,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-villarreal/ugbsDgb,2025-02-15,17:00,Villarreal,Valencia,1.67,3.8,5.0,1.1667,2.15,1.25,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-espanyol/ogbsAgb,2025-02-16,10:00,Espanyol,Athletic Club,4.75,3.6,1.75,2.05,1.1667,1.2857,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-real-valladolid/GgbsIgb,2025-02-16,12:15,Real Valladolid,Sevilla,4.0,3.4,1.95,1.8,1.2222,1.3,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-mallorca/BgbsCGc,2025-02-16,14:30,Mallorca,Las Palmas,1.8,3.5,4.5,1.1667,2.0,1.2857,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/real-sociedad-real-betis/qgbszgb,2025-02-16,17:00,Real Betis,Real Sociedad,2.4,3.1,3.1,1.3333,1.5714,1.3636,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/rayo-vallecano-barcelona/rgbstgb,2025-02-17,17:00,FC Barcelona,Rayo Vallecano,1.22,7.0,11.0,1.05,4.3333,1.1,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/celta-vigo-osasuna/vgbswgb,2025-02-21,17:00,Celta Vigo,Osasuna,1.7,3.7,5.0,1.1667,2.1,1.2857,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-espanyol/ogbsKhb,2025-02-22,10:00,Deportivo Alavés,Espanyol,1.85,3.1,5.25,1.1667,1.9091,1.3636,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/villarreal-rayo-vallecano/tgbsugb,2025-02-22,12:15,Rayo Vallecano,Villarreal,2.75,3.3,2.55,1.5,1.4,1.3333,1.6154,2.2,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-valencia/DgbsLgb,2025-02-22,14:30,Valencia,Atlético Madrid,3.9,3.2,2.05,1.7273,1.25,1.3333,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-barcelona/rgbsCGc,2025-02-22,17:00,Las Palmas,FC Barcelona,9.0,7.0,1.22,4.0,1.0714,1.1,1.7,2.05,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-athletic-club/AgbsGgb,2025-02-23,10:00,Athletic Club,Real Valladolid,1.2,6.5,17.0,1.025,4.3333,1.1111,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-real-madrid/EgbsoKj,2025-02-23,12:15,Real Madrid,Girona FC,1.3,6.25,8.0,1.0833,3.4,1.125,1.7,2.05,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-real-betis/qgbsjhb,2025-02-23,14:30,Getafe,Real Betis,2.9,2.9,2.7,1.4444,1.4,1.4,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-real-sociedad/zgbsVgb,2025-02-23,17:00,Real Sociedad,Leganés,1.57,3.7,7.0,1.1111,2.3,1.25,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-mallorca/BgbsIgb,2025-02-24,17:00,Sevilla,Mallorca,1.91,3.2,4.3333,1.2,1.8333,1.3636,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-real-valladolid/GgbsCGc,2025-02-28,17:00,Real Valladolid,Las Palmas,3.0,3.2,2.45,1.5,1.4,1.3636,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-celta-vigo/wgbsoKj,2025-03-01,10:00,Girona FC,Celta Vigo,2.15,3.4,3.4,1.2857,1.6667,1.3333,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-rayo-vallecano/tgbsIgb,2025-03-01,12:15,Rayo Vallecano,Sevilla,2.5,3.0,3.0,1.3636,1.5,1.3636,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-real-betis/qgbsEgb,2025-03-01,14:30,Real Betis,Real Madrid,3.7,3.75,1.91,1.8333,1.2857,1.25,1.5333,2.375,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-athletic-club/AgbsLgb,2025-03-01,17:00,Atlético Madrid,Athletic Club,2.1,3.3,3.5,1.2857,1.7,1.3333,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-leganes/Vgbsjhb,2025-03-02,10:00,Leganés,Getafe,3.0,2.8,2.7,1.4444,1.3636,1.4,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/real-sociedad-barcelona/rgbszgb,2025-03-02,12:15,FC Barcelona,Real Sociedad,1.25,5.75,11.0,1.05,3.75,1.1429,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-mallorca/BgbsKhb,2025-03-02,14:30,Mallorca,Deportivo Alavés,2.45,3.0,3.2,1.3636,1.5333,1.3636,2.375,1.5333,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-osasuna/vgbsDgb,2025-03-02,17:00,Osasuna,Valencia,2.25,3.2,3.4,1.3,1.6154,1.3636,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-celta-vigo/wgbsVgb,2025-03-08,10:00,Celta Vigo,Leganés,1.57,4.0,6.0,1.1111,2.375,1.2222,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-villarreal/ugbsKhb,2025-03-08,12:15,Deportivo Alavés,Villarreal,3.0,3.1,2.5,1.5,1.3636,1.3636,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-valencia/DgbsGgb,2025-03-08,14:30,Valencia,Real Valladolid,1.4,4.5,8.0,1.0833,2.75,1.1818,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-atletico-madrid/Lgbsjhb,2025-03-09,10:00,Getafe,Atlético Madrid,4.75,3.2,1.9,1.9091,1.1818,1.3636,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-rayo-vallecano/tgbsEgb,2025-03-09,12:15,Real Madrid,Rayo Vallecano,1.29,5.5,10.0,1.0625,3.5,1.1429,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-athletic-club/AgbsBgb,2025-03-09,14:30,Athletic Club,Mallorca,1.7,3.5,5.75,1.1429,2.1,1.3,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-real-betis/qgbsCGc,2025-03-09,14:30,Real Betis,Las Palmas,1.3,5.25,10.0,1.0625,3.25,1.1667,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-real-sociedad/zgbsIgb,2025-03-09,17:00,Real Sociedad,Sevilla,2.45,3.1,3.1,1.3636,1.5333,1.3636,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-espanyol/ogbsoKj,2025-03-10,17:00,Espanyol,Girona FC,3.4,3.2,2.25,1.5714,1.3333,1.3636,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-deportivo-alaves/KhbsCGc,2025-03-14,17:00,Las Palmas,Deportivo Alavés,2.8,3.0,2.75,1.4,1.4,1.3636,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-celta-vigo/wgbsGgb,2025-03-15,10:00,Real Valladolid,Celta Vigo,5.0,3.9,1.67,2.05,1.1818,1.25,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-espanyol/ogbsBgb,2025-03-15,12:15,Mallorca,Espanyol,1.8,3.4,4.75,1.1818,1.95,1.3,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-villarreal/ugbsEgb,2025-03-15,14:30,Villarreal,Real Madrid,3.1,3.6,2.2,1.6154,1.3636,1.2857,1.5,2.5,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-valencia/DgbsoKj,2025-03-15,17:00,Girona FC,Valencia,1.91,3.7,3.9,1.25,1.8333,1.2857,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-real-betis/qgbsVgb,2025-03-16,10:00,Leganés,Real Betis,3.9,3.3,2.0,1.8,1.25,1.3333,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-athletic-club/AgbsIgb,2025-03-16,12:15,Sevilla,Athletic Club,2.75,3.1,2.75,1.4,1.4,1.3636,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/real-sociedad-rayo-vallecano/tgbszgb,2025-03-16,14:30,Rayo Vallecano,Real Sociedad,2.35,3.0,3.5,1.2857,1.5714,1.3636,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-osasuna/vgbsjhb,2025-03-16,14:30,Osasuna,Getafe,2.38,2.8,3.6,1.2857,1.5333,1.4,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-barcelona/rgbsLgb,2025-03-16,17:00,Atlético Madrid,FC Barcelona,3.1,3.6,2.25,1.5,1.4444,1.3,1.5333,2.375,61643,LaLiga 24/25
+https://www.sofascore.com/osasuna-barcelona/rgbsvgb,2025-03-27,17:00,FC Barcelona,Osasuna,1.18,7.5,15.0,1.0303,4.5,1.1,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-real-sociedad/zgbsGgb,2025-03-29,10:00,Real Sociedad,Real Valladolid,1.36,4.75,9.5,1.0714,3.0,1.1818,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-espanyol/ogbsLgb,2025-03-29,12:15,Espanyol,Atlético Madrid,5.5,3.7,1.65,2.2,1.1429,1.2857,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-rayo-vallecano/tgbsKhb,2025-03-29,14:30,Deportivo Alavés,Rayo Vallecano,2.1,3.0,4.1,1.2222,1.6667,1.4,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-real-madrid/EgbsVgb,2025-03-29,17:00,Real Madrid,Leganés,1.2,6.5,15.0,1.0303,4.5,1.1,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-villarreal/ugbsjhb,2025-03-30,09:00,Getafe,Villarreal,3.25,3.1,2.38,1.5333,1.3636,1.3636,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-barcelona/rgbsoKj,2025-03-30,11:15,FC Barcelona,Girona FC,1.29,6.25,8.5,1.0833,3.4,1.125,1.6667,2.1,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-osasuna/vgbsAgb,2025-03-30,13:30,Athletic Club,Osasuna,1.48,4.0,7.0,1.1,2.625,1.2222,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-mallorca/BgbsDgb,2025-03-30,13:30,Valencia,Mallorca,1.95,3.2,4.3333,1.2222,1.8,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-real-betis/qgbsIgb,2025-03-30,16:00,Real Betis,Sevilla,1.8,3.5,4.75,1.1818,1.95,1.2857,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-celta-vigo/wgbsCGc,2025-03-31,16:00,Celta Vigo,Las Palmas,1.58,4.0,5.5,1.1429,2.3,1.2222,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/rayo-vallecano-espanyol/ogbstgb,2025-04-04,16:00,Rayo Vallecano,Espanyol,1.65,3.5,6.0,1.125,2.2,1.2857,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-deportivo-alaves/KhbsoKj,2025-04-05,09:00,Girona FC,Deportivo Alavés,2.05,3.4,3.6,1.2857,1.7273,1.3,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-valencia/DgbsEgb,2025-04-05,11:15,Real Madrid,Valencia,1.29,6.25,9.0,1.0833,3.4,1.125,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-celta-vigo/wgbsBgb,2025-04-05,13:30,Mallorca,Celta Vigo,2.8,3.1,2.7,1.4,1.4444,1.3636,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/barcelona-real-betis/qgbsrgb,2025-04-05,16:00,FC Barcelona,Real Betis,1.33,5.75,7.0,1.1,3.25,1.1429,1.6154,2.2,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-real-sociedad/zgbsCGc,2025-04-06,09:00,Las Palmas,Real Sociedad,2.9,3.3,2.45,1.5333,1.4,1.3333,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-sevilla/IgbsLgb,2025-04-06,11:15,Sevilla,Atlético Madrid,3.5,3.2,2.2,1.6667,1.2857,1.3636,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-real-valladolid/Ggbsjhb,2025-04-06,13:30,Real Valladolid,Getafe,4.3333,3.1,2.0,1.8,1.2,1.3636,2.25,1.5714,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-villarreal/ugbsAgb,2025-04-06,16:00,Villarreal,Athletic Club,2.3,3.4,3.1,1.3636,1.5714,1.3,1.7,2.05,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-osasuna/vgbsVgb,2025-04-07,16:00,Leganés,Osasuna,2.7,2.9,3.0,1.3636,1.4444,1.4,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-valencia/DgbsIgb,2025-04-11,16:00,Valencia,Sevilla,2.25,3.2,3.4,1.3,1.6154,1.3636,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-real-sociedad/zgbsBgb,2025-04-12,09:00,Real Sociedad,Mallorca,2.0,3.2,4.3333,1.2,1.8,1.3636,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-getafe/jhbsCGc,2025-04-12,11:15,Getafe,Las Palmas,1.7,3.7,5.25,1.1667,2.1,1.2857,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/celta-vigo-espanyol/ogbswgb,2025-04-12,13:30,Celta Vigo,Espanyol,1.65,3.7,5.75,1.125,2.25,1.2857,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-barcelona/rgbsVgb,2025-04-12,16:00,Leganés,FC Barcelona,9.0,6.5,1.25,3.75,1.0714,1.1111,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-osasuna/vgbsoKj,2025-04-13,09:00,Osasuna,Girona FC,2.55,3.1,3.0,1.3636,1.5,1.3636,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-real-madrid/EgbsKhb,2025-04-13,11:15,Deportivo Alavés,Real Madrid,5.0,3.8,1.7,2.1,1.1667,1.25,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/villarreal-real-betis/qgbsugb,2025-04-13,13:30,Real Betis,Villarreal,2.2,3.4,3.3,1.3333,1.6667,1.3,1.6154,2.2,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-rayo-vallecano/tgbsAgb,2025-04-13,16:00,Athletic Club,Rayo Vallecano,1.85,3.1,5.0,1.1667,1.9091,1.3636,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-real-valladolid/GgbsLgb,2025-04-14,16:00,Atlético Madrid,Real Valladolid,1.08,9.5,29.0,1.01,8.0,1.0714,2.75,1.4,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-espanyol/ogbsjhb,2025-04-18,16:00,Espanyol,Getafe,2.7,2.7,3.3,1.3636,1.4,1.4444,2.375,1.5333,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-rayo-vallecano/tgbsDgb,2025-04-19,09:00,Rayo Vallecano,Valencia,2.35,3.2,3.2,1.3333,1.5714,1.3636,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/celta-vigo-barcelona/rgbswgb,2025-04-19,11:15,FC Barcelona,Celta Vigo,1.25,6.0,10.0,1.0303,3.75,1.1111,1.8333,1.8333,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-mallorca/BgbsVgb,2025-04-19,13:30,Mallorca,Leganés,1.83,3.0,5.5,1.1429,1.95,1.3636,2.375,1.5333,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-atletico-madrid/LgbsCGc,2025-04-19,16:00,Las Palmas,Atlético Madrid,5.5,4.0,1.62,2.3,1.1429,1.25,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-osasuna/vgbsGgb,2025-04-20,09:00,Real Valladolid,Osasuna,5.25,3.5,1.73,2.05,1.1667,1.2857,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/real-sociedad-villarreal/ugbszgb,2025-04-20,11:15,Villarreal,Real Sociedad,1.67,3.9,5.0,1.1667,2.25,1.2222,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-sevilla/IgbsKhb,2025-04-20,13:30,Sevilla,Deportivo Alavés,2.1,3.0,4.2,1.2222,1.7273,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-athletic-club/AgbsEgb,2025-04-20,16:00,Real Madrid,Athletic Club,1.42,4.5,7.5,1.1,2.75,1.1818,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-real-betis/qgbsoKj,2025-04-21,16:00,Girona FC,Real Betis,2.63,3.4,2.63,1.4444,1.5,1.3333,1.6667,2.1,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-espanyol/ogbsDgb,2025-04-22,14:00,Valencia,Espanyol,1.95,3.3,4.1,1.2222,1.8,1.3333,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-barcelona/rgbsBgb,2025-04-22,16:30,FC Barcelona,Mallorca,1.29,5.5,10.0,1.0833,3.4,1.1429,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-athletic-club/AgbsCGc,2025-04-23,14:00,Athletic Club,Las Palmas,1.33,5.0,8.0,1.1,3.0,1.1667,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/celta-vigo-villarreal/ugbswgb,2025-04-23,14:00,Celta Vigo,Villarreal,2.38,3.5,2.9,1.4,1.5333,1.2857,1.5333,2.375,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-real-madrid/Egbsjhb,2025-04-23,16:30,Getafe,Real Madrid,6.0,3.7,1.6,2.25,1.1429,1.2857,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-real-sociedad/zgbsKhb,2025-04-23,16:30,Deportivo Alavés,Real Sociedad,2.3,3.1,3.4,1.3636,1.5,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-osasuna/vgbsIgb,2025-04-24,14:00,Osasuna,Sevilla,2.3,3.1,3.5,1.2857,1.5714,1.3636,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-leganes/VgbsoKj,2025-04-24,14:00,Leganés,Girona FC,3.0,3.0,2.6,1.5333,1.3333,1.3636,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-rayo-vallecano/tgbsLgb,2025-04-24,16:30,Atlético Madrid,Rayo Vallecano,1.48,4.2,7.0,1.1111,2.5,1.2222,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-real-betis/qgbsGgb,2025-04-24,16:30,Real Betis,Real Valladolid,1.14,8.0,13.0,1.04,5.0,1.1,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/villarreal-espanyol/ogbsugb,2025-04-27,11:15,Villarreal,Espanyol,1.4,5.25,6.5,1.1111,3.0,1.1667,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-rayo-vallecano/tgbsjhb,2025-05-02,16:00,Rayo Vallecano,Getafe,2.3,3.0,3.5,1.3,1.5333,1.3636,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-atletico-madrid/LgbsKhb,2025-05-03,09:00,Deportivo Alavés,Atlético Madrid,3.7,3.2,2.1,1.7,1.2857,1.3636,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/osasuna-villarreal/ugbsvgb,2025-05-03,11:15,Villarreal,Osasuna,1.42,4.75,7.0,1.1,2.75,1.1818,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-valencia/DgbsCGc,2025-05-03,13:30,Las Palmas,Valencia,2.55,3.1,2.9,1.4,1.5,1.3636,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-barcelona/rgbsGgb,2025-05-03,16:00,Real Valladolid,FC Barcelona,8.5,5.5,1.33,3.25,1.0833,1.1667,1.6667,2.1,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-celta-vigo/wgbsEgb,2025-05-04,09:00,Real Madrid,Celta Vigo,1.36,5.75,7.0,1.1,3.0,1.1429,1.5714,2.25,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-sevilla/IgbsVgb,2025-05-04,11:15,Sevilla,Leganés,1.73,3.6,5.0,1.1667,2.05,1.2857,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/real-betis-espanyol/ogbsqgb,2025-05-04,13:30,Espanyol,Real Betis,3.3,3.1,2.35,1.5333,1.3333,1.3636,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-real-sociedad/zgbsAgb,2025-05-04,16:00,Real Sociedad,Athletic Club,2.45,3.0,3.2,1.3636,1.5,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-mallorca/BgbsoKj,2025-05-05,16:00,Girona FC,Mallorca,2.0,3.25,4.0,1.2222,1.8,1.3333,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-rayo-vallecano/tgbsCGc,2025-05-09,16:00,Las Palmas,Rayo Vallecano,2.45,3.1,3.1,1.4,1.5,1.3636,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-valencia/Dgbsjhb,2025-05-10,09:00,Valencia,Getafe,2.0,3.1,4.3333,1.2,1.8,1.3636,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-celta-vigo/wgbsIgb,2025-05-10,11:15,Celta Vigo,Sevilla,1.83,3.6,4.5,1.2,1.9091,1.2857,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-villarreal/ugbsoKj,2025-05-10,13:30,Girona FC,Villarreal,2.8,3.6,2.3,1.6154,1.4,1.25,1.4444,2.625,61643,LaLiga 24/25
+https://www.sofascore.com/real-valladolid-mallorca/BgbsGgb,2025-05-10,13:30,Mallorca,Real Valladolid,1.33,5.5,9.0,1.0833,3.25,1.1667,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-real-sociedad/zgbsLgb,2025-05-10,16:00,Atlético Madrid,Real Sociedad,1.8,3.5,4.5,1.1818,1.95,1.2857,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-espanyol/ogbsVgb,2025-05-11,09:00,Leganés,Espanyol,2.35,3.2,3.1,1.3636,1.5714,1.3636,1.9091,1.9091,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-barcelona/rgbsEgb,2025-05-11,11:15,FC Barcelona,Real Madrid,1.85,4.2,3.5,1.2857,1.9091,1.2222,1.3,3.4,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-athletic-club/AgbsKhb,2025-05-11,13:30,Athletic Club,Deportivo Alavés,2.05,2.9,4.3333,1.2,1.7273,1.4,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/osasuna-real-betis/qgbsvgb,2025-05-11,16:00,Real Betis,Osasuna,1.6,4.1,5.25,1.1667,2.25,1.2222,1.7,2.05,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-real-valladolid/GgbsoKj,2025-05-13,14:00,Real Valladolid,Girona FC,4.5,4.0,1.7,2.05,1.1818,1.2222,1.7,2.05,61643,LaLiga 24/25
+https://www.sofascore.com/real-sociedad-celta-vigo/wgbszgb,2025-05-13,15:00,Real Sociedad,Celta Vigo,2.3,3.3,3.1,1.3636,1.5714,1.3333,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-sevilla/IgbsCGc,2025-05-13,16:30,Sevilla,Las Palmas,1.67,3.75,5.0,1.1667,2.2,1.25,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-villarreal/ugbsVgb,2025-05-14,14:00,Villarreal,Leganés,1.3,5.75,8.5,1.0833,3.4,1.125,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-valencia/DgbsKhb,2025-05-14,14:00,Deportivo Alavés,Valencia,2.3,2.9,3.6,1.2857,1.6154,1.4,2.2,1.6154,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-mallorca/BgbsEgb,2025-05-14,16:30,Real Madrid,Mallorca,1.42,4.75,7.0,1.1,2.75,1.1667,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-osasuna/vgbsLgb,2025-05-15,14:00,Osasuna,Atlético Madrid,3.5,3.4,2.05,1.7,1.2857,1.3,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/rayo-vallecano-real-betis/qgbstgb,2025-05-15,14:00,Rayo Vallecano,Real Betis,3.2,3.25,2.3,1.5714,1.3636,1.3333,1.75,2.0,61643,LaLiga 24/25
+https://www.sofascore.com/barcelona-espanyol/ogbsrgb,2025-05-15,16:30,Espanyol,FC Barcelona,7.5,5.75,1.33,3.25,1.1,1.1429,1.5,2.5,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-athletic-club/Agbsjhb,2025-05-15,16:30,Getafe,Athletic Club,3.1,2.6,2.88,1.4,1.3636,1.4444,2.5,1.5,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-real-madrid/EgbsIgb,2025-05-18,14:00,Sevilla,Real Madrid,3.0,3.7,2.2,1.6667,1.3636,1.2857,1.5,2.5,61643,LaLiga 24/25
+https://www.sofascore.com/villarreal-barcelona/rgbsugb,2025-05-18,14:00,FC Barcelona,Villarreal,1.73,4.5,4.0,1.2222,2.05,1.1818,1.2857,3.5,61643,LaLiga 24/25
+https://www.sofascore.com/atletico-madrid-real-betis/qgbsLgb,2025-05-18,14:00,Atlético Madrid,Real Betis,1.55,4.3333,5.5,1.1429,2.375,1.2,1.7,2.05,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-real-sociedad/zgbsoKj,2025-05-18,14:00,Real Sociedad,Girona FC,1.73,3.25,4.3333,1.1667,2.05,1.2857,1.7,2.05,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-athletic-club/AgbsDgb,2025-05-18,14:00,Valencia,Athletic Club,2.63,2.88,3.1,1.3636,1.4444,1.4,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/celta-vigo-rayo-vallecano/tgbswgb,2025-05-18,14:00,Celta Vigo,Rayo Vallecano,1.85,3.6,4.2,1.2222,1.9091,1.2857,1.8,1.95,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-mallorca/Bgbsjhb,2025-05-18,14:00,Mallorca,Getafe,2.38,2.88,3.5,1.2857,1.5333,1.4,2.375,1.5333,61643,LaLiga 24/25
+https://www.sofascore.com/osasuna-espanyol/ogbsvgb,2025-05-18,14:00,Osasuna,Espanyol,1.83,3.4,4.75,1.1818,1.9091,1.3,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-real-valladolid/GgbsKhb,2025-05-18,14:00,Real Valladolid,Deportivo Alavés,5.5,3.7,1.65,2.2,1.1429,1.2857,2.0,1.75,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-leganes/VgbsCGc,2025-05-18,14:00,Las Palmas,Leganés,3.2,3.4,2.25,1.6154,1.3636,1.3,1.7,2.05,61643,LaLiga 24/25
+https://www.sofascore.com/valencia-real-betis/qgbsDgb,2025-05-23,16:00,Real Betis,Valencia,1.9,3.9,3.7,1.2857,1.8333,1.25,1.5,2.5,61643,LaLiga 24/25
+https://www.sofascore.com/real-madrid-real-sociedad/zgbsEgb,2025-05-24,11:15,Real Madrid,Real Sociedad,1.36,5.75,7.0,1.1,3.0,1.1429,1.5333,2.375,61643,LaLiga 24/25
+https://www.sofascore.com/las-palmas-espanyol/ogbsCGc,2025-05-24,13:30,Espanyol,Las Palmas,1.4,5.0,7.0,1.0714,3.25,1.1429,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/leganes-real-valladolid/GgbsVgb,2025-05-24,13:30,Leganés,Real Valladolid,1.33,5.5,8.5,1.0714,3.25,1.1429,2.05,1.7,61643,LaLiga 24/25
+https://www.sofascore.com/getafe-celta-vigo/wgbsjhb,2025-05-24,16:00,Getafe,Celta Vigo,4.3333,3.7,1.83,2.0,1.1818,1.25,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/mallorca-rayo-vallecano/tgbsBgb,2025-05-24,16:00,Rayo Vallecano,Mallorca,1.45,4.5,7.0,1.0833,2.625,1.2,2.1,1.6667,61643,LaLiga 24/25
+https://www.sofascore.com/deportivo-alaves-osasuna/vgbsKhb,2025-05-24,16:00,Deportivo Alavés,Osasuna,3.1,3.2,2.4,1.5333,1.3636,1.3636,1.95,1.8,61643,LaLiga 24/25
+https://www.sofascore.com/girona-fc-atletico-madrid/LgbsoKj,2025-05-25,09:00,Girona FC,Atlético Madrid,3.4,3.5,2.1,1.7,1.3,1.2857,1.4444,2.625,61643,LaLiga 24/25
+https://www.sofascore.com/sevilla-villarreal/ugbsIgb,2025-05-25,11:15,Villarreal,Sevilla,1.6,4.5,4.75,1.1818,2.25,1.1818,1.5714,2.25,61643,LaLiga 24/25
+https://www.sofascore.com/athletic-club-barcelona/rgbsAgb,2025-05-25,16:00,Athletic Club,FC Barcelona,3.0,3.9,2.15,1.6667,1.3636,1.25,1.4,2.75,61643,LaLiga 24/25
+https://www.sofascore.com/almeria-rayo-vallecano/tgbsihb,2023-08-11,14:30,Almería,Rayo Vallecano,2.63,3.2,2.75,1.4,1.4444,1.3636,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-valencia/DgbsIgb,2023-08-11,17:00,Sevilla,Valencia,1.95,3.4,4.2,1.2222,1.8,1.3,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-real-sociedad/zgbsoKj,2023-08-12,12:00,Real Sociedad,Girona FC,1.8,3.6,4.3333,1.1818,2.1,1.25,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-mallorca/BgbsCGc,2023-08-12,14:30,Las Palmas,Mallorca,2.55,2.9,3.1,1.3636,1.5,1.4,2.375,1.5333,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-athletic-club/AgbsEgb,2023-08-12,16:30,Athletic Club,Real Madrid,3.25,3.4,2.2,1.6667,1.3333,1.3,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/celta-vigo-osasuna/vgbswgb,2023-08-13,12:00,Celta Vigo,Osasuna,2.05,3.2,4.0,1.2222,1.7273,1.3636,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/villarreal-real-betis/qgbsugb,2023-08-13,14:30,Villarreal,Real Betis,1.7,4.0,4.5,1.1818,2.1,1.2222,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-barcelona/rgbsjhb,2023-08-13,16:30,Getafe,FC Barcelona,6.5,4.0,1.53,2.375,1.1111,1.2222,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-deportivo-alaves/KhbsNOb,2023-08-14,14:30,Cádiz,Deportivo Alavés,2.25,3.0,3.75,1.25,1.6154,1.3636,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/granada-atletico-madrid/LgbsEAn,2023-08-14,16:30,Atlético Madrid,Granada,1.33,5.25,8.5,1.0833,3.25,1.1667,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-villarreal/ugbsBgb,2023-08-18,14:30,Mallorca,Villarreal,2.7,3.3,2.7,1.4444,1.4444,1.3636,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-valencia/DgbsCGc,2023-08-18,16:30,Valencia,Las Palmas,1.6,3.8,6.0,1.125,2.3,1.25,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/real-sociedad-celta-vigo/wgbszgb,2023-08-19,12:00,Real Sociedad,Celta Vigo,1.73,3.4,5.5,1.1429,2.05,1.3,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-real-madrid/Egbsihb,2023-08-19,14:30,Almería,Real Madrid,7.0,5.0,1.4,2.75,1.1,1.1667,1.6154,2.2,52376,LaLiga 23/24
+https://www.sofascore.com/athletic-club-osasuna/vgbsAgb,2023-08-19,16:30,Osasuna,Athletic Club,2.88,2.9,2.7,1.4444,1.4,1.4,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-getafe/jhbsoKj,2023-08-20,14:00,Girona FC,Getafe,1.95,3.2,4.75,1.1818,1.8,1.3636,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-barcelona/rgbsNOb,2023-08-20,14:30,FC Barcelona,Cádiz,1.25,6.0,11.0,1.05,3.75,1.125,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-real-betis/qgbsLgb,2023-08-20,16:30,Real Betis,Atlético Madrid,3.75,3.4,2.0,1.8,1.25,1.3,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-sevilla/IgbsKhb,2023-08-21,14:00,Deportivo Alavés,Sevilla,3.4,3.0,2.3,1.5714,1.3,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/granada-rayo-vallecano/tgbsEAn,2023-08-21,16:30,Granada,Rayo Vallecano,2.88,3.1,2.63,1.4444,1.4,1.3636,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-real-sociedad/zgbsCGc,2023-08-25,14:30,Las Palmas,Real Sociedad,4.3333,3.3,1.91,1.8333,1.2,1.3333,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-celta-vigo/wgbsEgb,2023-08-25,16:30,Celta Vigo,Real Madrid,4.5,3.8,1.75,1.9091,1.2222,1.2857,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-almeria/ihbsNOb,2023-08-26,14:00,Cádiz,Almería,2.2,3.2,3.6,1.2857,1.6667,1.3636,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/granada-mallorca/BgbsEAn,2023-08-26,14:30,Granada,Mallorca,2.7,3.0,2.9,1.4,1.4444,1.3636,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-sevilla/IgbsoKj,2023-08-26,16:30,Sevilla,Girona FC,1.91,3.5,4.2,1.2222,1.8333,1.2857,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/villarreal-barcelona/rgbsugb,2023-08-27,12:30,Villarreal,FC Barcelona,3.4,3.6,2.1,1.7,1.3,1.2857,1.5333,2.375,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-osasuna/vgbsDgb,2023-08-27,14:30,Valencia,Osasuna,1.75,3.4,5.25,1.1667,2.0,1.3,2.375,1.5333,52376,LaLiga 23/24
+https://www.sofascore.com/athletic-club-real-betis/qgbsAgb,2023-08-27,16:30,Athletic Club,Real Betis,1.91,3.3,4.0,1.2222,1.8333,1.3333,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-getafe/jhbsKhb,2023-08-28,14:30,Getafe,Deportivo Alavés,2.38,2.6,3.8,1.2857,1.5333,1.5,2.75,1.4,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-rayo-vallecano/tgbsLgb,2023-08-28,16:30,Rayo Vallecano,Atlético Madrid,3.8,3.3,2.05,1.7273,1.25,1.3333,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-villarreal/ugbsNOb,2023-09-01,14:30,Cádiz,Villarreal,3.3,3.4,2.2,1.6667,1.3333,1.3,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-celta-vigo/wgbsihb,2023-09-01,17:00,Almería,Celta Vigo,2.8,3.3,2.5,1.5,1.4,1.3333,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/granada-real-sociedad/zgbsEAn,2023-09-02,09:00,Real Sociedad,Granada,1.4,4.5,8.0,1.0833,2.75,1.1818,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-real-madrid/Egbsjhb,2023-09-02,11:15,Real Madrid,Getafe,1.36,5.0,8.5,1.0833,3.0,1.1667,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-valencia/DgbsKhb,2023-09-02,13:30,Deportivo Alavés,Valencia,3.2,2.9,2.55,1.5,1.3636,1.4,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/rayo-vallecano-real-betis/qgbstgb,2023-09-02,16:00,Real Betis,Rayo Vallecano,2.0,3.4,3.8,1.25,1.8,1.3,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-las-palmas/CGcsoKj,2023-09-03,09:00,Girona FC,Las Palmas,1.7,4.0,4.75,1.1818,2.1,1.2222,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-athletic-club/AgbsBgb,2023-09-03,11:15,Mallorca,Athletic Club,3.2,2.9,2.5,1.5333,1.3,1.4,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-sevilla/IgbsLgb,2023-09-03,13:30,Atlético Madrid,Sevilla,1.0,1.0,1.0,1.1429,2.375,1.2,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/osasuna-barcelona/rgbsvgb,2023-09-03,16:00,Osasuna,FC Barcelona,6.5,4.5,1.5,2.5,1.1111,1.1818,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-rayo-vallecano/tgbsKhb,2023-09-15,16:00,Rayo Vallecano,Deportivo Alavés,2.05,3.2,3.8,1.25,1.7273,1.3636,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-athletic-club/AgbsNOb,2023-09-16,09:00,Athletic Club,Cádiz,1.53,3.8,7.0,1.1,2.375,1.25,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-valencia/DgbsLgb,2023-09-16,11:15,Valencia,Atlético Madrid,3.4,3.25,2.2,1.6667,1.3,1.3333,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-celta-vigo/wgbsBgb,2023-09-16,13:30,Celta Vigo,Mallorca,2.0,3.1,4.3333,1.2,1.8,1.3636,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/barcelona-real-betis/qgbsrgb,2023-09-16,16:00,FC Barcelona,Real Betis,1.33,5.5,8.5,1.0833,3.25,1.1429,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-osasuna/vgbsjhb,2023-09-17,09:00,Getafe,Osasuna,2.6,2.88,3.1,1.3636,1.5,1.4,2.5,1.5,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-villarreal/ugbsihb,2023-09-17,11:15,Villarreal,Almería,1.5,4.5,5.75,1.1429,2.5,1.1818,1.5,2.5,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-sevilla/IgbsCGc,2023-09-17,13:30,Sevilla,Las Palmas,1.57,4.2,6.0,1.125,2.3,1.2222,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-real-sociedad/zgbsEgb,2023-09-17,16:00,Real Madrid,Real Sociedad,1.65,4.0,5.0,1.1667,2.2,1.2222,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/granada-girona-fc/oKjsEAn,2023-09-18,16:00,Granada,Girona FC,2.7,3.5,2.45,1.5333,1.4444,1.2857,1.5714,2.25,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-athletic-club/AgbsKhb,2023-09-22,16:00,Deportivo Alavés,Athletic Club,4.75,3.1,1.95,1.8,1.1818,1.3636,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-mallorca/BgbsoKj,2023-09-23,09:00,Girona FC,Mallorca,1.91,3.3,4.5,1.1818,1.8333,1.3333,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-osasuna/vgbsIgb,2023-09-23,11:15,Osasuna,Sevilla,2.3,3.2,3.3,1.3333,1.5714,1.3636,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/celta-vigo-barcelona/rgbswgb,2023-09-23,13:30,FC Barcelona,Celta Vigo,1.25,6.0,11.0,1.05,3.75,1.125,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-valencia/Dgbsihb,2023-09-23,16:00,Almería,Valencia,2.7,3.5,2.55,1.5,1.4444,1.2857,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-real-sociedad/zgbsjhb,2023-09-24,09:00,Real Sociedad,Getafe,1.65,3.4,6.5,1.1111,2.15,1.3333,2.625,1.4444,52376,LaLiga 23/24
+https://www.sofascore.com/villarreal-rayo-vallecano/tgbsugb,2023-09-24,11:15,Rayo Vallecano,Villarreal,2.45,3.4,2.8,1.4,1.5333,1.3,1.6154,2.2,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-real-betis/qgbsNOb,2023-09-24,13:30,Real Betis,Cádiz,1.75,3.5,4.75,1.1818,2.0,1.2857,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/granada-las-palmas/CGcsEAn,2023-09-24,13:30,Las Palmas,Granada,1.91,3.6,4.0,1.2222,1.8333,1.2857,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-real-madrid/EgbsLgb,2023-09-24,16:00,Atlético Madrid,Real Madrid,2.75,3.3,2.6,1.5,1.4,1.3333,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-sevilla/Igbsihb,2023-09-26,14:00,Sevilla,Almería,1.62,4.0,5.5,1.1429,2.25,1.2222,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-barcelona/rgbsBgb,2023-09-26,16:30,Mallorca,FC Barcelona,7.0,4.3333,1.45,2.5,1.1,1.2222,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-real-madrid/EgbsCGc,2023-09-27,14:00,Real Madrid,Las Palmas,1.2,7.0,13.0,1.04,4.3333,1.1,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-villarreal/ugbsoKj,2023-09-27,14:00,Villarreal,Girona FC,2.15,3.75,3.25,1.3333,1.6667,1.25,1.5,2.5,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-athletic-club/Agbsjhb,2023-09-27,14:00,Athletic Club,Getafe,1.53,4.2,6.5,1.1111,2.375,1.2222,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-real-sociedad/zgbsDgb,2023-09-27,16:30,Valencia,Real Sociedad,2.5,3.0,3.1,1.3636,1.5,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-rayo-vallecano/tgbsNOb,2023-09-27,16:30,Cádiz,Rayo Vallecano,2.55,3.1,2.9,1.4,1.5,1.3636,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/granada-real-betis/qgbsEAn,2023-09-28,14:00,Granada,Real Betis,2.9,3.3,2.45,1.5333,1.4,1.3333,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-celta-vigo/wgbsKhb,2023-09-28,14:00,Celta Vigo,Deportivo Alavés,1.62,3.6,6.0,1.125,2.25,1.2857,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-osasuna/vgbsLgb,2023-09-28,16:30,Osasuna,Atlético Madrid,3.8,3.4,2.0,1.8,1.25,1.3,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-barcelona/rgbsIgb,2023-09-29,16:00,FC Barcelona,Sevilla,1.33,5.25,8.5,1.0833,3.25,1.1667,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-villarreal/ugbsjhb,2023-09-30,09:00,Getafe,Villarreal,2.75,3.0,2.75,1.4,1.4,1.3636,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-rayo-vallecano/tgbsBgb,2023-09-30,11:15,Rayo Vallecano,Mallorca,2.0,3.1,4.2,1.2,1.8,1.3636,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-real-madrid/EgbsoKj,2023-09-30,13:30,Girona FC,Real Madrid,3.75,4.0,1.85,1.8333,1.2857,1.2222,1.5333,2.375,52376,LaLiga 23/24
+https://www.sofascore.com/athletic-club-real-sociedad/zgbsAgb,2023-09-30,16:00,Real Sociedad,Athletic Club,2.2,3.1,3.6,1.2857,1.6667,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/granada-almeria/ihbsEAn,2023-10-01,09:00,Almería,Granada,1.91,3.75,3.8,1.25,1.8333,1.25,1.6154,2.2,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-osasuna/vgbsKhb,2023-10-01,11:15,Deportivo Alavés,Osasuna,2.5,3.0,3.1,1.3636,1.5,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-atletico-madrid/LgbsNOb,2023-10-01,16:00,Atlético Madrid,Cádiz,1.33,5.5,9.0,1.0714,3.25,1.1429,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-real-betis/qgbsDgb,2023-10-01,16:00,Real Betis,Valencia,2.05,3.25,4.0,1.25,1.7,1.3333,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-celta-vigo/wgbsCGc,2023-10-02,16:00,Las Palmas,Celta Vigo,2.8,3.1,2.6,1.5,1.4,1.3636,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-athletic-club/Agbsihb,2023-10-06,16:00,Athletic Club,Almería,1.3,5.75,8.5,1.0833,3.4,1.1429,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-cadiz/NObsoKj,2023-10-07,09:00,Cádiz,Girona FC,3.25,3.4,2.25,1.6154,1.3333,1.3,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-osasuna/vgbsEgb,2023-10-07,11:15,Real Madrid,Osasuna,1.29,6.5,8.5,1.0833,3.5,1.1111,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-mallorca/BgbsDgb,2023-10-07,13:30,Mallorca,Valencia,2.45,2.9,3.2,1.3636,1.5333,1.4,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-rayo-vallecano/tgbsIgb,2023-10-07,16:00,Sevilla,Rayo Vallecano,1.83,3.6,4.2,1.2222,1.9091,1.2857,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-villarreal/ugbsCGc,2023-10-08,09:00,Villarreal,Las Palmas,1.62,4.0,5.25,1.1667,2.25,1.2222,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-real-sociedad/zgbsLgb,2023-10-08,11:15,Atlético Madrid,Real Sociedad,1.95,3.3,4.2,1.2222,1.8,1.3333,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-real-betis/qgbsKhb,2023-10-08,13:30,Deportivo Alavés,Real Betis,2.45,3.2,3.0,1.3636,1.5333,1.3636,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-celta-vigo/wgbsjhb,2023-10-08,13:30,Celta Vigo,Getafe,2.0,3.25,4.2,1.2222,1.8,1.3333,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/granada-barcelona/rgbsEAn,2023-10-08,16:00,Granada,FC Barcelona,6.5,5.25,1.4,2.75,1.1111,1.1667,1.6154,2.2,52376,LaLiga 23/24
+https://www.sofascore.com/granada-osasuna/vgbsEAn,2023-10-20,16:00,Osasuna,Granada,1.67,4.0,5.0,1.1667,2.15,1.2222,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-real-sociedad/zgbsBgb,2023-10-21,09:00,Real Sociedad,Mallorca,1.6,3.6,6.5,1.1111,2.3,1.2857,2.5,1.5,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-real-betis/qgbsjhb,2023-10-21,11:15,Getafe,Real Betis,2.3,3.0,3.4,1.2857,1.6154,1.3636,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-real-madrid/EgbsIgb,2023-10-21,13:30,Sevilla,Real Madrid,4.75,4.0,1.7273,2.0,1.1818,1.2222,1.5333,2.375,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-celta-vigo/wgbsLgb,2023-10-21,16:00,Celta Vigo,Atlético Madrid,3.3,3.5,2.15,1.6667,1.3333,1.2857,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-rayo-vallecano/tgbsCGc,2023-10-22,09:00,Las Palmas,Rayo Vallecano,2.55,3.1,3.0,1.3636,1.5,1.3636,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-almeria/ihbsoKj,2023-10-22,11:15,Girona FC,Almería,1.44,4.75,7.0,1.1,2.625,1.1818,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-villarreal/ugbsKhb,2023-10-22,13:30,Villarreal,Deportivo Alavés,2.0,3.4,3.8,1.25,1.8,1.3,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/athletic-club-barcelona/rgbsAgb,2023-10-22,16:00,FC Barcelona,Athletic Club,1.8,3.8,4.2,1.2222,1.95,1.25,1.6667,2.1,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-valencia/DgbsNOb,2023-10-23,16:00,Valencia,Cádiz,1.7,3.6,5.25,1.1429,2.15,1.2857,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-celta-vigo/wgbsoKj,2023-10-27,16:00,Girona FC,Celta Vigo,1.73,4.0,4.5,1.1818,2.15,1.2222,1.6667,2.1,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-almeria/ihbsCGc,2023-10-28,09:00,Almería,Las Palmas,2.25,3.4,3.2,1.3636,1.6154,1.3,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-barcelona/rgbsEgb,2023-10-28,11:15,FC Barcelona,Real Madrid,2.5,3.6,2.63,1.4444,1.5,1.2857,1.5714,2.25,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-mallorca/Bgbsjhb,2023-10-28,13:30,Mallorca,Getafe,2.25,3.0,3.6,1.2857,1.6154,1.3636,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-sevilla/IgbsNOb,2023-10-28,16:00,Cádiz,Sevilla,3.8,3.25,2.1,1.7273,1.25,1.3333,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/osasuna-real-betis/qgbsvgb,2023-10-29,10:00,Real Betis,Osasuna,2.0,3.3,3.8,1.25,1.8,1.3333,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/real-sociedad-rayo-vallecano/tgbszgb,2023-10-29,12:15,Rayo Vallecano,Real Sociedad,3.25,3.2,2.3,1.5714,1.3333,1.3636,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-athletic-club/AgbsDgb,2023-10-29,14:30,Athletic Club,Valencia,1.6,4.0,6.0,1.1429,2.25,1.2222,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-atletico-madrid/LgbsKhb,2023-10-29,17:00,Atlético Madrid,Deportivo Alavés,1.4,4.75,8.0,1.0833,2.75,1.1818,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/granada-villarreal/ugbsEAn,2023-10-30,17:00,Granada,Villarreal,3.0,3.5,2.3,1.5714,1.3636,1.2857,1.5714,2.25,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-atletico-madrid/LgbsCGc,2023-11-03,17:00,Las Palmas,Atlético Madrid,5.75,3.8,1.62,2.25,1.1429,1.25,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-osasuna/vgbsoKj,2023-11-04,10:00,Osasuna,Girona FC,2.9,3.4,2.4,1.5333,1.4,1.3,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-real-betis/qgbsBgb,2023-11-04,12:15,Real Betis,Mallorca,1.91,3.3,4.5,1.1818,1.8333,1.3333,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-celta-vigo/wgbsIgb,2023-11-04,14:30,Celta Vigo,Sevilla,2.38,3.4,3.1,1.3636,1.5333,1.3,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/real-sociedad-barcelona/rgbszgb,2023-11-04,17:00,Real Sociedad,FC Barcelona,3.25,3.4,2.2,1.6667,1.3333,1.3,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-almeria/ihbsKhb,2023-11-05,10:00,Deportivo Alavés,Almería,1.75,3.6,5.0,1.1667,2.0,1.2857,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/granada-valencia/DgbsEAn,2023-11-05,12:15,Valencia,Granada,1.62,4.0,5.25,1.1667,2.25,1.2222,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/athletic-club-villarreal/ugbsAgb,2023-11-05,14:30,Villarreal,Athletic Club,3.75,3.8,1.91,1.8333,1.25,1.25,1.5714,2.25,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-rayo-vallecano/tgbsEgb,2023-11-05,17:00,Real Madrid,Rayo Vallecano,1.22,6.5,12.0,1.05,4.0,1.1111,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-getafe/jhbsNOb,2023-11-06,17:00,Getafe,Cádiz,1.91,3.1,4.75,1.1818,1.8333,1.3636,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/athletic-club-celta-vigo/wgbsAgb,2023-11-10,17:00,Athletic Club,Celta Vigo,1.62,4.0,5.25,1.1667,2.25,1.2222,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-rayo-vallecano/tgbsoKj,2023-11-11,10:00,Rayo Vallecano,Girona FC,3.1,3.5,2.25,1.6154,1.3636,1.2857,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-real-sociedad/zgbsihb,2023-11-11,12:15,Almería,Real Sociedad,4.75,3.75,1.75,1.95,1.2,1.2857,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-osasuna/vgbsCGc,2023-11-11,14:30,Osasuna,Las Palmas,1.91,3.2,4.5,1.1818,1.8333,1.3636,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/granada-getafe/jhbsEAn,2023-11-11,14:30,Granada,Getafe,2.38,3.1,3.2,1.3636,1.5333,1.3636,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-valencia/DgbsEgb,2023-11-11,17:00,Real Madrid,Valencia,1.36,5.25,7.0,1.1,3.0,1.1667,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-mallorca/BgbsNOb,2023-11-12,10:00,Mallorca,Cádiz,1.8,3.25,5.25,1.1667,1.95,1.3333,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-barcelona/rgbsKhb,2023-11-12,12:15,FC Barcelona,Deportivo Alavés,1.29,6.5,9.0,1.0714,3.5,1.1111,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-real-betis/qgbsIgb,2023-11-12,14:30,Sevilla,Real Betis,2.15,3.5,3.3,1.3333,1.6667,1.2857,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-villarreal/ugbsLgb,2023-11-12,17:00,Atlético Madrid,Villarreal,1.33,5.75,8.0,1.0833,3.25,1.1429,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/granada-deportivo-alaves/KhbsEAn,2023-11-24,17:00,Deportivo Alavés,Granada,1.7,3.6,5.25,1.1667,2.1,1.2857,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/rayo-vallecano-barcelona/rgbstgb,2023-11-25,10:00,Rayo Vallecano,FC Barcelona,4.75,4.0,1.7,2.1,1.1818,1.2222,1.6667,2.1,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-celta-vigo/wgbsDgb,2023-11-25,12:15,Valencia,Celta Vigo,2.2,3.25,3.5,1.2857,1.6667,1.3333,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-almeria/ihbsjhb,2023-11-25,14:30,Getafe,Almería,1.73,3.6,5.0,1.1818,1.95,1.2857,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-mallorca/BgbsLgb,2023-11-25,17:00,Atlético Madrid,Mallorca,1.36,5.0,8.0,1.0833,3.0,1.1667,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/osasuna-villarreal/ugbsvgb,2023-11-26,10:00,Villarreal,Osasuna,2.15,3.5,3.3,1.3333,1.6667,1.2857,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-real-sociedad/zgbsIgb,2023-11-26,12:15,Real Sociedad,Sevilla,1.67,3.75,5.0,1.1667,2.15,1.25,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-real-madrid/EgbsNOb,2023-11-26,14:30,Cádiz,Real Madrid,6.5,4.75,1.45,2.625,1.1111,1.1818,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-real-betis/qgbsCGc,2023-11-26,17:00,Real Betis,Las Palmas,1.67,3.75,5.75,1.1429,2.15,1.25,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-athletic-club/AgbsoKj,2023-11-27,17:00,Girona FC,Athletic Club,2.2,3.6,3.1,1.3636,1.6667,1.2857,1.5714,2.25,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-mallorca/BgbsNOb,2023-11-29,17:00,Mallorca,Cádiz,1.91,3.3,4.5,1.1818,1.8333,1.3333,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-getafe/jhbsCGc,2023-12-01,17:00,Las Palmas,Getafe,2.38,2.9,3.4,1.3636,1.5333,1.4,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-valencia/DgbsoKj,2023-12-02,10:00,Girona FC,Valencia,1.62,4.0,5.25,1.1667,2.25,1.2222,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/athletic-club-rayo-vallecano/tgbsAgb,2023-12-02,12:15,Athletic Club,Rayo Vallecano,1.44,4.75,7.0,1.1,2.625,1.1818,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/granada-real-madrid/EgbsEAn,2023-12-02,14:30,Real Madrid,Granada,1.17,7.5,13.0,1.04,5.0,1.1,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/real-sociedad-osasuna/vgbszgb,2023-12-02,17:00,Osasuna,Real Sociedad,3.8,3.1,2.15,1.6667,1.25,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-mallorca/BgbsKhb,2023-12-03,10:00,Mallorca,Deportivo Alavés,2.55,2.9,3.2,1.3636,1.5,1.4,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-real-betis/qgbsihb,2023-12-03,12:15,Almería,Real Betis,3.5,3.75,2.0,1.8,1.2857,1.25,1.6154,2.2,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-villarreal/ugbsIgb,2023-12-03,14:30,Sevilla,Villarreal,1.91,3.75,3.75,1.25,1.8333,1.25,1.6154,2.2,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-barcelona/rgbsLgb,2023-12-03,17:00,FC Barcelona,Atlético Madrid,1.91,4.0,3.75,1.25,1.8333,1.2222,1.6154,2.2,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-celta-vigo/wgbsNOb,2023-12-04,17:00,Celta Vigo,Cádiz,1.53,4.0,6.5,1.1111,2.375,1.2222,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-valencia/Dgbsjhb,2023-12-08,17:00,Getafe,Valencia,2.7,2.9,3.0,1.3636,1.4444,1.4,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-deportivo-alaves/KhbsCGc,2023-12-09,10:00,Deportivo Alavés,Las Palmas,2.0,3.1,4.3333,1.2,1.8,1.3636,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-real-betis/qgbsEgb,2023-12-09,12:15,Real Betis,Real Madrid,4.5,4.0,1.73,2.1,1.1818,1.2222,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/real-sociedad-villarreal/ugbszgb,2023-12-09,14:30,Villarreal,Real Sociedad,3.3,3.5,2.15,1.6667,1.3333,1.2857,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-mallorca/BgbsIgb,2023-12-09,17:00,Mallorca,Sevilla,2.55,3.0,3.0,1.3636,1.5,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-atletico-madrid/Lgbsihb,2023-12-10,10:00,Atlético Madrid,Almería,1.18,7.5,13.0,1.04,4.5,1.1,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-osasuna/vgbsNOb,2023-12-10,14:30,Cádiz,Osasuna,2.75,3.1,2.7,1.4444,1.4,1.3636,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-barcelona/rgbsoKj,2023-12-10,17:00,FC Barcelona,Girona FC,1.5,5.0,5.25,1.1667,2.5,1.1667,1.5333,2.375,52376,LaLiga 23/24
+https://www.sofascore.com/granada-athletic-club/AgbsEAn,2023-12-11,17:00,Granada,Athletic Club,4.0,3.6,1.91,1.95,1.2,1.25,1.6667,2.1,52376,LaLiga 23/24
+https://www.sofascore.com/celta-vigo-rayo-vallecano/tgbswgb,2023-12-11,17:00,Rayo Vallecano,Celta Vigo,2.7,3.1,2.8,1.4,1.4444,1.3636,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/osasuna-rayo-vallecano/tgbsvgb,2023-12-15,17:00,Osasuna,Rayo Vallecano,2.15,3.2,3.6,1.2857,1.6667,1.3636,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/granada-celta-vigo/wgbsEAn,2023-12-16,10:00,Celta Vigo,Granada,1.67,4.0,5.0,1.1667,2.15,1.2222,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-athletic-club/AgbsLgb,2023-12-16,12:15,Athletic Club,Atlético Madrid,2.45,3.3,2.9,1.4,1.5333,1.3333,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-sevilla/Igbsjhb,2023-12-16,14:30,Sevilla,Getafe,1.75,3.5,4.75,1.1818,2.0,1.2857,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-barcelona/rgbsDgb,2023-12-16,17:00,Valencia,FC Barcelona,5.25,4.3333,1.55,2.375,1.1667,1.2,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-mallorca/Bgbsihb,2023-12-17,10:00,Almería,Mallorca,2.38,3.2,3.25,1.3333,1.5333,1.3636,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/real-sociedad-real-betis/qgbszgb,2023-12-17,12:15,Real Sociedad,Real Betis,1.55,4.2,5.75,1.1429,2.375,1.2222,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-cadiz/NObsCGc,2023-12-17,14:30,Las Palmas,Cádiz,1.95,3.25,4.2,1.2222,1.8,1.3333,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-villarreal/ugbsEgb,2023-12-17,17:00,Real Madrid,Villarreal,1.25,6.5,10.0,1.0625,3.75,1.1111,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-deportivo-alaves/KhbsoKj,2023-12-18,17:00,Girona FC,Deportivo Alavés,1.57,4.2,5.25,1.1667,2.25,1.2222,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-rayo-vallecano/tgbsDgb,2023-12-19,15:00,Rayo Vallecano,Valencia,2.3,3.2,3.3,1.3333,1.5714,1.3636,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-atletico-madrid/Lgbsjhb,2023-12-19,17:30,Atlético Madrid,Getafe,1.5,4.5,7.0,1.1,2.5,1.1818,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/granada-sevilla/IgbsEAn,2023-12-19,17:30,Granada,Sevilla,3.0,3.2,2.45,1.5333,1.3636,1.3636,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-barcelona/rgbsihb,2023-12-20,15:00,FC Barcelona,Almería,1.18,8.0,15.0,1.0303,4.5,1.0833,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/celta-vigo-villarreal/ugbswgb,2023-12-20,17:30,Villarreal,Celta Vigo,2.3,3.5,3.0,1.3636,1.5714,1.2857,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-athletic-club/AgbsCGc,2023-12-20,17:30,Athletic Club,Las Palmas,1.36,5.25,7.5,1.1,3.0,1.1667,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-real-betis/qgbsoKj,2023-12-21,15:00,Real Betis,Girona FC,2.7,3.6,2.45,1.5333,1.4444,1.2857,1.6154,2.2,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-real-sociedad/zgbsNOb,2023-12-21,15:00,Cádiz,Real Sociedad,6.0,3.5,1.65,2.2,1.125,1.2857,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-real-madrid/EgbsKhb,2023-12-21,17:30,Deportivo Alavés,Real Madrid,5.5,4.2,1.57,2.3,1.1667,1.2222,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-osasuna/vgbsBgb,2023-12-21,17:30,Mallorca,Osasuna,2.2,2.9,4.0,1.2222,1.6667,1.4,2.375,1.5333,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-sevilla/IgbsLgb,2023-12-23,12:15,Atlético Madrid,Sevilla,1.57,4.2,5.5,1.1429,2.3,1.2222,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-rayo-vallecano/tgbsjhb,2024-01-02,13:00,Getafe,Rayo Vallecano,2.3,3.1,3.4,1.3,1.5714,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-real-sociedad/zgbsKhb,2024-01-02,15:15,Real Sociedad,Deportivo Alavés,1.55,3.75,7.0,1.1,2.375,1.25,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-villarreal/ugbsDgb,2024-01-02,17:30,Valencia,Villarreal,2.2,3.4,3.3,1.3333,1.6667,1.3,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/granada-cadiz/NObsEAn,2024-01-03,13:00,Granada,Cádiz,2.3,3.0,3.4,1.2857,1.6154,1.3636,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-mallorca/BgbsEgb,2024-01-03,15:15,Real Madrid,Mallorca,1.2,7.0,12.0,1.0303,4.3333,1.1111,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/celta-vigo-real-betis/qgbswgb,2024-01-03,15:15,Celta Vigo,Real Betis,2.2,3.2,3.4,1.3,1.6667,1.3636,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-atletico-madrid/LgbsoKj,2024-01-03,17:30,Girona FC,Atlético Madrid,2.55,3.75,2.5,1.5,1.5,1.25,1.5,2.5,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-osasuna/vgbsihb,2024-01-04,13:00,Osasuna,Almería,1.7,3.8,5.0,1.1667,2.1,1.25,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-athletic-club/AgbsIgb,2024-01-04,15:15,Sevilla,Athletic Club,3.0,3.3,2.38,1.5333,1.3636,1.3333,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-barcelona/rgbsCGc,2024-01-04,17:30,Las Palmas,FC Barcelona,6.5,4.75,1.45,2.5,1.125,1.1818,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-sevilla/IgbsKhb,2024-01-12,17:00,Sevilla,Deportivo Alavés,2.0,3.3,4.0,1.2222,1.8,1.3333,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-villarreal/ugbsCGc,2024-01-13,10:00,Las Palmas,Villarreal,2.63,3.4,2.6,1.5,1.4444,1.3,1.6667,2.1,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-celta-vigo/wgbsBgb,2024-01-13,12:15,Mallorca,Celta Vigo,2.38,3.0,3.3,1.3333,1.5333,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/athletic-club-real-sociedad/zgbsAgb,2024-01-13,14:30,Athletic Club,Real Sociedad,2.1,3.1,4.0,1.2222,1.7,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/granada-real-betis/qgbsEAn,2024-01-13,17:00,Real Betis,Granada,1.7,3.75,5.0,1.1667,2.1,1.25,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-almeria/ihbsoKj,2024-01-14,10:00,Almería,Girona FC,3.8,3.75,1.85,1.8333,1.25,1.25,1.5714,2.25,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-valencia/DgbsNOb,2024-01-14,12:15,Cádiz,Valencia,2.9,2.88,2.75,1.4,1.4,1.4,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-deportivo-alaves/KhbsNOb,2024-01-19,17:00,Deportivo Alavés,Cádiz,1.65,3.6,6.0,1.125,2.2,1.2857,2.5,1.5,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-rayo-vallecano/tgbsCGc,2024-01-20,10:00,Rayo Vallecano,Las Palmas,1.73,3.5,5.25,1.1667,2.0,1.2857,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-villarreal/ugbsBgb,2024-01-20,12:15,Villarreal,Mallorca,2.2,3.4,3.3,1.3,1.6667,1.3,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-athletic-club/AgbsDgb,2024-01-20,14:30,Valencia,Athletic Club,3.4,3.25,2.25,1.6154,1.3,1.3333,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/real-sociedad-celta-vigo/wgbszgb,2024-01-20,17:00,Celta Vigo,Real Sociedad,2.63,2.88,3.1,1.3636,1.4444,1.4,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-osasuna/vgbsjhb,2024-01-21,10:00,Osasuna,Getafe,2.4,2.8,3.6,1.2857,1.5333,1.4,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-real-madrid/Egbsihb,2024-01-21,12:15,Real Madrid,Almería,1.14,9.5,17.0,1.025,5.5,1.0714,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/barcelona-real-betis/qgbsrgb,2024-01-21,14:30,Real Betis,FC Barcelona,3.8,4.0,1.85,1.9091,1.25,1.2222,1.5,2.5,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-sevilla/IgbsoKj,2024-01-21,17:00,Girona FC,Sevilla,1.7,4.2,4.3333,1.2,2.1,1.2222,1.6667,2.1,52376,LaLiga 23/24
+https://www.sofascore.com/granada-atletico-madrid/LgbsEAn,2024-01-22,17:00,Granada,Atlético Madrid,4.75,4.0,1.65,2.2,1.1818,1.2222,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-almeria/ihbsKhb,2024-01-26,17:00,Almería,Deportivo Alavés,2.8,3.1,2.7,1.4444,1.4,1.3636,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/real-sociedad-rayo-vallecano/tgbszgb,2024-01-27,10:00,Real Sociedad,Rayo Vallecano,1.8,3.4,5.0,1.1667,1.95,1.3,2.375,1.5333,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-real-madrid/EgbsCGc,2024-01-27,12:15,Las Palmas,Real Madrid,6.5,4.75,1.44,2.625,1.1111,1.1818,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/villarreal-barcelona/rgbsugb,2024-01-27,14:30,FC Barcelona,Villarreal,1.4,5.5,7.5,1.1,2.75,1.1429,1.4444,2.625,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-real-betis/qgbsBgb,2024-01-27,17:00,Mallorca,Real Betis,2.25,3.1,3.6,1.2857,1.6154,1.3636,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-celta-vigo/wgbsoKj,2024-01-28,10:00,Celta Vigo,Girona FC,2.7,3.4,2.63,1.5,1.4,1.3,1.5714,2.25,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-athletic-club/AgbsNOb,2024-01-28,12:15,Cádiz,Athletic Club,4.2,3.3,1.95,1.8,1.2222,1.3333,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-osasuna/vgbsIgb,2024-01-28,14:30,Sevilla,Osasuna,2.1,3.3,3.75,1.25,1.7,1.3333,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-valencia/DgbsLgb,2024-01-28,17:00,Atlético Madrid,Valencia,1.57,4.0,6.0,1.125,2.3,1.2222,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/granada-getafe/jhbsEAn,2024-01-29,17:00,Getafe,Granada,1.85,3.4,4.5,1.1818,1.9091,1.3,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/osasuna-barcelona/rgbsvgb,2024-01-31,15:00,FC Barcelona,Osasuna,1.36,5.0,9.0,1.0714,3.0,1.1667,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-rayo-vallecano/tgbsLgb,2024-01-31,17:00,Atlético Madrid,Rayo Vallecano,1.62,3.75,5.75,1.1429,2.25,1.25,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-real-madrid/Egbsjhb,2024-02-01,17:00,Getafe,Real Madrid,5.75,4.0,1.57,2.3,1.1429,1.2222,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-athletic-club/AgbsBgb,2024-02-02,17:00,Athletic Club,Mallorca,1.5,4.0,7.0,1.1,2.5,1.2222,2.5,1.5,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-valencia/Dgbsihb,2024-02-03,10:00,Valencia,Almería,1.7,3.75,5.25,1.1667,2.1,1.25,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/granada-las-palmas/CGcsEAn,2024-02-03,12:15,Granada,Las Palmas,2.15,3.25,3.6,1.2857,1.6667,1.3333,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-barcelona/rgbsKhb,2024-02-03,14:30,Deportivo Alavés,FC Barcelona,4.0,3.5,1.91,1.8333,1.2222,1.2857,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-real-sociedad/zgbsoKj,2024-02-03,17:00,Girona FC,Real Sociedad,2.0,3.4,3.8,1.25,1.8,1.3,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-villarreal/ugbsNOb,2024-02-04,10:00,Villarreal,Cádiz,1.62,4.0,5.25,1.1667,2.25,1.2222,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/celta-vigo-osasuna/vgbswgb,2024-02-04,12:15,Osasuna,Celta Vigo,2.15,3.2,3.75,1.2857,1.6667,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-real-betis/qgbsjhb,2024-02-04,14:30,Real Betis,Getafe,1.95,3.2,4.5,1.2222,1.7273,1.3636,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-real-madrid/EgbsLgb,2024-02-04,17:00,Real Madrid,Atlético Madrid,1.67,4.2,4.75,1.1818,2.15,1.2222,1.5714,2.25,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-rayo-vallecano/tgbsIgb,2024-02-05,17:00,Rayo Vallecano,Sevilla,2.1,3.4,3.6,1.2857,1.7,1.3,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-real-betis/qgbsNOb,2024-02-09,17:00,Cádiz,Real Betis,3.1,3.0,2.5,1.5,1.3636,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-villarreal/ugbsKhb,2024-02-10,10:00,Deportivo Alavés,Villarreal,2.2,3.4,3.3,1.3333,1.6667,1.3,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/real-sociedad-osasuna/vgbszgb,2024-02-10,12:15,Real Sociedad,Osasuna,1.8,3.3,5.25,1.1667,1.95,1.3333,2.375,1.5333,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-real-madrid/EgbsoKj,2024-02-10,14:30,Real Madrid,Girona FC,1.4,5.5,6.0,1.125,2.75,1.1429,1.5,2.5,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-valencia/DgbsCGc,2024-02-10,17:00,Las Palmas,Valencia,2.55,3.0,3.2,1.3636,1.5,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-celta-vigo/wgbsjhb,2024-02-11,10:00,Getafe,Celta Vigo,2.1,3.1,3.75,1.25,1.7,1.3636,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-rayo-vallecano/tgbsBgb,2024-02-11,12:15,Mallorca,Rayo Vallecano,2.38,2.88,3.5,1.2857,1.5333,1.4,2.5,1.5,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-sevilla/IgbsLgb,2024-02-11,14:30,Sevilla,Atlético Madrid,3.6,3.5,2.05,1.7273,1.2857,1.2857,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/granada-barcelona/rgbsEAn,2024-02-11,17:00,FC Barcelona,Granada,1.18,8.0,13.0,1.04,4.5,1.0833,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-athletic-club/Agbsihb,2024-02-12,17:00,Almería,Athletic Club,4.5,3.6,1.8,1.95,1.1818,1.2857,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-villarreal/ugbsjhb,2024-02-16,17:00,Villarreal,Getafe,2.05,3.4,3.6,1.2857,1.7273,1.3,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-atletico-madrid/LgbsCGc,2024-02-17,10:00,Atlético Madrid,Las Palmas,1.45,4.5,6.5,1.1111,2.625,1.1818,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-osasuna/vgbsNOb,2024-02-17,12:15,Osasuna,Cádiz,1.8,3.2,5.5,1.1429,1.95,1.3636,2.375,1.5333,52376,LaLiga 23/24
+https://www.sofascore.com/celta-vigo-barcelona/rgbswgb,2024-02-17,14:30,Celta Vigo,FC Barcelona,3.6,3.75,1.95,1.8333,1.25,1.25,1.6667,2.1,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-valencia/DgbsIgb,2024-02-17,17:00,Valencia,Sevilla,2.25,3.2,3.4,1.3,1.6154,1.3636,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-rayo-vallecano/tgbsEgb,2024-02-18,10:00,Rayo Vallecano,Real Madrid,5.0,4.0,1.6667,2.15,1.1667,1.2222,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/granada-almeria/ihbsEAn,2024-02-18,12:15,Granada,Almería,2.15,3.4,3.4,1.3,1.6667,1.3,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-real-sociedad/zgbsBgb,2024-02-18,14:30,Mallorca,Real Sociedad,3.6,2.88,2.3,1.5714,1.2857,1.4,2.75,1.4,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-real-betis/qgbsKhb,2024-02-18,17:00,Real Betis,Deportivo Alavés,2.25,3.2,3.5,1.2857,1.6154,1.3636,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-athletic-club/AgbsoKj,2024-02-19,17:00,Athletic Club,Girona FC,1.83,3.75,4.2,1.2,1.95,1.25,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/real-sociedad-villarreal/ugbszgb,2024-02-23,17:00,Real Sociedad,Villarreal,1.62,4.0,5.5,1.1429,2.25,1.2222,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-barcelona/rgbsjhb,2024-02-24,12:15,FC Barcelona,Getafe,1.4,5.0,6.5,1.1111,2.75,1.1818,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-mallorca/BgbsKhb,2024-02-24,14:30,Deportivo Alavés,Mallorca,1.87,3.0,5.25,1.1667,1.9091,1.3636,2.5,1.5,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-atletico-madrid/Lgbsihb,2024-02-24,17:00,Almería,Atlético Madrid,4.75,3.8,1.73,2.1,1.1818,1.25,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-celta-vigo/wgbsNOb,2024-02-25,10:00,Cádiz,Celta Vigo,3.2,3.0,2.5,1.5,1.3636,1.3636,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/athletic-club-real-betis/qgbsAgb,2024-02-25,12:15,Real Betis,Athletic Club,3.6,3.3,2.15,1.6667,1.2857,1.3333,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-osasuna/vgbsCGc,2024-02-25,14:30,Las Palmas,Osasuna,2.5,2.87,3.4,1.3,1.5,1.4,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-real-madrid/EgbsIgb,2024-02-25,17:00,Real Madrid,Sevilla,1.29,6.0,9.5,1.0714,3.5,1.125,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-rayo-vallecano/tgbsoKj,2024-02-26,17:00,Girona FC,Rayo Vallecano,1.58,4.0,5.25,1.1667,2.25,1.2222,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-celta-vigo/wgbsihb,2024-03-01,17:00,Celta Vigo,Almería,1.8,3.75,4.3333,1.2,1.95,1.25,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-real-sociedad/zgbsIgb,2024-03-02,10:00,Sevilla,Real Sociedad,2.63,2.9,3.0,1.3636,1.4444,1.4,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-rayo-vallecano/tgbsNOb,2024-03-02,12:15,Rayo Vallecano,Cádiz,1.73,3.3,5.75,1.1429,2.05,1.3333,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-getafe/jhbsCGc,2024-03-02,14:30,Getafe,Las Palmas,2.05,3.2,4.0,1.2222,1.7273,1.3636,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-valencia/DgbsEgb,2024-03-02,17:00,Valencia,Real Madrid,5.75,4.0,1.62,2.25,1.1429,1.2222,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/granada-villarreal/ugbsEAn,2024-03-03,10:00,Villarreal,Granada,1.73,3.8,4.75,1.1818,2.05,1.25,1.6667,2.1,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-real-betis/qgbsLgb,2024-03-03,12:15,Atlético Madrid,Real Betis,1.53,4.2,6.5,1.1111,2.375,1.2222,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-mallorca/BgbsoKj,2024-03-03,14:30,Mallorca,Girona FC,3.5,3.25,2.15,1.6667,1.2857,1.3333,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/athletic-club-barcelona/rgbsAgb,2024-03-03,17:00,Athletic Club,FC Barcelona,3.2,3.5,2.25,1.6154,1.3636,1.2857,1.6667,2.1,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-osasuna/vgbsKhb,2024-03-04,17:00,Osasuna,Deportivo Alavés,2.3,3.0,3.5,1.2857,1.5714,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-barcelona/rgbsBgb,2024-03-08,17:00,FC Barcelona,Mallorca,1.5,4.3333,6.0,1.1111,2.625,1.2,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-valencia/Dgbsjhb,2024-03-09,10:00,Valencia,Getafe,1.85,3.2,5.0,1.1667,1.9091,1.3636,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-atletico-madrid/LgbsNOb,2024-03-09,12:15,Cádiz,Atlético Madrid,4.5,3.6,1.75,2.0,1.1818,1.2857,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/granada-real-sociedad/zgbsEAn,2024-03-09,14:30,Granada,Real Sociedad,4.75,3.2,1.91,1.8333,1.1818,1.3636,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-osasuna/vgbsoKj,2024-03-09,17:00,Girona FC,Osasuna,1.53,4.5,5.75,1.1429,2.375,1.1818,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-rayo-vallecano/tgbsKhb,2024-03-10,10:00,Deportivo Alavés,Rayo Vallecano,2.1,3.0,4.0,1.2222,1.7,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-athletic-club/AgbsCGc,2024-03-10,12:15,Las Palmas,Athletic Club,4.75,3.5,1.8,1.95,1.1818,1.2857,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-celta-vigo/wgbsEgb,2024-03-10,14:30,Real Madrid,Celta Vigo,1.33,5.25,8.5,1.0833,3.25,1.1667,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/villarreal-real-betis/qgbsugb,2024-03-10,17:00,Real Betis,Villarreal,2.1,3.5,3.4,1.3333,1.7,1.2857,1.6667,2.1,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-sevilla/Igbsihb,2024-03-11,17:00,Almería,Sevilla,3.4,3.3,2.15,1.6667,1.3,1.3333,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-real-sociedad/zgbsNOb,2024-03-15,17:00,Real Sociedad,Cádiz,1.44,4.0,9.5,1.0714,2.625,1.2222,2.625,1.4444,52376,LaLiga 23/24
+https://www.sofascore.com/granada-mallorca/BgbsEAn,2024-03-16,10:00,Mallorca,Granada,1.8,3.3,5.25,1.1667,1.95,1.3333,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-osasuna/vgbsEgb,2024-03-16,12:15,Osasuna,Real Madrid,6.5,4.3333,1.5,2.5,1.1,1.2,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-getafe/jhbsoKj,2024-03-16,14:30,Getafe,Girona FC,3.6,3.4,2.05,1.7273,1.2857,1.3,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-athletic-club/AgbsKhb,2024-03-16,17:00,Athletic Club,Deportivo Alavés,1.6,3.6,6.5,1.1111,2.3,1.2857,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-celta-vigo/wgbsIgb,2024-03-17,10:00,Sevilla,Celta Vigo,1.83,3.6,4.3333,1.2,1.9091,1.2857,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-villarreal/ugbsDgb,2024-03-17,12:15,Villarreal,Valencia,2.2,3.3,3.3,1.3333,1.6667,1.3333,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-almeria/ihbsCGc,2024-03-17,12:15,Las Palmas,Almería,1.8,3.8,4.3333,1.2,1.95,1.25,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/rayo-vallecano-real-betis/qgbstgb,2024-03-17,14:30,Rayo Vallecano,Real Betis,2.5,3.0,3.1,1.3636,1.5,1.3636,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-barcelona/rgbsLgb,2024-03-17,17:00,Atlético Madrid,FC Barcelona,2.25,3.5,3.1,1.3636,1.6154,1.2857,1.6154,2.2,52376,LaLiga 23/24
+https://www.sofascore.com/granada-cadiz/NObsEAn,2024-03-29,17:00,Cádiz,Granada,1.95,3.3,4.5,1.1818,1.8,1.3333,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-sevilla/Igbsjhb,2024-03-30,10:00,Getafe,Sevilla,2.63,3.0,3.0,1.3636,1.4444,1.3636,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-osasuna/vgbsihb,2024-03-30,12:15,Almería,Osasuna,2.45,3.25,3.0,1.3636,1.5333,1.3333,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-mallorca/BgbsDgb,2024-03-30,14:30,Valencia,Mallorca,2.1,3.0,4.0,1.2222,1.6667,1.4,2.375,1.5333,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-barcelona/rgbsCGc,2024-03-30,17:00,FC Barcelona,Las Palmas,1.29,6.5,10.0,1.0625,3.5,1.1111,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/celta-vigo-rayo-vallecano/tgbswgb,2024-03-31,09:00,Celta Vigo,Rayo Vallecano,1.91,3.5,4.2,1.2222,1.8333,1.2857,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-real-betis/qgbsoKj,2024-03-31,11:15,Girona FC,Real Betis,1.7,4.0,4.75,1.1818,2.1,1.2222,1.6154,2.2,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-real-sociedad/zgbsKhb,2024-03-31,13:30,Deportivo Alavés,Real Sociedad,4.0,3.0,2.15,1.6667,1.2222,1.3636,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-athletic-club/AgbsEgb,2024-03-31,16:00,Real Madrid,Athletic Club,1.57,4.3333,5.75,1.1429,2.3,1.2,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-villarreal/ugbsLgb,2024-04-01,16:00,Villarreal,Atlético Madrid,3.2,3.6,2.15,1.6667,1.3636,1.2857,1.5714,2.25,52376,LaLiga 23/24
+https://www.sofascore.com/granada-valencia/DgbsEAn,2024-04-04,15:00,Granada,Valencia,3.2,3.0,2.45,1.5333,1.3636,1.3636,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/celta-vigo-real-betis/qgbswgb,2024-04-12,16:00,Real Betis,Celta Vigo,1.91,3.5,4.0,1.2222,1.8333,1.2857,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-atletico-madrid/LgbsoKj,2024-04-13,09:00,Atlético Madrid,Girona FC,1.85,3.75,4.0,1.2222,1.9091,1.25,1.5714,2.25,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-rayo-vallecano/tgbsjhb,2024-04-13,11:15,Rayo Vallecano,Getafe,2.38,3.0,3.4,1.3,1.5333,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-mallorca/BgbsEgb,2024-04-13,13:30,Mallorca,Real Madrid,5.0,3.6,1.75,2.0,1.1667,1.2857,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-barcelona/rgbsNOb,2024-04-13,16:00,Cádiz,FC Barcelona,3.6,3.4,2.1,1.7273,1.2857,1.3,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-sevilla/IgbsCGc,2024-04-14,09:00,Las Palmas,Sevilla,2.7,3.3,2.63,1.4444,1.4444,1.3333,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/granada-deportivo-alaves/KhbsEAn,2024-04-14,11:15,Granada,Deportivo Alavés,2.88,3.0,2.7,1.4444,1.4,1.3636,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/athletic-club-villarreal/ugbsAgb,2024-04-14,13:30,Athletic Club,Villarreal,1.57,4.2,5.25,1.1667,2.3,1.2222,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-real-sociedad/zgbsihb,2024-04-14,16:00,Real Sociedad,Almería,1.3,5.0,11.0,1.05,3.4,1.1667,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-osasuna/vgbsDgb,2024-04-15,16:00,Osasuna,Valencia,2.3,3.0,3.4,1.3,1.5714,1.3636,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/granada-athletic-club/AgbsEAn,2024-04-19,16:00,Athletic Club,Granada,1.29,5.5,11.0,1.05,3.5,1.1429,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-celta-vigo/wgbsCGc,2024-04-20,09:00,Celta Vigo,Las Palmas,1.67,4.0,5.0,1.1667,2.15,1.2222,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/osasuna-rayo-vallecano/tgbsvgb,2024-04-20,11:15,Rayo Vallecano,Osasuna,2.05,3.0,4.2,1.2222,1.7,1.3636,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-real-betis/qgbsDgb,2024-04-20,13:30,Valencia,Real Betis,2.7,3.0,2.8,1.4,1.4444,1.3636,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-cadiz/NObsoKj,2024-04-20,16:00,Girona FC,Cádiz,1.4,4.75,7.5,1.1,2.75,1.1818,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-real-sociedad/zgbsjhb,2024-04-21,09:00,Getafe,Real Sociedad,3.6,3.1,2.2,1.6667,1.2857,1.3636,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-villarreal/ugbsihb,2024-04-21,11:15,Almería,Villarreal,3.4,4.0,1.95,1.8,1.3,1.2222,1.5333,2.375,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-atletico-madrid/LgbsKhb,2024-04-21,13:30,Deportivo Alavés,Atlético Madrid,4.75,3.6,1.8,1.95,1.1818,1.2857,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-barcelona/rgbsEgb,2024-04-21,16:00,Real Madrid,FC Barcelona,1.73,4.2,4.2,1.2222,2.05,1.2222,1.4444,2.625,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-mallorca/BgbsIgb,2024-04-22,16:00,Sevilla,Mallorca,2.1,3.0,4.0,1.2222,1.7,1.3636,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-real-sociedad/zgbsEgb,2024-04-26,16:00,Real Sociedad,Real Madrid,2.25,3.25,3.2,1.3636,1.6154,1.3333,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-las-palmas/CGcsoKj,2024-04-27,09:00,Las Palmas,Girona FC,5.0,4.0,1.65,2.2,1.1667,1.2222,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-almeria/ihbsjhb,2024-04-27,11:15,Almería,Getafe,2.55,3.4,2.8,1.4,1.5,1.3,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-celta-vigo/wgbsKhb,2024-04-27,13:30,Deportivo Alavés,Celta Vigo,2.63,3.1,2.8,1.4,1.5,1.3636,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-athletic-club/AgbsLgb,2024-04-27,16:00,Atlético Madrid,Athletic Club,1.95,3.4,4.2,1.2222,1.8,1.2857,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-mallorca/BgbsNOb,2024-04-28,09:00,Cádiz,Mallorca,2.8,2.8,2.9,1.3636,1.4,1.4,2.5,1.5,52376,LaLiga 23/24
+https://www.sofascore.com/granada-osasuna/vgbsEAn,2024-04-28,11:15,Granada,Osasuna,2.38,3.0,3.3,1.3333,1.5333,1.3636,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/villarreal-rayo-vallecano/tgbsugb,2024-04-28,13:30,Villarreal,Rayo Vallecano,1.75,3.8,4.5,1.1818,1.95,1.25,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-real-betis/qgbsIgb,2024-04-28,16:00,Real Betis,Sevilla,2.0,3.3,3.8,1.25,1.8,1.3333,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-barcelona/rgbsDgb,2024-04-29,16:00,FC Barcelona,Valencia,1.33,5.5,8.0,1.0833,3.25,1.1429,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-athletic-club/Agbsjhb,2024-05-03,16:00,Getafe,Athletic Club,3.8,3.1,2.1,1.7,1.25,1.3636,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-real-sociedad/zgbsCGc,2024-05-04,09:00,Real Sociedad,Las Palmas,1.33,5.0,11.0,1.0625,3.25,1.1667,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-real-madrid/EgbsNOb,2024-05-04,11:15,Real Madrid,Cádiz,1.36,4.75,9.0,1.0714,3.0,1.1818,2.2,1.6154,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-barcelona/rgbsoKj,2024-05-04,13:30,Girona FC,FC Barcelona,2.88,3.8,2.3,1.5714,1.4,1.25,1.4,2.75,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-mallorca/BgbsLgb,2024-05-04,16:00,Mallorca,Atlético Madrid,3.8,3.1,2.15,1.6667,1.25,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/osasuna-real-betis/qgbsvgb,2024-05-05,09:00,Osasuna,Real Betis,3.25,3.25,2.3,1.5714,1.3333,1.3333,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/celta-vigo-villarreal/ugbswgb,2024-05-05,11:15,Celta Vigo,Villarreal,2.5,3.6,2.6,1.5,1.5,1.2857,1.5333,2.375,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-valencia/DgbsKhb,2024-05-05,13:30,Valencia,Deportivo Alavés,2.2,3.2,3.6,1.2857,1.6667,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/granada-sevilla/IgbsEAn,2024-05-05,16:00,Sevilla,Granada,1.7,4.0,4.75,1.1818,2.1,1.2222,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-rayo-vallecano/tgbsihb,2024-05-05,16:00,Rayo Vallecano,Almería,1.65,3.8,5.5,1.1429,2.2,1.25,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-deportivo-alaves/KhbsoKj,2024-05-10,16:00,Deportivo Alavés,Girona FC,3.1,3.6,2.2,1.6667,1.3636,1.2857,1.6154,2.2,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-mallorca/BgbsCGc,2024-05-11,09:00,Mallorca,Las Palmas,1.65,3.5,6.0,1.125,2.2,1.2857,2.375,1.5333,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-villarreal/ugbsIgb,2024-05-11,11:15,Villarreal,Sevilla,1.91,4.0,3.5,1.2857,1.8,1.25,1.5714,2.25,52376,LaLiga 23/24
+https://www.sofascore.com/granada-real-madrid/EgbsEAn,2024-05-11,13:30,Granada,Real Madrid,5.25,4.75,1.55,2.375,1.1667,1.1818,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/athletic-club-osasuna/vgbsAgb,2024-05-11,16:00,Athletic Club,Osasuna,1.4,4.5,8.5,1.0833,2.75,1.1818,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-getafe/jhbsNOb,2024-05-12,09:00,Cádiz,Getafe,2.2,3.2,3.6,1.2857,1.6667,1.3636,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-celta-vigo/wgbsLgb,2024-05-12,11:15,Atlético Madrid,Celta Vigo,1.4,4.5,7.5,1.1,2.75,1.1818,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-rayo-vallecano/tgbsDgb,2024-05-12,13:30,Valencia,Rayo Vallecano,2.25,3.1,3.5,1.2857,1.6154,1.3636,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-real-betis/qgbsihb,2024-05-12,16:00,Real Betis,Almería,1.36,5.5,7.0,1.1,3.0,1.1429,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/real-sociedad-barcelona/rgbszgb,2024-05-13,16:00,FC Barcelona,Real Sociedad,1.7,3.8,4.75,1.1667,2.1,1.25,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/mallorca-osasuna/vgbsBgb,2024-05-14,14:30,Osasuna,Mallorca,2.7,2.9,3.0,1.4,1.4,1.4,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-real-madrid/EgbsKhb,2024-05-14,16:30,Real Madrid,Deportivo Alavés,1.22,7.0,11.0,1.05,4.0,1.1,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-villarreal/ugbsoKj,2024-05-14,17:00,Girona FC,Villarreal,1.62,4.5,4.5,1.1818,2.25,1.1818,1.4,2.75,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-sevilla/IgbsNOb,2024-05-15,14:30,Sevilla,Cádiz,2.1,3.4,3.5,1.2857,1.7,1.3,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/granada-rayo-vallecano/tgbsEAn,2024-05-15,14:30,Rayo Vallecano,Granada,1.53,4.0,7.0,1.1,2.5,1.2222,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-atletico-madrid/Lgbsjhb,2024-05-15,17:00,Getafe,Atlético Madrid,5.25,3.7,1.73,2.05,1.1667,1.2857,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/athletic-club-celta-vigo/wgbsAgb,2024-05-15,17:00,Celta Vigo,Athletic Club,2.3,3.3,3.1,1.3636,1.5714,1.3333,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-real-betis/qgbsCGc,2024-05-16,14:30,Las Palmas,Real Betis,3.2,3.3,2.35,1.5714,1.3636,1.3333,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-barcelona/rgbsihb,2024-05-16,16:30,Almería,FC Barcelona,7.0,5.0,1.4,2.75,1.1,1.1667,1.5333,2.375,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-real-sociedad/zgbsDgb,2024-05-16,17:00,Real Sociedad,Valencia,1.5,4.1,7.0,1.1,2.5,1.2222,2.25,1.5714,52376,LaLiga 23/24
+https://www.sofascore.com/deportivo-alaves-getafe/jhbsKhb,2024-05-18,16:00,Deportivo Alavés,Getafe,1.91,3.4,4.3333,1.2,1.8333,1.3,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-villarreal/ugbsEgb,2024-05-19,14:00,Villarreal,Real Madrid,3.0,3.9,2.15,1.6667,1.3636,1.25,1.3636,3.0,52376,LaLiga 23/24
+https://www.sofascore.com/rayo-vallecano-barcelona/rgbstgb,2024-05-19,14:00,FC Barcelona,Rayo Vallecano,1.33,5.5,8.0,1.0833,3.25,1.1429,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-osasuna/vgbsLgb,2024-05-19,14:00,Atlético Madrid,Osasuna,1.33,5.25,9.5,1.0714,3.25,1.1667,2.0,1.75,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-athletic-club/AgbsIgb,2024-05-19,14:00,Athletic Club,Sevilla,1.57,4.1,5.75,1.1429,2.3,1.2222,1.8,1.95,52376,LaLiga 23/24
+https://www.sofascore.com/girona-fc-valencia/DgbsoKj,2024-05-19,14:00,Valencia,Girona FC,3.7,3.75,1.95,1.8,1.2857,1.25,1.6154,2.2,52376,LaLiga 23/24
+https://www.sofascore.com/real-sociedad-real-betis/qgbszgb,2024-05-19,14:00,Real Betis,Real Sociedad,3.3,2.9,2.45,1.5333,1.3,1.4,2.1,1.6667,52376,LaLiga 23/24
+https://www.sofascore.com/granada-celta-vigo/wgbsEAn,2024-05-19,14:00,Granada,Celta Vigo,3.9,3.5,1.95,1.8,1.25,1.2857,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/almeria-mallorca/Bgbsihb,2024-05-19,14:00,Mallorca,Almería,1.38,4.5,9.5,1.0714,3.0,1.1818,2.5,1.5,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-cadiz/NObsCGc,2024-05-19,14:00,Cádiz,Las Palmas,1.85,3.4,4.3333,1.2,1.9091,1.3,2.05,1.7,52376,LaLiga 23/24
+https://www.sofascore.com/granada-girona-fc/oKjsEAn,2024-05-24,16:00,Girona FC,Granada,1.22,7.0,12.0,1.05,4.0,1.1,1.6667,2.1,52376,LaLiga 23/24
+https://www.sofascore.com/osasuna-villarreal/ugbsvgb,2024-05-25,09:00,Osasuna,Villarreal,2.55,3.7,2.6,1.5,1.5,1.2857,1.4,2.75,52376,LaLiga 23/24
+https://www.sofascore.com/atletico-madrid-real-sociedad/zgbsLgb,2024-05-25,11:15,Real Sociedad,Atlético Madrid,2.63,3.3,2.7,1.4444,1.4444,1.3333,1.6667,2.1,52376,LaLiga 23/24
+https://www.sofascore.com/athletic-club-rayo-vallecano/tgbsAgb,2024-05-25,13:30,Rayo Vallecano,Athletic Club,3.2,3.25,2.35,1.5714,1.3636,1.3333,1.9091,1.9091,52376,LaLiga 23/24
+https://www.sofascore.com/cadiz-almeria/ihbsNOb,2024-05-25,13:30,Almería,Cádiz,2.1,3.8,3.2,1.3636,1.6667,1.25,1.6154,2.2,52376,LaLiga 23/24
+https://www.sofascore.com/real-madrid-real-betis/qgbsEgb,2024-05-25,16:00,Real Madrid,Real Betis,1.29,6.0,9.0,1.0714,3.5,1.125,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/getafe-mallorca/Bgbsjhb,2024-05-26,09:00,Getafe,Mallorca,2.3,3.25,3.25,1.3333,1.5714,1.3333,1.95,1.8,52376,LaLiga 23/24
+https://www.sofascore.com/valencia-celta-vigo/wgbsDgb,2024-05-26,11:15,Celta Vigo,Valencia,1.91,3.6,3.8,1.25,1.8333,1.2857,1.75,2.0,52376,LaLiga 23/24
+https://www.sofascore.com/las-palmas-deportivo-alaves/KhbsCGc,2024-05-26,11:15,Las Palmas,Deportivo Alavés,2.3,3.5,3.0,1.3636,1.5714,1.2857,1.7,2.05,52376,LaLiga 23/24
+https://www.sofascore.com/sevilla-barcelona/rgbsIgb,2024-05-26,16:00,Sevilla,FC Barcelona,4.2,4.1,1.73,2.05,1.2222,1.2222,1.4444,2.625,52376,LaLiga 23/24

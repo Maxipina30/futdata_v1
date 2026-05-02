@@ -1,0 +1,1110 @@
+source_url,date,time,local_team,away_team,decimal_home_win,decimal_draw,decimal_away_win,decimal_home_or_draw,decimal_draw_or_away,decimal_home_or_away,decimal_btts_yes,decimal_btts_no,season_id,season_name
+https://www.sofascore.com/sassuolo-napoli/oebsTfb,2025-08-23,13:30,Sassuolo,Napoli,6.0,3.75,1.62,2.2,1.1429,1.2857,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/genoa-lecce/Odbsneb,2025-08-23,13:30,Genoa,Lecce,1.75,3.4,5.25,1.1667,2.0,1.3,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-milan/Rdbslfb,2025-08-23,15:45,Milan,Cremonese,1.36,5.0,8.0,1.0714,3.25,1.1667,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/roma-bologna/Kdbsceb,2025-08-23,15:45,Roma,Bologna,2.15,3.25,3.5,1.2857,1.6667,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/como-lazio/Zdbseeb,2025-08-24,13:30,Como,Lazio,2.3,3.3,3.1,1.3636,1.5714,1.3333,1.7,2.05,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-fiorentina/Tdbsueb,2025-08-24,13:30,Cagliari,Fiorentina,3.0,3.1,2.55,1.6667,1.3,1.3333,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/parma-juventus/MdbsPdb,2025-08-24,15:45,Juventus,Parma,1.42,4.5,7.5,1.0833,2.75,1.1818,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/pisa-atalanta/LdbsMeb,2025-08-24,15:45,Atalanta,Pisa,1.42,4.75,7.0,1.1,2.75,1.1818,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-udinese/Vdbsbeb,2025-08-25,13:30,Udinese,Hellas Verona,1.95,3.2,4.3333,1.1818,1.8333,1.3636,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/inter-torino/WdbsXdb,2025-08-25,15:45,Inter,Torino,1.36,5.25,7.5,1.1,3.0,1.1667,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-cremonese/lfbsTfb,2025-08-29,13:30,Cremonese,Sassuolo,2.8,3.1,2.6,1.4444,1.4444,1.3333,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/milan-lecce/OdbsRdb,2025-08-29,15:45,Lecce,Milan,6.25,3.6,1.57,2.3,1.1111,1.2857,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/parma-atalanta/LdbsPdb,2025-08-30,13:30,Parma,Atalanta,4.5,3.75,1.75,1.95,1.2,1.25,1.7,2.05,76457,Serie A 25/26
+https://www.sofascore.com/como-bologna/Kdbseeb,2025-08-30,13:30,Bologna,Como,2.88,3.1,2.63,1.4,1.5,1.3636,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-napoli/oebsueb,2025-08-30,15:45,Napoli,Cagliari,1.4,4.3333,8.5,1.0833,2.75,1.2,2.375,1.5333,76457,Serie A 25/26
+https://www.sofascore.com/pisa-roma/cebsMeb,2025-08-30,15:45,Pisa,Roma,5.25,3.5,1.73,2.05,1.1667,1.2857,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/genoa-juventus/Mdbsneb,2025-08-31,13:30,Genoa,Juventus,5.0,3.2,1.85,1.9091,1.1667,1.3636,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/torino-fiorentina/TdbsWdb,2025-08-31,13:30,Torino,Fiorentina,3.1,3.1,2.45,1.5333,1.3636,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/inter-udinese/VdbsXdb,2025-08-31,15:45,Inter,Udinese,1.27,6.0,10.0,1.0625,3.75,1.125,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-lazio/Zdbsbeb,2025-08-31,15:45,Lazio,Hellas Verona,1.55,3.9,6.5,1.1111,2.375,1.25,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-parma/Pdbsueb,2025-09-13,10:00,Cagliari,Parma,2.25,3.0,3.6,1.2857,1.6154,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/inter-juventus/MdbsXdb,2025-09-13,13:00,Juventus,Inter,2.9,2.9,2.63,1.4,1.4444,1.4,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/napoli-fiorentina/Tdbsoeb,2025-09-13,15:45,Fiorentina,SSC Napoli,4.1,3.25,2.0,1.8,1.2222,1.3636,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/roma-torino/Wdbsceb,2025-09-14,07:30,Roma,Torino,1.5,4.1,6.5,1.1111,2.5,1.2222,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/lecce-atalanta/LdbsOdb,2025-09-14,10:00,Atalanta,Lecce,1.38,4.75,8.5,1.0833,3.0,1.1818,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/pisa-udinese/VdbsMeb,2025-09-14,10:00,Pisa,Udinese,2.8,3.0,2.75,1.4,1.4,1.3636,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-lazio/ZdbsTfb,2025-09-14,13:00,Sassuolo,Lazio,4.3333,3.5,1.85,1.9091,1.2,1.2857,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/milan-bologna/KdbsRdb,2025-09-14,15:45,Milan,Bologna,1.75,3.5,5.0,1.1667,2.0,1.2857,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-hellas-verona/bebslfb,2025-09-15,13:30,Hellas Verona,Cremonese,2.6,3.0,3.0,1.4444,1.4,1.3636,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/genoa-como/eebsneb,2025-09-15,15:45,Como,Genoa,1.67,3.5,5.75,1.1429,2.1,1.2857,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-lecce/Odbsueb,2025-09-19,15:45,Lecce,Cagliari,2.88,2.9,2.75,1.4,1.4,1.4,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/genoa-bologna/Kdbsneb,2025-09-20,10:00,Bologna,Genoa,1.95,3.0,4.75,1.1818,1.8,1.3636,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-juventus/Mdbsbeb,2025-09-20,13:00,Hellas Verona,Juventus,7.0,3.9,1.53,2.375,1.1,1.25,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/udinese-milan/RdbsVdb,2025-09-20,15:45,Udinese,Milan,5.0,4.0,1.67,2.2,1.1667,1.2222,1.75,2.0,76457,Serie A 25/26
+https://www.sofascore.com/roma-lazio/Zdbsceb,2025-09-21,07:30,Lazio,Roma,2.8,2.9,2.8,1.4444,1.4,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-parma/Pdbslfb,2025-09-21,10:00,Cremonese,Parma,2.9,3.1,2.55,1.5,1.4,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/como-fiorentina/Tdbseeb,2025-09-21,13:00,Fiorentina,Como,2.5,3.3,2.8,1.4,1.5,1.3333,1.7,2.05,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-inter/XdbsTfb,2025-09-21,15:45,Inter,Sassuolo,1.29,5.5,10.0,1.0625,3.5,1.1429,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/pisa-napoli/oebsMeb,2025-09-22,15:45,SSC Napoli,Pisa,1.3,5.25,10.0,1.0625,3.4,1.1667,2.5,1.5,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-como/eebslfb,2025-09-27,10:00,Como,Cremonese,1.38,4.75,8.0,1.0833,2.75,1.1818,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/juventus-atalanta/LdbsMdb,2025-09-27,13:00,Juventus,Atalanta,1.85,3.5,4.3333,1.2,1.9091,1.3,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-inter/Xdbsueb,2025-09-27,15:45,Cagliari,Inter,6.5,4.2,1.5,2.5,1.1111,1.2222,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-udinese/VdbsTfb,2025-09-28,07:30,Sassuolo,Udinese,2.35,3.2,3.3,1.3636,1.5333,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/roma-hellas-verona/bebsceb,2025-09-28,10:00,Roma,Hellas Verona,1.42,4.2,8.5,1.0833,2.75,1.2222,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/pisa-fiorentina/TdbsMeb,2025-09-28,10:00,Pisa,Fiorentina,3.4,3.3,2.2,1.6667,1.3,1.3333,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/lecce-bologna/KdbsOdb,2025-09-28,13:00,Lecce,Bologna,5.25,3.4,1.75,2.1,1.1429,1.2857,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/napoli-milan/Rdbsoeb,2025-09-28,15:45,Milan,Napoli,1.85,3.5,4.3333,1.2,1.9091,1.2857,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/torino-parma/PdbsWdb,2025-09-29,13:30,Parma,Torino,2.63,2.9,3.0,1.3636,1.5,1.4,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/genoa-lazio/Zdbsneb,2025-09-29,15:45,Genoa,Lazio,2.9,2.9,2.7,1.4,1.4,1.4,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-hellas-verona/bebsTfb,2025-10-03,15:45,Hellas Verona,Sassuolo,2.3,3.0,3.3,1.3,1.6154,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/lazio-torino/WdbsZdb,2025-10-04,10:00,Lazio,Torino,1.91,3.2,4.3333,1.2,1.8333,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/parma-lecce/OdbsPdb,2025-10-04,10:00,Parma,Lecce,1.91,3.4,4.2,1.2222,1.8333,1.3,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-inter/Xdbslfb,2025-10-04,13:00,Inter,Cremonese,1.18,7.0,17.0,1.025,4.5,1.1111,2.375,1.5333,76457,Serie A 25/26
+https://www.sofascore.com/como-atalanta/Ldbseeb,2025-10-04,15:45,Atalanta,Como,2.15,3.4,3.4,1.3,1.6667,1.3,1.6667,2.1,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-udinese/Vdbsueb,2025-10-05,07:30,Udinese,Cagliari,2.1,3.1,3.9,1.25,1.7,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/roma-fiorentina/Tdbsceb,2025-10-05,10:00,Fiorentina,Roma,2.9,3.2,2.5,1.5,1.4,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/pisa-bologna/KdbsMeb,2025-10-05,10:00,Bologna,Pisa,1.7,3.6,5.0,1.1667,2.1,1.2857,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/napoli-genoa/nebsoeb,2025-10-05,13:00,Napoli,Genoa,1.45,4.0,9.0,1.0833,2.625,1.25,2.375,1.5333,76457,Serie A 25/26
+https://www.sofascore.com/milan-juventus/MdbsRdb,2025-10-05,15:45,Juventus,Milan,2.75,3.0,2.8,1.4,1.4,1.3636,1.75,2.0,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-lecce/OdbsTfb,2025-10-18,10:00,Lecce,Sassuolo,2.75,3.1,2.75,1.4444,1.4,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/pisa-hellas-verona/bebsMeb,2025-10-18,10:00,Pisa,Hellas Verona,2.63,2.9,3.0,1.4,1.4444,1.4,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/napoli-torino/Wdbsoeb,2025-10-18,13:00,Torino,Napoli,5.0,3.2,1.85,1.95,1.1667,1.3333,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/roma-inter/Xdbsceb,2025-10-18,15:45,Roma,Inter,3.5,3.25,2.15,1.6667,1.2857,1.3333,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/como-juventus/Mdbseeb,2025-10-19,07:30,Como,Juventus,3.1,3.3,2.3,1.5333,1.3636,1.3333,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-bologna/Kdbsueb,2025-10-19,10:00,Cagliari,Bologna,3.8,3.3,2.05,1.7273,1.25,1.3333,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/genoa-parma/Pdbsneb,2025-10-19,10:00,Genoa,Parma,2.25,2.88,3.75,1.25,1.6154,1.4,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/lazio-atalanta/LdbsZdb,2025-10-19,13:00,Atalanta,Lazio,1.85,3.7,4.1,1.2222,1.9091,1.2857,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/fiorentina-milan/RdbsTdb,2025-10-19,15:45,Milan,Fiorentina,1.73,3.6,5.0,1.1667,2.05,1.2857,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-udinese/Vdbslfb,2025-10-20,15:45,Cremonese,Udinese,3.1,3.1,2.45,1.5333,1.3636,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/pisa-milan/RdbsMeb,2025-10-24,15:45,Milan,Pisa,1.29,5.75,9.5,1.0714,3.4,1.1429,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/como-parma/Pdbseeb,2025-10-25,10:00,Parma,Como,4.5,3.25,1.91,1.8,1.2,1.3333,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/udinese-lecce/OdbsVdb,2025-10-25,10:00,Udinese,Lecce,1.95,3.2,4.5,1.2,1.8,1.3636,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/napoli-inter/Xdbsoeb,2025-10-25,13:00,Napoli,Inter,3.5,3.2,2.2,1.6667,1.2857,1.3636,1.7,2.05,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-atalanta/Ldbslfb,2025-10-25,15:45,Cremonese,Atalanta,7.0,4.75,1.42,2.75,1.1,1.1818,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/genoa-torino/Wdbsneb,2025-10-26,08:30,Torino,Genoa,2.45,2.88,3.25,1.3,1.5333,1.4,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-roma/cebsTfb,2025-10-26,11:00,Sassuolo,Roma,4.3333,3.5,1.9,1.9091,1.2,1.3,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-hellas-verona/bebsueb,2025-10-26,11:00,Hellas Verona,Cagliari,2.0,3.2,4.3333,1.1818,1.8333,1.3636,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/fiorentina-bologna/KdbsTdb,2025-10-26,14:00,Fiorentina,Bologna,2.7,2.9,2.9,1.4,1.4444,1.4,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/lazio-juventus/MdbsZdb,2025-10-26,16:45,Lazio,Juventus,3.5,3.2,2.2,1.6667,1.2857,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/napoli-lecce/Odbsoeb,2025-10-28,14:30,Lecce,Napoli,6.0,3.6,1.62,2.25,1.125,1.2857,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/milan-atalanta/LdbsRdb,2025-10-28,16:45,Atalanta,Milan,2.55,3.25,2.8,1.4,1.5,1.3333,1.7,2.05,76457,Serie A 25/26
+https://www.sofascore.com/udinese-juventus/MdbsVdb,2025-10-29,14:30,Juventus,Udinese,1.45,4.5,7.0,1.1,2.625,1.1818,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/roma-parma/Pdbsceb,2025-10-29,14:30,Roma,Parma,1.45,3.9,8.5,1.0833,2.5,1.25,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/como-hellas-verona/bebseeb,2025-10-29,14:30,Como,Hellas Verona,1.57,3.75,6.5,1.1111,2.3,1.25,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/inter-fiorentina/TdbsXdb,2025-10-29,16:45,Inter,Fiorentina,1.36,5.0,8.5,1.0833,3.0,1.1667,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/torino-bologna/KdbsWdb,2025-10-29,16:45,Bologna,Torino,1.75,3.5,4.75,1.1818,2.0,1.2857,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-genoa/nebslfb,2025-10-29,16:45,Genoa,Cremonese,1.73,3.5,5.25,1.1667,2.05,1.2857,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-cagliari/uebsTfb,2025-10-30,14:30,Cagliari,Sassuolo,2.63,3.1,2.8,1.4,1.5,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/pisa-lazio/ZdbsMeb,2025-10-30,16:45,Pisa,Lazio,3.8,3.1,2.15,1.6667,1.25,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/udinese-atalanta/LdbsVdb,2025-11-01,11:00,Udinese,Atalanta,4.75,3.75,1.75,2.1,1.1667,1.25,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/napoli-como/eebsoeb,2025-11-01,14:00,Napoli,Como,1.91,3.2,4.5,1.1818,1.8333,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-juventus/Mdbslfb,2025-11-01,16:45,Cremonese,Juventus,6.5,4.3333,1.48,2.5,1.125,1.2,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-inter/Xdbsbeb,2025-11-02,08:30,Hellas Verona,Inter,8.5,4.75,1.38,3.0,1.0833,1.1818,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/fiorentina-lecce/OdbsTdb,2025-11-02,11:00,Fiorentina,Lecce,1.75,3.6,4.75,1.1667,2.05,1.2857,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/pisa-torino/WdbsMeb,2025-11-02,11:00,Torino,Pisa,1.8,3.3,5.25,1.1667,1.95,1.3333,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/parma-bologna/KdbsPdb,2025-11-02,14:00,Parma,Bologna,4.5,3.0,2.0,1.8,1.1818,1.3636,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/roma-milan/Rdbsceb,2025-11-02,16:45,Milan,Roma,2.3,2.9,3.5,1.2857,1.5714,1.4,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-genoa/nebsTfb,2025-11-03,14:30,Sassuolo,Genoa,2.45,2.9,3.25,1.2857,1.5714,1.4,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-lazio/Zdbsueb,2025-11-03,16:45,Lazio,Cagliari,1.62,3.6,6.0,1.125,2.25,1.2857,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-pisa/Mebslfb,2025-11-07,16:45,Pisa,Cremonese,2.3,3.1,3.4,1.3,1.5714,1.3636,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-como/eebsueb,2025-11-08,11:00,Como,Cagliari,1.57,3.9,6.25,1.1111,2.375,1.2222,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-lecce/Odbsbeb,2025-11-08,11:00,Lecce,Hellas Verona,2.75,2.88,2.88,1.3636,1.4444,1.4,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/torino-juventus/MdbsWdb,2025-11-08,14:00,Juventus,Torino,1.48,4.2,7.0,1.1111,2.5,1.2222,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/milan-parma/PdbsRdb,2025-11-08,16:45,Parma,Milan,6.5,4.0,1.5,2.5,1.1111,1.2222,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-atalanta/LdbsTfb,2025-11-09,08:30,Atalanta,Sassuolo,1.45,4.5,6.5,1.125,2.625,1.1818,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/napoli-bologna/Kdbsoeb,2025-11-09,11:00,Bologna,Napoli,2.8,2.9,2.75,1.4,1.4,1.4,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/genoa-fiorentina/Tdbsneb,2025-11-09,11:00,Genoa,Fiorentina,2.9,2.7,2.9,1.4,1.4,1.4444,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/roma-udinese/Vdbsceb,2025-11-09,14:00,Roma,Udinese,1.5,4.1,6.5,1.1111,2.375,1.2222,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/lazio-inter/XdbsZdb,2025-11-09,16:45,Inter,Lazio,1.3,5.25,9.5,1.0714,3.4,1.1667,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/udinese-bologna/KdbsVdb,2025-11-22,11:00,Udinese,Bologna,3.0,3.1,2.5,1.5,1.3636,1.3636,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-genoa/nebsueb,2025-11-22,11:00,Cagliari,Genoa,3.1,2.9,2.63,1.4444,1.3636,1.4,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/fiorentina-juventus/MdbsTdb,2025-11-22,14:00,Fiorentina,Juventus,3.7,3.3,2.1,1.7,1.2857,1.3333,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/napoli-atalanta/Ldbsoeb,2025-11-22,16:45,Napoli,Atalanta,2.4,3.0,3.25,1.3,1.6154,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-parma/Pdbsbeb,2025-11-23,08:30,Hellas Verona,Parma,2.15,3.0,3.75,1.2857,1.6154,1.4,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-roma/cebslfb,2025-11-23,11:00,Cremonese,Roma,5.25,3.6,1.7,2.1,1.1667,1.2857,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/lazio-lecce/OdbsZdb,2025-11-23,14:00,Lazio,Lecce,1.75,3.25,5.25,1.1667,2.0,1.3333,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/inter-milan/RdbsXdb,2025-11-23,16:45,Inter,Milan,2.05,3.25,3.75,1.2222,1.7273,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/como-torino/Wdbseeb,2025-11-24,14:30,Torino,Como,3.6,3.1,2.2,1.6154,1.2857,1.3636,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-pisa/MebsTfb,2025-11-24,16:45,Sassuolo,Pisa,2.0,3.2,4.2,1.2222,1.8,1.3333,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-como/eebsTfb,2025-11-28,16:45,Como,Sassuolo,1.83,3.5,4.5,1.1818,1.95,1.2857,1.75,2.0,76457,Serie A 25/26
+https://www.sofascore.com/udinese-parma/PdbsVdb,2025-11-29,11:00,Parma,Udinese,2.7,3.0,2.75,1.4,1.4444,1.3636,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/genoa-hellas-verona/bebsneb,2025-11-29,11:00,Genoa,Hellas Verona,2.0,2.8,4.75,1.1667,1.8,1.4,2.5,1.5,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-juventus/Mdbsueb,2025-11-29,14:00,Juventus,Cagliari,1.22,6.0,13.0,1.04,4.0,1.125,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/lazio-milan/RdbsZdb,2025-11-29,16:45,Milan,Lazio,1.65,3.75,5.5,1.1429,2.2,1.25,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/torino-lecce/OdbsWdb,2025-11-30,08:30,Lecce,Torino,3.0,2.88,2.63,1.4444,1.3636,1.4,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/pisa-inter/XdbsMeb,2025-11-30,11:00,Pisa,Inter,10.0,6.0,1.27,3.75,1.0625,1.125,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/fiorentina-atalanta/LdbsTdb,2025-11-30,14:00,Atalanta,Fiorentina,1.65,3.9,5.0,1.1667,2.2,1.25,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/napoli-roma/cebsoeb,2025-11-30,16:45,Roma,Napoli,2.75,2.8,3.0,1.3636,1.4,1.4,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-bologna/Kdbslfb,2025-12-01,16:45,Bologna,Cremonese,1.53,4.0,6.5,1.1111,2.375,1.2222,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-fiorentina/TdbsTfb,2025-12-06,11:00,Sassuolo,Fiorentina,2.75,3.25,2.6,1.4444,1.4444,1.3333,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/como-inter/Xdbseeb,2025-12-06,14:00,Inter,Como,1.55,4.3333,5.5,1.1429,2.375,1.2,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-atalanta/Ldbsbeb,2025-12-06,16:45,Hellas Verona,Atalanta,5.25,3.9,1.65,2.15,1.1667,1.25,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-lecce/Odbslfb,2025-12-07,08:30,Cremonese,Lecce,2.3,3.0,3.5,1.3333,1.5714,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-roma/cebsueb,2025-12-07,11:00,Cagliari,Roma,5.5,3.6,1.65,2.15,1.1429,1.2857,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/lazio-bologna/KdbsZdb,2025-12-07,14:00,Lazio,Bologna,2.25,3.0,3.5,1.2857,1.6154,1.3636,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/napoli-juventus/Mdbsoeb,2025-12-07,16:45,Napoli,Juventus,2.55,2.8,3.1,1.3636,1.5,1.4,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/pisa-parma/PdbsMeb,2025-12-08,11:00,Pisa,Parma,2.45,3.1,3.1,1.3636,1.5,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/genoa-udinese/Vdbsneb,2025-12-08,14:00,Udinese,Genoa,2.4,3.0,3.25,1.3333,1.5333,1.4,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/torino-milan/RdbsWdb,2025-12-08,16:45,Torino,Milan,5.5,3.7,1.65,2.2,1.1429,1.2857,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/pisa-lecce/OdbsMeb,2025-12-12,16:45,Lecce,Pisa,2.4,2.9,3.3,1.3636,1.5,1.4,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-torino/Wdbslfb,2025-12-13,11:00,Torino,Cremonese,2.0,3.3,4.0,1.25,1.8,1.3333,1.75,2.0,76457,Serie A 25/26
+https://www.sofascore.com/lazio-parma/PdbsZdb,2025-12-13,14:00,Parma,Lazio,3.9,3.25,2.05,1.6667,1.2857,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-atalanta/Ldbsueb,2025-12-13,16:45,Atalanta,Cagliari,1.33,5.25,9.0,1.0833,3.25,1.1667,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-milan/RdbsTfb,2025-12-14,08:30,Milan,Sassuolo,1.5,4.3333,6.0,1.1429,2.375,1.2,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/napoli-udinese/Vdbsoeb,2025-12-14,11:00,Udinese,Napoli,4.3333,3.4,1.9,1.9091,1.2,1.3,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-fiorentina/Tdbsbeb,2025-12-14,11:00,Fiorentina,Hellas Verona,2.0,3.2,4.2,1.2222,1.8,1.3636,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/genoa-inter/Xdbsneb,2025-12-14,14:00,Genoa,Inter,7.0,4.2,1.48,2.625,1.1,1.2,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/juventus-bologna/KdbsMdb,2025-12-14,16:45,Bologna,Juventus,3.4,3.1,2.25,1.6154,1.3,1.3636,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/como-roma/cebseeb,2025-12-15,16:45,Roma,Como,2.2,3.0,3.7,1.2857,1.6667,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-lazio/Zdbslfb,2025-12-20,14:00,Lazio,Cremonese,1.5333,3.9,7.0,1.1111,2.3,1.25,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/roma-juventus/Mdbsceb,2025-12-20,16:45,Juventus,Roma,2.0,3.0,4.5,1.1818,1.8,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/pisa-cagliari/uebsMeb,2025-12-21,08:30,Cagliari,Pisa,2.0,3.2,4.2,1.2222,1.8,1.3636,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-torino/WdbsTfb,2025-12-21,11:00,Sassuolo,Torino,2.35,3.1,3.3,1.3333,1.5714,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/udinese-fiorentina/TdbsVdb,2025-12-21,14:00,Fiorentina,Udinese,2.15,3.25,3.7,1.2857,1.7,1.3333,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/genoa-atalanta/Ldbsneb,2025-12-21,16:45,Genoa,Atalanta,3.8,3.3,2.05,1.7273,1.25,1.3333,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/fiorentina-parma/PdbsTdb,2025-12-27,08:30,Parma,Fiorentina,3.75,3.4,2.05,1.7,1.2857,1.3333,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/como-lecce/Odbseeb,2025-12-27,11:00,Lecce,Como,5.0,3.3,1.8333,1.9091,1.1818,1.3,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-torino/Wdbsueb,2025-12-27,11:00,Torino,Cagliari,1.8,3.4,5.25,1.1667,1.95,1.3,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/lazio-udinese/VdbsZdb,2025-12-27,14:00,Udinese,Lazio,3.1,2.9,2.6,1.5,1.3333,1.4,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/pisa-juventus/MdbsMeb,2025-12-27,16:45,Pisa,Juventus,7.5,4.1,1.48,2.625,1.1,1.2222,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-milan/Rdbsbeb,2025-12-28,08:30,Milan,Hellas Verona,1.38,5.0,7.5,1.0833,3.0,1.1818,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-napoli/oebslfb,2025-12-28,11:00,Cremonese,Napoli,6.5,3.6,1.6,2.3,1.125,1.25,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-bologna/KdbsTfb,2025-12-28,14:00,Bologna,Sassuolo,1.95,3.25,4.2,1.2222,1.8,1.3333,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/inter-atalanta/LdbsXdb,2025-12-28,16:45,Atalanta,Inter,3.3,3.6,2.1,1.7,1.3333,1.2857,1.6667,2.1,76457,Serie A 25/26
+https://www.sofascore.com/genoa-roma/cebsneb,2025-12-29,16:45,Roma,Genoa,1.5714,3.7,6.5,1.1111,2.3,1.2857,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-milan/Rdbsueb,2026-01-02,16:45,Cagliari,Milan,6.0,3.9,1.5714,2.3,1.125,1.25,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/como-udinese/Vdbseeb,2026-01-03,08:30,Como,Udinese,1.75,3.6,4.75,1.1818,2.0,1.2857,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-parma/PdbsTfb,2026-01-03,11:00,Sassuolo,Parma,2.1,3.25,3.7,1.2222,1.8,1.3333,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/pisa-genoa/nebsMeb,2026-01-03,11:00,Genoa,Pisa,1.9091,3.2,4.75,1.1818,1.9091,1.3636,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/lecce-juventus/MdbsOdb,2026-01-03,14:00,Juventus,Lecce,1.25,5.75,15.0,1.0303,4.0,1.125,2.75,1.4,76457,Serie A 25/26
+https://www.sofascore.com/roma-atalanta/Ldbsceb,2026-01-03,16:45,Atalanta,Roma,2.25,3.1,3.5,1.2857,1.6154,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/napoli-lazio/Zdbsoeb,2026-01-04,08:30,Lazio,Napoli,3.8,3.0,2.15,1.6667,1.2857,1.3636,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-fiorentina/Tdbslfb,2026-01-04,11:00,Fiorentina,Cremonese,1.7,3.75,5.0,1.1667,2.1,1.25,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-torino/Wdbsbeb,2026-01-04,14:00,Hellas Verona,Torino,2.625,2.9,2.9,1.3636,1.4444,1.4,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/inter-bologna/KdbsXdb,2026-01-04,16:45,Inter,Bologna,1.4,4.75,7.0,1.1,2.75,1.1818,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/pisa-como/eebsMeb,2026-01-06,11:00,Pisa,Como,5.0,3.3,1.75,2.0,1.1667,1.3333,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/roma-lecce/Odbsceb,2026-01-06,14:00,Lecce,Roma,5.0,3.4,1.75,2.05,1.1667,1.2857,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-juventus/MdbsTfb,2026-01-06,16:45,Sassuolo,Juventus,5.25,3.7,1.7,2.15,1.1667,1.2857,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/napoli-hellas-verona/bebsoeb,2026-01-07,14:30,Napoli,Hellas Verona,1.3,5.0,11.0,1.05,3.4,1.1667,2.625,1.4444,76457,Serie A 25/26
+https://www.sofascore.com/atalanta-bologna/KdbsLdb,2026-01-07,14:30,Bologna,Atalanta,3.1,3.3,2.35,1.5333,1.3636,1.3333,1.75,2.0,76457,Serie A 25/26
+https://www.sofascore.com/inter-parma/PdbsXdb,2026-01-07,16:45,Parma,Inter,10.0,4.75,1.33,3.25,1.0625,1.1818,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/lazio-fiorentina/TdbsZdb,2026-01-07,16:45,Lazio,Fiorentina,2.35,3.0,3.4,1.3,1.5714,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/torino-udinese/VdbsWdb,2026-01-07,16:45,Torino,Udinese,2.2,3.0,3.6,1.25,1.6667,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-cagliari/uebslfb,2026-01-08,14:30,Cremonese,Cagliari,2.4,2.9,3.4,1.3333,1.5333,1.4,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/genoa-milan/Rdbsneb,2026-01-08,16:45,Milan,Genoa,1.45,4.0,8.5,1.0833,2.625,1.2222,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/como-bologna/Kdbseeb,2026-01-10,11:00,Como,Bologna,1.95,3.3,4.2,1.2222,1.8,1.3333,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/pisa-udinese/VdbsMeb,2026-01-10,11:00,Udinese,Pisa,1.91,3.3,4.3333,1.2,1.8333,1.3333,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-roma/cebsTfb,2026-01-10,14:00,Roma,Sassuolo,1.67,3.7,5.5,1.1429,2.15,1.2857,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/torino-atalanta/LdbsWdb,2026-01-10,16:45,Atalanta,Torino,1.6,3.8,6.0,1.125,2.3,1.25,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/parma-lecce/OdbsPdb,2026-01-11,08:30,Lecce,Parma,2.75,2.9,2.8,1.4,1.4444,1.4,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/fiorentina-milan/RdbsTdb,2026-01-11,11:00,Fiorentina,Milan,3.4,3.25,2.2,1.6154,1.3333,1.3333,1.7,2.05,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-lazio/Zdbsbeb,2026-01-11,14:00,Hellas Verona,Lazio,3.6,2.8,2.38,1.5333,1.2857,1.4,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/napoli-inter/Xdbsoeb,2026-01-11,16:45,Inter,Napoli,1.7,3.5,5.25,1.1667,2.1,1.2857,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-genoa/nebsueb,2026-01-12,14:30,Genoa,Cagliari,2.15,2.9,4.1,1.2222,1.6667,1.4,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-juventus/Mdbslfb,2026-01-12,16:45,Juventus,Cremonese,1.25,6.0,12.0,1.05,3.75,1.125,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/napoli-parma/Pdbsoeb,2026-01-14,14:30,Napoli,Parma,1.3,5.25,11.0,1.0625,3.4,1.1667,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/inter-lecce/OdbsXdb,2026-01-14,16:45,Inter,Lecce,1.17,8.5,15.0,1.0303,5.0,1.0833,2.375,1.5333,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-bologna/Kdbsbeb,2026-01-15,14:30,Hellas Verona,Bologna,3.8,3.1,2.15,1.6667,1.2857,1.3636,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/como-milan/Rdbseeb,2026-01-15,16:45,Como,Milan,3.1,3.2,2.4,1.5,1.4,1.3636,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/pisa-atalanta/LdbsMeb,2026-01-16,16:45,Pisa,Atalanta,6.5,4.0,1.53,2.375,1.1111,1.2222,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/inter-udinese/VdbsXdb,2026-01-17,11:00,Udinese,Inter,6.5,4.5,1.45,2.625,1.1,1.1818,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-napoli/oebsTfb,2026-01-17,14:00,Napoli,Sassuolo,1.45,4.3333,7.5,1.1,2.625,1.2222,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-juventus/Mdbsueb,2026-01-17,16:45,Cagliari,Juventus,6.25,4.0,1.55,2.375,1.1,1.2222,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/genoa-parma/Pdbsneb,2026-01-18,08:30,Parma,Genoa,2.9,2.63,2.9,1.4,1.4,1.4444,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/fiorentina-bologna/KdbsTdb,2026-01-18,11:00,Bologna,Fiorentina,2.35,3.3,3.1,1.3636,1.5714,1.3333,1.6667,2.1,76457,Serie A 25/26
+https://www.sofascore.com/roma-torino/Wdbsceb,2026-01-18,14:00,Torino,Roma,4.5,3.3,1.9,1.9091,1.1818,1.3333,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/milan-lecce/OdbsRdb,2026-01-18,16:45,Milan,Lecce,1.29,5.25,12.0,1.05,3.5,1.1667,2.375,1.5333,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-hellas-verona/bebslfb,2026-01-19,14:30,Cremonese,Hellas Verona,2.4,3.0,3.2,1.3636,1.5,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/como-lazio/Zdbseeb,2026-01-19,16:45,Lazio,Como,3.25,2.9,2.5,1.5,1.3636,1.4,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/pisa-inter/XdbsMeb,2026-01-23,16:45,Inter,Pisa,1.25,6.0,11.0,1.05,3.75,1.125,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/como-torino/Wdbseeb,2026-01-24,11:00,Como,Torino,1.53,4.1,6.5,1.1111,2.375,1.2222,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-fiorentina/Tdbsueb,2026-01-24,14:00,Fiorentina,Cagliari,1.8,3.6,4.5,1.1818,1.95,1.2857,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/lazio-lecce/OdbsZdb,2026-01-24,16:45,Lecce,Lazio,4.75,2.9,1.95,1.8,1.1818,1.4,2.5,1.5,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-cremonese/lfbsTfb,2026-01-25,08:30,Sassuolo,Cremonese,2.0,3.3,4.0,1.2857,1.7,1.3333,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/parma-atalanta/LdbsPdb,2026-01-25,11:00,Atalanta,Parma,1.36,4.75,9.0,1.0714,3.25,1.1667,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/genoa-bologna/Kdbsneb,2026-01-25,11:00,Genoa,Bologna,3.25,3.0,2.4,1.5333,1.3333,1.3636,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/napoli-juventus/Mdbsoeb,2026-01-25,14:00,Juventus,Napoli,1.95,3.1,4.5,1.1818,1.9091,1.3636,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/roma-milan/Rdbsceb,2026-01-25,16:45,Roma,Milan,2.8,2.88,2.9,1.4,1.4444,1.4,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-udinese/Vdbsbeb,2026-01-26,16:45,Hellas Verona,Udinese,2.9,2.9,2.7,1.4444,1.4,1.4,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/genoa-lazio/Zdbsneb,2026-01-30,16:45,Lazio,Genoa,2.2,3.0,3.75,1.2857,1.6154,1.4,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-pisa/MebsTfb,2026-01-31,11:00,Pisa,Sassuolo,3.2,3.1,2.4,1.5333,1.3636,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/napoli-fiorentina/Tdbsoeb,2026-01-31,14:00,Napoli,Fiorentina,1.95,3.2,4.3333,1.1818,1.9091,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-hellas-verona/bebsueb,2026-01-31,16:45,Cagliari,Hellas Verona,2.15,3.0,3.75,1.25,1.6667,1.3636,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/torino-lecce/OdbsWdb,2026-02-01,08:30,Torino,Lecce,2.05,2.75,3.8,1.2222,1.7,1.4,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/como-atalanta/Ldbseeb,2026-02-01,11:00,Como,Atalanta,2.25,3.2,3.4,1.3,1.6667,1.3333,1.75,2.0,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-inter/Xdbslfb,2026-02-01,14:00,Cremonese,Inter,13.0,5.5,1.25,3.75,1.0303,1.1429,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/parma-juventus/MdbsPdb,2026-02-01,16:45,Parma,Juventus,8.0,4.75,1.4,2.75,1.0833,1.1818,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/roma-udinese/Vdbsceb,2026-02-02,16:45,Udinese,Roma,4.3333,3.2,1.95,1.8,1.2,1.3636,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/milan-bologna/KdbsRdb,2026-02-03,16:45,Bologna,Milan,3.0,3.1,2.55,1.5333,1.3636,1.3636,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/pisa-hellas-verona/bebsMeb,2026-02-06,16:45,Hellas Verona,Pisa,2.45,2.9,3.25,1.3636,1.5,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/napoli-genoa/nebsoeb,2026-02-07,14:00,Genoa,Napoli,4.3333,3.0,2.05,1.7273,1.2222,1.3636,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/torino-fiorentina/TdbsWdb,2026-02-07,16:45,Fiorentina,Torino,1.67,3.75,5.5,1.1429,2.15,1.2857,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/parma-bologna/KdbsPdb,2026-02-08,08:30,Bologna,Parma,1.62,4.0,5.5,1.1667,2.1,1.25,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/udinese-lecce/OdbsVdb,2026-02-08,11:00,Lecce,Udinese,2.88,2.88,2.88,1.4,1.4,1.4,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-inter/XdbsTfb,2026-02-08,14:00,Sassuolo,Inter,7.0,4.5,1.44,2.625,1.1,1.1818,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/lazio-juventus/MdbsZdb,2026-02-08,16:45,Juventus,Lazio,1.42,4.5,8.5,1.0833,2.75,1.1818,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-atalanta/Ldbslfb,2026-02-09,14:30,Atalanta,Cremonese,1.36,4.75,8.0,1.0714,3.25,1.1667,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-roma/cebsueb,2026-02-09,16:45,Roma,Cagliari,1.5,4.0,7.5,1.1,2.5,1.2222,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/pisa-milan/RdbsMeb,2026-02-13,16:45,Pisa,Milan,6.25,3.9,1.55,2.375,1.1111,1.25,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/como-fiorentina/Tdbseeb,2026-02-14,11:00,Como,Fiorentina,1.62,4.1,5.0,1.1667,2.2,1.2222,1.75,2.0,76457,Serie A 25/26
+https://www.sofascore.com/lazio-atalanta/LdbsZdb,2026-02-14,14:00,Lazio,Atalanta,3.4,3.1,2.25,1.6667,1.3,1.3636,1.75,2.0,76457,Serie A 25/26
+https://www.sofascore.com/inter-juventus/MdbsXdb,2026-02-14,16:45,Inter,Juventus,2.05,3.25,3.9,1.25,1.7273,1.3333,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-udinese/VdbsTfb,2026-02-15,08:30,Udinese,Sassuolo,2.55,3.0,3.0,1.3636,1.5,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-parma/Pdbsbeb,2026-02-15,11:00,Parma,Hellas Verona,2.3,2.9,3.6,1.2857,1.5714,1.4,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-genoa/nebslfb,2026-02-15,11:00,Cremonese,Genoa,3.2,2.9,2.5,1.5,1.3636,1.4,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/torino-bologna/KdbsWdb,2026-02-15,14:00,Torino,Bologna,3.0,3.2,2.45,1.5333,1.3636,1.3636,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/napoli-roma/cebsoeb,2026-02-15,16:45,Napoli,Roma,2.5,2.8,3.3,1.3333,1.5,1.4,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-lecce/Odbsueb,2026-02-16,16:45,Cagliari,Lecce,2.4,2.8,3.5,1.2857,1.5333,1.4,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/como-milan/Rdbseeb,2026-02-18,16:45,Milan,Como,2.45,3.0,3.2,1.3636,1.5,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-hellas-verona/bebsTfb,2026-02-20,16:45,Sassuolo,Hellas Verona,1.75,3.4,5.25,1.1667,2.0,1.3333,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/como-juventus/Mdbseeb,2026-02-21,11:00,Juventus,Como,2.1,3.3,3.5,1.2857,1.7,1.3333,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/inter-lecce/OdbsXdb,2026-02-21,14:00,Lecce,Inter,6.5,4.2,1.5,2.5,1.1111,1.2222,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-lazio/Zdbsueb,2026-02-21,16:45,Cagliari,Lazio,3.5,3.0,2.3,1.5714,1.2857,1.3636,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/genoa-torino/Wdbsneb,2026-02-22,08:30,Genoa,Torino,2.3,2.9,3.6,1.2857,1.5714,1.4,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/napoli-atalanta/Ldbsoeb,2026-02-22,11:00,Atalanta,Napoli,2.45,2.9,3.25,1.3333,1.5333,1.4,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/milan-parma/PdbsRdb,2026-02-22,14:00,Milan,Parma,1.3,5.25,9.0,1.0714,3.4,1.1667,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-roma/cebslfb,2026-02-22,16:45,Roma,Cremonese,1.3,5.25,11.0,1.05,3.4,1.1667,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/pisa-fiorentina/TdbsMeb,2026-02-23,14:30,Fiorentina,Pisa,1.6,4.0,5.5,1.1429,2.3,1.2222,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/udinese-bologna/KdbsVdb,2026-02-23,16:45,Bologna,Udinese,1.85,3.5,4.3333,1.2,1.9091,1.2857,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-parma/Pdbsueb,2026-02-27,16:45,Parma,Cagliari,2.15,3.0,3.9,1.25,1.6667,1.3636,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/como-lecce/Odbseeb,2026-02-28,11:00,Como,Lecce,1.38,4.5,9.0,1.0714,3.0,1.1818,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/napoli-hellas-verona/bebsoeb,2026-02-28,14:00,Hellas Verona,Napoli,6.25,3.6,1.62,2.25,1.125,1.2857,2.375,1.5333,76457,Serie A 25/26
+https://www.sofascore.com/genoa-inter/Xdbsneb,2026-02-28,16:45,Inter,Genoa,1.3,5.75,8.5,1.0833,3.4,1.1429,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-milan/Rdbslfb,2026-03-01,08:30,Cremonese,Milan,8.0,4.75,1.38,3.0,1.0833,1.1818,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-atalanta/LdbsTfb,2026-03-01,11:00,Sassuolo,Atalanta,3.4,3.5,2.15,1.6667,1.3,1.3,1.7,2.05,76457,Serie A 25/26
+https://www.sofascore.com/lazio-torino/WdbsZdb,2026-03-01,14:00,Torino,Lazio,2.8,2.88,2.88,1.4,1.4,1.4,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/roma-juventus/Mdbsceb,2026-03-01,16:45,Roma,Juventus,2.63,3.1,2.8,1.4,1.4444,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/pisa-bologna/KdbsMeb,2026-03-02,14:30,Pisa,Bologna,4.3333,3.3,1.91,1.8333,1.2,1.3333,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/udinese-fiorentina/TdbsVdb,2026-03-02,16:45,Udinese,Fiorentina,3.25,3.1,2.35,1.5714,1.3333,1.3636,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/napoli-torino/Wdbsoeb,2026-03-06,16:45,Napoli,Torino,1.55,3.9,6.5,1.1111,2.375,1.25,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-como/eebsueb,2026-03-07,11:00,Cagliari,Como,6.5,4.2,1.5,2.5,1.1111,1.2222,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/udinese-atalanta/LdbsVdb,2026-03-07,14:00,Atalanta,Udinese,1.62,3.9,5.5,1.1429,2.25,1.25,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/pisa-juventus/MdbsMeb,2026-03-07,16:45,Juventus,Pisa,1.2,7.0,13.0,1.04,4.3333,1.1,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-lecce/Odbslfb,2026-03-08,08:30,Lecce,Cremonese,2.25,2.9,3.5,1.2857,1.6154,1.4,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/fiorentina-parma/PdbsTdb,2026-03-08,11:00,Fiorentina,Parma,1.75,3.5,5.25,1.1667,2.0,1.2857,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-bologna/Kdbsbeb,2026-03-08,11:00,Bologna,Hellas Verona,1.57,3.8,6.5,1.1111,2.3,1.25,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/genoa-roma/cebsneb,2026-03-08,14:00,Genoa,Roma,4.5,3.1,1.95,1.8,1.1818,1.3636,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/inter-milan/RdbsXdb,2026-03-08,16:45,Milan,Inter,3.3,3.0,2.35,1.5714,1.3333,1.3636,1.6667,2.1,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-lazio/ZdbsTfb,2026-03-09,16:45,Lazio,Sassuolo,2.2,3.1,3.5,1.2857,1.6667,1.3636,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/torino-parma/PdbsWdb,2026-03-13,16:45,Torino,Parma,2.25,3.0,3.7,1.2857,1.6154,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/genoa-hellas-verona/bebsneb,2026-03-15,08:30,Hellas Verona,Genoa,3.4,3.0,2.35,1.5333,1.3333,1.4,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-bologna/KdbsTfb,2026-03-15,11:00,Sassuolo,Bologna,2.38,3.2,3.1,1.3636,1.5333,1.3636,1.75,2.0,76457,Serie A 25/26
+https://www.sofascore.com/pisa-cagliari/uebsMeb,2026-03-15,11:00,Pisa,Cagliari,2.55,2.9,3.1,1.3636,1.5,1.4,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/como-roma/cebseeb,2026-03-15,14:00,Como,Roma,1.95,3.3,4.2,1.2222,1.8,1.3333,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/lazio-milan/RdbsZdb,2026-03-15,16:45,Lazio,Milan,4.75,3.5,1.8,1.95,1.1818,1.2857,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-fiorentina/Tdbslfb,2026-03-16,16:45,Cremonese,Fiorentina,4.2,3.5,1.9,1.8333,1.25,1.2857,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-napoli/oebsueb,2026-03-20,14:30,Cagliari,SSC Napoli,5.5,3.5,1.7,2.1,1.1429,1.2857,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/genoa-udinese/Vdbsneb,2026-03-20,16:45,Genoa,Udinese,2.15,3.1,3.75,1.25,1.6667,1.3636,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-parma/Pdbslfb,2026-03-21,11:00,Parma,Cremonese,2.25,3.1,3.6,1.2857,1.6154,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/torino-milan/RdbsWdb,2026-03-21,14:00,Milan,Torino,1.36,5.0,9.0,1.0714,3.0,1.1667,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-juventus/MdbsTfb,2026-03-21,16:45,Juventus,Sassuolo,1.29,6.0,9.0,1.0714,3.5,1.125,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/pisa-como/eebsMeb,2026-03-22,08:30,Como,Pisa,1.33,5.25,10.0,1.0625,3.25,1.1667,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-atalanta/Ldbsbeb,2026-03-22,11:00,Atalanta,Hellas Verona,1.4,4.5,8.0,1.0833,2.75,1.1818,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/lazio-bologna/KdbsZdb,2026-03-22,11:00,Bologna,Lazio,2.4,3.1,3.2,1.3636,1.5333,1.3636,1.75,2.0,76457,Serie A 25/26
+https://www.sofascore.com/roma-lecce/Odbsceb,2026-03-22,14:00,Roma,Lecce,1.45,4.1,8.0,1.0833,2.625,1.2222,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/inter-fiorentina/TdbsXdb,2026-03-22,16:45,Fiorentina,Inter,5.25,4.2,1.6,2.3,1.1667,1.2222,1.75,2.0,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-cagliari/uebsTfb,2026-04-04,10:00,Sassuolo,Cagliari,2.15,3.1,3.75,1.25,1.6667,1.3636,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-fiorentina/Tdbsbeb,2026-04-04,13:00,Hellas Verona,Fiorentina,3.9,3.25,2.05,1.7273,1.25,1.3333,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/lazio-parma/PdbsZdb,2026-04-04,15:45,Lazio,Parma,1.95,3.25,4.3333,1.2,1.8,1.3333,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-bologna/Kdbslfb,2026-04-05,10:00,Cremonese,Bologna,3.25,3.4,2.2,1.6667,1.3333,1.3,1.75,2.0,76457,Serie A 25/26
+https://www.sofascore.com/pisa-torino/WdbsMeb,2026-04-05,13:00,Pisa,Torino,3.2,2.9,2.5,1.5,1.3636,1.4,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/roma-inter/Xdbsceb,2026-04-05,15:45,Inter,Roma,1.57,4.0,6.0,1.125,2.3,1.2222,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/como-udinese/Vdbseeb,2026-04-06,07:30,Udinese,Como,5.75,3.9,1.6,2.3,1.1429,1.25,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/lecce-atalanta/LdbsOdb,2026-04-06,10:00,Lecce,Atalanta,5.5,3.8,1.65,2.2,1.1429,1.25,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/genoa-juventus/Mdbsneb,2026-04-06,13:00,Juventus,Genoa,1.36,4.75,9.0,1.0714,3.0,1.1818,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/napoli-milan/Rdbsoeb,2026-04-06,15:45,SSC Napoli,Milan,2.4,3.0,3.25,1.3333,1.5333,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/pisa-roma/cebsMeb,2026-04-10,15:45,Roma,Pisa,1.36,5.0,8.0,1.0833,3.0,1.1667,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-torino/Wdbsbeb,2026-04-11,10:00,Torino,Hellas Verona,1.85,3.1,4.0,1.2,1.8,1.3333,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-cagliari/uebslfb,2026-04-11,10:00,Cagliari,Cremonese,1.95,3.1,4.1,1.2222,1.8,1.3636,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/udinese-milan/RdbsVdb,2026-04-11,13:00,Milan,Udinese,1.45,4.3333,7.5,1.1,2.625,1.2,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/juventus-atalanta/LdbsMdb,2026-04-11,15:45,Atalanta,Juventus,3.1,3.5,2.25,1.6154,1.3636,1.2857,1.5714,2.25,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-genoa/nebsTfb,2026-04-12,07:30,Genoa,Sassuolo,2.1,3.4,3.5,1.2857,1.7,1.3,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/napoli-parma/Pdbsoeb,2026-04-12,10:00,Parma,SSC Napoli,6.5,3.8,1.57,2.3,1.1111,1.25,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/lecce-bologna/KdbsOdb,2026-04-12,13:00,Bologna,Lecce,1.83,3.4,4.5,1.1818,1.9091,1.3,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/como-inter/Xdbseeb,2026-04-12,15:45,Como,Inter,3.2,3.3,2.25,1.6154,1.3636,1.3333,1.6667,2.1,76457,Serie A 25/26
+https://www.sofascore.com/lazio-fiorentina/TdbsZdb,2026-04-13,15:45,Fiorentina,Lazio,2.38,3.1,3.3,1.3333,1.5333,1.3636,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-como/eebsTfb,2026-04-17,13:30,Sassuolo,Como,6.25,4.5,1.48,2.625,1.125,1.1818,1.75,2.0,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-inter/Xdbsueb,2026-04-17,15:45,Inter,Cagliari,1.22,6.5,13.0,1.04,4.0,1.1111,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/udinese-parma/PdbsVdb,2026-04-18,10:00,Udinese,Parma,2.15,2.9,4.1,1.2222,1.6667,1.4,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/napoli-lazio/Zdbsoeb,2026-04-18,13:00,SSC Napoli,Lazio,1.5,3.9,7.5,1.1,2.5,1.25,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/roma-atalanta/Ldbsceb,2026-04-18,15:45,Roma,Atalanta,2.38,3.4,3.0,1.3636,1.5333,1.3,1.6667,2.1,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-torino/Wdbslfb,2026-04-19,07:30,Cremonese,Torino,2.88,3.2,2.55,1.5,1.4,1.3636,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-milan/Rdbsbeb,2026-04-19,10:00,Hellas Verona,Milan,6.5,4.1,1.53,2.375,1.1111,1.2222,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/pisa-genoa/nebsMeb,2026-04-19,13:00,Pisa,Genoa,3.0,3.0,2.55,1.5,1.3636,1.3636,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/juventus-bologna/KdbsMdb,2026-04-19,15:45,Juventus,Bologna,1.45,4.75,6.5,1.1111,2.625,1.1818,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/fiorentina-lecce/OdbsTdb,2026-04-20,15:45,Lecce,Fiorentina,3.5,3.3,2.1,1.7,1.2857,1.3333,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-napoli/oebslfb,2026-04-24,15:45,SSC Napoli,Cremonese,1.38,4.75,8.5,1.0833,3.0,1.1818,2.25,1.5714,76457,Serie A 25/26
+https://www.sofascore.com/pisa-parma/PdbsMeb,2026-04-25,10:00,Parma,Pisa,2.2,3.1,3.6,1.2857,1.6667,1.3636,2.0,1.75,76457,Serie A 25/26
+https://www.sofascore.com/roma-bologna/Kdbsceb,2026-04-25,13:00,Bologna,Roma,3.5,3.1,2.2,1.6667,1.2857,1.3636,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-lecce/Odbsbeb,2026-04-25,15:45,Hellas Verona,Lecce,2.5,3.0,3.1,1.3636,1.5,1.3636,2.2,1.6154,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-fiorentina/TdbsTfb,2026-04-26,07:30,Fiorentina,Sassuolo,1.91,3.1,3.6,1.25,1.7273,1.3333,1.6667,2.1,76457,Serie A 25/26
+https://www.sofascore.com/genoa-como/eebsneb,2026-04-26,10:00,Genoa,Como,5.25,4.2,1.6,2.3,1.1667,1.2222,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/inter-torino/WdbsXdb,2026-04-26,13:00,Torino,Inter,7.5,5.25,1.38,3.0,1.1,1.1667,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/milan-juventus/MdbsRdb,2026-04-26,15:45,Milan,Juventus,2.75,3.1,2.75,1.4,1.4,1.3636,1.75,2.0,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-atalanta/Ldbsueb,2026-04-27,13:30,Cagliari,Atalanta,4.75,3.75,1.73,2.05,1.1818,1.25,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/lazio-udinese/VdbsZdb,2026-04-27,15:45,Lazio,Udinese,2.3,3.1,3.4,1.3,1.5714,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/pisa-lecce/OdbsMeb,2026-05-01,15:45,Pisa,Lecce,3.2,2.8,2.25,1.5333,1.3333,1.3636,2.1,1.6667,76457,Serie A 25/26
+https://www.sofascore.com/torino-udinese/VdbsWdb,2026-05-02,10:00,Udinese,Torino,2.0,3.3,4.0,1.2222,1.8,1.3333,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/napoli-como/eebsoeb,2026-05-02,13:00,Como,SSC Napoli,2.25,3.2,3.5,1.2857,1.6154,1.3636,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/genoa-atalanta/Ldbsneb,2026-05-02,15:45,Atalanta,Genoa,1.5,4.3333,6.0,1.0833,1.5,1.8333,10.0,1.0625,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-bologna/Kdbsueb,2026-05-03,07:30,Bologna,Cagliari,1.8,3.5,4.75,1.1818,1.95,1.2857,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-milan/RdbsTfb,2026-05-03,10:00,Sassuolo,Milan,4.5,4.1,1.73,2.1,1.1818,1.2222,1.7,2.05,76457,Serie A 25/26
+https://www.sofascore.com/hellas-verona-juventus/Mdbsbeb,2026-05-03,13:00,Juventus,Hellas Verona,1.2,7.0,13.0,1.04,4.3333,1.1,2.375,1.5333,76457,Serie A 25/26
+https://www.sofascore.com/inter-parma/PdbsXdb,2026-05-03,15:45,Inter,Parma,1.2,7.0,13.0,1.04,4.3333,1.1,2.05,1.7,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-lazio/Zdbslfb,2026-05-04,13:30,Cremonese,Lazio,2.9,3.25,2.5,1.5,1.4,1.3333,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/roma-fiorentina/Tdbsceb,2026-05-04,15:45,Roma,Fiorentina,1.62,4.2,5.0,1.1667,2.25,1.2222,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/sassuolo-torino/WdbsTfb,2026-05-08,15:45,Torino,Sassuolo,2.2,3.3,3.1,1.3636,1.6667,1.3333,1.8,1.95,76457,Serie A 25/26
+https://www.sofascore.com/cagliari-udinese/Vdbsueb,2026-05-09,10:00,Cagliari,Udinese,2.4,3.2,3.0,1.3636,1.5333,1.3636,1.95,1.8,76457,Serie A 25/26
+https://www.sofascore.com/lazio-inter/XdbsZdb,2026-05-09,13:00,Lazio,Inter,4.5,3.6,1.73,2.05,1.1818,1.2857,1.7,2.05,76457,Serie A 25/26
+https://www.sofascore.com/lecce-juventus/MdbsOdb,2026-05-09,15:45,Lecce,Juventus,6.25,3.9,1.5,2.5,1.125,1.25,1.9091,1.9091,76457,Serie A 25/26
+https://www.sofascore.com/como-hellas-verona/bebseeb,2026-05-10,07:30,Hellas Verona,Como,7.5,4.1,1.42,,,,,,76457,Serie A 25/26
+https://www.sofascore.com/genoa-fiorentina/Tdbsneb,2026-05-10,10:00,Fiorentina,Genoa,2.0,3.3,3.7,,,,,,76457,Serie A 25/26
+https://www.sofascore.com/cremonese-pisa/Mebslfb,2026-05-10,10:00,Cremonese,Pisa,1.7,3.6,5.0,,,,,,76457,Serie A 25/26
+https://www.sofascore.com/roma-parma/Pdbsceb,2026-05-10,13:00,Parma,Roma,5.0,3.3,1.75,,,,,,76457,Serie A 25/26
+https://www.sofascore.com/milan-atalanta/LdbsRdb,2026-05-10,15:45,Milan,Atalanta,2.1,3.4,3.6,,,,,,76457,Serie A 25/26
+https://www.sofascore.com/napoli-bologna/Kdbsoeb,2026-05-11,15:45,SSC Napoli,Bologna,1.53,3.9,6.25,,,,,,76457,Serie A 25/26
+https://www.sofascore.com/genoa-inter/Xdbsneb,2024-08-17,13:30,Genoa,Inter,7.0,4.1,1.5,2.5,1.1,1.2222,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/fiorentina-parma/PdbsTdb,2024-08-17,13:30,Parma,Fiorentina,3.5,3.3,2.15,1.6667,1.2857,1.3333,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/torino-milan/RdbsWdb,2024-08-17,15:45,Milan,Torino,1.5,4.2,7.0,1.1,2.5,1.2222,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/monza-empoli/febsEeb,2024-08-17,15:45,Empoli,Monza,2.4,3.1,3.1,1.3636,1.5333,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/napoli-hellas-verona/bebsoeb,2024-08-18,13:30,Hellas Verona,SSC Napoli,5.25,3.6,1.7,2.1,1.1667,1.2857,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/udinese-bologna/KdbsVdb,2024-08-18,13:30,Bologna,Udinese,2.0,3.3,4.0,1.2222,1.8,1.3333,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-roma/cebsueb,2024-08-18,15:45,Cagliari,Roma,3.8,3.4,2.0,1.8,1.25,1.3,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/lazio-venezia/NdbsZdb,2024-08-18,15:45,Lazio,Venezia,1.4,4.3333,9.0,1.0714,2.75,1.2,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/lecce-atalanta/LdbsOdb,2024-08-19,13:30,Lecce,Atalanta,3.5,3.4,2.1,1.7,1.3333,1.3,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/como-juventus/Mdbseeb,2024-08-19,15:45,Juventus,Como,1.53,4.1,6.0,1.1,2.625,1.2,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/milan-parma/PdbsRdb,2024-08-24,13:30,Parma,Milan,5.25,4.2,1.6,2.3,1.1667,1.2222,1.6154,2.2,63515,Serie A 24/25
+https://www.sofascore.com/lazio-udinese/VdbsZdb,2024-08-24,13:30,Udinese,Lazio,3.2,3.2,2.35,1.5714,1.3636,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/inter-lecce/OdbsXdb,2024-08-24,15:45,Inter,Lecce,1.22,7.0,11.0,1.05,4.0,1.1,2.25,1.5714,63515,Serie A 24/25
+https://www.sofascore.com/monza-genoa/nebsEeb,2024-08-24,15:45,Monza,Genoa,2.63,3.1,2.88,1.4,1.4444,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/torino-atalanta/LdbsWdb,2024-08-25,13:30,Torino,Atalanta,3.5,3.2,2.2,1.6667,1.2857,1.3636,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/fiorentina-venezia/NdbsTdb,2024-08-25,13:30,Fiorentina,Venezia,1.48,4.75,6.0,1.125,2.625,1.1818,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/napoli-bologna/Kdbsoeb,2024-08-25,15:45,SSC Napoli,Bologna,1.95,3.4,4.1,1.2222,1.8,1.3,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/empoli-roma/cebsfeb,2024-08-25,15:45,Roma,Empoli,1.45,4.5,6.5,1.1,2.625,1.1818,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-como/eebsueb,2024-08-26,13:30,Cagliari,Como,2.25,3.3,3.3,1.3333,1.6154,1.3333,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-juventus/Mdbsbeb,2024-08-26,15:45,Hellas Verona,Juventus,4.5,3.5,1.83,1.9091,1.1818,1.2857,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/torino-venezia/NdbsWdb,2024-08-30,13:30,Venezia,Torino,3.25,3.3,2.2,1.6667,1.3333,1.3333,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/inter-atalanta/LdbsXdb,2024-08-30,15:45,Inter,Atalanta,1.5,4.3333,6.25,1.125,2.5,1.2,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/empoli-bologna/Kdbsfeb,2024-08-31,13:30,Bologna,Empoli,1.7,3.5,5.25,1.1667,2.1,1.2857,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-lecce/Odbsueb,2024-08-31,13:30,Lecce,Cagliari,2.25,3.2,3.5,1.2857,1.6154,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/lazio-milan/RdbsZdb,2024-08-31,15:45,Lazio,Milan,2.75,3.4,2.6,1.5,1.4,1.3,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/napoli-parma/Pdbsoeb,2024-08-31,15:45,Napoli,Parma,1.42,4.75,7.5,1.1,2.75,1.1818,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/monza-fiorentina/TdbsEeb,2024-09-01,13:30,Fiorentina,Monza,1.83,3.5,4.5,1.2,1.9091,1.3,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/genoa-hellas-verona/bebsneb,2024-09-01,13:30,Genoa,Hellas Verona,2.05,3.3,3.7,1.2857,1.7273,1.3333,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/roma-juventus/Mdbsceb,2024-09-01,15:45,Juventus,Roma,1.75,3.6,5.0,1.1667,2.0,1.2857,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/como-udinese/Vdbseeb,2024-09-01,15:45,Udinese,Como,2.25,3.3,3.3,1.3333,1.6154,1.3333,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/como-bologna/Kdbseeb,2024-09-14,10:00,Como,Bologna,2.9,3.1,2.55,1.5333,1.3636,1.3636,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/empoli-juventus/Mdbsfeb,2024-09-14,13:00,Empoli,Juventus,5.75,3.6,1.65,2.25,1.125,1.2857,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/fiorentina-atalanta/LdbsTdb,2024-09-15,10:00,Atalanta,Fiorentina,1.85,3.4,4.5,1.1818,1.9091,1.3,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/torino-lecce/OdbsWdb,2024-09-15,10:00,Torino,Lecce,1.9,3.4,4.2,1.2222,1.9091,1.3,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-napoli/oebsueb,2024-09-15,13:00,Cagliari,Napoli,4.1,3.75,1.85,1.9091,1.2222,1.25,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/monza-inter/XdbsEeb,2024-09-15,15:45,Monza,Inter,8.0,5.0,1.4,3.0,1.0833,1.1667,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/udinese-parma/PdbsVdb,2024-09-16,13:30,Parma,Udinese,2.2,3.5,3.25,1.3636,1.6154,1.3,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-lazio/Zdbsbeb,2024-09-16,15:45,Lazio,Hellas Verona,1.55,3.9,6.25,1.125,2.375,1.25,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-empoli/febsueb,2024-09-20,13:30,Cagliari,Empoli,2.05,3.3,3.9,1.25,1.7273,1.3333,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-torino/Wdbsbeb,2024-09-20,15:45,Hellas Verona,Torino,2.8,3.0,2.75,1.4,1.4,1.3636,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/genoa-venezia/Ndbsneb,2024-09-21,10:00,Venezia,Genoa,2.88,3.1,2.63,1.4444,1.4,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/napoli-juventus/Mdbsoeb,2024-09-21,13:00,Juventus,Napoli,2.4,3.2,3.1,1.3636,1.5333,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/lazio-fiorentina/TdbsZdb,2024-09-22,07:30,Fiorentina,Lazio,2.3,3.3,3.1,1.3636,1.5714,1.3333,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/monza-bologna/KdbsEeb,2024-09-22,10:00,Monza,Bologna,3.2,3.0,2.5,1.5,1.3636,1.3636,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/inter-milan/RdbsXdb,2024-09-22,15:45,Inter,Milan,1.67,3.9,5.25,1.1667,2.15,1.25,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/como-atalanta/Ldbseeb,2024-09-24,15:45,Atalanta,Como,1.53,4.5,5.75,1.1429,2.375,1.1818,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/milan-lecce/OdbsRdb,2024-09-27,15:45,Milan,Lecce,1.3,5.75,9.0,1.0714,3.5,1.1429,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/inter-udinese/VdbsXdb,2024-09-28,10:00,Udinese,Inter,7.5,4.5,1.44,2.625,1.1,1.1818,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/genoa-juventus/Mdbsneb,2024-09-28,13:00,Genoa,Juventus,5.75,3.4,1.7,1.95,1.1667,1.3333,2.25,1.5714,63515,Serie A 24/25
+https://www.sofascore.com/atalanta-bologna/KdbsLdb,2024-09-28,15:45,Bologna,Atalanta,2.9,3.2,2.55,1.4444,1.4,1.3636,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/lazio-torino/WdbsZdb,2024-09-29,07:30,Torino,Lazio,3.0,3.0,2.5,1.5,1.3636,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/roma-venezia/Ndbsceb,2024-09-29,10:00,Roma,Venezia,1.48,4.5,7.0,1.1,2.625,1.1818,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/como-hellas-verona/bebseeb,2024-09-29,10:00,Como,Hellas Verona,1.91,3.5,4.3333,1.2,1.8333,1.2857,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/empoli-fiorentina/Tdbsfeb,2024-09-29,13:00,Empoli,Fiorentina,3.4,3.3,2.2,1.6667,1.3,1.3333,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/monza-napoli/oebsEeb,2024-09-29,15:45,Napoli,Monza,1.27,5.5,10.0,1.0714,3.5,1.1667,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-parma/Pdbsueb,2024-09-30,15:45,Parma,Cagliari,1.95,3.7,3.7,1.2857,1.8,1.2857,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/napoli-como/eebsoeb,2024-10-04,13:30,Napoli,Como,1.53,4.3333,6.0,1.125,2.375,1.2,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-venezia/Ndbsbeb,2024-10-04,15:45,Hellas Verona,Venezia,2.5,3.2,2.9,1.4,1.5,1.3636,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/udinese-lecce/OdbsVdb,2024-10-05,10:00,Udinese,Lecce,2.6,3.0,3.0,1.3636,1.5,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/genoa-atalanta/Ldbsneb,2024-10-05,13:00,Atalanta,Genoa,1.42,4.5,7.5,1.1,2.75,1.1818,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/inter-torino/WdbsXdb,2024-10-05,15:45,Inter,Torino,1.33,5.0,10.0,1.0625,3.25,1.1667,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-juventus/Mdbsueb,2024-10-06,07:30,Juventus,Cagliari,1.5,4.2,6.5,1.1111,2.5,1.2222,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/empoli-lazio/Zdbsfeb,2024-10-06,10:00,Lazio,Empoli,1.57,3.9,6.0,1.125,2.3,1.25,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/parma-bologna/KdbsPdb,2024-10-06,10:00,Bologna,Parma,1.95,3.6,3.7,1.2857,1.8,1.2857,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/monza-roma/cebsEeb,2024-10-06,13:00,Monza,Roma,4.0,3.3,2.0,1.8,1.2222,1.3333,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/fiorentina-milan/RdbsTdb,2024-10-06,15:45,Fiorentina,Milan,3.5,3.7,2.0,1.8,1.2857,1.2857,1.6154,2.2,63515,Serie A 24/25
+https://www.sofascore.com/genoa-bologna/Kdbsneb,2024-10-19,10:00,Genoa,Bologna,4.2,3.2,1.95,1.8,1.2222,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/como-parma/Pdbseeb,2024-10-19,10:00,Como,Parma,1.83,3.8,4.3333,1.1818,2.0,1.25,1.5714,2.25,63515,Serie A 24/25
+https://www.sofascore.com/udinese-milan/RdbsVdb,2024-10-19,13:00,Milan,Udinese,1.33,5.0,9.5,1.0714,3.25,1.1667,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/lazio-juventus/MdbsZdb,2024-10-19,15:45,Juventus,Lazio,2.1,3.2,3.9,1.25,1.7,1.3636,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/napoli-empoli/febsoeb,2024-10-20,07:30,Empoli,Napoli,5.75,3.6,1.67,2.15,1.1429,1.2857,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/venezia-atalanta/LdbsNdb,2024-10-20,10:00,Venezia,Atalanta,6.5,4.5,1.48,2.5,1.125,1.1818,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/fiorentina-lecce/OdbsTdb,2024-10-20,10:00,Lecce,Fiorentina,3.25,3.25,2.3,1.5714,1.3333,1.3333,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-torino/Wdbsueb,2024-10-20,13:00,Cagliari,Torino,2.38,3.0,3.4,1.3333,1.5333,1.3636,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/roma-inter/Xdbsceb,2024-10-20,15:45,Roma,Inter,4.1,3.4,1.91,1.8333,1.2222,1.3,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/monza-hellas-verona/bebsEeb,2024-10-21,15:45,Hellas Verona,Monza,2.38,3.0,3.4,1.2857,1.5714,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-udinese/Vdbsueb,2024-10-25,13:30,Udinese,Cagliari,2.2,3.1,3.5,1.2857,1.6667,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/como-torino/Wdbseeb,2024-10-25,15:45,Torino,Como,2.63,3.0,2.9,1.4,1.4444,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/napoli-lecce/Odbsoeb,2024-10-26,10:00,Napoli,Lecce,1.29,5.25,11.0,1.05,3.5,1.1667,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-atalanta/Ldbsbeb,2024-10-26,15:45,Atalanta,Hellas Verona,1.29,5.5,11.0,1.05,3.5,1.1429,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/empoli-parma/Pdbsfeb,2024-10-27,08:30,Parma,Empoli,2.15,3.4,3.4,1.3,1.6667,1.3,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/genoa-lazio/Zdbsneb,2024-10-27,11:00,Lazio,Genoa,1.42,4.5,7.5,1.1,2.75,1.1818,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/monza-venezia/NdbsEeb,2024-10-27,11:00,Monza,Venezia,2.1,3.4,3.6,1.2857,1.7,1.3,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/inter-juventus/MdbsXdb,2024-10-27,14:00,Inter,Juventus,1.8,3.6,4.5,1.1818,1.95,1.2857,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/roma-fiorentina/Tdbsceb,2024-10-27,16:45,Fiorentina,Roma,2.4,3.3,3.0,1.4,1.5333,1.3333,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-bologna/Kdbsueb,2024-10-29,14:30,Cagliari,Bologna,3.2,3.4,2.2,1.6154,1.3333,1.3333,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-lecce/Odbsbeb,2024-10-29,14:30,Lecce,Hellas Verona,2.25,3.1,3.5,1.3,1.5714,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/napoli-milan/Rdbsoeb,2024-10-29,16:45,Milan,Napoli,2.75,3.2,2.63,1.4444,1.4,1.3636,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/empoli-inter/Xdbsfeb,2024-10-30,14:30,Empoli,Inter,8.0,4.3333,1.4,2.625,1.1,1.2,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/udinese-venezia/NdbsVdb,2024-10-30,14:30,Venezia,Udinese,2.6,3.25,2.75,1.4444,1.4444,1.3333,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/parma-juventus/MdbsPdb,2024-10-30,16:45,Juventus,Parma,1.45,4.75,6.5,1.1111,2.625,1.1818,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/monza-atalanta/LdbsEeb,2024-10-30,16:45,Atalanta,Monza,1.33,5.25,9.0,1.0714,3.4,1.1667,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/genoa-fiorentina/Tdbsneb,2024-10-31,14:30,Genoa,Fiorentina,5.0,3.8,1.7,2.15,1.1667,1.25,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/roma-torino/Wdbsceb,2024-10-31,16:45,Roma,Torino,1.8,3.6,4.3333,1.2,1.9091,1.2857,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/como-lazio/Zdbseeb,2024-10-31,16:45,Como,Lazio,3.1,3.2,2.4,1.5333,1.3636,1.3636,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/lecce-bologna/KdbsOdb,2024-11-02,11:00,Bologna,Lecce,1.73,3.4,5.25,1.1667,2.0,1.3,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/udinese-juventus/MdbsVdb,2024-11-02,14:00,Udinese,Juventus,4.6,3.2,1.91,1.8333,1.1818,1.3636,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/monza-milan/RdbsEeb,2024-11-02,16:45,Monza,Milan,6.25,3.7,1.62,2.25,1.125,1.2857,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/napoli-atalanta/Ldbsoeb,2024-11-03,08:30,Napoli,Atalanta,2.25,3.2,3.3,1.3333,1.6154,1.3636,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/torino-fiorentina/TdbsWdb,2024-11-03,11:00,Torino,Fiorentina,3.8,3.2,2.1,1.7,1.25,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/roma-hellas-verona/bebsceb,2024-11-03,14:00,Hellas Verona,Roma,4.5,3.4,1.85,1.9091,1.1818,1.3,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/inter-venezia/NdbsXdb,2024-11-03,16:45,Inter,Venezia,1.2,7.0,15.0,1.0303,4.5,1.1,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/genoa-parma/Pdbsneb,2024-11-04,14:30,Parma,Genoa,1.8,3.75,4.3333,1.1818,2.05,1.25,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/empoli-como/eebsfeb,2024-11-04,14:30,Empoli,Como,2.8,3.0,2.75,1.4444,1.4,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-lazio/Zdbsueb,2024-11-04,16:45,Lazio,Cagliari,1.55,3.9,6.5,1.1111,2.375,1.25,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/genoa-como/eebsneb,2024-11-07,16:45,Genoa,Como,3.4,3.0,2.35,1.5714,1.3,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/empoli-lecce/Odbsfeb,2024-11-08,16:45,Lecce,Empoli,2.25,3.0,3.6,1.2857,1.6154,1.3636,2.25,1.5714,63515,Serie A 24/25
+https://www.sofascore.com/parma-venezia/NdbsPdb,2024-11-09,11:00,Venezia,Parma,2.15,3.6,3.2,1.3636,1.6667,1.2857,1.5,2.5,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-milan/Rdbsueb,2024-11-09,14:00,Cagliari,Milan,5.0,4.0,1.67,2.15,1.1667,1.2222,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/torino-juventus/MdbsWdb,2024-11-09,16:45,Juventus,Torino,1.57,3.6,7.5,1.1,2.3,1.2857,2.5,1.5,63515,Serie A 24/25
+https://www.sofascore.com/udinese-atalanta/LdbsVdb,2024-11-10,08:30,Atalanta,Udinese,1.45,4.3333,7.0,1.1,2.625,1.2,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/roma-bologna/Kdbsceb,2024-11-10,11:00,Roma,Bologna,2.2,3.3,3.4,1.3,1.6667,1.3333,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-fiorentina/Tdbsbeb,2024-11-10,11:00,Fiorentina,Hellas Verona,1.45,4.75,6.5,1.1111,2.625,1.1818,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/monza-lazio/ZdbsEeb,2024-11-10,14:00,Monza,Lazio,5.25,3.4,1.75,2.0,1.1667,1.3,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/napoli-inter/Xdbsoeb,2024-11-10,16:45,Inter,SSC Napoli,1.75,3.75,4.5,1.1818,2.0,1.25,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-inter/Xdbsbeb,2024-11-23,11:00,Hellas Verona,Inter,6.5,4.5,1.45,2.625,1.1111,1.1818,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/milan-juventus/MdbsRdb,2024-11-23,14:00,Milan,Juventus,2.25,3.3,3.2,1.3636,1.5714,1.3333,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/parma-atalanta/LdbsPdb,2024-11-23,16:45,Parma,Atalanta,5.25,4.3333,1.57,2.375,1.1429,1.1818,1.6154,2.2,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-genoa/nebsueb,2024-11-24,08:30,Genoa,Cagliari,2.5,3.25,2.9,1.4,1.5,1.3333,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/como-fiorentina/Tdbseeb,2024-11-24,11:00,Como,Fiorentina,3.8,3.4,2.0,1.8,1.25,1.3,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/monza-torino/WdbsEeb,2024-11-24,11:00,Torino,Monza,2.1,3.0,4.0,1.2222,1.7,1.3636,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/napoli-roma/cebsoeb,2024-11-24,14:00,SSC Napoli,Roma,1.7,3.6,5.25,1.1667,2.1,1.2857,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/lazio-bologna/KdbsZdb,2024-11-24,16:45,Lazio,Bologna,1.8,3.6,4.5,1.1818,1.95,1.2857,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/empoli-udinese/Vdbsfeb,2024-11-25,14:30,Empoli,Udinese,3.0,2.9,2.7,1.4444,1.3636,1.4,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/lecce-venezia/NdbsOdb,2024-11-25,16:45,Venezia,Lecce,2.25,3.2,3.4,1.3,1.6154,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-hellas-verona/bebsueb,2024-11-29,16:45,Cagliari,Hellas Verona,1.91,3.4,4.1,1.2222,1.8,1.2857,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/monza-como/eebsEeb,2024-11-30,11:00,Como,Monza,1.9,3.4,4.3333,1.2,1.9091,1.3,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/empoli-milan/Rdbsfeb,2024-11-30,14:00,Milan,Empoli,1.3,5.0,11.0,1.0625,3.25,1.1818,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/venezia-bologna/KdbsNdb,2024-11-30,16:45,Bologna,Venezia,1.8,3.5,4.75,1.1818,1.95,1.2857,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/genoa-udinese/Vdbsneb,2024-12-01,08:30,Udinese,Genoa,1.95,3.4,4.0,1.2222,1.8,1.3,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/napoli-torino/Wdbsoeb,2024-12-01,11:00,Torino,SSC Napoli,5.25,3.5,1.7,2.1,1.1667,1.2857,2.25,1.5714,63515,Serie A 24/25
+https://www.sofascore.com/lazio-parma/PdbsZdb,2024-12-01,11:00,Parma,Lazio,4.5,3.9,1.73,2.05,1.1818,1.25,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/lecce-juventus/MdbsOdb,2024-12-01,16:45,Lecce,Juventus,6.0,3.4,1.67,2.15,1.125,1.3,2.5,1.5,63515,Serie A 24/25
+https://www.sofascore.com/roma-atalanta/Ldbsceb,2024-12-02,16:45,Roma,Atalanta,3.5,3.4,2.1,1.7,1.2857,1.3,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/inter-parma/PdbsXdb,2024-12-06,14:30,Inter,Parma,1.2,7.0,13.0,1.0303,4.5,1.1,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/milan-atalanta/LdbsRdb,2024-12-06,16:45,Atalanta,Milan,2.15,3.5,3.3,1.3,1.7,1.3,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/genoa-torino/Wdbsneb,2024-12-07,11:00,Genoa,Torino,2.35,3.0,3.3,1.3333,1.5714,1.3636,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/juventus-bologna/KdbsMdb,2024-12-07,14:00,Juventus,Bologna,1.8,3.3,5.25,1.1667,1.95,1.3333,2.25,1.5714,63515,Serie A 24/25
+https://www.sofascore.com/roma-lecce/Odbsceb,2024-12-07,16:45,Roma,Lecce,1.53,4.0,6.5,1.1111,2.375,1.2222,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-fiorentina/Tdbsueb,2024-12-08,08:30,Fiorentina,Cagliari,1.55,4.2,5.75,1.1429,2.375,1.2222,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/empoli-hellas-verona/bebsfeb,2024-12-08,11:00,Hellas Verona,Empoli,2.8,2.75,3.0,1.3636,1.4,1.4,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/como-venezia/Ndbseeb,2024-12-08,14:00,Venezia,Como,2.88,3.0,2.7,1.4444,1.4,1.3636,1.6154,2.2,63515,Serie A 24/25
+https://www.sofascore.com/napoli-lazio/Zdbsoeb,2024-12-08,16:45,SSC Napoli,Lazio,1.83,3.5,4.5,1.1818,1.9091,1.2857,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/monza-udinese/VdbsEeb,2024-12-09,16:45,Monza,Udinese,2.7,2.9,2.9,1.4,1.4,1.4,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/empoli-torino/Wdbsfeb,2024-12-13,16:45,Empoli,Torino,2.63,2.88,3.1,1.3636,1.4444,1.4,2.25,1.5714,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-atalanta/Ldbsueb,2024-12-14,11:00,Cagliari,Atalanta,5.25,4.2,1.6,2.3,1.1667,1.2222,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/napoli-udinese/Vdbsoeb,2024-12-14,14:00,Udinese,SSC Napoli,5.5,3.5,1.7,2.05,1.1667,1.3,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/venezia-juventus/MdbsNdb,2024-12-14,16:45,Juventus,Venezia,1.36,4.75,9.0,1.0714,3.0,1.1818,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/monza-lecce/OdbsEeb,2024-12-15,08:30,Lecce,Monza,2.63,3.1,2.88,1.4,1.4444,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/fiorentina-bologna/KdbsTdb,2024-12-15,11:00,Bologna,Fiorentina,2.75,3.1,2.75,1.4,1.4,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-parma/Pdbsbeb,2024-12-15,11:00,Parma,Hellas Verona,1.91,3.4,4.0,1.2222,1.8333,1.3,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/como-roma/cebseeb,2024-12-15,14:00,Como,Roma,3.7,3.4,2.05,1.7273,1.2857,1.3,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/genoa-milan/Rdbsneb,2024-12-15,16:45,Milan,Genoa,1.48,4.3333,6.5,1.125,2.5,1.2222,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/lazio-inter/XdbsZdb,2024-12-16,16:45,Lazio,Inter,3.4,3.3,2.2,1.6667,1.3,1.3333,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-milan/Rdbsbeb,2024-12-20,16:45,Hellas Verona,Milan,5.25,4.0,1.62,2.3,1.1429,1.2222,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/torino-bologna/KdbsWdb,2024-12-21,11:00,Torino,Bologna,3.6,2.75,2.4,1.5333,1.2857,1.4,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/napoli-genoa/nebsoeb,2024-12-21,14:00,Genoa,SSC Napoli,5.5,3.5,1.7,2.1,1.1429,1.2857,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/lazio-lecce/OdbsZdb,2024-12-21,16:45,Lecce,Lazio,5.75,4.1,1.57,2.3,1.1429,1.2222,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/roma-parma/Pdbsceb,2024-12-22,08:30,Roma,Parma,1.38,4.75,8.0,1.0833,3.0,1.1818,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-venezia/Ndbsueb,2024-12-22,11:00,Venezia,Cagliari,2.55,3.25,2.8,1.4,1.5,1.3333,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/empoli-atalanta/Ldbsfeb,2024-12-22,14:00,Atalanta,Empoli,1.3,5.5,10.0,1.0625,3.4,1.1429,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/monza-juventus/MdbsEeb,2024-12-22,16:45,Monza,Juventus,6.5,3.6,1.6,2.3,1.1111,1.2857,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/udinese-fiorentina/TdbsVdb,2024-12-23,14:30,Fiorentina,Udinese,1.6,4.0,5.5,1.1429,2.3,1.2222,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/como-inter/Xdbseeb,2024-12-23,16:45,Inter,Como,1.33,5.0,9.5,1.0714,3.25,1.1667,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/genoa-empoli/febsneb,2024-12-28,11:00,Empoli,Genoa,2.6,2.8,3.1,1.3333,1.5,1.4,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/monza-parma/PdbsEeb,2024-12-28,11:00,Parma,Monza,2.63,3.25,2.8,1.4,1.4444,1.3333,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-inter/Xdbsueb,2024-12-28,14:00,Cagliari,Inter,7.5,4.75,1.4,2.75,1.1,1.1818,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/lazio-atalanta/LdbsZdb,2024-12-28,16:45,Lazio,Atalanta,3.1,3.25,2.35,1.5714,1.3636,1.3333,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/torino-udinese/VdbsWdb,2024-12-29,08:30,Udinese,Torino,2.3,2.9,3.5,1.2857,1.5714,1.4,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/napoli-venezia/Ndbsoeb,2024-12-29,11:00,SSC Napoli,Venezia,1.3,5.25,10.0,1.0625,3.4,1.1667,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/fiorentina-juventus/MdbsTdb,2024-12-29,14:00,Juventus,Fiorentina,1.83,3.3,4.75,1.1818,1.9091,1.3333,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/roma-milan/Rdbsceb,2024-12-29,16:45,Milan,Roma,2.4,3.2,3.2,1.3636,1.5333,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/como-lecce/Odbseeb,2024-12-30,14:30,Como,Lecce,1.62,3.7,5.75,1.1429,2.25,1.2857,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-bologna/Kdbsbeb,2024-12-30,16:45,Bologna,Hellas Verona,1.53,4.0,7.0,1.1,2.375,1.2222,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/empoli-venezia/Ndbsfeb,2025-01-04,11:00,Venezia,Empoli,2.63,3.1,2.9,1.4,1.4444,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/napoli-fiorentina/Tdbsoeb,2025-01-04,14:00,Fiorentina,SSC Napoli,3.3,3.0,2.4,1.5333,1.3333,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-udinese/Vdbsbeb,2025-01-04,16:45,Hellas Verona,Udinese,3.25,3.0,2.4,1.5333,1.3333,1.3636,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/monza-cagliari/uebsEeb,2025-01-05,08:30,Monza,Cagliari,2.38,3.1,3.25,1.3333,1.5333,1.3636,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/genoa-lecce/Odbsneb,2025-01-05,11:00,Lecce,Genoa,2.88,3.0,2.7,1.4444,1.4,1.3636,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/torino-parma/PdbsWdb,2025-01-05,14:00,Torino,Parma,1.8,3.5,4.75,1.1667,2.0,1.2857,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/roma-lazio/Zdbsceb,2025-01-05,16:45,Roma,Lazio,2.45,3.0,3.1,1.3636,1.5333,1.3636,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/como-lazio/Zdbseeb,2025-01-10,16:45,Lazio,Como,2.05,3.4,3.6,1.2857,1.7273,1.3,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/udinese-atalanta/LdbsVdb,2025-01-11,11:00,Udinese,Atalanta,6.0,3.8,1.6,2.3,1.125,1.25,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/empoli-lecce/Odbsfeb,2025-01-11,11:00,Empoli,Lecce,2.15,3.0,3.9,1.2222,1.7273,1.3636,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/torino-juventus/MdbsWdb,2025-01-11,14:00,Torino,Juventus,4.5,3.0,1.95,1.8,1.1818,1.4,2.375,1.5333,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-milan/Rdbsueb,2025-01-11,16:45,Milan,Cagliari,1.33,5.25,9.0,1.0833,3.25,1.1667,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/genoa-parma/Pdbsneb,2025-01-12,08:30,Genoa,Parma,1.95,3.4,4.0,1.2222,1.8,1.3,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/inter-venezia/NdbsXdb,2025-01-12,11:00,Venezia,Inter,9.5,4.5,1.38,3.0,1.0714,1.1818,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/roma-bologna/Kdbsceb,2025-01-12,14:00,Bologna,Roma,2.7,3.1,2.7,1.4444,1.4444,1.3636,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/napoli-hellas-verona/bebsoeb,2025-01-12,16:45,SSC Napoli,Hellas Verona,1.3,4.75,11.0,1.05,3.4,1.1818,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/monza-fiorentina/TdbsEeb,2025-01-13,16:45,Monza,Fiorentina,4.2,3.4,1.9,1.8333,1.2222,1.3,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/como-milan/Rdbseeb,2025-01-14,14:30,Como,Milan,4.5,3.5,1.8,1.9091,1.1818,1.2857,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/juventus-atalanta/LdbsMdb,2025-01-14,16:45,Atalanta,Juventus,2.1,3.2,3.75,1.25,1.7,1.3636,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/inter-bologna/KdbsXdb,2025-01-15,16:45,Inter,Bologna,1.53,4.0,6.5,1.1111,2.375,1.2222,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/genoa-roma/cebsneb,2025-01-17,16:45,Roma,Genoa,1.48,4.2,7.0,1.1,2.625,1.2222,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/monza-bologna/KdbsEeb,2025-01-18,11:00,Bologna,Monza,1.57,3.75,6.25,1.125,2.3,1.25,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/milan-juventus/MdbsRdb,2025-01-18,14:00,Juventus,Milan,2.35,3.1,3.3,1.3333,1.5714,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/napoli-atalanta/Ldbsoeb,2025-01-18,16:45,Atalanta,SSC Napoli,2.35,3.2,3.2,1.3636,1.5714,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/torino-fiorentina/TdbsWdb,2025-01-19,08:30,Fiorentina,Torino,1.75,3.4,5.25,1.1667,2.0,1.3,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-lecce/Odbsueb,2025-01-19,11:00,Cagliari,Lecce,1.91,3.3,4.1,1.2222,1.8333,1.3333,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/parma-venezia/NdbsPdb,2025-01-19,11:00,Parma,Venezia,2.2,3.5,3.2,1.3333,1.6667,1.2857,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-lazio/Zdbsbeb,2025-01-19,14:00,Hellas Verona,Lazio,5.0,3.6,1.73,2.05,1.1667,1.2857,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/empoli-inter/Xdbsfeb,2025-01-19,16:45,Inter,Empoli,1.33,4.75,11.0,1.05,3.25,1.1818,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/como-udinese/Vdbseeb,2025-01-20,16:45,Como,Udinese,2.1,3.3,3.6,1.2857,1.7,1.3333,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-torino/Wdbsueb,2025-01-24,16:45,Torino,Cagliari,2.25,3.1,3.5,1.2857,1.6154,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/como-atalanta/Ldbseeb,2025-01-25,11:00,Como,Atalanta,4.1,3.5,1.9,1.8333,1.2222,1.2857,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/napoli-juventus/Mdbsoeb,2025-01-25,14:00,SSC Napoli,Juventus,2.45,2.88,3.4,1.3,1.5333,1.4,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/empoli-bologna/Kdbsfeb,2025-01-25,16:45,Empoli,Bologna,3.9,3.25,2.05,1.7273,1.25,1.3333,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/milan-parma/PdbsRdb,2025-01-26,08:30,Milan,Parma,1.29,6.5,9.0,1.0714,3.5,1.1111,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/roma-udinese/Vdbsceb,2025-01-26,11:00,Udinese,Roma,3.0,3.25,2.45,1.5333,1.3636,1.3333,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/inter-lecce/OdbsXdb,2025-01-26,14:00,Lecce,Inter,10.0,5.0,1.33,3.25,1.0625,1.1667,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/lazio-fiorentina/TdbsZdb,2025-01-26,16:45,Lazio,Fiorentina,2.05,3.4,3.5,1.2857,1.7273,1.3,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-venezia/Ndbsbeb,2025-01-27,14:30,Venezia,Hellas Verona,2.25,3.3,3.3,1.3333,1.6154,1.3333,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/monza-genoa/nebsEeb,2025-01-27,16:45,Genoa,Monza,2.3,3.0,3.5,1.2857,1.5714,1.3636,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/parma-lecce/OdbsPdb,2025-01-31,16:45,Parma,Lecce,2.38,3.2,3.2,1.3636,1.5333,1.3636,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/udinese-venezia/NdbsVdb,2025-02-01,11:00,Udinese,Venezia,1.75,3.5,5.0,1.1667,2.0,1.2857,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/monza-hellas-verona/bebsEeb,2025-02-01,11:00,Monza,Hellas Verona,2.45,3.0,3.3,1.3333,1.5333,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/torino-atalanta/LdbsWdb,2025-02-01,14:00,Atalanta,Torino,1.53,4.0,6.5,1.1111,2.375,1.2222,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/como-bologna/Kdbseeb,2025-02-01,16:45,Bologna,Como,1.91,3.4,4.0,1.2222,1.8333,1.3,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/empoli-juventus/Mdbsfeb,2025-02-02,08:30,Juventus,Empoli,1.4,4.75,7.5,1.1,2.75,1.1818,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/genoa-fiorentina/Tdbsneb,2025-02-02,11:00,Fiorentina,Genoa,1.8,3.6,4.5,1.2,1.9091,1.2857,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/inter-milan/RdbsXdb,2025-02-02,14:00,Milan,Inter,4.3333,3.5,1.85,1.9091,1.2,1.2857,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/napoli-roma/cebsoeb,2025-02-02,16:45,Roma,SSC Napoli,3.5,3.3,2.15,1.6667,1.2857,1.3333,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-lazio/Zdbsueb,2025-02-03,16:45,Cagliari,Lazio,4.1,3.5,1.9,1.8,1.25,1.3,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/inter-fiorentina/TdbsXdb,2025-02-06,16:45,Fiorentina,Inter,3.8,3.5,2.0,1.8,1.25,1.2857,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/como-juventus/Mdbseeb,2025-02-07,16:45,Como,Juventus,3.6,3.4,2.1,1.6667,1.2857,1.3333,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-atalanta/Ldbsbeb,2025-02-08,11:00,Hellas Verona,Atalanta,7.0,4.2,1.48,2.625,1.1,1.2,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/genoa-torino/Wdbsneb,2025-02-08,16:45,Torino,Genoa,2.38,2.8,3.5,1.2857,1.5714,1.4,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/roma-venezia/Ndbsceb,2025-02-09,08:30,Venezia,Roma,4.2,3.5,1.9,1.9091,1.2222,1.2857,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/monza-lazio/ZdbsEeb,2025-02-09,11:00,Lazio,Monza,1.3,5.5,10.0,1.0625,3.4,1.1429,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-parma/Pdbsueb,2025-02-09,11:00,Cagliari,Parma,1.9,3.6,4.0,1.2222,1.9091,1.2857,1.6154,2.2,63515,Serie A 24/25
+https://www.sofascore.com/lecce-bologna/KdbsOdb,2025-02-09,14:00,Lecce,Bologna,4.5,3.2,1.91,1.8333,1.1818,1.3636,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/napoli-udinese/Vdbsoeb,2025-02-09,16:45,SSC Napoli,Udinese,1.44,4.2,8.5,1.0833,2.625,1.2222,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/inter-fiorentina/TdbsXdb,2025-02-10,16:45,Inter,Fiorentina,1.48,4.75,6.25,1.125,2.625,1.1818,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/torino-bologna/KdbsWdb,2025-02-14,16:45,Bologna,Torino,1.73,3.3,5.5,1.1429,2.0,1.3333,2.25,1.5714,63515,Serie A 24/25
+https://www.sofascore.com/napoli-lazio/Zdbsoeb,2025-02-15,14:00,Lazio,SSC Napoli,2.45,3.1,3.0,1.3636,1.5333,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-milan/Rdbsbeb,2025-02-15,16:45,Milan,Hellas Verona,1.33,5.0,9.5,1.0714,3.25,1.1667,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/como-fiorentina/Tdbseeb,2025-02-16,08:30,Fiorentina,Como,2.38,3.25,3.1,1.3636,1.5333,1.3333,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/empoli-udinese/Vdbsfeb,2025-02-16,11:00,Udinese,Empoli,1.9,3.4,4.3333,1.2,1.9091,1.3,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/monza-lecce/OdbsEeb,2025-02-16,11:00,Monza,Lecce,2.75,3.1,2.7,1.4444,1.4,1.3636,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/roma-parma/Pdbsceb,2025-02-16,14:00,Parma,Roma,3.6,3.3,2.1,1.8,1.25,1.3,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/genoa-venezia/Ndbsneb,2025-02-17,16:45,Genoa,Venezia,1.8,3.5,5.0,1.1667,1.95,1.2857,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/udinese-lecce/OdbsVdb,2025-02-21,16:45,Lecce,Udinese,3.0,3.0,2.55,1.5,1.3636,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/lazio-venezia/NdbsZdb,2025-02-22,11:00,Venezia,Lazio,5.25,4.1,1.62,2.25,1.1667,1.2222,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/parma-bologna/KdbsPdb,2025-02-22,11:00,Parma,Bologna,4.5,3.75,1.75,2.0,1.1818,1.25,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/torino-milan/RdbsWdb,2025-02-22,14:00,Torino,Milan,3.9,3.6,1.91,1.9091,1.25,1.2857,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/genoa-inter/Xdbsneb,2025-02-22,16:45,Inter,Genoa,1.33,5.0,10.0,1.0625,3.25,1.1667,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/napoli-como/eebsoeb,2025-02-23,08:30,Como,SSC Napoli,3.5,3.0,2.3,1.5714,1.2857,1.3636,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-fiorentina/Tdbsbeb,2025-02-23,11:00,Hellas Verona,Fiorentina,3.7,3.5,2.0,1.8,1.2857,1.2857,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/empoli-atalanta/Ldbsfeb,2025-02-23,14:00,Empoli,Atalanta,6.25,4.5,1.48,2.625,1.1111,1.1818,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-juventus/Mdbsueb,2025-02-23,16:45,Cagliari,Juventus,4.3333,3.4,1.85,1.9091,1.1818,1.3,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/monza-roma/cebsEeb,2025-02-24,16:45,Roma,Monza,1.27,5.5,11.0,1.05,3.75,1.1429,2.25,1.5714,63515,Serie A 24/25
+https://www.sofascore.com/milan-bologna/KdbsRdb,2025-02-27,16:45,Bologna,Milan,2.8,3.3,2.55,1.5,1.4,1.3333,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/fiorentina-lecce/OdbsTdb,2025-02-28,16:45,Fiorentina,Lecce,1.9,3.25,4.75,1.1818,1.9091,1.3333,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/venezia-atalanta/LdbsNdb,2025-03-01,11:00,Atalanta,Venezia,1.18,7.0,15.0,1.0303,4.5,1.1,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/napoli-inter/Xdbsoeb,2025-03-01,14:00,SSC Napoli,Inter,3.0,3.1,2.45,1.5,1.4,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/udinese-parma/PdbsVdb,2025-03-01,16:45,Udinese,Parma,1.9,3.6,4.1,1.2222,1.9091,1.2857,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/monza-torino/WdbsEeb,2025-03-02,08:30,Monza,Torino,4.5,3.25,1.87,1.8333,1.1818,1.3333,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-bologna/Kdbsueb,2025-03-02,11:00,Bologna,Cagliari,1.73,3.6,5.0,1.1667,2.1,1.2857,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/genoa-empoli/febsneb,2025-03-02,11:00,Genoa,Empoli,1.91,3.2,4.5,1.1818,1.9091,1.3636,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/como-roma/cebseeb,2025-03-02,14:00,Roma,Como,2.0,3.5,3.8,1.25,1.8,1.2857,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/lazio-milan/RdbsZdb,2025-03-02,16:45,Milan,Lazio,2.15,3.4,3.4,1.3,1.6667,1.3,1.6154,2.2,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-juventus/Mdbsbeb,2025-03-03,16:45,Juventus,Hellas Verona,1.33,4.75,11.0,1.05,3.25,1.1818,2.25,1.5714,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-genoa/nebsueb,2025-03-07,16:45,Cagliari,Genoa,2.45,2.9,3.3,1.3636,1.5,1.4,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/torino-parma/PdbsWdb,2025-03-08,11:00,Parma,Torino,3.5,3.1,2.25,1.6154,1.2857,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/como-venezia/Ndbseeb,2025-03-08,11:00,Como,Venezia,1.62,3.7,6.0,1.1429,2.25,1.25,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/milan-lecce/OdbsRdb,2025-03-08,14:00,Lecce,Milan,4.75,3.5,1.8,1.95,1.1818,1.2857,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/monza-inter/XdbsEeb,2025-03-08,16:45,Inter,Monza,1.14,7.0,21.0,1.0152,5.5,1.1,2.375,1.5333,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-bologna/Kdbsbeb,2025-03-09,08:30,Hellas Verona,Bologna,5.5,3.5,1.73,2.1,1.1429,1.3333,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/napoli-fiorentina/Tdbsoeb,2025-03-09,11:00,SSC Napoli,Fiorentina,1.55,3.8,6.5,1.1111,2.375,1.25,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/empoli-roma/cebsfeb,2025-03-09,14:00,Empoli,Roma,3.9,3.3,2.0,1.8,1.25,1.3333,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/juventus-atalanta/LdbsMdb,2025-03-09,16:45,Juventus,Atalanta,2.75,3.1,2.75,1.4,1.4444,1.3636,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/lazio-udinese/VdbsZdb,2025-03-10,16:45,Lazio,Udinese,1.8,3.5,5.0,1.1818,1.9091,1.3,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/genoa-lecce/Odbsneb,2025-03-14,16:45,Genoa,Lecce,2.1,3.0,4.1,1.2,1.7273,1.3636,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-udinese/Vdbsbeb,2025-03-15,11:00,Udinese,Hellas Verona,1.75,3.5,5.0,1.1667,2.0,1.2857,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/monza-parma/PdbsEeb,2025-03-15,11:00,Monza,Parma,3.0,3.25,2.38,1.5333,1.3636,1.3333,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/como-milan/Rdbseeb,2025-03-15,14:00,Milan,Como,1.8,3.7,4.2,1.2,1.95,1.25,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/empoli-torino/Wdbsfeb,2025-03-15,16:45,Torino,Empoli,1.85,3.2,4.75,1.1818,1.9091,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/napoli-venezia/Ndbsoeb,2025-03-16,08:30,Venezia,SSC Napoli,7.5,4.1,1.48,2.625,1.1,1.2222,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/lazio-bologna/KdbsZdb,2025-03-16,11:00,Bologna,Lazio,2.3,2.9,3.5,1.2857,1.5714,1.4,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-roma/cebsueb,2025-03-16,12:00,Roma,Cagliari,1.48,4.3333,6.5,1.1111,2.625,1.2,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/fiorentina-juventus/MdbsTdb,2025-03-16,14:00,Fiorentina,Juventus,3.25,3.1,2.35,1.5714,1.3333,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/inter-atalanta/LdbsXdb,2025-03-16,16:45,Atalanta,Inter,2.55,3.3,2.8,1.4,1.5,1.3333,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/venezia-bologna/KdbsNdb,2025-03-29,11:00,Venezia,Bologna,4.75,3.6,1.75,2.0,1.1818,1.2857,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/empoli-como/eebsfeb,2025-03-29,11:00,Como,Empoli,1.67,3.5,5.5,1.1429,2.15,1.2857,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/genoa-juventus/Mdbsneb,2025-03-29,14:00,Juventus,Genoa,1.53,3.9,7.0,1.1,2.5,1.25,2.5,1.5,63515,Serie A 24/25
+https://www.sofascore.com/roma-lecce/Odbsceb,2025-03-29,16:45,Lecce,Roma,5.25,3.6,1.7,2.1,1.1667,1.2857,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/monza-cagliari/uebsEeb,2025-03-30,07:30,Cagliari,Monza,1.8,3.5,4.75,1.1818,1.95,1.2857,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/fiorentina-atalanta/LdbsTdb,2025-03-30,10:00,Fiorentina,Atalanta,3.5,3.4,2.1,1.7273,1.2857,1.3,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/inter-udinese/VdbsXdb,2025-03-30,13:00,Inter,Udinese,1.42,4.2,8.5,1.0833,2.625,1.2222,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/napoli-milan/Rdbsoeb,2025-03-30,15:45,Napoli,Milan,1.91,3.5,3.9,1.25,1.8333,1.2857,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-parma/Pdbsbeb,2025-03-31,13:30,Hellas Verona,Parma,2.88,3.0,2.63,1.4,1.4444,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/lazio-torino/WdbsZdb,2025-03-31,15:45,Lazio,Torino,1.72,3.6,4.75,1.1818,2.0,1.2857,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/genoa-udinese/Vdbsneb,2025-04-04,15:45,Genoa,Udinese,2.3,3.0,3.5,1.3636,1.5,1.4,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/monza-como/eebsEeb,2025-04-05,10:00,Monza,Como,4.75,3.9,1.7,2.1,1.1818,1.25,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/inter-parma/PdbsXdb,2025-04-05,13:00,Parma,Inter,7.5,4.75,1.42,2.625,1.1,1.1818,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/fiorentina-milan/RdbsTdb,2025-04-05,15:45,Milan,Fiorentina,1.8,3.6,4.5,1.1818,2.0,1.2857,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/lecce-venezia/NdbsOdb,2025-04-06,07:30,Lecce,Venezia,2.38,2.88,3.4,1.2857,1.5714,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-torino/Wdbsbeb,2025-04-06,10:00,Torino,Hellas Verona,1.9,3.0,5.0,1.1667,1.9091,1.3636,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-empoli/febsueb,2025-04-06,10:00,Empoli,Cagliari,2.5,3.0,3.1,1.3636,1.5,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/lazio-atalanta/LdbsZdb,2025-04-06,13:00,Atalanta,Lazio,1.65,3.9,5.25,1.1667,2.2,1.25,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/roma-juventus/Mdbsceb,2025-04-06,15:45,Roma,Juventus,2.45,3.1,3.1,1.3636,1.5333,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/napoli-bologna/Kdbsoeb,2025-04-07,15:45,Bologna,Napoli,2.63,3.0,2.9,1.3636,1.5333,1.3636,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/udinese-milan/RdbsVdb,2025-04-11,15:45,Udinese,Milan,4.1,3.5,1.9,1.9091,1.2222,1.2857,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/monza-venezia/NdbsEeb,2025-04-12,10:00,Venezia,Monza,1.8,3.6,4.5,1.1818,1.95,1.2857,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-inter/Xdbsueb,2025-04-12,13:00,Inter,Cagliari,1.3,5.5,9.5,1.0714,3.4,1.1429,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/lecce-juventus/MdbsOdb,2025-04-12,15:45,Juventus,Lecce,1.33,5.0,8.5,1.0833,3.25,1.1667,2.25,1.5714,63515,Serie A 24/25
+https://www.sofascore.com/atalanta-bologna/KdbsLdb,2025-04-13,07:30,Atalanta,Bologna,1.91,3.5,4.0,1.2222,1.9091,1.2857,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/fiorentina-parma/PdbsTdb,2025-04-13,10:00,Fiorentina,Parma,1.73,3.7,5.0,1.1667,2.05,1.2857,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/genoa-hellas-verona/bebsneb,2025-04-13,10:00,Hellas Verona,Genoa,2.8,2.9,2.75,1.4,1.4,1.4,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/como-torino/Wdbseeb,2025-04-13,13:00,Como,Torino,1.83,3.7,4.1,1.2222,1.9091,1.2857,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/roma-lazio/Zdbsceb,2025-04-13,15:45,Lazio,Roma,3.1,3.1,2.4,1.5333,1.3636,1.3636,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/napoli-empoli/febsoeb,2025-04-14,15:45,Napoli,Empoli,1.42,4.3333,8.0,1.1,2.625,1.2,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/como-lecce/Odbseeb,2025-04-19,10:00,Lecce,Como,3.7,3.4,2.05,1.7,1.2857,1.3,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/monza-napoli/oebsEeb,2025-04-19,13:00,Monza,Napoli,10.0,4.75,1.33,3.25,1.0714,1.1667,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/roma-hellas-verona/bebsceb,2025-04-19,15:45,Roma,Hellas Verona,1.57,3.9,6.25,1.125,2.3,1.25,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/empoli-venezia/Ndbsfeb,2025-04-20,10:00,Empoli,Venezia,2.3,2.9,3.5,1.2857,1.5714,1.4,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/inter-bologna/KdbsXdb,2025-04-20,13:00,Bologna,Inter,3.4,3.1,2.25,1.6154,1.3,1.3636,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/milan-atalanta/LdbsRdb,2025-04-20,15:45,Milan,Atalanta,2.55,3.6,2.6,1.5,1.5,1.2857,1.5,2.5,63515,Serie A 24/25
+https://www.sofascore.com/parma-juventus/MdbsPdb,2025-04-23,13:30,Parma,Juventus,5.0,3.75,1.7,2.1,1.1667,1.2857,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/genoa-lazio/Zdbsneb,2025-04-23,13:30,Genoa,Lazio,3.6,3.25,2.15,1.6667,1.2857,1.3333,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-fiorentina/Tdbsueb,2025-04-23,13:30,Cagliari,Fiorentina,3.0,3.0,2.55,1.4444,1.4,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/torino-udinese/VdbsWdb,2025-04-23,13:30,Torino,Udinese,2.5,3.0,3.1,1.3636,1.5333,1.3636,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/milan-venezia/NdbsRdb,2025-04-27,07:30,Venezia,Milan,5.0,4.2,1.6,2.3,1.1667,1.2222,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/genoa-como/eebsneb,2025-04-27,07:30,Como,Genoa,1.75,3.7,4.75,1.1818,1.95,1.2857,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/roma-inter/Xdbsceb,2025-04-27,10:00,Inter,Roma,1.75,3.6,4.75,1.1818,2.0,1.2857,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/empoli-fiorentina/Tdbsfeb,2025-04-27,10:00,Fiorentina,Empoli,2.0,3.3,4.0,1.25,1.8,1.3333,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/monza-juventus/MdbsEeb,2025-04-27,13:00,Juventus,Monza,1.22,6.5,12.0,1.05,4.0,1.1111,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/napoli-torino/Wdbsoeb,2025-04-27,15:45,Napoli,Torino,1.36,4.75,9.0,1.0714,3.0,1.1818,2.25,1.5714,63515,Serie A 24/25
+https://www.sofascore.com/lecce-atalanta/LdbsOdb,2025-04-27,15:45,Atalanta,Lecce,1.27,5.75,11.0,1.05,3.75,1.1429,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/udinese-bologna/KdbsVdb,2025-04-28,13:30,Udinese,Bologna,5.0,3.6,1.75,2.0,1.1667,1.2857,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/lazio-parma/PdbsZdb,2025-04-28,15:45,Lazio,Parma,1.4,4.75,8.0,1.0833,3.0,1.1667,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-hellas-verona/bebsueb,2025-04-28,15:45,Hellas Verona,Cagliari,2.4,2.75,3.6,1.2857,1.5333,1.4,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/torino-venezia/NdbsWdb,2025-05-02,15:45,Torino,Venezia,2.55,3.0,3.0,1.3636,1.5,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-udinese/Vdbsueb,2025-05-03,10:00,Cagliari,Udinese,2.45,3.0,3.2,1.3636,1.5,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/como-parma/Pdbseeb,2025-05-03,10:00,Parma,Como,3.25,3.4,2.2,1.6667,1.3333,1.3,1.6154,2.2,63515,Serie A 24/25
+https://www.sofascore.com/napoli-lecce/Odbsoeb,2025-05-03,13:00,Lecce,Napoli,7.5,3.9,1.5,2.625,1.1,1.25,2.2,1.6154,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-inter/Xdbsbeb,2025-05-03,15:45,Inter,Hellas Verona,1.45,4.3333,7.0,1.1,2.625,1.2,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/empoli-lazio/Zdbsfeb,2025-05-04,07:30,Empoli,Lazio,4.3333,3.5,1.85,1.95,1.2,1.2857,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/monza-atalanta/LdbsEeb,2025-05-04,10:00,Monza,Atalanta,13.0,6.5,1.22,4.0,1.04,1.125,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/roma-fiorentina/Tdbsceb,2025-05-04,13:00,Roma,Fiorentina,1.73,3.6,5.0,1.1667,2.0,1.2857,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/juventus-bologna/KdbsMdb,2025-05-04,15:45,Bologna,Juventus,2.25,3.0,3.5,1.2857,1.6154,1.3636,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/genoa-milan/Rdbsneb,2025-05-05,15:45,Genoa,Milan,4.75,3.7,1.75,2.05,1.1667,1.25,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/milan-bologna/KdbsRdb,2025-05-09,15:45,Milan,Bologna,2.2,3.4,3.2,1.3636,1.6667,1.3,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-como/eebsueb,2025-05-10,10:00,Como,Cagliari,1.73,3.8,4.5,1.1818,2.05,1.25,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/lazio-juventus/MdbsZdb,2025-05-10,13:00,Lazio,Juventus,2.25,3.1,3.4,1.3636,1.5714,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/empoli-parma/Pdbsfeb,2025-05-10,15:45,Empoli,Parma,2.3,3.0,3.5,1.2857,1.5714,1.3636,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/monza-udinese/VdbsEeb,2025-05-11,07:30,Udinese,Monza,1.6,4.0,5.5,1.1667,2.25,1.2222,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/hellas-verona-lecce/Odbsbeb,2025-05-11,10:00,Hellas Verona,Lecce,2.45,2.8,3.4,1.3,1.5,1.4,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/inter-torino/WdbsXdb,2025-05-11,13:00,Torino,Inter,5.0,3.7,1.7,2.05,1.1818,1.2857,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/napoli-genoa/nebsoeb,2025-05-11,15:45,Napoli,Genoa,1.25,5.0,9.5,1.0625,3.5,1.1429,2.5,1.5,63515,Serie A 24/25
+https://www.sofascore.com/fiorentina-venezia/NdbsTdb,2025-05-12,13:30,Venezia,Fiorentina,2.7,3.0,2.88,1.5,1.3636,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/roma-atalanta/Ldbsceb,2025-05-12,15:45,Atalanta,Roma,2.0,3.5,3.75,1.25,1.8,1.2857,1.6154,2.2,63515,Serie A 24/25
+https://www.sofascore.com/genoa-atalanta/Ldbsneb,2025-05-17,15:45,Genoa,Atalanta,3.2,3.5,2.2,1.6154,1.3636,1.3,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/roma-milan/Rdbsceb,2025-05-18,15:45,Roma,Milan,2.1,3.7,3.2,1.3636,1.7,1.2857,1.6667,2.1,63515,Serie A 24/25
+https://www.sofascore.com/lazio-inter/XdbsZdb,2025-05-18,15:45,Inter,Lazio,1.67,3.9,5.0,1.1667,2.15,1.25,1.7,2.05,63515,Serie A 24/25
+https://www.sofascore.com/udinese-juventus/MdbsVdb,2025-05-18,15:45,Juventus,Udinese,1.4,4.75,8.0,1.1,2.75,1.1818,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/napoli-parma/Pdbsoeb,2025-05-18,15:45,Parma,Napoli,7.0,4.5,1.45,2.625,1.1,1.1818,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/fiorentina-bologna/KdbsTdb,2025-05-18,15:45,Fiorentina,Bologna,3.0,3.0,2.6,1.5,1.3636,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/torino-lecce/OdbsWdb,2025-05-18,15:45,Lecce,Torino,2.05,3.1,4.0,1.2222,1.7273,1.3636,2.05,1.7,63515,Serie A 24/25
+https://www.sofascore.com/como-hellas-verona/bebseeb,2025-05-18,15:45,Hellas Verona,Como,3.2,3.1,2.4,1.5333,1.3636,1.3636,1.95,1.8,63515,Serie A 24/25
+https://www.sofascore.com/monza-empoli/febsEeb,2025-05-18,15:45,Monza,Empoli,5.0,3.6,1.73,2.05,1.1667,1.2857,2.0,1.75,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-venezia/Ndbsueb,2025-05-18,15:45,Cagliari,Venezia,2.75,3.0,2.8,1.4,1.4,1.3636,1.9091,1.9091,63515,Serie A 24/25
+https://www.sofascore.com/como-inter/Xdbseeb,2025-05-23,15:45,Como,Inter,4.3333,4.1,1.73,2.05,1.2,1.2222,1.5714,2.25,63515,Serie A 24/25
+https://www.sofascore.com/cagliari-napoli/oebsueb,2025-05-23,15:45,Napoli,Cagliari,1.2,6.5,13.0,1.0303,4.5,1.1,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/genoa-bologna/Kdbsneb,2025-05-24,13:00,Bologna,Genoa,1.53,4.2,6.0,1.125,2.375,1.2222,2.1,1.6667,63515,Serie A 24/25
+https://www.sofascore.com/monza-milan/RdbsEeb,2025-05-24,15:45,Milan,Monza,1.25,6.5,10.0,1.05,4.0,1.1,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/venezia-juventus/MdbsNdb,2025-05-25,15:45,Venezia,Juventus,6.25,5.0,1.42,2.75,1.125,1.1667,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/roma-torino/Wdbsceb,2025-05-25,15:45,Torino,Roma,5.25,4.3333,1.57,2.3,1.1667,1.2,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/parma-atalanta/LdbsPdb,2025-05-25,15:45,Atalanta,Parma,1.85,3.5,4.3333,1.2,1.9091,1.2857,1.5333,2.375,63515,Serie A 24/25
+https://www.sofascore.com/lazio-lecce/OdbsZdb,2025-05-25,15:45,Lazio,Lecce,1.4,4.5,8.5,1.0833,2.75,1.1818,1.8,1.95,63515,Serie A 24/25
+https://www.sofascore.com/udinese-fiorentina/TdbsVdb,2025-05-25,15:45,Udinese,Fiorentina,3.0,3.4,2.38,1.5333,1.3636,1.3,1.75,2.0,63515,Serie A 24/25
+https://www.sofascore.com/empoli-hellas-verona/bebsfeb,2025-05-25,15:45,Empoli,Hellas Verona,1.95,3.0,5.0,1.1667,1.8,1.4,2.5,1.5,63515,Serie A 24/25
+https://www.sofascore.com/frosinone-napoli/oebsbgb,2023-08-19,13:30,Frosinone,SSC Napoli,6.5,4.3333,1.55,2.375,1.1111,1.2,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/empoli-hellas-verona/bebsfeb,2023-08-19,13:30,Empoli,Hellas Verona,2.25,3.3,3.25,1.3333,1.6154,1.3333,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/monza-inter/XdbsEeb,2023-08-19,15:45,Inter,Monza,1.4,5.0,7.0,1.1,2.75,1.1667,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/genoa-fiorentina/Tdbsneb,2023-08-19,15:45,Genoa,Fiorentina,3.5,3.25,2.15,1.6667,1.3333,1.3333,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-roma/cebskeb,2023-08-20,13:30,Roma,Salernitana,1.5,4.0,7.5,1.1,2.5,1.2222,2.25,1.5714,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-atalanta/LdbsTfb,2023-08-20,13:30,Sassuolo,Atalanta,3.25,3.5,2.2,1.6667,1.3333,1.2857,1.5333,2.375,52760,Serie A 23/24
+https://www.sofascore.com/udinese-juventus/MdbsVdb,2023-08-20,15:45,Udinese,Juventus,3.75,3.3,2.05,1.7273,1.25,1.3333,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/lazio-lecce/OdbsZdb,2023-08-20,15:45,Lecce,Lazio,3.6,3.25,2.1,1.7,1.2857,1.3333,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-torino/Wdbsueb,2023-08-21,13:30,Torino,Cagliari,1.6,3.8,6.0,1.1111,2.375,1.2222,2.2,1.6154,52760,Serie A 23/24
+https://www.sofascore.com/milan-bologna/KdbsRdb,2023-08-21,15:45,Bologna,Milan,3.75,3.4,2.0,1.8,1.25,1.3,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-atalanta/Ldbsbgb,2023-08-26,13:30,Frosinone,Atalanta,5.25,4.0,1.6,2.3,1.1667,1.2222,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/monza-empoli/febsEeb,2023-08-26,13:30,Monza,Empoli,1.91,3.6,4.0,1.2222,1.8333,1.2857,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/torino-milan/RdbsWdb,2023-08-26,15:45,Milan,Torino,1.75,3.6,4.75,1.1818,2.0,1.2857,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/roma-hellas-verona/bebsceb,2023-08-26,15:45,Hellas Verona,Roma,4.5,3.4,1.85,1.9091,1.1818,1.3,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/juventus-bologna/KdbsMdb,2023-08-27,13:30,Juventus,Bologna,1.7,3.75,5.0,1.1667,2.1,1.25,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/fiorentina-lecce/OdbsTdb,2023-08-27,13:30,Fiorentina,Lecce,1.67,4.0,5.0,1.1667,2.15,1.2222,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-napoli/oebsTfb,2023-08-27,15:45,SSC Napoli,Sassuolo,1.33,5.5,8.5,1.0833,3.25,1.1429,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/genoa-lazio/Zdbsneb,2023-08-27,15:45,Lazio,Genoa,1.73,3.75,4.75,1.2,2.0,1.25,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-udinese/Vdbskeb,2023-08-28,13:30,Salernitana,Udinese,2.75,3.4,2.6,1.4444,1.4444,1.3333,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-inter/Xdbsueb,2023-08-28,15:45,Cagliari,Inter,7.0,4.5,1.44,2.625,1.1,1.1818,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-hellas-verona/bebsTfb,2023-09-01,13:30,Sassuolo,Hellas Verona,1.91,3.6,3.8,1.25,1.8,1.2857,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/roma-milan/Rdbsceb,2023-09-01,15:45,Roma,Milan,2.8,3.0,2.7,1.4444,1.4,1.3636,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-udinese/Vdbsbgb,2023-09-02,13:30,Udinese,Frosinone,1.91,3.5,4.2,1.2222,1.8333,1.2857,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-bologna/Kdbsueb,2023-09-02,13:30,Bologna,Cagliari,1.8,3.6,4.3333,1.2,1.95,1.2857,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/napoli-lazio/Zdbsoeb,2023-09-02,15:45,SSC Napoli,Lazio,1.65,4.2,5.0,1.1667,2.2,1.2222,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/monza-atalanta/LdbsEeb,2023-09-02,15:45,Atalanta,Monza,1.67,4.0,4.75,1.1818,2.15,1.2222,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/inter-fiorentina/TdbsXdb,2023-09-03,13:30,Inter,Fiorentina,1.7,3.75,5.0,1.1667,2.1,1.25,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/genoa-torino/Wdbsneb,2023-09-03,13:30,Torino,Genoa,2.0,3.25,4.0,1.2222,1.8,1.3333,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/empoli-juventus/Mdbsfeb,2023-09-03,15:45,Empoli,Juventus,5.25,4.0,1.65,2.2,1.1667,1.2222,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-lecce/Odbskeb,2023-09-03,15:45,Lecce,Salernitana,1.91,3.25,4.3333,1.2,1.8333,1.3333,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/lazio-juventus/MdbsZdb,2023-09-16,10:00,Juventus,Lazio,1.91,3.5,4.1,1.2222,1.8333,1.2857,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/inter-milan/RdbsXdb,2023-09-16,13:00,Inter,Milan,2.15,3.4,3.4,1.3,1.6667,1.3,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/napoli-genoa/nebsoeb,2023-09-16,15:45,Genoa,SSC Napoli,5.25,3.8,1.67,2.15,1.1667,1.25,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-udinese/Vdbsueb,2023-09-17,07:30,Cagliari,Udinese,2.9,3.2,2.5,1.5,1.4,1.3636,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-sassuolo/Tfbsbgb,2023-09-17,10:00,Frosinone,Sassuolo,2.9,3.6,2.3,1.5714,1.4,1.2857,1.5333,2.375,52760,Serie A 23/24
+https://www.sofascore.com/monza-lecce/OdbsEeb,2023-09-17,10:00,Monza,Lecce,2.3,3.3,3.1,1.4,1.5333,1.3333,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/fiorentina-atalanta/LdbsTdb,2023-09-17,13:00,Fiorentina,Atalanta,2.625,3.25,2.7,1.4444,1.4444,1.3333,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/empoli-roma/cebsfeb,2023-09-17,15:45,Roma,Empoli,1.4,4.75,8.5,1.0833,2.75,1.1818,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-torino/Wdbskeb,2023-09-18,13:30,Salernitana,Torino,3.6,3.0,2.2,1.6667,1.2857,1.3636,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-bologna/Kdbsbeb,2023-09-18,15:45,Hellas Verona,Bologna,3.3,3.3,2.2,1.6667,1.3333,1.3333,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-salernitana/kebsbgb,2023-09-22,13:30,Salernitana,Frosinone,2.38,3.25,3.0,1.3636,1.5333,1.3333,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/genoa-lecce/Odbsneb,2023-09-22,15:45,Lecce,Genoa,2.5,3.1,3.0,1.3636,1.5,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-milan/Rdbsbeb,2023-09-23,10:00,Milan,Hellas Verona,1.4,4.75,7.5,1.1,2.75,1.1818,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-juventus/MdbsTfb,2023-09-23,13:00,Sassuolo,Juventus,4.3333,4.1,1.73,2.0,1.2222,1.2222,1.5714,2.25,52760,Serie A 23/24
+https://www.sofascore.com/monza-lazio/ZdbsEeb,2023-09-23,15:45,Lazio,Monza,1.75,3.8,4.3333,1.2,2.0,1.25,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/empoli-inter/Xdbsfeb,2023-09-24,07:30,Empoli,Inter,9.5,5.75,1.29,3.5,1.0714,1.1429,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-atalanta/Ldbsueb,2023-09-24,10:00,Atalanta,Cagliari,1.4444,4.5,6.5,1.1,2.75,1.1818,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/udinese-fiorentina/TdbsVdb,2023-09-24,10:00,Udinese,Fiorentina,3.25,3.3,2.25,1.6154,1.3333,1.3333,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/napoli-bologna/Kdbsoeb,2023-09-24,13:00,Bologna,SSC Napoli,3.75,3.6,1.95,1.8,1.25,1.2857,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/roma-torino/Wdbsceb,2023-09-24,15:45,Torino,Roma,3.2,3.0,2.45,1.5333,1.3636,1.3636,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/lecce-juventus/MdbsOdb,2023-09-26,15:45,Juventus,Lecce,1.5,4.2,7.0,1.1,2.5,1.2222,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-milan/Rdbsueb,2023-09-27,13:30,Cagliari,Milan,4.0,3.5,1.91,1.8333,1.2222,1.2857,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-atalanta/Ldbsbeb,2023-09-27,13:30,Hellas Verona,Atalanta,4.2,3.5,1.85,1.95,1.2,1.2857,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-empoli/febskeb,2023-09-27,13:30,Empoli,Salernitana,2.7,3.2,2.75,1.4,1.4444,1.3636,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-inter/XdbsTfb,2023-09-27,15:45,Inter,Sassuolo,1.25,6.5,8.5,1.0833,3.75,1.1111,1.5714,2.25,52760,Serie A 23/24
+https://www.sofascore.com/napoli-udinese/Vdbsoeb,2023-09-27,15:45,SSC Napoli,Udinese,1.4,5.0,6.5,1.1111,2.625,1.1667,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/lazio-torino/WdbsZdb,2023-09-27,15:45,Lazio,Torino,2.2,3.25,3.5,1.2857,1.6667,1.3333,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-fiorentina/Tdbsbgb,2023-09-28,13:30,Frosinone,Fiorentina,3.75,3.6,1.95,1.8,1.25,1.2857,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/monza-bologna/KdbsEeb,2023-09-28,13:30,Monza,Bologna,2.3,3.4,3.1,1.3636,1.5714,1.3,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/genoa-roma/cebsneb,2023-09-28,15:45,Genoa,Roma,4.2,3.2,1.95,1.8,1.2222,1.3636,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/napoli-lecce/Odbsoeb,2023-09-30,10:00,Lecce,SSC Napoli,4.75,3.6,1.75,2.0,1.1818,1.2857,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/lazio-milan/RdbsZdb,2023-09-30,13:00,Milan,Lazio,1.7,3.75,5.25,1.1667,2.1,1.25,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-inter/Xdbskeb,2023-09-30,15:45,Salernitana,Inter,8.5,4.75,1.4,2.75,1.0833,1.1818,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/empoli-bologna/Kdbsfeb,2023-10-01,07:30,Bologna,Empoli,1.67,3.8,5.0,1.1818,2.1,1.25,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/genoa-udinese/Vdbsneb,2023-10-01,10:00,Udinese,Genoa,2.25,3.25,3.3,1.3333,1.6154,1.3333,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/juventus-atalanta/LdbsMdb,2023-10-01,13:00,Atalanta,Juventus,2.38,3.3,3.1,1.3636,1.5333,1.3333,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-roma/cebsbgb,2023-10-01,15:45,Roma,Frosinone,1.4,4.75,7.5,1.1,2.75,1.1818,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-monza/EebsTfb,2023-10-02,13:30,Sassuolo,Monza,2.1,3.8,3.2,1.3636,1.7,1.25,1.5,2.5,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-torino/Wdbsbeb,2023-10-02,13:30,Torino,Hellas Verona,1.75,3.4,5.25,1.1667,1.95,1.3333,2.2,1.6154,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-fiorentina/Tdbsueb,2023-10-02,15:45,Fiorentina,Cagliari,1.55,4.0,6.0,1.125,2.375,1.2222,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/empoli-udinese/Vdbsfeb,2023-10-06,13:30,Empoli,Udinese,2.8,3.25,2.6,1.5,1.4,1.3333,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-lecce/OdbsTfb,2023-10-06,15:45,Lecce,Sassuolo,2.6,3.4,2.63,1.4444,1.5,1.3,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/inter-bologna/KdbsXdb,2023-10-07,10:00,Inter,Bologna,1.33,5.75,8.0,1.0833,3.25,1.1429,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/torino-juventus/MdbsWdb,2023-10-07,13:00,Juventus,Torino,2.05,3.1,4.0,1.2222,1.7273,1.3636,2.2,1.6154,52760,Serie A 23/24
+https://www.sofascore.com/genoa-milan/Rdbsneb,2023-10-07,15:45,Genoa,Milan,4.2,3.4,1.95,1.8,1.2222,1.3,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/monza-salernitana/kebsEeb,2023-10-08,07:30,Monza,Salernitana,1.7,3.8,4.75,1.1818,2.1,1.25,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/lazio-atalanta/LdbsZdb,2023-10-08,10:00,Lazio,Atalanta,2.8,3.3,2.55,1.5,1.4,1.3333,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-hellas-verona/bebsbgb,2023-10-08,10:00,Frosinone,Hellas Verona,2.25,3.3,3.25,1.3333,1.6154,1.3333,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-roma/cebsueb,2023-10-08,13:00,Cagliari,Roma,5.5,3.6,1.7,2.1,1.1429,1.2857,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/napoli-fiorentina/Tdbsoeb,2023-10-08,15:45,SSC Napoli,Fiorentina,1.57,4.3333,5.75,1.1429,2.3,1.2,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/napoli-hellas-verona/bebsoeb,2023-10-21,10:00,Hellas Verona,SSC Napoli,6.0,4.0,1.57,2.3,1.1429,1.2222,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/inter-torino/WdbsXdb,2023-10-21,13:00,Torino,Inter,5.25,3.75,1.7,2.1,1.1667,1.25,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-lazio/ZdbsTfb,2023-10-21,15:45,Sassuolo,Lazio,2.7,3.5,2.45,1.5333,1.4444,1.2857,1.5333,2.375,52760,Serie A 23/24
+https://www.sofascore.com/monza-roma/cebsEeb,2023-10-22,07:30,Roma,Monza,1.73,3.6,5.0,1.1667,2.05,1.2857,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-bologna/Kdbsbgb,2023-10-22,10:00,Bologna,Frosinone,1.7,3.8,4.75,1.1818,2.05,1.25,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-salernitana/kebsueb,2023-10-22,10:00,Salernitana,Cagliari,2.3,3.25,3.25,1.3333,1.5714,1.3636,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/genoa-atalanta/Ldbsneb,2023-10-22,13:00,Atalanta,Genoa,1.53,4.0,6.5,1.1111,2.375,1.2222,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/milan-juventus/MdbsRdb,2023-10-22,15:45,Milan,Juventus,2.15,3.2,3.5,1.2857,1.7,1.3333,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/udinese-lecce/OdbsVdb,2023-10-23,13:30,Udinese,Lecce,2.1,3.25,3.6,1.2857,1.7,1.3333,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/empoli-fiorentina/Tdbsfeb,2023-10-23,15:45,Fiorentina,Empoli,1.4,4.5,7.0,1.1,2.75,1.1818,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/genoa-salernitana/kebsneb,2023-10-27,15:45,Genoa,Salernitana,1.73,3.6,5.25,1.1667,2.05,1.2857,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-bologna/KdbsTfb,2023-10-28,10:00,Sassuolo,Bologna,2.6,3.4,2.63,1.4,1.5,1.3,1.5714,2.25,52760,Serie A 23/24
+https://www.sofascore.com/torino-lecce/OdbsWdb,2023-10-28,13:00,Lecce,Torino,2.7,3.0,2.88,1.4,1.4444,1.3636,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-juventus/Mdbsbeb,2023-10-28,15:45,Juventus,Hellas Verona,1.36,4.75,9.0,1.0714,3.0,1.1818,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-cagliari/uebsbgb,2023-10-29,08:30,Cagliari,Frosinone,2.2,3.3,3.4,1.3,1.6667,1.3333,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/monza-udinese/VdbsEeb,2023-10-29,11:00,Monza,Udinese,2.0,3.4,3.75,1.25,1.8,1.3,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/roma-inter/Xdbsceb,2023-10-29,14:00,Inter,Roma,1.55,4.0,6.5,1.1111,2.375,1.2222,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/napoli-milan/Rdbsoeb,2023-10-29,16:45,SSC Napoli,Milan,2.2,3.4,3.3,1.3333,1.6667,1.3,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/empoli-atalanta/Ldbsfeb,2023-10-30,14:30,Empoli,Atalanta,5.0,4.0,1.65,2.2,1.1667,1.2222,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/lazio-fiorentina/TdbsZdb,2023-10-30,16:45,Lazio,Fiorentina,2.25,3.3,3.25,1.3333,1.6154,1.3333,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/lazio-bologna/KdbsZdb,2023-11-03,16:45,Bologna,Lazio,2.7,3.2,2.7,1.4444,1.4444,1.3636,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/napoli-salernitana/kebsoeb,2023-11-04,11:00,Salernitana,SSC Napoli,7.0,4.75,1.44,2.625,1.1,1.1818,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/inter-atalanta/LdbsXdb,2023-11-04,14:00,Atalanta,Inter,3.5,3.5,2.1,1.7,1.2857,1.2857,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/udinese-milan/RdbsVdb,2023-11-04,16:45,Milan,Udinese,1.45,4.5,6.5,1.1111,2.625,1.1818,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/monza-hellas-verona/bebsEeb,2023-11-05,08:30,Hellas Verona,Monza,3.0,3.1,2.45,1.5333,1.3636,1.3636,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-genoa/nebsueb,2023-11-05,11:00,Cagliari,Genoa,2.7,3.1,2.8,1.4,1.4444,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/roma-lecce/Odbsceb,2023-11-05,14:00,Roma,Lecce,1.53,3.8,7.0,1.1,2.5,1.25,2.25,1.5714,52760,Serie A 23/24
+https://www.sofascore.com/fiorentina-juventus/MdbsTdb,2023-11-05,16:45,Fiorentina,Juventus,2.9,3.1,2.6,1.5,1.4,1.3636,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-empoli/febsbgb,2023-11-06,14:30,Frosinone,Empoli,2.15,3.5,3.3,1.3333,1.6667,1.2857,1.6154,2.2,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-torino/WdbsTfb,2023-11-06,16:45,Torino,Sassuolo,2.0,3.4,3.75,1.25,1.8,1.3,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-salernitana/kebsTfb,2023-11-10,14:30,Sassuolo,Salernitana,1.7,4.0,4.3333,1.2,2.1,1.2222,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/genoa-hellas-verona/bebsneb,2023-11-10,16:45,Genoa,Hellas Verona,1.85,3.25,5.0,1.1667,1.9091,1.3333,2.25,1.5714,52760,Serie A 23/24
+https://www.sofascore.com/milan-lecce/OdbsRdb,2023-11-11,11:00,Lecce,Milan,5.0,3.75,1.73,2.05,1.1667,1.25,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-juventus/Mdbsueb,2023-11-11,14:00,Juventus,Cagliari,1.45,4.5,6.5,1.1111,2.625,1.1818,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/monza-torino/WdbsEeb,2023-11-11,16:45,Monza,Torino,2.75,3.1,2.7,1.4444,1.4,1.3636,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/napoli-empoli/febsoeb,2023-11-12,08:30,SSC Napoli,Empoli,1.3,6.0,8.5,1.0833,3.4,1.125,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/udinese-atalanta/LdbsVdb,2023-11-12,11:00,Udinese,Atalanta,3.5,3.5,2.05,1.7273,1.2857,1.2857,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/fiorentina-bologna/KdbsTdb,2023-11-12,11:00,Fiorentina,Bologna,2.0,3.4,3.8,1.25,1.8,1.3,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/roma-lazio/Zdbsceb,2023-11-12,14:00,Lazio,Roma,2.9,2.88,2.75,1.4,1.4,1.4,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-inter/Xdbsbgb,2023-11-12,16:45,Inter,Frosinone,1.18,7.5,13.0,1.04,4.5,1.1,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-lazio/Zdbskeb,2023-11-25,11:00,Salernitana,Lazio,4.75,3.6,1.8,1.95,1.1818,1.2857,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/napoli-atalanta/Ldbsoeb,2023-11-25,14:00,Atalanta,SSC Napoli,2.5,3.4,2.75,1.4,1.5,1.3,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/fiorentina-milan/RdbsTdb,2023-11-25,16:45,Milan,Fiorentina,2.05,3.3,3.5,1.2857,1.7273,1.3333,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/monza-cagliari/uebsEeb,2023-11-26,08:30,Cagliari,Monza,2.7,3.2,2.7,1.4444,1.4444,1.3636,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-empoli/febsTfb,2023-11-26,11:00,Empoli,Sassuolo,2.63,3.5,2.6,1.5,1.4444,1.2857,1.5714,2.25,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-genoa/nebsbgb,2023-11-26,11:00,Frosinone,Genoa,2.38,3.25,3.0,1.3636,1.5333,1.3333,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/roma-udinese/Vdbsceb,2023-11-26,14:00,Roma,Udinese,1.65,3.75,5.5,1.1429,2.2,1.25,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/inter-juventus/MdbsXdb,2023-11-26,16:45,Juventus,Inter,3.4,3.2,2.25,1.6154,1.3,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-lecce/Odbsbeb,2023-11-27,14:30,Hellas Verona,Lecce,2.8,2.9,2.8,1.4,1.4,1.4,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/torino-bologna/KdbsWdb,2023-11-27,16:45,Bologna,Torino,2.3,3.0,3.5,1.2857,1.5714,1.3636,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/monza-juventus/MdbsEeb,2023-12-01,16:45,Monza,Juventus,4.3333,3.3,1.91,1.8333,1.2,1.3333,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/genoa-empoli/febsneb,2023-12-02,11:00,Genoa,Empoli,2.0,3.25,4.2,1.2222,1.8,1.3333,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-lazio/Zdbsueb,2023-12-02,14:00,Lazio,Cagliari,1.65,3.8,5.0,1.1667,2.2,1.25,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-milan/Rdbsbgb,2023-12-02,16:45,Milan,Frosinone,1.44,4.5,7.0,1.1,2.625,1.1818,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/lecce-bologna/KdbsOdb,2023-12-03,08:30,Lecce,Bologna,3.0,3.0,2.55,1.5,1.3636,1.3636,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-fiorentina/Tdbskeb,2023-12-03,11:00,Fiorentina,Salernitana,1.44,4.5,7.5,1.1,2.625,1.1818,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-udinese/Vdbsbeb,2023-12-03,11:00,Udinese,Hellas Verona,1.8,3.6,4.5,1.1818,1.95,1.2857,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-roma/cebsTfb,2023-12-03,14:00,Sassuolo,Roma,3.4,3.6,2.1,1.7,1.3,1.2857,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/napoli-inter/Xdbsoeb,2023-12-03,16:45,SSC Napoli,Inter,2.88,3.4,2.3,1.5714,1.4,1.3,1.6154,2.2,52760,Serie A 23/24
+https://www.sofascore.com/torino-atalanta/LdbsWdb,2023-12-04,16:45,Torino,Atalanta,2.9,3.1,2.6,1.5,1.4,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/napoli-juventus/Mdbsoeb,2023-12-08,16:45,Juventus,SSC Napoli,2.2,3.3,3.4,1.3,1.6667,1.3333,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-lazio/Zdbsbeb,2023-12-09,11:00,Hellas Verona,Lazio,4.2,3.4,1.91,1.8333,1.2222,1.3,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/milan-atalanta/LdbsRdb,2023-12-09,14:00,Atalanta,Milan,2.55,3.2,2.88,1.4,1.5,1.3636,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/inter-udinese/VdbsXdb,2023-12-09,16:45,Inter,Udinese,1.22,6.5,12.0,1.05,4.0,1.1111,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-torino/Wdbsbgb,2023-12-10,08:30,Frosinone,Torino,3.75,3.3,2.05,1.7273,1.25,1.3333,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/monza-genoa/nebsEeb,2023-12-10,11:00,Monza,Genoa,2.2,3.1,3.75,1.25,1.6667,1.3636,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-bologna/Kdbskeb,2023-12-10,14:00,Salernitana,Bologna,4.5,3.5,1.83,1.9091,1.1818,1.2857,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/roma-fiorentina/Tdbsceb,2023-12-10,16:45,Roma,Fiorentina,1.91,3.4,4.3333,1.2,1.8333,1.3,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/empoli-lecce/Odbsfeb,2023-12-11,14:30,Empoli,Lecce,2.5,3.1,3.0,1.3636,1.5,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-cagliari/uebsTfb,2023-12-11,16:45,Cagliari,Sassuolo,2.55,3.3,2.8,1.4,1.5,1.3333,1.6154,2.2,52760,Serie A 23/24
+https://www.sofascore.com/genoa-juventus/Mdbsneb,2023-12-15,16:45,Genoa,Juventus,4.5,2.9,2.05,1.7273,1.1818,1.4,2.5,1.5,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-lecce/Odbsbgb,2023-12-16,11:00,Lecce,Frosinone,2.15,3.3,3.5,1.2857,1.6667,1.3333,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-napoli/oebsueb,2023-12-16,14:30,SSC Napoli,Cagliari,1.4,5.25,6.5,1.1,3.0,1.1667,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/empoli-torino/Wdbsfeb,2023-12-16,16:45,Torino,Empoli,1.6,3.8,6.0,1.125,2.3,1.25,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/monza-milan/RdbsEeb,2023-12-17,08:30,Milan,Monza,1.55,4.5,5.25,1.1667,2.375,1.1818,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-fiorentina/Tdbsbeb,2023-12-17,11:00,Fiorentina,Hellas Verona,1.5,4.5,6.0,1.125,2.625,1.1818,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-udinese/VdbsTfb,2023-12-17,11:00,Udinese,Sassuolo,2.4,3.4,2.9,1.4,1.5333,1.3,1.6154,2.2,52760,Serie A 23/24
+https://www.sofascore.com/roma-bologna/Kdbsceb,2023-12-17,14:00,Bologna,Roma,2.38,2.9,3.4,1.3,1.5333,1.4,2.2,1.6154,52760,Serie A 23/24
+https://www.sofascore.com/lazio-inter/XdbsZdb,2023-12-17,16:45,Lazio,Inter,4.0,3.75,1.85,1.9091,1.2222,1.25,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-atalanta/Ldbskeb,2023-12-18,16:45,Atalanta,Salernitana,1.25,6.0,11.0,1.05,3.75,1.125,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/empoli-lazio/Zdbsfeb,2023-12-22,14:30,Empoli,Lazio,4.3333,3.4,1.91,1.8333,1.2,1.3,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-genoa/nebsTfb,2023-12-22,14:30,Sassuolo,Genoa,2.5,3.1,3.0,1.3636,1.5,1.3636,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-milan/Rdbskeb,2023-12-22,16:45,Salernitana,Milan,7.5,4.2,1.45,2.625,1.1,1.2222,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/monza-fiorentina/TdbsEeb,2023-12-22,16:45,Monza,Fiorentina,2.8,3.25,2.55,1.5,1.4,1.3333,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-juventus/Mdbsbgb,2023-12-23,08:30,Frosinone,Juventus,5.5,3.5,1.7,2.1,1.1429,1.2857,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/atalanta-bologna/KdbsLdb,2023-12-23,11:00,Bologna,Atalanta,2.75,3.0,2.8,1.4,1.4,1.3636,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/torino-udinese/VdbsWdb,2023-12-23,11:00,Torino,Udinese,1.65,3.75,5.5,1.1429,2.2,1.25,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/inter-lecce/OdbsXdb,2023-12-23,14:00,Inter,Lecce,1.29,6.0,9.5,1.0714,3.5,1.125,2.5,1.5,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-hellas-verona/bebsueb,2023-12-23,14:00,Hellas Verona,Cagliari,2.38,3.2,3.2,1.3636,1.5333,1.3636,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/napoli-roma/cebsoeb,2023-12-23,16:45,Roma,SSC Napoli,2.8,3.0,2.75,1.4,1.4,1.3636,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/monza-napoli/oebsEeb,2023-12-29,14:30,Napoli,Monza,1.55,4.2,5.75,1.1429,2.375,1.2222,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/torino-fiorentina/TdbsWdb,2023-12-29,14:30,Fiorentina,Torino,2.15,3.1,3.8,1.25,1.6667,1.3636,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/genoa-inter/Xdbsneb,2023-12-29,16:45,Genoa,Inter,5.5,3.8,1.65,2.2,1.1429,1.25,2.25,1.5714,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-lazio/Zdbsbgb,2023-12-29,16:45,Lazio,Frosinone,1.57,4.0,6.0,1.125,2.3,1.2222,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/lecce-atalanta/LdbsOdb,2023-12-30,08:30,Atalanta,Lecce,1.36,5.0,8.0,1.0833,3.0,1.1667,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/udinese-bologna/KdbsVdb,2023-12-30,11:00,Udinese,Bologna,3.6,3.1,2.2,1.6667,1.2857,1.3636,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-empoli/febsueb,2023-12-30,11:00,Cagliari,Empoli,2.1,3.5,3.3,1.3333,1.7,1.2857,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-milan/RdbsTfb,2023-12-30,14:00,Milan,Sassuolo,1.53,4.75,5.5,1.1429,2.375,1.1818,1.5714,2.25,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-hellas-verona/bebskeb,2023-12-30,14:00,Hellas Verona,Salernitana,1.91,3.5,4.2,1.2222,1.8333,1.2857,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/roma-juventus/Mdbsceb,2023-12-30,16:45,Juventus,Roma,2.1,3.0,4.0,1.2222,1.7,1.3636,2.25,1.5714,52760,Serie A 23/24
+https://www.sofascore.com/genoa-bologna/Kdbsneb,2024-01-05,16:45,Bologna,Genoa,2.25,3.0,3.6,1.2857,1.6154,1.3636,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-inter/Xdbsbeb,2024-01-06,08:30,Inter,Hellas Verona,1.18,7.5,12.0,1.05,4.5,1.1,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-monza/Eebsbgb,2024-01-06,11:00,Frosinone,Monza,2.55,3.3,2.8,1.4,1.5,1.3333,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-lecce/Odbsueb,2024-01-06,14:00,Lecce,Cagliari,2.2,3.2,3.5,1.2857,1.6667,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-fiorentina/TdbsTfb,2024-01-06,16:45,Sassuolo,Fiorentina,3.3,3.6,2.1,1.7,1.3333,1.2857,1.6154,2.2,52760,Serie A 23/24
+https://www.sofascore.com/empoli-milan/Rdbsfeb,2024-01-07,08:30,Empoli,Milan,5.0,4.0,1.65,2.2,1.1667,1.2222,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/napoli-torino/Wdbsoeb,2024-01-07,11:00,Torino,Napoli,2.6,3.1,2.88,1.4,1.5,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/lazio-udinese/VdbsZdb,2024-01-07,11:00,Udinese,Lazio,3.4,3.1,2.3,1.5714,1.3,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-juventus/Mdbskeb,2024-01-07,14:00,Salernitana,Juventus,6.5,4.3333,1.5,2.5,1.1111,1.2,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/roma-atalanta/Ldbsceb,2024-01-07,16:45,Roma,Atalanta,2.25,3.1,3.4,1.3,1.6154,1.3636,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/napoli-salernitana/kebsoeb,2024-01-13,11:00,Napoli,Salernitana,1.33,5.25,9.0,1.0714,3.25,1.1667,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/genoa-torino/Wdbsneb,2024-01-13,11:00,Genoa,Torino,3.1,2.9,2.5,1.5,1.3636,1.4,2.25,1.5714,52760,Serie A 23/24
+https://www.sofascore.com/empoli-hellas-verona/bebsfeb,2024-01-13,14:00,Hellas Verona,Empoli,2.15,3.25,3.5,1.2857,1.6667,1.3333,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/monza-inter/XdbsEeb,2024-01-13,16:45,Monza,Inter,8.0,4.75,1.36,3.0,1.0833,1.1818,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/lazio-lecce/OdbsZdb,2024-01-14,08:30,Lazio,Lecce,1.62,3.75,6.0,1.125,2.25,1.25,2.2,1.6154,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-bologna/Kdbsueb,2024-01-14,11:00,Cagliari,Bologna,3.5,3.0,2.3,1.5714,1.2857,1.3636,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/udinese-fiorentina/TdbsVdb,2024-01-14,14:00,Fiorentina,Udinese,1.67,3.75,5.5,1.1429,2.15,1.25,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/roma-milan/Rdbsceb,2024-01-14,16:45,Milan,Roma,2.05,3.25,3.8,1.25,1.7273,1.3333,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-atalanta/Ldbsbgb,2024-01-15,16:45,Atalanta,Frosinone,1.4,5.0,7.0,1.1,2.75,1.1667,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-juventus/MdbsTfb,2024-01-16,16:45,Juventus,Sassuolo,1.44,4.75,6.5,1.1111,2.625,1.1818,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/roma-hellas-verona/bebsceb,2024-01-20,14:00,Roma,Hellas Verona,1.45,4.2,7.5,1.1,2.625,1.2222,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/udinese-milan/RdbsVdb,2024-01-20,16:45,Udinese,Milan,3.75,3.6,1.91,1.8333,1.25,1.2857,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-cagliari/uebsbgb,2024-01-21,08:30,Frosinone,Cagliari,2.3,3.4,3.0,1.3636,1.5714,1.3,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/monza-empoli/febsEeb,2024-01-21,11:00,Empoli,Monza,2.8,3.3,2.6,1.4,1.4444,1.3333,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/genoa-salernitana/kebsneb,2024-01-21,14:00,Salernitana,Genoa,3.4,3.1,2.3,1.5714,1.3,1.3636,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/lecce-juventus/MdbsOdb,2024-01-21,16:45,Lecce,Juventus,5.25,3.4,1.75,2.0,1.1667,1.3,2.2,1.6154,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-torino/Wdbsueb,2024-01-26,16:45,Cagliari,Torino,3.6,3.1,2.2,1.6667,1.2857,1.3636,2.2,1.6154,52760,Serie A 23/24
+https://www.sofascore.com/udinese-atalanta/LdbsVdb,2024-01-27,11:00,Atalanta,Udinese,1.5,4.5,5.75,1.1429,2.5,1.1818,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/empoli-juventus/Mdbsfeb,2024-01-27,14:00,Juventus,Empoli,1.3,5.5,10.0,1.0625,3.5,1.1429,2.5,1.5,52760,Serie A 23/24
+https://www.sofascore.com/milan-bologna/KdbsRdb,2024-01-27,16:45,Milan,Bologna,1.7,3.5,5.5,1.1429,2.1,1.2857,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/genoa-lecce/Odbsneb,2024-01-28,08:30,Genoa,Lecce,2.1,3.2,3.8,1.25,1.7,1.3636,2.2,1.6154,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-monza/EebsTfb,2024-01-28,11:00,Monza,Sassuolo,2.2,3.3,3.4,1.3,1.6667,1.3333,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-hellas-verona/bebsbgb,2024-01-28,11:00,Hellas Verona,Frosinone,2.3,3.25,3.2,1.3636,1.5714,1.3333,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/napoli-lazio/Zdbsoeb,2024-01-28,14:00,Lazio,SSC Napoli,2.38,3.1,3.4,1.3,1.5333,1.3636,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/inter-fiorentina/TdbsXdb,2024-01-28,16:45,Fiorentina,Inter,4.75,3.4,1.85,1.9091,1.1818,1.3,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-roma/cebskeb,2024-01-29,16:45,Salernitana,Roma,5.25,3.8,1.7,2.1,1.1667,1.25,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/fiorentina-lecce/OdbsTdb,2024-02-02,16:45,Lecce,Fiorentina,3.75,3.2,2.15,1.6667,1.25,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/genoa-empoli/febsneb,2024-02-03,11:00,Empoli,Genoa,3.1,2.9,2.63,1.4444,1.3636,1.4,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/monza-udinese/VdbsEeb,2024-02-03,11:00,Udinese,Monza,2.2,3.25,3.4,1.3,1.6667,1.3333,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-milan/Rdbsbgb,2024-02-03,14:00,Frosinone,Milan,4.5,4.0,1.73,2.05,1.1818,1.2222,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-bologna/KdbsTfb,2024-02-03,16:45,Bologna,Sassuolo,1.6,4.0,5.75,1.1429,2.3,1.2222,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-torino/Wdbskeb,2024-02-04,08:30,Torino,Salernitana,1.6,3.75,6.5,1.1111,2.3,1.25,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/napoli-hellas-verona/bebsoeb,2024-02-04,11:00,SSC Napoli,Hellas Verona,1.44,4.5,7.0,1.0833,2.75,1.1818,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/lazio-atalanta/LdbsZdb,2024-02-04,14:00,Atalanta,Lazio,2.05,3.3,3.75,1.25,1.7273,1.3333,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/inter-juventus/MdbsXdb,2024-02-04,16:45,Inter,Juventus,1.8,3.4,5.0,1.1667,1.95,1.3,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-roma/cebsueb,2024-02-05,16:45,Roma,Cagliari,1.5,4.2,7.0,1.1,2.5,1.2222,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-empoli/febskeb,2024-02-09,16:45,Salernitana,Empoli,2.38,3.1,3.2,1.3636,1.5333,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-lazio/Zdbsueb,2024-02-10,11:00,Cagliari,Lazio,3.6,3.25,2.1,1.7,1.2857,1.3333,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/roma-inter/Xdbsceb,2024-02-10,14:00,Roma,Inter,4.3333,3.5,1.85,1.9091,1.2,1.2857,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-torino/WdbsTfb,2024-02-10,16:45,Sassuolo,Torino,3.4,3.2,2.2,1.6667,1.3,1.3636,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-fiorentina/Tdbsbgb,2024-02-11,08:30,Fiorentina,Frosinone,1.57,4.3333,5.5,1.1429,2.3,1.2,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/lecce-bologna/KdbsOdb,2024-02-11,11:00,Bologna,Lecce,1.7,3.6,5.5,1.1429,2.1,1.2857,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/monza-hellas-verona/bebsEeb,2024-02-11,11:00,Monza,Hellas Verona,2.25,3.2,3.5,1.2857,1.6154,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/genoa-atalanta/Ldbsneb,2024-02-11,14:00,Genoa,Atalanta,4.0,3.3,2.0,1.8,1.2222,1.3333,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/napoli-milan/Rdbsoeb,2024-02-11,16:45,Milan,SSC Napoli,1.91,3.5,4.0,1.2222,1.8333,1.2857,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/udinese-juventus/MdbsVdb,2024-02-12,16:45,Juventus,Udinese,1.5,4.2,7.5,1.1,2.5,1.2222,2.25,1.5714,52760,Serie A 23/24
+https://www.sofascore.com/fiorentina-bologna/KdbsTdb,2024-02-14,15:00,Bologna,Fiorentina,2.5,3.1,3.0,1.3,1.6154,1.3636,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/torino-lecce/OdbsWdb,2024-02-16,15:00,Torino,Lecce,1.8,3.4,5.0,1.1667,1.95,1.3,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-inter/Xdbskeb,2024-02-16,17:00,Inter,Salernitana,1.13,9.0,17.0,1.025,6.0,1.0714,2.375,1.5333,52760,Serie A 23/24
+https://www.sofascore.com/napoli-genoa/nebsoeb,2024-02-17,11:00,SSC Napoli,Genoa,1.7,3.6,5.25,1.1667,2.05,1.2857,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-juventus/Mdbsbeb,2024-02-17,14:00,Hellas Verona,Juventus,5.5,3.4,1.7,2.1,1.1429,1.3,2.2,1.6154,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-atalanta/LdbsTfb,2024-02-17,16:45,Atalanta,Sassuolo,1.33,5.5,8.0,1.0833,3.25,1.1429,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/lazio-bologna/KdbsZdb,2024-02-18,08:30,Lazio,Bologna,2.5,3.0,3.1,1.3636,1.5,1.4,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/empoli-fiorentina/Tdbsfeb,2024-02-18,11:00,Empoli,Fiorentina,3.6,3.3,2.05,1.7273,1.2857,1.3333,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-udinese/Vdbsueb,2024-02-18,11:00,Udinese,Cagliari,1.95,3.4,4.0,1.2222,1.8,1.3,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-roma/cebsbgb,2024-02-18,14:00,Frosinone,Roma,3.6,3.6,2.0,1.8,1.2857,1.2857,1.6154,2.2,52760,Serie A 23/24
+https://www.sofascore.com/monza-milan/RdbsEeb,2024-02-18,16:45,Monza,Milan,4.75,3.5,1.75,2.0,1.1818,1.2857,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/lazio-torino/WdbsZdb,2024-02-22,16:45,Torino,Lazio,2.7,2.9,2.88,1.4,1.4444,1.4,2.2,1.6154,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-bologna/Kdbsbeb,2024-02-23,16:45,Bologna,Hellas Verona,1.6,3.75,6.5,1.1111,2.3,1.25,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-empoli/febsTfb,2024-02-24,11:00,Sassuolo,Empoli,2.25,3.4,3.2,1.3636,1.6154,1.3,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/monza-salernitana/kebsEeb,2024-02-24,14:00,Salernitana,Monza,3.25,3.2,2.3,1.5714,1.3333,1.3636,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/genoa-udinese/Vdbsneb,2024-02-24,16:45,Genoa,Udinese,2.45,2.9,3.25,1.3333,1.5333,1.4,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-juventus/Mdbsbgb,2024-02-25,08:30,Juventus,Frosinone,1.33,5.25,8.5,1.0833,3.25,1.1667,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-napoli/oebsueb,2024-02-25,11:00,Cagliari,SSC Napoli,4.3333,3.8,1.8,2.0,1.1818,1.25,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/inter-lecce/OdbsXdb,2024-02-25,14:00,Lecce,Inter,6.0,4.5,1.5,2.375,1.125,1.2,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/milan-atalanta/LdbsRdb,2024-02-25,16:45,Milan,Atalanta,2.3,3.4,3.1,1.3636,1.5714,1.3,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/roma-torino/Wdbsceb,2024-02-26,14:30,Roma,Torino,1.95,3.2,4.3333,1.2,1.8,1.3636,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/lazio-fiorentina/TdbsZdb,2024-02-26,16:45,Fiorentina,Lazio,2.15,3.25,3.6,1.25,1.7,1.3333,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-napoli/oebsTfb,2024-02-28,14:00,Sassuolo,SSC Napoli,4.2,3.8,1.8,2.0,1.1818,1.25,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/inter-atalanta/LdbsXdb,2024-02-28,16:45,Inter,Atalanta,1.62,4.0,5.25,1.1667,2.25,1.2222,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/lazio-milan/RdbsZdb,2024-03-01,16:45,Lazio,Milan,3.4,3.1,2.25,1.6154,1.3,1.3636,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-udinese/Vdbskeb,2024-03-02,11:00,Udinese,Salernitana,1.65,3.75,5.75,1.1429,2.2,1.25,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/monza-roma/cebsEeb,2024-03-02,14:00,Monza,Roma,3.75,3.4,2.05,1.7273,1.25,1.3,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/torino-fiorentina/TdbsWdb,2024-03-02,16:45,Torino,Fiorentina,2.5,3.0,3.0,1.3636,1.5,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-hellas-verona/bebsTfb,2024-03-03,08:30,Hellas Verona,Sassuolo,2.3,3.4,3.0,1.3636,1.5714,1.3,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-lecce/Odbsbgb,2024-03-03,11:00,Frosinone,Lecce,2.4,3.25,3.1,1.3636,1.5333,1.3333,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-empoli/febsueb,2024-03-03,11:00,Empoli,Cagliari,2.2,3.25,3.5,1.2857,1.6667,1.3333,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/atalanta-bologna/KdbsLdb,2024-03-03,14:00,Atalanta,Bologna,2.05,3.5,3.75,1.25,1.7273,1.2857,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/napoli-juventus/Mdbsoeb,2024-03-03,16:45,SSC Napoli,Juventus,2.25,3.1,3.4,1.3,1.6154,1.3636,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/genoa-inter/Xdbsneb,2024-03-04,16:45,Inter,Genoa,1.25,6.0,11.0,1.05,3.75,1.125,2.2,1.6154,52760,Serie A 23/24
+https://www.sofascore.com/napoli-torino/Wdbsoeb,2024-03-08,16:45,SSC Napoli,Torino,1.7,3.6,5.25,1.1667,2.1,1.2857,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-sassuolo/Tfbsbgb,2024-03-09,11:00,Sassuolo,Frosinone,2.4,3.3,2.9,1.4,1.5333,1.3333,1.5714,2.25,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-salernitana/kebsueb,2024-03-09,11:00,Cagliari,Salernitana,1.85,3.5,4.3333,1.2,1.9091,1.2857,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/inter-bologna/KdbsXdb,2024-03-09,14:00,Bologna,Inter,3.75,3.3,2.1,1.7,1.25,1.3333,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/monza-genoa/nebsEeb,2024-03-09,16:45,Genoa,Monza,2.1,3.25,3.6,1.2857,1.7,1.3333,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-lecce/Odbsbeb,2024-03-10,08:30,Lecce,Hellas Verona,2.15,3.1,3.75,1.25,1.6667,1.3636,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/empoli-milan/Rdbsfeb,2024-03-10,11:00,Milan,Empoli,1.4,4.75,7.5,1.1,2.625,1.1818,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/juventus-atalanta/LdbsMdb,2024-03-10,14:00,Juventus,Atalanta,2.25,3.2,3.4,1.3,1.6154,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/roma-fiorentina/Tdbsceb,2024-03-10,16:45,Fiorentina,Roma,2.45,3.3,2.9,1.4,1.5,1.3333,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/lazio-udinese/VdbsZdb,2024-03-11,16:45,Lazio,Udinese,1.91,3.4,4.3333,1.2,1.8333,1.3,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/empoli-bologna/Kdbsfeb,2024-03-15,16:45,Empoli,Bologna,4.0,3.2,2.05,1.8,1.2222,1.3636,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/torino-udinese/VdbsWdb,2024-03-16,11:00,Udinese,Torino,3.0,2.9,2.7,1.4444,1.3636,1.4,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/monza-cagliari/uebsEeb,2024-03-16,11:00,Monza,Cagliari,1.95,3.5,4.0,1.2222,1.8,1.2857,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-lecce/Odbskeb,2024-03-16,14:00,Salernitana,Lecce,3.4,3.2,2.25,1.6154,1.3,1.3636,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-lazio/Zdbsbgb,2024-03-16,16:45,Frosinone,Lazio,3.3,3.4,2.2,1.6667,1.3333,1.3,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/genoa-juventus/Mdbsneb,2024-03-17,08:30,Juventus,Genoa,1.5,4.2,7.0,1.1,2.5,1.2222,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-milan/Rdbsbeb,2024-03-17,11:00,Hellas Verona,Milan,5.5,3.8,1.65,2.2,1.1429,1.25,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-roma/cebsTfb,2024-03-17,14:00,Roma,Sassuolo,1.4,4.75,7.5,1.1,2.75,1.1818,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/napoli-inter/Xdbsoeb,2024-03-17,16:45,Inter,SSC Napoli,1.55,4.2,5.75,1.1429,2.375,1.2222,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/napoli-atalanta/Ldbsoeb,2024-03-30,08:30,SSC Napoli,Atalanta,2.15,3.5,3.4,1.3636,1.6667,1.2857,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/monza-torino/WdbsEeb,2024-03-30,11:00,Torino,Monza,1.8,3.4,5.0,1.1818,1.9091,1.3,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-genoa/nebsbgb,2024-03-30,11:00,Genoa,Frosinone,1.91,3.6,3.8,1.25,1.8333,1.2857,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/lazio-juventus/MdbsZdb,2024-03-30,14:00,Lazio,Juventus,3.2,3.1,2.38,1.5333,1.3636,1.3636,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/fiorentina-milan/RdbsTdb,2024-03-30,16:45,Fiorentina,Milan,3.0,3.4,2.38,1.5333,1.3636,1.3,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-bologna/Kdbskeb,2024-04-01,07:30,Bologna,Salernitana,1.3,5.25,10.0,1.0625,3.4,1.1667,2.2,1.6154,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-udinese/VdbsTfb,2024-04-01,10:00,Sassuolo,Udinese,2.88,3.3,2.5,1.5,1.4,1.3333,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-hellas-verona/bebsueb,2024-04-01,10:00,Cagliari,Hellas Verona,2.15,3.2,3.75,1.25,1.6667,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/roma-lecce/Odbsceb,2024-04-01,13:00,Lecce,Roma,4.0,3.1,2.05,1.7273,1.2222,1.3636,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/empoli-inter/Xdbsfeb,2024-04-01,15:45,Inter,Empoli,1.2,7.5,11.0,1.05,4.3333,1.1,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-salernitana/kebsTfb,2024-04-05,15:45,Salernitana,Sassuolo,3.25,3.5,2.15,1.6667,1.3636,1.2857,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/milan-lecce/OdbsRdb,2024-04-06,10:00,Milan,Lecce,1.33,5.25,8.5,1.0833,3.25,1.1667,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/roma-lazio/Zdbsceb,2024-04-06,13:00,Roma,Lazio,2.15,3.1,3.75,1.25,1.7,1.3636,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/empoli-torino/Wdbsfeb,2024-04-06,15:45,Empoli,Torino,3.6,3.1,2.2,1.6667,1.2857,1.3636,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-bologna/Kdbsbgb,2024-04-07,07:30,Frosinone,Bologna,4.2,3.5,1.91,1.8333,1.2222,1.2857,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/monza-napoli/oebsEeb,2024-04-07,10:00,Monza,SSC Napoli,4.3333,3.8,1.75,2.0,1.2,1.25,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-atalanta/Ldbsueb,2024-04-07,13:00,Cagliari,Atalanta,4.75,3.8,1.73,2.05,1.1818,1.25,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/genoa-hellas-verona/bebsneb,2024-04-07,13:00,Hellas Verona,Genoa,2.63,2.9,3.0,1.3636,1.4444,1.4,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/fiorentina-juventus/MdbsTdb,2024-04-07,15:45,Juventus,Fiorentina,1.75,3.5,5.0,1.1667,2.0,1.2857,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/inter-udinese/VdbsXdb,2024-04-08,15:45,Udinese,Inter,9.0,4.75,1.36,3.0,1.0714,1.1818,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-lazio/Zdbskeb,2024-04-12,15:45,Lazio,Salernitana,1.36,5.0,8.5,1.0833,3.0,1.1667,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/empoli-lecce/Odbsfeb,2024-04-13,10:00,Lecce,Empoli,2.1,3.0,4.0,1.2222,1.7,1.3636,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/torino-juventus/MdbsWdb,2024-04-13,13:00,Torino,Juventus,3.8,2.8,2.3,1.5714,1.25,1.4,2.375,1.5333,52760,Serie A 23/24
+https://www.sofascore.com/monza-bologna/KdbsEeb,2024-04-13,15:45,Bologna,Monza,1.5,4.0,7.0,1.1,2.5,1.2222,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-napoli/oebsbgb,2024-04-14,07:30,SSC Napoli,Frosinone,1.33,5.5,8.0,1.0833,3.25,1.1429,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-milan/RdbsTfb,2024-04-14,10:00,Sassuolo,Milan,4.75,4.0,1.7,2.0,1.1818,1.25,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-inter/Xdbsueb,2024-04-14,15:45,Inter,Cagliari,1.18,8.0,12.0,1.05,4.5,1.0833,2.25,1.5714,52760,Serie A 23/24
+https://www.sofascore.com/genoa-fiorentina/Tdbsneb,2024-04-15,13:30,Fiorentina,Genoa,1.8,3.5,4.75,1.1818,1.95,1.2857,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-atalanta/Ldbsbeb,2024-04-15,15:45,Atalanta,Hellas Verona,1.44,4.75,7.0,1.1,2.625,1.1818,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/genoa-lazio/Zdbsneb,2024-04-19,13:30,Genoa,Lazio,3.1,3.1,2.45,1.5333,1.3636,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-juventus/Mdbsueb,2024-04-19,15:45,Cagliari,Juventus,4.75,3.4,1.83,1.9091,1.1818,1.3,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/napoli-empoli/febsoeb,2024-04-20,13:00,Empoli,Napoli,5.0,4.0,1.67,2.15,1.1667,1.2222,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-udinese/Vdbsbeb,2024-04-20,15:45,Hellas Verona,Udinese,2.8,2.88,2.88,1.4,1.4,1.4,2.0,1.75,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-lecce/OdbsTfb,2024-04-21,07:30,Sassuolo,Lecce,2.25,3.3,3.2,1.3636,1.6154,1.3333,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-torino/Wdbsbgb,2024-04-21,10:00,Torino,Frosinone,1.7,3.6,5.0,1.1667,2.1,1.2857,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-fiorentina/Tdbskeb,2024-04-21,13:00,Salernitana,Fiorentina,5.5,4.2,1.62,2.25,1.1429,1.2222,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/monza-atalanta/LdbsEeb,2024-04-21,15:45,Monza,Atalanta,3.6,4.0,1.95,1.8,1.2857,1.2222,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/roma-bologna/Kdbsceb,2024-04-22,13:30,Roma,Bologna,2.38,2.9,3.5,1.2857,1.5333,1.4,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/inter-milan/RdbsXdb,2024-04-22,15:45,Milan,Inter,3.75,3.4,2.0,1.7273,1.2857,1.3,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/roma-udinese/Vdbsceb,2024-04-25,15:00,Udinese,Roma,3.25,3.2,2.3,1.5714,1.3333,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-salernitana/kebsbgb,2024-04-26,15:45,Frosinone,Salernitana,1.4,4.75,7.5,1.1,2.75,1.1818,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/monza-lecce/OdbsEeb,2024-04-27,10:00,Lecce,Monza,1.95,3.3,4.0,1.2222,1.8,1.3333,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/milan-juventus/MdbsRdb,2024-04-27,13:00,Juventus,Milan,2.15,3.25,3.5,1.2857,1.6667,1.3333,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-lazio/Zdbsbeb,2024-04-27,15:45,Lazio,Hellas Verona,1.62,4.2,5.5,1.1429,2.3,1.2222,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/inter-torino/WdbsXdb,2024-04-28,07:30,Inter,Torino,1.57,4.0,6.0,1.125,2.3,1.2222,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/udinese-bologna/KdbsVdb,2024-04-28,10:00,Bologna,Udinese,1.6,3.8,6.0,1.125,2.3,1.25,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/napoli-roma/cebsoeb,2024-04-28,13:00,Napoli,Roma,1.91,3.6,3.8,1.25,1.8333,1.2857,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/empoli-atalanta/Ldbsfeb,2024-04-28,13:00,Atalanta,Empoli,1.45,4.2,7.0,1.1,2.625,1.2222,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-fiorentina/TdbsTfb,2024-04-28,15:45,Fiorentina,Sassuolo,1.57,4.0,6.0,1.125,2.3,1.2222,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-genoa/nebsueb,2024-04-29,15:45,Genoa,Cagliari,2.2,3.1,3.6,1.2857,1.6667,1.3636,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/torino-bologna/KdbsWdb,2024-05-03,15:45,Torino,Bologna,2.8,2.88,2.88,1.4,1.4,1.4,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/monza-lazio/ZdbsEeb,2024-05-04,13:00,Monza,Lazio,4.3333,3.75,1.83,1.9091,1.2,1.25,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-inter/XdbsTfb,2024-05-04,15:45,Sassuolo,Inter,6.0,4.5,1.5,2.5,1.125,1.1818,1.6154,2.2,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-lecce/Odbsueb,2024-05-05,07:30,Cagliari,Lecce,2.1,3.2,3.75,1.25,1.7,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-fiorentina/Tdbsbeb,2024-05-05,10:00,Hellas Verona,Fiorentina,3.4,3.2,2.2,1.6667,1.3,1.3636,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-empoli/febsbgb,2024-05-05,10:00,Empoli,Frosinone,2.45,3.3,2.9,1.3636,1.5333,1.3333,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/genoa-milan/Rdbsneb,2024-05-05,13:00,Milan,Genoa,1.4,5.0,7.0,1.1,2.75,1.1667,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/roma-juventus/Mdbsceb,2024-05-05,15:45,Roma,Juventus,2.9,3.2,2.55,1.5,1.4,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-atalanta/Ldbskeb,2024-05-06,13:00,Salernitana,Atalanta,8.5,6.0,1.3,3.4,1.0833,1.125,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/napoli-udinese/Vdbsoeb,2024-05-06,15:45,Udinese,Napoli,3.8,3.75,1.91,1.8333,1.25,1.25,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-inter/Xdbsbgb,2024-05-10,15:45,Frosinone,Inter,4.3333,4.0,1.75,2.0,1.2,1.2222,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/napoli-bologna/Kdbsoeb,2024-05-11,13:00,Napoli,Bologna,1.91,3.4,4.3333,1.2,1.8333,1.3,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-milan/Rdbsueb,2024-05-11,15:45,Milan,Cagliari,1.55,4.75,5.0,1.1818,2.3,1.1818,1.7,2.05,52760,Serie A 23/24
+https://www.sofascore.com/empoli-lazio/Zdbsfeb,2024-05-12,07:30,Lazio,Empoli,1.65,3.8,5.25,1.1667,2.2,1.25,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-genoa/nebsTfb,2024-05-12,10:00,Genoa,Sassuolo,2.25,3.5,3.1,1.3636,1.6154,1.2857,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-torino/Wdbsbeb,2024-05-12,10:00,Hellas Verona,Torino,3.2,2.9,2.5,1.5,1.3636,1.4,2.1,1.6667,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-juventus/Mdbskeb,2024-05-12,13:00,Juventus,Salernitana,1.14,8.5,15.0,1.0303,5.5,1.0833,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/roma-atalanta/Ldbsceb,2024-05-12,15:45,Atalanta,Roma,1.85,3.8,3.8,1.25,1.9091,1.25,1.6154,2.2,52760,Serie A 23/24
+https://www.sofascore.com/udinese-lecce/OdbsVdb,2024-05-13,13:30,Lecce,Udinese,3.0,3.0,2.55,1.5,1.3636,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/monza-fiorentina/TdbsEeb,2024-05-13,15:45,Fiorentina,Monza,1.5,4.3333,6.25,1.125,2.5,1.2,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/napoli-fiorentina/Tdbsoeb,2024-05-17,15:45,Fiorentina,Napoli,2.1,3.5,3.4,1.3,1.7,1.2857,1.6154,2.2,52760,Serie A 23/24
+https://www.sofascore.com/lecce-atalanta/LdbsOdb,2024-05-18,13:00,Lecce,Atalanta,3.6,3.6,2.0,1.8,1.2857,1.2857,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/torino-milan/RdbsWdb,2024-05-18,15:45,Torino,Milan,2.6,3.1,3.0,1.3636,1.5,1.3636,1.9091,1.9091,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-cagliari/uebsTfb,2024-05-19,07:30,Sassuolo,Cagliari,2.5,3.25,2.9,1.3636,1.5333,1.3333,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/empoli-udinese/Vdbsfeb,2024-05-19,10:00,Udinese,Empoli,1.95,3.3,4.3333,1.2,1.8333,1.3333,2.05,1.7,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-monza/Eebsbgb,2024-05-19,10:00,Monza,Frosinone,3.1,3.5,2.25,1.6154,1.3636,1.2857,1.5714,2.25,52760,Serie A 23/24
+https://www.sofascore.com/lazio-inter/XdbsZdb,2024-05-19,13:00,Inter,Lazio,1.55,4.5,5.25,1.1667,2.375,1.1818,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/genoa-roma/cebsneb,2024-05-19,15:45,Roma,Genoa,1.48,4.3333,6.5,1.1,2.625,1.2,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-hellas-verona/bebskeb,2024-05-20,13:30,Salernitana,Hellas Verona,5.0,3.9,1.67,2.15,1.1667,1.25,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/juventus-bologna/KdbsMdb,2024-05-20,15:45,Bologna,Juventus,2.7,3.1,2.75,1.4,1.4444,1.3636,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/cagliari-fiorentina/Tdbsueb,2024-05-23,15:45,Cagliari,Fiorentina,4.5,3.8,1.73,2.05,1.1818,1.25,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/genoa-bologna/Kdbsneb,2024-05-24,15:45,Genoa,Bologna,2.8,3.1,2.63,1.4444,1.4,1.3636,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/monza-juventus/MdbsEeb,2024-05-25,13:00,Juventus,Monza,1.55,4.5,5.75,1.1,2.625,1.1818,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/salernitana-milan/Rdbskeb,2024-05-25,15:45,Milan,Salernitana,1.13,10.0,17.0,1.025,6.0,1.0625,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/napoli-lecce/Odbsoeb,2024-05-26,13:00,Napoli,Lecce,1.36,5.5,7.5,1.1,3.0,1.1429,1.8,1.95,52760,Serie A 23/24
+https://www.sofascore.com/torino-atalanta/LdbsWdb,2024-05-26,13:00,Atalanta,Torino,2.5,3.5,2.7,1.4444,1.5,1.2857,1.6154,2.2,52760,Serie A 23/24
+https://www.sofascore.com/hellas-verona-inter/Xdbsbeb,2024-05-26,15:45,Hellas Verona,Inter,6.5,5.0,1.42,2.75,1.1111,1.1667,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/empoli-roma/cebsfeb,2024-05-26,15:45,Empoli,Roma,2.2,3.6,3.0,1.3636,1.6667,1.2857,1.6667,2.1,52760,Serie A 23/24
+https://www.sofascore.com/sassuolo-lazio/ZdbsTfb,2024-05-26,15:45,Lazio,Sassuolo,1.3,5.75,8.5,1.0833,3.4,1.1429,1.95,1.8,52760,Serie A 23/24
+https://www.sofascore.com/frosinone-udinese/Vdbsbgb,2024-05-26,15:45,Frosinone,Udinese,2.5,3.2,3.0,1.3636,1.5,1.3636,1.75,2.0,52760,Serie A 23/24
+https://www.sofascore.com/fiorentina-atalanta/LdbsTdb,2024-06-02,13:00,Atalanta,Fiorentina,1.6,4.3333,5.0,1.1667,2.3,1.2,1.6154,2.2,52760,Serie A 23/24
