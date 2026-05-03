@@ -301,13 +301,21 @@ def normalize_sofascore_predictions(pred):
     return pred
 
 
+def register_sofascore_model_classes(pipeline):
+    main_module = sys.modules.get("__main__")
+    if main_module is not None:
+        main_module.CorrelationPruner = pipeline.CorrelationPruner
+        main_module.SafeSelectKBest = pipeline.SafeSelectKBest
+    __main__.CorrelationPruner = pipeline.CorrelationPruner
+    __main__.SafeSelectKBest = pipeline.SafeSelectKBest
+
+
 @st.cache_data(show_spinner=False)
 def load_sofascore_goal_probabilities():
     if str(SRC_DIR) not in sys.path:
         sys.path.insert(0, str(SRC_DIR))
     pipeline = importlib.import_module("run_sofascore_pipeline")
-    __main__.CorrelationPruner = pipeline.CorrelationPruner
-    __main__.SafeSelectKBest = pipeline.SafeSelectKBest
+    register_sofascore_model_classes(pipeline)
 
     frames = []
     for label, config in LEAGUES.items():
@@ -355,8 +363,7 @@ def load_sofascore_1x2_probabilities():
     if str(SRC_DIR) not in sys.path:
         sys.path.insert(0, str(SRC_DIR))
     pipeline = importlib.import_module("run_sofascore_pipeline")
-    __main__.CorrelationPruner = pipeline.CorrelationPruner
-    __main__.SafeSelectKBest = pipeline.SafeSelectKBest
+    register_sofascore_model_classes(pipeline)
 
     frames = []
     target_map = {"1": 1, "X": 0, "2": -1}
