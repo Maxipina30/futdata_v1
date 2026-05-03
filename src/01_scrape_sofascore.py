@@ -40,6 +40,20 @@ LEAGUES = {
         "season_year": "25/26",
         "season_name": "Serie A 25/26",
     },
+    "bundesliga": {
+        "name": "Bundesliga",
+        "competition": "Bundesliga",
+        "unique_tournament_id": 35,
+        "season_year": "25/26",
+        "season_name": "Bundesliga 25/26",
+    },
+    "ligue_1": {
+        "name": "Ligue 1",
+        "competition": "Ligue 1",
+        "unique_tournament_id": 34,
+        "season_year": "25/26",
+        "season_name": "Ligue 1 25/26",
+    },
     "chile": {
         "name": "Liga de Primera",
         "competition": "Liga de Primera",
@@ -247,8 +261,8 @@ def parse_odds(event, payload, timezone="America/Sao_Paulo"):
                     row[col] = fraction_to_decimal(choice.get("fractionalValue"))
             continue
 
-        if market_name == "Total goals":
-            handicap = market.get("handicap")
+        if market_name in {"Total goals", "Match goals"}:
+            handicap = market.get("handicap", market.get("choiceGroup"))
             for choice in market.get("choices", []):
                 name = choice.get("name")
                 value = fraction_to_decimal(choice.get("fractionalValue"))

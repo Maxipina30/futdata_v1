@@ -12,10 +12,13 @@ from sklearn.impute import SimpleImputer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import (
     accuracy_score,
+    average_precision_score,
     balanced_accuracy_score,
+    brier_score_loss,
     classification_report,
     f1_score,
     log_loss,
+    roc_auc_score,
 )
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import FunctionTransformer
@@ -141,9 +144,18 @@ C_GRID = [0.003, 0.01, 0.03, 0.1, 0.3, 1.0]
 K_GRID = [24, 36, 48, 72, 108, 160, "all"]
 CORRELATION_THRESHOLDS = [0.85, 0.9, 0.95]
 CLASS_WEIGHTS = ["balanced", None]
+GOAL_C_GRID = [0.03, 0.1, 0.3]
+GOAL_K_GRID = [36, 72, "all"]
+GOAL_CORRELATION_THRESHOLDS = [0.9, 0.95]
+GOAL_CLASS_WEIGHTS = ["balanced"]
 TABLE_FEATURE_MIN_LOGLOSS_GAIN = 0.02
 MODEL_SELECTION_LOGLOSS_TOLERANCE = 0.02
 SELECTION_OBJECTIVES = ["calibrated_macro", "macro_f1", "balanced_accuracy", "log_loss"]
+GOAL_MARKETS = {
+    "over_15": "Over 1.5 goles",
+    "over_25": "Over 2.5 goles",
+    "btts": "Ambos anotan",
+}
 
 
 def normalize_cols(df):
@@ -195,7 +207,7 @@ class SafeSelectKBest(SelectKBest):
         return super().fit(x_data, y)
 
 
-def load_raw_matchlogs(root, league):
+def load_raw_matchlogs(root, league, include_unfinished=False):
     matchlogs_dir = root / "raw" / league / "team_matchlogs"
     schedule = normalize_cols(pd.read_csv(matchlogs_dir / f"{league}_team_schedule.csv"))
     shooting_for = normalize_cols(pd.read_csv(matchlogs_dir / f"{league}_team_shooting_for.csv"))
@@ -233,7 +245,8 @@ def load_raw_matchlogs(root, league):
     for col in ROLLING_METRICS + ["gf", "ga"]:
         if col in df.columns:
             df[col] = pd.to_numeric(df[col], errors="coerce")
-    df = df[df["result"].isin(["W", "D", "L"])].copy()
+    if not include_unfinished:
+        df = df[df["result"].isin(["W", "D", "L"])].copy()
     return df
 
 
@@ -455,6 +468,27 @@ def evaluate_model(model, data, feature_cols):
     }
 
 
+def safe_binary_auc(y_true, probabilities):
+    if len(np.unique(y_true)) < 2:
+        return np.nan
+    return float(roc_auc_score(y_true, probabilities))
+
+
+def evaluate_binary_model(model, data, feature_cols, target_col):
+    y_true = data[target_col]
+    preds = model.predict(data[feature_cols])
+    probabilities = model.predict_proba(data[feature_cols])[:, 1]
+    return {
+        "accuracy": float(accuracy_score(y_true, preds)),
+        "balanced_accuracy": float(balanced_accuracy_score(y_true, preds)),
+        "f1": float(f1_score(y_true, preds, zero_division=0)),
+        "roc_auc": safe_binary_auc(y_true, probabilities),
+        "average_precision": float(average_precision_score(y_true, probabilities)),
+        "log_loss": float(log_loss(y_true, probabilities, labels=[0, 1])),
+        "brier": float(brier_score_loss(y_true, probabilities)),
+    }
+
+
 def build_model(c_value, k_value, corr_threshold, class_weight):
     return Pipeline(
         steps=[
@@ -519,6 +553,58 @@ def model_selection(train, feature_cols, feature_set_name="all", selection_objec
     if results.empty:
         raise RuntimeError("No se pudo seleccionar modelo: no hubo folds válidos.")
     return rank_model_selection(results, selection_objective)
+
+
+def binary_model_selection(train, feature_cols, target_col, feature_set_name="all"):
+    rows = []
+    for corr_threshold in GOAL_CORRELATION_THRESHOLDS:
+        for k_value in GOAL_K_GRID:
+            for c_value in GOAL_C_GRID:
+                for class_weight in GOAL_CLASS_WEIGHTS:
+                    fold_scores = []
+                    for fold in MODEL_SELECTION_FOLDS:
+                        train_core = train[train["round_num"] <= fold["train_max_round"]].copy()
+                        valid = train[
+                            train["round_num"].between(
+                                fold["valid_min_round"],
+                                fold["valid_max_round"],
+                            )
+                        ].copy()
+                        if train_core.empty or valid.empty:
+                            continue
+                        if train_core[target_col].nunique() < 2 or valid[target_col].nunique() < 2:
+                            continue
+
+                        model = build_model(c_value, k_value, corr_threshold, class_weight)
+                        model.fit(train_core[feature_cols], train_core[target_col])
+                        fold_scores.append(
+                            evaluate_binary_model(model, valid, feature_cols, target_col)
+                        )
+
+                    if not fold_scores:
+                        continue
+
+                    row = {
+                        "target": target_col,
+                        "feature_set": feature_set_name,
+                        "corr_threshold": corr_threshold,
+                        "k": k_value,
+                        "C": c_value,
+                        "class_weight": "balanced" if class_weight == "balanced" else "none",
+                        "folds": len(fold_scores),
+                    }
+                    for metric in fold_scores[0]:
+                        row[metric] = float(np.nanmean([score[metric] for score in fold_scores]))
+                        row[f"{metric}_std"] = float(np.nanstd([score[metric] for score in fold_scores]))
+                    rows.append(row)
+
+    results = pd.DataFrame(rows)
+    if results.empty:
+        return results
+    return results.sort_values(
+        ["log_loss", "brier", "roc_auc", "average_precision"],
+        ascending=[True, True, False, False],
+    ).reset_index(drop=True)
 
 
 def rank_model_selection(results, selection_objective="calibrated_macro"):
@@ -587,6 +673,40 @@ def choose_feature_set(train, feature_cols, selection_objective="calibrated_macr
     return combined, selected_pool, selected_name
 
 
+def choose_binary_feature_set(train, feature_cols, target_col):
+    table_cols = [col for col in feature_cols if any(marker in col for marker in TABLE_PRIOR_FEATURES)]
+    h2h_cols = [col for col in feature_cols if col.startswith("h2h_")]
+    rolling_cols = [col for col in feature_cols if col not in table_cols and col not in h2h_cols]
+
+    candidates = []
+    pools = [("rolling_only", rolling_cols)]
+    if h2h_cols:
+        pools.append(("rolling_plus_h2h", rolling_cols + h2h_cols))
+    if table_cols:
+        pools.append(("rolling_plus_table", rolling_cols + table_cols))
+    if table_cols and h2h_cols:
+        pools.append(("rolling_plus_table_h2h", rolling_cols + table_cols + h2h_cols))
+
+    for name, pool in pools:
+        if not pool:
+            continue
+        results = binary_model_selection(train, pool, target_col, name)
+        if not results.empty:
+            candidates.append((name, pool, results))
+
+    if not candidates:
+        raise RuntimeError(f"No se pudo seleccionar modelo para {target_col}: no hubo folds validos.")
+
+    pool_by_name = {name: pool for name, pool, _ in candidates}
+    combined = pd.concat([results for _, _, results in candidates], ignore_index=True)
+    combined = combined.sort_values(
+        ["log_loss", "brier", "roc_auc", "average_precision"],
+        ascending=[True, True, False, False],
+    ).reset_index(drop=True)
+    selected_name = combined.iloc[0]["feature_set"]
+    return combined, pool_by_name[selected_name], selected_name
+
+
 def selected_feature_names(model, feature_cols):
     names = np.array(feature_cols)
     variance_mask = model.named_steps["variance"].get_support()
@@ -605,6 +725,173 @@ def split_train_test(usable, current_season_id, test_round_min):
     test = usable[current_mask & (usable["round_num"] >= test_round_min)].copy()
     train = usable[~(current_mask & (usable["round_num"] >= test_round_min))].copy()
     return train, test, current_season_id
+
+
+def add_goal_market_targets(dataset):
+    data = dataset.copy()
+    total_goals = pd.to_numeric(data["home_goals"], errors="coerce") + pd.to_numeric(
+        data["away_goals"],
+        errors="coerce",
+    )
+    data["over_15"] = (total_goals >= 2).astype(float)
+    data["over_25"] = (total_goals >= 3).astype(float)
+    data["btts"] = (
+        (pd.to_numeric(data["home_goals"], errors="coerce") > 0)
+        & (pd.to_numeric(data["away_goals"], errors="coerce") > 0)
+    ).astype(float)
+    data.loc[total_goals.isna(), list(GOAL_MARKETS)] = np.nan
+    return data
+
+
+def add_goal_market_probabilities(models, dataset):
+    predictions = dataset[
+        ["date", "season_id", "season_name", "round_num", "local_team", "away_team"]
+    ].copy()
+    for target, bundle in models.items():
+        probabilities = bundle["model"].predict_proba(dataset[bundle["features"]])[:, 1]
+        predictions[f"p_{target}_raw"] = probabilities
+        predictions[f"p_{target}"] = probabilities
+        if target in dataset.columns:
+            predictions[f"target_{target}"] = dataset[target]
+
+    if {"p_over_15", "p_over_25"}.issubset(predictions.columns):
+        predictions["monotonic_adjusted_over_15"] = predictions["p_over_15"] < predictions["p_over_25"]
+        predictions["p_over_15"] = np.maximum(predictions["p_over_15"], predictions["p_over_25"])
+    else:
+        predictions["monotonic_adjusted_over_15"] = False
+
+    for target in models:
+        predictions[f"pred_{target}"] = (predictions[f"p_{target}"] >= 0.5).astype(int)
+    return predictions
+
+
+def train_goal_market_models(
+    dataset,
+    feature_cols,
+    root,
+    league,
+    current_season_id=None,
+    test_round_min=20,
+):
+    out_models = root / "models" / league
+    out_reports = root / "reports" / league
+    out_models.mkdir(parents=True, exist_ok=True)
+    out_reports.mkdir(parents=True, exist_ok=True)
+
+    data = add_goal_market_targets(dataset)
+    data = data.dropna(subset=list(GOAL_MARKETS)).sort_values(["date", "time"]).copy()
+    for target in GOAL_MARKETS:
+        data[target] = data[target].astype(int)
+
+    rolling_feature_cols = [col for col in feature_cols if "_rolling" in col]
+    usable = data.dropna(subset=rolling_feature_cols, how="all").copy()
+    if usable.empty:
+        raise RuntimeError("No hay filas con historial suficiente para entrenar goles.")
+
+    train, test, current_season_id = split_train_test(usable, current_season_id, test_round_min)
+    if test.empty:
+        split_at = max(1, int(len(usable) * 0.75))
+        train = usable.iloc[:split_at].copy()
+        test = usable.iloc[split_at:].copy()
+        current_season_id = None
+
+    final_models = {}
+    selection_frames = []
+    metric_rows = []
+    selected_feature_rows = []
+
+    for target, label in GOAL_MARKETS.items():
+        if train[target].nunique() < 2 or test[target].nunique() < 2:
+            continue
+        selection_results, selected_feature_pool, selected_feature_set = choose_binary_feature_set(
+            train,
+            feature_cols,
+            target,
+        )
+        selection_results = selection_results[selection_results["feature_set"].eq(selected_feature_set)].copy()
+        best = selection_results.iloc[0]
+        k_value = "all" if str(best["k"]) == "all" else int(best["k"])
+        class_weight = "balanced" if best["class_weight"] == "balanced" else None
+        model = build_model(
+            float(best["C"]),
+            k_value,
+            float(best["corr_threshold"]),
+            class_weight,
+        )
+        model.fit(train[selected_feature_pool], train[target])
+        selected_features = selected_feature_names(model, selected_feature_pool)
+        final_models[target] = {
+            "model": model,
+            "features": selected_feature_pool,
+            "selected_features": selected_features,
+            "label": label,
+            "selection": best.to_dict(),
+        }
+        selection_frames.append(selection_results)
+        selected_feature_rows.extend(
+            {"target": target, "market": label, "feature": feature}
+            for feature in selected_features
+        )
+
+        for split_name, split_df in [("train", train), ("test", test)]:
+            scores = evaluate_binary_model(model, split_df, selected_feature_pool, target)
+            metric_rows.append(
+                {
+                    "league": league,
+                    "target": target,
+                    "market": label,
+                    "split": split_name,
+                    "rows": int(len(split_df)),
+                    "positive_rate": float(split_df[target].mean()),
+                    "current_season_id": None if current_season_id is None else int(current_season_id),
+                    "test_round_min": int(test_round_min),
+                    "feature_set": best["feature_set"],
+                    "features_pool": int(len(selected_feature_pool)),
+                    "features_selected": int(len(selected_features)),
+                    "corr_threshold": float(best["corr_threshold"]),
+                    "k": best["k"],
+                    "C": float(best["C"]),
+                    "class_weight": best["class_weight"],
+                    **scores,
+                }
+            )
+
+    if not final_models:
+        raise RuntimeError(f"No se entreno ningun mercado de goles para {league}.")
+
+    predictions = add_goal_market_probabilities(final_models, test)
+    monotonic_violations = int(predictions["monotonic_adjusted_over_15"].sum())
+    for row in metric_rows:
+        row["monotonic_over15_adjustments_test"] = monotonic_violations
+
+    pd.concat(selection_frames, ignore_index=True).to_csv(
+        out_reports / f"{league}_goal_market_selection.csv",
+        index=False,
+    )
+    pd.DataFrame(metric_rows).to_csv(
+        out_reports / f"{league}_goal_market_metrics.csv",
+        index=False,
+    )
+    pd.DataFrame(selected_feature_rows).to_csv(
+        out_reports / f"{league}_goal_market_selected_features.csv",
+        index=False,
+    )
+    predictions.to_csv(
+        out_reports / f"{league}_goal_market_predictions.csv",
+        index=False,
+    )
+    joblib.dump(
+        {
+            "models": final_models,
+            "markets": GOAL_MARKETS,
+            "all_features": feature_cols,
+            "current_season_id": current_season_id,
+            "test_round_min": test_round_min,
+            "relationship": "over_15_probability_is_adjusted_to_be_at_least_over_25",
+        },
+        out_models / "goal_market_models.joblib",
+    )
+    return pd.DataFrame(metric_rows)
 
 
 def train_model(
@@ -764,6 +1051,7 @@ def main():
         choices=SELECTION_OBJECTIVES,
         default="calibrated_macro",
     )
+    parser.add_argument("--goal-markets-only", action="store_true")
     parser.add_argument("--no-headless", action="store_true")
     args = parser.parse_args()
 
@@ -773,18 +1061,31 @@ def main():
     raw = load_raw_matchlogs(PIPELINE_ROOT, args.league)
     h2h_features = load_h2h_features(PIPELINE_ROOT, args.league)
     dataset, features = build_match_dataset(raw, h2h_features)
-    metrics = train_model(
+    metrics = None
+    if not args.goal_markets_only:
+        metrics = train_model(
+            dataset,
+            features,
+            PIPELINE_ROOT,
+            args.league,
+            current_season_id=args.current_season_id,
+            test_round_min=args.test_round_min,
+            selection_objective=args.selection_objective,
+        )
+    goal_metrics = train_goal_market_models(
         dataset,
         features,
         PIPELINE_ROOT,
         args.league,
         current_season_id=args.current_season_id,
         test_round_min=args.test_round_min,
-        selection_objective=args.selection_objective,
     )
-    print("\nSofaScore logistic regression baseline")
-    for key, value in metrics.items():
-        print(f"{key}: {value}")
+    if metrics is not None:
+        print("\nSofaScore logistic regression baseline")
+        for key, value in metrics.items():
+            print(f"{key}: {value}")
+    print("\nSofaScore goal market models")
+    print(goal_metrics.to_string(index=False, float_format=lambda value: f"{value:.3f}"))
 
 
 if __name__ == "__main__":

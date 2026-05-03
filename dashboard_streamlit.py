@@ -2,10 +2,12 @@ import importlib
 import re
 import sys
 import unicodedata
+import __main__
 from itertools import combinations
 from datetime import datetime
 from pathlib import Path
 
+import joblib
 import pandas as pd
 import streamlit as st
 
@@ -15,15 +17,22 @@ SRC_DIR = BASE_DIR / "src"
 REPORT_DIR = BASE_DIR / "files" / "05_reports"
 ODDS_DIR = BASE_DIR / "files" / "06_odds"
 HISTORY_DIR = BASE_DIR / "files" / "07_recommendation_history"
+SOFASCORE_REPORT_DIR = BASE_DIR / "files" / "sofascore_pipeline" / "reports"
+SOFASCORE_ODDS_DIR = BASE_DIR / "files" / "sofascore_pipeline" / "odds"
+SOFASCORE_PIPELINE_ROOT = BASE_DIR / "files" / "sofascore_pipeline"
+SOFASCORE_RESULTS_DIR = BASE_DIR / "files" / "sofascore_pipeline" / "results"
+WEEKEND_PREDICTIONS_PATH = SOFASCORE_REPORT_DIR / "weekend_value_predictions_2026-05-02_to_2026-05-04.csv"
 DEFAULT_SOURCE_URL = (
     "https://www.cuotasahora.com/football/h2h/arsenal-hA1Zm19f/"
     "newcastle-p6ahwuwJ/#OQsq6PYa:over-under;2;"
 )
 
 LEAGUES = {
-    "Premier League": {"key": "premier", "report_dir": REPORT_DIR},
-    "La Liga": {"key": "la_liga", "report_dir": REPORT_DIR / "la_liga"},
-    "Serie A": {"key": "serie_a", "report_dir": REPORT_DIR / "serie_a"},
+    "Premier League": {"key": "premier", "report_dir": SOFASCORE_REPORT_DIR / "premier"},
+    "La Liga": {"key": "la_liga", "report_dir": SOFASCORE_REPORT_DIR / "la_liga"},
+    "Serie A": {"key": "serie_a", "report_dir": SOFASCORE_REPORT_DIR / "serie_a"},
+    "Bundesliga": {"key": "bundesliga", "report_dir": SOFASCORE_REPORT_DIR / "bundesliga"},
+    "Ligue 1": {"key": "ligue_1", "report_dir": SOFASCORE_REPORT_DIR / "ligue_1"},
 }
 
 DEFAULT_RULES = {
@@ -80,6 +89,8 @@ TEAM_ALIASES = {
     "man united": "manchester utd",
     "manchester city": "manchester city",
     "man city": "manchester city",
+    "liverpool fc": "liverpool",
+    "liverpool": "liverpool",
     "newcastle": "newcastle united",
     "newcastle united": "newcastle united",
     "nottingham": "nottingham forest",
@@ -107,10 +118,14 @@ TEAM_ALIASES = {
     "valencia cf": "valencia",
     "villarreal cf": "villarreal",
     "fc barcelona": "barcelona",
+    "alaves": "deportivo alaves",
+    "deportivo alaves": "deportivo alaves",
+    "girona fc": "girona",
     "bolonia": "bologna",
     "ac milan": "milan",
     "as roma": "roma",
     "ss lazio": "lazio",
+    "ssc napoli": "napoli",
     "deportes limache": "cd limache",
     "limache": "cd limache",
     "colo colo": "colo-colo",
@@ -167,6 +182,99 @@ def signed_pct(value):
     return f"{value:+.1%}"
 
 
+def friendly_market(value):
+    labels = {
+        "1X2": "Ganador",
+        "Doble oportunidad": "Doble chance",
+        "Goles": "Goles",
+        "Ambos anotan": "Ambos marcan",
+        "Combinada": "Combinada",
+    }
+    return labels.get(value, value)
+
+
+def friendly_recommendation(value):
+    labels = {
+        "Bajo riesgo": "Mas segura",
+        "Alta probabilidad": "Buena confianza",
+        "Valor": "Buena cuota",
+        "Valor con riesgo": "Mas arriesgada",
+        "combinada bajo riesgo": "Combinada prudente",
+        "combinada riesgo moderado": "Combinada ambiciosa",
+    }
+    return labels.get(value, value)
+
+
+def friendly_type(value):
+    labels = {
+        "Top seguridad": "Seguras",
+        "Top valor": "Buena cuota",
+        "Oportunidad agresiva": "Arriesgadas",
+    }
+    return labels.get(value, value)
+
+
+def friendly_reason(row):
+    confidence = pct(row.get("Prob. modelo"))
+    odds = dec(row.get("Cuota real"))
+    recommendation = row.get("Recomendacion", "")
+    if recommendation in {"Bajo riesgo", "Alta probabilidad"}:
+        return f"La opcion sale fuerte por confianza ({confidence})."
+    if recommendation == "Valor":
+        return f"La cuota {odds} paga mejor de lo que sugiere la estimacion."
+    if recommendation == "Valor con riesgo":
+        return f"Puede pagar bien, pero conviene tratarla como opcion arriesgada."
+    if row.get("Tipo cuota") == "Estimada":
+        return "Aun sin cuota real; se usa una estimacion para armar combinadas."
+    return f"Confianza estimada: {confidence}."
+
+
+def friendly_pick_frame(frame, include_group=False, include_result=True, include_reason=True):
+    if frame.empty:
+        return frame
+
+    display = frame.copy()
+    display["Mercado"] = display["Mercado"].apply(friendly_market)
+    display["Recomendacion"] = display["Recomendacion"].apply(friendly_recommendation)
+    if "Tipo" in display.columns:
+        display["Tipo"] = display["Tipo"].apply(friendly_type)
+    if "Explicacion" in display.columns:
+        display["Motivo"] = display.apply(friendly_reason, axis=1)
+
+    columns = ["Liga", "Fecha partido", "Partido"]
+    if include_group and "Tipo" in display.columns:
+        columns.append("Tipo")
+    columns.extend(["Mercado", "Pick", "Prob. modelo", "Cuota real", "Recomendacion"])
+    if include_result and "Resultado" in display.columns:
+        columns.append("Resultado")
+    if include_reason and "Motivo" in display.columns:
+        columns.append("Motivo")
+    if "Tipo cuota" in display.columns:
+        columns.append("Tipo cuota")
+
+    columns = [col for col in columns if col in display.columns]
+    display = display[columns].rename(
+        columns={
+            "Fecha partido": "Fecha",
+            "Tipo": "Grupo",
+            "Prob. modelo": "Confianza",
+            "Cuota real": "Cuota",
+            "Recomendacion": "Lectura",
+            "Tipo cuota": "Origen cuota",
+        }
+    )
+    return display
+
+
+def friendly_pick_style(frame):
+    formatters = {
+        "Fecha": lambda value: pd.to_datetime(value).strftime("%Y-%m-%d") if pd.notna(value) else "",
+        "Confianza": pct,
+        "Cuota": dec,
+    }
+    return frame.style.format({key: value for key, value in formatters.items() if key in frame.columns})
+
+
 def league_label(league_key):
     for label, config in LEAGUES.items():
         if config["key"] == league_key:
@@ -174,14 +282,261 @@ def league_label(league_key):
     return league_key
 
 
+def normalize_sofascore_predictions(pred):
+    pred = pred.copy()
+    pred = pred.rename(
+        columns={
+            "prob_1": "p_home_win",
+            "prob_X": "p_draw",
+            "prob_2": "p_away_win",
+            "target": "Target_label",
+            "pred": "prediccion",
+        }
+    )
+    target_map = {"1": 1, "X": 0, "2": -1}
+    if "Target_label" in pred.columns:
+        pred["Target"] = pred["Target_label"].map(target_map)
+    if {"p_home_win", "p_draw", "p_away_win"}.issubset(pred.columns):
+        pred["confianza"] = pred[["p_home_win", "p_draw", "p_away_win"]].max(axis=1)
+    return pred
+
+
+@st.cache_data(show_spinner=False)
+def load_sofascore_goal_probabilities():
+    if str(SRC_DIR) not in sys.path:
+        sys.path.insert(0, str(SRC_DIR))
+    pipeline = importlib.import_module("run_sofascore_pipeline")
+    __main__.CorrelationPruner = pipeline.CorrelationPruner
+    __main__.SafeSelectKBest = pipeline.SafeSelectKBest
+
+    frames = []
+    for label, config in LEAGUES.items():
+        league = config["key"]
+        model_path = SOFASCORE_PIPELINE_ROOT / "models" / league / "goal_market_models.joblib"
+        if not model_path.exists():
+            continue
+        raw = pipeline.load_raw_matchlogs(SOFASCORE_PIPELINE_ROOT, league, include_unfinished=True)
+        h2h = pipeline.load_h2h_features(SOFASCORE_PIPELINE_ROOT, league)
+        dataset, _ = pipeline.build_match_dataset(raw, h2h)
+        if dataset.empty:
+            continue
+
+        bundle = joblib.load(model_path)
+        over_15 = bundle["models"].get("over_15")
+        if not over_15:
+            continue
+        features = over_15["features"]
+        probs = over_15["model"].predict_proba(dataset[features])[:, 1]
+        goals_home = pd.to_numeric(dataset.get("home_goals"), errors="coerce")
+        goals_away = pd.to_numeric(dataset.get("away_goals"), errors="coerce")
+        total_goals = goals_home + goals_away
+        frame = dataset[["date", "round_num", "local_team", "away_team"]].copy()
+        frame["league"] = league
+        frame["Liga"] = label
+        frame["p_over_15_model"] = probs
+        frame["target_over_15_model"] = pd.NA
+        if "target" in dataset.columns:
+            finished = dataset["target"].notna()
+        else:
+            finished = total_goals.notna()
+        frame.loc[finished, "target_over_15_model"] = (total_goals[finished] >= 2).astype(int)
+        frames.append(frame)
+
+    if not frames:
+        return pd.DataFrame()
+    return pd.concat(frames, ignore_index=True).drop_duplicates(
+        ["date", "round_num", "local_team", "away_team"],
+        keep="last",
+    )
+
+
+@st.cache_data(show_spinner=False)
+def load_sofascore_1x2_probabilities():
+    if str(SRC_DIR) not in sys.path:
+        sys.path.insert(0, str(SRC_DIR))
+    pipeline = importlib.import_module("run_sofascore_pipeline")
+    __main__.CorrelationPruner = pipeline.CorrelationPruner
+    __main__.SafeSelectKBest = pipeline.SafeSelectKBest
+
+    frames = []
+    target_map = {"1": 1, "X": 0, "2": -1}
+    for label, config in LEAGUES.items():
+        league = config["key"]
+        model_path = SOFASCORE_PIPELINE_ROOT / "models" / league / "logreg_1x2.joblib"
+        if not model_path.exists():
+            continue
+        raw = pipeline.load_raw_matchlogs(SOFASCORE_PIPELINE_ROOT, league, include_unfinished=True)
+        h2h = pipeline.load_h2h_features(SOFASCORE_PIPELINE_ROOT, league)
+        dataset, _ = pipeline.build_match_dataset(raw, h2h)
+        if dataset.empty:
+            continue
+
+        bundle = joblib.load(model_path)
+        model = bundle["model"]
+        features = bundle["features"]
+        probabilities = model.predict_proba(dataset[features])
+        classes = model.named_steps["logreg"].classes_.tolist()
+        frame_cols = ["date", "time", "season_id", "season_name", "round_num", "local_team", "away_team", "target"]
+        frame = dataset[[col for col in frame_cols if col in dataset.columns]].copy()
+        frame = frame.rename(columns={"target": "Target_label"})
+        frame["league"] = league
+        frame["Liga"] = label
+        frame["source"] = "model"
+        for idx, class_name in enumerate(classes):
+            if class_name == "1":
+                frame["p_home_win"] = probabilities[:, idx]
+            elif class_name == "X":
+                frame["p_draw"] = probabilities[:, idx]
+            elif class_name == "2":
+                frame["p_away_win"] = probabilities[:, idx]
+        frame["Target"] = frame.get("Target_label", pd.Series(pd.NA, index=frame.index)).map(target_map)
+        if {"p_home_win", "p_draw", "p_away_win"}.issubset(frame.columns):
+            frame["confianza"] = frame[["p_home_win", "p_draw", "p_away_win"]].max(axis=1)
+        frames.append(frame)
+
+    if not frames:
+        return pd.DataFrame()
+    return pd.concat(frames, ignore_index=True).drop_duplicates(
+        ["date", "round_num", "local_team", "away_team"],
+        keep="last",
+    )
+
+
+def load_weekend_value_predictions():
+    if not WEEKEND_PREDICTIONS_PATH.exists():
+        return pd.DataFrame()
+    weekend = pd.read_csv(WEEKEND_PREDICTIONS_PATH, parse_dates=["date"])
+    if weekend.empty or "match" not in weekend.columns:
+        return pd.DataFrame()
+
+    teams = weekend["match"].astype(str).str.split(" vs ", n=1, expand=True)
+    if teams.shape[1] < 2:
+        return pd.DataFrame()
+    data = pd.DataFrame(
+        {
+            "date": weekend["date"],
+            "time": weekend.get("time"),
+            "round_num": weekend.get("round_num"),
+            "local_team": teams[0],
+            "away_team": teams[1],
+            "p_home_win": pd.to_numeric(weekend.get("p_home_pct"), errors="coerce") / 100,
+            "p_draw": pd.to_numeric(weekend.get("p_draw_pct"), errors="coerce") / 100,
+            "p_away_win": pd.to_numeric(weekend.get("p_away_pct"), errors="coerce") / 100,
+            "Target": pd.NA,
+            "target_over_15": pd.NA,
+            "source": "weekend",
+        }
+    )
+    label_to_key = {label: config["key"] for label, config in LEAGUES.items()}
+    data["Liga"] = weekend["league"]
+    data["league"] = data["Liga"].map(label_to_key)
+    data["confianza"] = data[["p_home_win", "p_draw", "p_away_win"]].max(axis=1)
+    goal_probs = load_sofascore_goal_probabilities()
+    if not goal_probs.empty:
+        data = data.merge(
+            goal_probs[
+                [
+                    "date",
+                    "round_num",
+                    "local_team",
+                    "away_team",
+                    "p_over_15_model",
+                    "target_over_15_model",
+                ]
+            ],
+            on=["date", "round_num", "local_team", "away_team"],
+            how="left",
+        )
+        data["p_over_15"] = data["p_over_15_model"]
+        data["target_over_15"] = data["target_over_15_model"]
+        data = data.drop(columns=["p_over_15_model", "target_over_15_model"])
+    return data
+
+
+@st.cache_data(show_spinner=False)
+def load_sofascore_results_overlay():
+    if not SOFASCORE_RESULTS_DIR.exists():
+        return pd.DataFrame()
+    frames = []
+    for path in sorted(SOFASCORE_RESULTS_DIR.glob("sofascore_weekend_results_*.csv"), key=lambda item: item.stat().st_mtime):
+        try:
+            frame = pd.read_csv(path, parse_dates=["date"])
+        except Exception:
+            continue
+        if frame.empty:
+            continue
+        frame["results_source_file"] = path.name
+        frames.append(frame)
+    if not frames:
+        return pd.DataFrame()
+    results = pd.concat(frames, ignore_index=True)
+    results["home_key"] = results["local_team"].apply(normalize_team)
+    results["away_key"] = results["away_team"].apply(normalize_team)
+    return results.drop_duplicates(["date", "home_key", "away_key"], keep="last")
+
+
+def apply_results_overlay(data):
+    results = load_sofascore_results_overlay()
+    if data.empty or results.empty:
+        return data
+
+    updated = data.copy()
+    updated["date"] = pd.to_datetime(updated["date"])
+    updated["home_key"] = updated["local_team"].apply(normalize_team)
+    updated["away_key"] = updated["away_team"].apply(normalize_team)
+    result_cols = [
+        "date",
+        "home_key",
+        "away_key",
+        "status_type",
+        "home_goals",
+        "away_goals",
+        "Target",
+        "target_over_15",
+        "results_source_file",
+    ]
+    result_cols = [col for col in result_cols if col in results.columns]
+    updated = updated.merge(
+        results[result_cols],
+        on=["date", "home_key", "away_key"],
+        how="left",
+        suffixes=("", "_result"),
+    )
+
+    finished = updated.get("status_type").eq("finished") if "status_type" in updated.columns else pd.Series(False, index=updated.index)
+    if "Target_result" in updated.columns:
+        updated.loc[finished, "Target"] = updated.loc[finished, "Target_result"]
+    if "target_over_15_result" in updated.columns:
+        updated.loc[finished, "target_over_15"] = updated.loc[finished, "target_over_15_result"]
+    if {"home_goals", "away_goals"}.issubset(updated.columns):
+        updated["Marcador"] = pd.NA
+        scored = finished & updated["home_goals"].notna() & updated["away_goals"].notna()
+        updated.loc[scored, "Marcador"] = (
+            updated.loc[scored, "home_goals"].astype("Int64").astype(str)
+            + "-"
+            + updated.loc[scored, "away_goals"].astype("Int64").astype(str)
+        )
+
+    drop_cols = [
+        "status_type",
+        "home_goals",
+        "away_goals",
+        "Target_result",
+        "target_over_15_result",
+        "results_source_file",
+    ]
+    return updated.drop(columns=[col for col in drop_cols if col in updated.columns])
+
+
 @st.cache_data(show_spinner=False)
 def load_predictions(matchweek):
-    path_1x2 = REPORT_DIR / f"predicciones_matchweek{matchweek}.csv"
+    path_1x2 = SOFASCORE_REPORT_DIR / "premier" / "premier_logreg_predictions.csv"
     if not path_1x2.exists():
         return pd.DataFrame(), f"No existe {path_1x2}"
 
-    pred = pd.read_csv(path_1x2, parse_dates=["date"])
-    goals_path = REPORT_DIR / "predicciones_goles_mw34_plus.csv"
+    pred = normalize_sofascore_predictions(pd.read_csv(path_1x2, parse_dates=["date"]))
+    pred = pred[pred["round_num"].eq(matchweek)].copy()
+    goals_path = SOFASCORE_REPORT_DIR / "premier" / "premier_goal_market_predictions.csv"
     if goals_path.exists():
         goals = pd.read_csv(goals_path, parse_dates=["date"])
         goals = goals[goals["round_num"].eq(matchweek)].copy()
@@ -191,10 +546,8 @@ def load_predictions(matchweek):
             "local_team",
             "away_team",
             "p_over_15",
-            "p_over_25",
-            "p_btts",
         ]
-        for col in ["target_over_15", "target_over_25", "target_btts"]:
+        for col in ["target_over_15"]:
             if col in goals.columns:
                 goal_cols.append(col)
         pred = pred.merge(
@@ -212,42 +565,17 @@ def load_future_predictions_all():
     frames = []
     for label, config in LEAGUES.items():
         report_dir = config["report_dir"]
-        one_x_two_paths = [
-            report_dir / "predicciones_partidos_train_all.csv",
-            report_dir / "predicciones_futuras_1x2.csv",
-        ]
-        league_frames = []
-        for one_x_two_path in one_x_two_paths:
-            if not one_x_two_path.exists():
-                continue
-            pred = pd.read_csv(one_x_two_path, parse_dates=["date"])
-            if "p_home_win" not in pred.columns:
-                rename_probs = {
-                    "P_-1": "p_away_win",
-                    "P_0": "p_draw",
-                    "P_1": "p_home_win",
-                    "Prediccion_Final": "prediccion",
-                }
-                pred = pred.rename(columns={k: v for k, v in rename_probs.items() if k in pred.columns})
-                if {"p_home_win", "p_draw", "p_away_win"}.issubset(pred.columns):
-                    pred["confianza"] = pred[["p_home_win", "p_draw", "p_away_win"]].max(axis=1)
-            league_frames.append(pred)
-        if not league_frames:
+        one_x_two_path = report_dir / f"{config['key']}_logreg_predictions.csv"
+        if not one_x_two_path.exists():
             continue
-        pred = pd.concat(league_frames, ignore_index=True)
+        pred = normalize_sofascore_predictions(pd.read_csv(one_x_two_path, parse_dates=["date"]))
         pred = pred.drop_duplicates(["date", "round_num", "local_team", "away_team"], keep="last")
         pred["league"] = config["key"]
         pred["Liga"] = label
 
-        goal_frames = []
-        for goals_path in [
-            report_dir / "predicciones_goles_train_all.csv",
-            report_dir / "predicciones_goles_mw34_plus.csv",
-        ]:
-            if goals_path.exists():
-                goal_frames.append(pd.read_csv(goals_path, parse_dates=["date"]))
-        if goal_frames:
-            goals = pd.concat(goal_frames, ignore_index=True)
+        goals_path = report_dir / f"{config['key']}_goal_market_predictions.csv"
+        if goals_path.exists():
+            goals = pd.read_csv(goals_path, parse_dates=["date"])
             goals = goals.drop_duplicates(["date", "round_num", "local_team", "away_team"], keep="last")
             goal_cols = [
                 "date",
@@ -255,10 +583,8 @@ def load_future_predictions_all():
                 "local_team",
                 "away_team",
                 "p_over_15",
-                "p_over_25",
-                "p_btts",
             ]
-            for col in ["target_over_15", "target_over_25", "target_btts"]:
+            for col in ["p_over_15_raw", "target_over_15", "monotonic_adjusted_over_15"]:
                 if col in goals.columns:
                     goal_cols.append(col)
             pred = pred.merge(
@@ -268,9 +594,49 @@ def load_future_predictions_all():
             )
         frames.append(pred)
 
+    live_1x2 = load_sofascore_1x2_probabilities()
+    if not live_1x2.empty:
+        frames.append(live_1x2)
     if not frames:
         return pd.DataFrame()
     data = pd.concat(frames, ignore_index=True)
+    data["source"] = data.get("source", "historical").fillna("historical")
+    data["_source_priority"] = data["source"].map({"historical": 3, "weekend": 2, "model": 1}).fillna(1)
+    data = data.sort_values("_source_priority", ascending=False)
+    data = data.drop_duplicates(["date", "round_num", "local_team", "away_team"], keep="first")
+    data = data.drop(columns=["_source_priority"])
+    goal_probs = load_sofascore_goal_probabilities()
+    if not goal_probs.empty:
+        data = data.merge(
+            goal_probs[
+                [
+                    "date",
+                    "round_num",
+                    "local_team",
+                    "away_team",
+                    "p_over_15_model",
+                    "target_over_15_model",
+                ]
+            ],
+            on=["date", "round_num", "local_team", "away_team"],
+            how="left",
+        )
+        if "p_over_15" not in data.columns:
+            data["p_over_15"] = pd.NA
+        if "target_over_15" not in data.columns:
+            data["target_over_15"] = pd.NA
+        data["p_over_15"] = data["p_over_15"].combine_first(data["p_over_15_model"])
+        data["target_over_15"] = data["target_over_15"].combine_first(data["target_over_15_model"])
+        data = data.drop(columns=["p_over_15_model", "target_over_15_model"])
+    weekend = load_weekend_value_predictions()
+    if not weekend.empty:
+        data = pd.concat([data, weekend], ignore_index=True)
+        data["source"] = data.get("source", "historical").fillna("historical")
+        data["_source_priority"] = data["source"].map({"historical": 3, "weekend": 2, "model": 1}).fillna(1)
+        data = data.sort_values("_source_priority", ascending=False)
+        data = data.drop_duplicates(["date", "round_num", "local_team", "away_team"], keep="first")
+        data = data.drop(columns=["_source_priority"])
+    data = apply_results_overlay(data)
     data["home_key"] = data["local_team"].apply(normalize_team)
     data["away_key"] = data["away_team"].apply(normalize_team)
     return data.sort_values(["date", "Liga", "local_team"]).reset_index(drop=True)
@@ -290,11 +656,15 @@ def load_odds(path):
 
 
 @st.cache_data(show_spinner=False)
-def load_all_odds():
+def load_all_odds(cache_key=None):
+    del cache_key
     frames = []
-    for odds_path in ODDS_DIR.glob("*.csv"):
+    odds_paths = sorted(ODDS_DIR.glob("*.csv"), key=lambda path: path.stat().st_mtime)
+    if SOFASCORE_ODDS_DIR.exists():
+        odds_paths.extend(sorted(SOFASCORE_ODDS_DIR.glob("sofascore_*_odds.csv"), key=lambda path: path.stat().st_mtime))
+    for odds_path in odds_paths:
         try:
-            odds = pd.read_csv(odds_path)
+            odds = pd.read_csv(odds_path, parse_dates=["date"] if odds_path.parent == SOFASCORE_ODDS_DIR else None)
         except Exception:
             continue
         if odds.empty or "decimal_home_win" not in odds.columns:
@@ -306,6 +676,7 @@ def load_all_odds():
         odds["home_key"] = odds["local_team"].apply(normalize_team)
         odds["away_key"] = odds["away_team"].apply(normalize_team)
         odds["odds_source_file"] = odds_path.name
+        odds["odds_source_priority"] = 2 if odds_path.parent == SOFASCORE_ODDS_DIR else 1
         frames.append(odds)
 
     if not frames:
@@ -330,9 +701,32 @@ def load_all_odds():
         "decimal_btts_yes",
         "decimal_btts_no",
         "odds_source_file",
+        "odds_source_priority",
     ]
     all_odds = all_odds[[col for col in odds_cols if col in all_odds.columns]]
-    return all_odds.drop_duplicates(["home_key", "away_key"], keep="last")
+    all_odds = all_odds.sort_values(["odds_source_priority"], ascending=True)
+
+    def last_valid(series):
+        valid = series.dropna()
+        return valid.iloc[-1] if not valid.empty else pd.NA
+
+    merge_cols = [col for col in all_odds.columns if col not in {"home_key", "away_key"}]
+    merged = (
+        all_odds.groupby(["home_key", "away_key"], as_index=False, dropna=False)[merge_cols]
+        .agg(last_valid)
+    )
+    return merged
+
+
+def odds_cache_signature():
+    paths = sorted(ODDS_DIR.glob("*.csv"))
+    if SOFASCORE_ODDS_DIR.exists():
+        paths.extend(sorted(SOFASCORE_ODDS_DIR.glob("sofascore_*_odds.csv")))
+    return tuple(
+        (str(path.relative_to(BASE_DIR)), path.stat().st_mtime_ns, path.stat().st_size)
+        for path in paths
+        if path.exists()
+    )
 
 
 def odds_path_for_matchweek(matchweek):
@@ -342,7 +736,7 @@ def odds_path_for_matchweek(matchweek):
 
 def scrape_odds(source_url, limit, matchweek):
     sys.path.insert(0, str(SRC_DIR))
-    scraper = importlib.import_module("08_scrape_cuotasahora")
+    scraper = importlib.import_module("07_scrape_cuotasahora_odds")
     pred, _ = load_predictions(matchweek)
     wanted = set(zip(pred["home_key"], pred["away_key"])) if not pred.empty else set()
 
@@ -374,20 +768,12 @@ def scrape_odds(source_url, limit, matchweek):
 
 def explain_pick(row):
     probability = pct(row["Prob. modelo"])
-    fair_odds = dec(row["Cuota justa"])
     real_odds = dec(row["Cuota real"])
-    edge = signed_pct(row["Edge"])
     if row["Entra por"] == "probabilidad":
-        return (
-            f"Entra por probabilidad: modelo {probability}, cuota justa {fair_odds}, "
-            f"cuota real {real_odds}, edge {edge}."
-        )
+        return f"La opcion tiene una confianza alta ({probability}). Cuota disponible: {real_odds}."
     if row["Entra por"] == "valor":
-        return (
-            f"Entra por valor: cuota real {real_odds} sobre cuota justa {fair_odds}; "
-            f"modelo {probability}, edge {edge}."
-        )
-    return f"Modelo {probability}, cuota justa {fair_odds}, cuota real {real_odds}, edge {edge}."
+        return f"La cuota {real_odds} parece interesante para una confianza de {probability}."
+    return f"Confianza estimada: {probability}. Cuota disponible: {real_odds}."
 
 
 def add_market(candidates, row, market, probability, odds_col, label, rules):
@@ -408,7 +794,17 @@ def add_market(candidates, row, market, probability, odds_col, label, rules):
     elif probability >= rules["min_prob_safe"]:
         recommendation = "Alta probabilidad"
         recommendation_rank = 3
-    elif (label == "Over 1.5" or market == "Ambos anotan") and probability >= 0.75 and (
+    elif label == "Over 1.5" and probability >= 0.68 and (
+        expected_value is None or expected_value >= -0.20
+    ):
+        recommendation = "Bajo riesgo"
+        recommendation_rank = 4
+    elif label == "Over 1.5" and probability >= 0.62 and (
+        expected_value is None or expected_value >= -0.25
+    ):
+        recommendation = "Alta probabilidad"
+        recommendation_rank = 3
+    elif market == "Ambos anotan" and probability >= 0.75 and (
         expected_value is None or expected_value >= rules["allowed_negative_ev"]
     ):
         recommendation = "Bajo riesgo"
@@ -456,6 +852,35 @@ def add_market(candidates, row, market, probability, odds_col, label, rules):
     )
 
 
+def result_market_group(row):
+    if row["Mercado"] in {"1X2", "Doble oportunidad"}:
+        return (row["Partido"], "Resultado")
+    return (row["Partido"], row["Mercado"], row["Pick"])
+
+
+def resolve_result_recommendation_conflicts(recs):
+    if recs.empty:
+        return recs
+
+    resolved = recs.copy()
+    result_mask = resolved["Mercado"].isin(["1X2", "Doble oportunidad"]) & resolved["Recomendacion"].ne("")
+    if not result_mask.any():
+        return resolved
+
+    keep_indexes = set()
+    for _, group in resolved[result_mask].groupby("Partido", dropna=False):
+        best = group.sort_values(
+            ["Prioridad", "score", "Prob. modelo", "EV"],
+            ascending=[False, False, False, False],
+        ).head(1)
+        keep_indexes.add(best.index[0])
+
+    suppress_mask = result_mask & ~resolved.index.isin(keep_indexes)
+    resolved.loc[suppress_mask, ["Recomendacion", "Entra por"]] = ""
+    resolved.loc[suppress_mask, "Prioridad"] = 0
+    return resolved
+
+
 def pick_result(row, data):
     if data.empty:
         return "Pendiente", None
@@ -486,22 +911,12 @@ def pick_result(row, data):
         if pd.isna(target):
             return "Pendiente", None
         outcome = int(target) == 1
-    elif row["Mercado"] == "Goles" and row["Pick"] == "Over 2.5":
-        target = match_row.get("target_over_25")
-        if pd.isna(target):
-            return "Pendiente", None
-        outcome = int(target) == 1
-    elif row["Mercado"] == "Ambos anotan" and row["Pick"] == "Si":
-        target = match_row.get("target_btts")
-        if pd.isna(target):
-            return "Pendiente", None
-        outcome = int(target) == 1
 
     if outcome is None:
         return "Pendiente", None
     if outcome:
         return "✅", row["Cuota real"] - 1 if pd.notna(row["Cuota real"]) else None
-    return "❌", -1
+    return "🔴", -1
 
 
 def add_results(recs, data):
@@ -518,8 +933,8 @@ def settle_parlay(parlay):
     if parlay.empty or "Resultado" not in parlay.columns:
         return "Pendiente", None
     results = parlay["Resultado"].tolist()
-    if any(result == "❌" for result in results):
-        return "❌", -1
+    if any(result == "🔴" for result in results):
+        return "🔴", -1
     if all(result == "✅" for result in results):
         return "✅", parlay["Cuota real"].prod() - 1
     return "Pendiente", None
@@ -643,10 +1058,6 @@ def build_recommendations(data, rules):
         )
         if "p_over_15" in row and pd.notna(row["p_over_15"]):
             add_market(candidates, row, "Goles", row["p_over_15"], "decimal_over_15", "Over 1.5", rules)
-        if "p_over_25" in row and pd.notna(row["p_over_25"]):
-            add_market(candidates, row, "Goles", row["p_over_25"], "decimal_over_25", "Over 2.5", rules)
-        if "p_btts" in row and pd.notna(row["p_btts"]):
-            add_market(candidates, row, "Ambos anotan", row["p_btts"], "decimal_btts_yes", "Si", rules)
 
     recs = pd.DataFrame(candidates)
     if recs.empty:
@@ -655,19 +1066,30 @@ def build_recommendations(data, rules):
         recs["Prob. modelo"].fillna(0) * 0.65
         + recs["EV"].fillna(-0.05).clip(-0.2, 0.3) * 0.35
     )
+    recs = resolve_result_recommendation_conflicts(recs)
     recs["Explicacion"] = recs.apply(explain_pick, axis=1)
     return recs.sort_values(["Prioridad", "score"], ascending=[False, False])
 
 
 def add_unique_picks(selected, candidates, limit, label):
     used = {(item["Partido"], item["Mercado"], item["Pick"]) for item in selected}
+    used_result_groups = {
+        result_market_group(item)
+        for item in selected
+        if item["Mercado"] in {"1X2", "Doble oportunidad"}
+    }
     for item in candidates.to_dict("records"):
         key = (item["Partido"], item["Mercado"], item["Pick"])
         if key in used:
             continue
+        result_group = result_market_group(item)
+        if item["Mercado"] in {"1X2", "Doble oportunidad"} and result_group in used_result_groups:
+            continue
         item["Tipo"] = label
         selected.append(item)
         used.add(key)
+        if item["Mercado"] in {"1X2", "Doble oportunidad"}:
+            used_result_groups.add(result_group)
         if sum(row["Tipo"] == label for row in selected) >= limit:
             break
 
@@ -689,8 +1111,14 @@ def select_general_recommendations(recs):
         recs["Recomendacion"].eq("Valor con riesgo")
         & recs["Cuota real"].notna()
     ].sort_values(["EV", "Prob. modelo"], ascending=False)
+    goals = recs[
+        recs["Mercado"].eq("Goles")
+        & recs["Cuota real"].notna()
+        & recs["Prob. modelo"].ge(0.62)
+    ].sort_values(["Prob. modelo", "EV"], ascending=False)
 
     add_unique_picks(selected, safe, 5, "Top seguridad")
+    add_unique_picks(selected, goals, 4, "Top +1.5")
     add_unique_picks(selected, value, 5, "Top valor")
     add_unique_picks(selected, aggressive, 5, "Oportunidad agresiva")
 
@@ -812,6 +1240,14 @@ def high_risk_parlay(recs, rules):
     )
 
 
+def filter_recs_by_dates(recs, selected_dates):
+    if recs.empty or not selected_dates:
+        return recs
+    filtered = recs.copy()
+    filtered_dates = pd.to_datetime(filtered["Fecha partido"], errors="coerce").dt.date
+    return filtered[filtered_dates.isin(selected_dates)].copy()
+
+
 def summarize_parlay(parlay):
     combined_odds = parlay["Cuota real"].prod()
     combined_prob = parlay["Prob. modelo"].prod()
@@ -891,50 +1327,90 @@ def find_best_parlay(
     return best_combo, summarize_parlay(best_combo)
 
 
+def target_return_parlay(recs, bankroll, target_return):
+    if recs.empty or bankroll <= 0 or target_return <= bankroll:
+        return pd.DataFrame(), {}
+
+    target_odds = target_return / bankroll
+    max_total_odds = max(target_odds * 1.8, target_odds + 4)
+    valid = recs[
+        recs["Cuota real"].notna()
+        & recs["Cuota real"].between(1.05, 3.50)
+        & recs["Prob. modelo"].ge(0.25)
+        & recs["EV"].fillna(-99).ge(-0.25)
+    ].copy()
+    if valid.empty:
+        return pd.DataFrame(), {}
+
+    valid["target_score"] = (
+        valid["Prob. modelo"].fillna(0) * 0.60
+        + valid["EV"].fillna(-0.25).clip(-0.25, 0.50) * 0.30
+        + valid["Prioridad"].fillna(0) * 0.025
+    )
+    valid = valid.sort_values(["target_score", "Prob. modelo"], ascending=False).head(20)
+
+    best_combo = None
+    best_score = None
+    records = valid.to_dict("records")
+    for size in range(2, min(8, len(records)) + 1):
+        for combo in combinations(records, size):
+            market_pairs = [
+                (
+                    item["Partido"],
+                    "Resultado" if item["Mercado"] in {"1X2", "Doble oportunidad"} else item["Mercado"],
+                )
+                for item in combo
+            ]
+            if len(set(market_pairs)) != len(market_pairs):
+                continue
+
+            combo_df = pd.DataFrame(combo)
+            summary = summarize_parlay(combo_df)
+            if summary["cuota"] < target_odds or summary["cuota"] > max_total_odds:
+                continue
+
+            excess = (summary["cuota"] - target_odds) / target_odds
+            score = (
+                summary["probabilidad_modelo"] * 0.65
+                + max(summary["ev"], -0.5) * 0.25
+                - excess * 0.10
+            )
+            if best_score is None or score > best_score:
+                best_score = score
+                best_combo = combo_df
+
+    if best_combo is None:
+        return pd.DataFrame(), {}
+
+    summary = summarize_parlay(best_combo)
+    summary["objetivo_cuota"] = target_odds
+    summary["retorno_estimado"] = bankroll * summary["cuota"]
+    return best_combo, summary
+
+
 def show_parlay(parlay, summary):
     if parlay.empty:
-        st.info("No encontré una combinada que cumpla esos filtros.")
+        st.info("No encontre una combinada que cumpla esos filtros.")
         return
     c1, c2, c3 = st.columns(3)
     c1.metric("Cuota combinada", dec(summary["cuota"]))
-    c2.metric("Prob. modelo", pct(summary["probabilidad_modelo"]))
-    c3.metric("EV combinada", pct(summary["ev"]))
+    c2.metric("Confianza estimada", pct(summary["probabilidad_modelo"]))
+    c3.metric("Balance esperado", "Positivo" if pd.notna(summary["ev"]) and summary["ev"] > 0 else "Ajustado")
     status, return_1u = settle_parlay(parlay)
     if status != "Pendiente":
         st.metric("Resultado real", status, f"{return_1u:+.2f}u")
     elif "Resultado" in parlay.columns and parlay["Resultado"].ne("Pendiente").any():
         st.metric("Resultado real", "Pendiente", "hay picks sin resultado")
-    display_cols = [
-        "Liga",
-        "Fecha partido",
-        "Partido",
-        "Mercado",
-        "Pick",
-        "Prob. modelo",
-        "Cuota real",
-        "Tipo cuota",
-        "EV",
-        "Resultado",
-        "Explicacion",
-    ]
-    display_cols = [col for col in display_cols if col in parlay.columns]
+    display = friendly_pick_frame(parlay, include_result=True, include_reason=True)
     st.dataframe(
-        parlay[display_cols].style.format(
-            {
-                "Fecha partido": lambda value: pd.to_datetime(value).strftime("%Y-%m-%d")
-                if pd.notna(value)
-                else "",
-                "Prob. modelo": pct,
-                "Cuota real": dec,
-                "EV": pct,
-            }
-        ),
-        use_container_width=True,
+        friendly_pick_style(display),
+        width="stretch",
         hide_index=True,
     )
 
 
-st.title("FutData: recomendaciones de apuestas")
+st.title("FutData")
+st.caption("Una vista simple para elegir picks y combinadas sin perderse en datos tecnicos.")
 
 with st.sidebar:
     st.header("Filtros")
@@ -943,17 +1419,21 @@ with st.sidebar:
         options=list(LEAGUES.keys()),
         default=list(LEAGUES.keys()),
     )
-    future_only = st.checkbox("Solo partidos futuros/sin resultado", value=True)
+    date_range = st.date_input(
+        "Fechas",
+        value=(datetime(2026, 5, 1).date(), datetime(2026, 5, 4).date()),
+    )
+    future_only = st.checkbox("Mostrar solo partidos pendientes", value=False)
     st.divider()
-    st.header("Scraper beta")
-    source_url = st.text_area("URL semilla CuotasAhora", value=DEFAULT_SOURCE_URL, height=90)
-    scrape_limit = st.slider("Partidos a probar", min_value=1, max_value=10, value=10)
-    if st.button("Actualizar cuotas reales"):
-        with st.spinner("Scrapeando y decodificando cuotas..."):
-            odds_scraped, failures = scrape_odds(source_url, scrape_limit, 35)
-        st.success(f"Cuotas actualizadas: {len(odds_scraped)} partidos")
-        if not failures.empty:
-            st.warning(f"{len(failures)} URLs fallaron; quedaron guardadas en failures.")
+    with st.expander("Actualizar cuotas", expanded=False):
+        source_url = st.text_area("URL de referencia", value=DEFAULT_SOURCE_URL, height=90)
+        scrape_limit = st.slider("Partidos a revisar", min_value=1, max_value=10, value=10)
+        if st.button("Buscar cuotas nuevas"):
+            with st.spinner("Actualizando cuotas..."):
+                odds_scraped, failures = scrape_odds(source_url, scrape_limit, 35)
+            st.success(f"Cuotas actualizadas: {len(odds_scraped)} partidos")
+            if not failures.empty:
+                st.warning(f"No se pudieron leer {len(failures)} paginas.")
 
 all_data = load_future_predictions_all()
 if all_data.empty:
@@ -961,11 +1441,15 @@ if all_data.empty:
     st.stop()
 
 data = all_data[all_data["Liga"].isin(selected_leagues)].copy()
+if isinstance(date_range, tuple) and len(date_range) == 2:
+    start_date, end_date = date_range
+    match_dates = pd.to_datetime(data["date"], errors="coerce").dt.date
+    data = data[match_dates.between(start_date, end_date)].copy()
 if future_only:
     today = datetime.now().date()
     data = data[(pd.to_datetime(data["date"]).dt.date >= today) | data["Target"].isna()].copy()
 
-odds = load_all_odds()
+odds = load_all_odds(odds_cache_signature())
 if not odds.empty:
     data = data.merge(odds, on=["home_key", "away_key"], how="left")
 
@@ -978,19 +1462,19 @@ col_a, col_b, col_c = st.columns(3)
 available_odds_cols = [col for col in ODDS_MARKET_COLUMNS if col in data.columns]
 rows_with_odds = int(data[available_odds_cols].notna().any(axis=1).sum()) if available_odds_cols else 0
 col_a.metric("Partidos considerados", len(data))
-col_b.metric("Con cuotas cruzadas", rows_with_odds)
-col_c.metric("Recomendaciones", int(recs["Recomendacion"].ne("").sum()) if not recs.empty else 0)
+col_b.metric("Partidos con cuota", rows_with_odds)
+col_c.metric("Picks sugeridos", int(recs["Recomendacion"].ne("").sum()) if not recs.empty else 0)
 if rows_with_odds == 0:
     st.warning(
-        "No hay cuotas reales cruzadas para los partidos filtrados. "
-        "Las combinadas pueden usar cuotas estimadas, pero las recomendaciones de valor necesitan scraping real."
+        "No hay cuotas reales para los partidos filtrados. "
+        "Las combinadas pueden usar cuotas aproximadas, pero conviene actualizar cuotas antes de apostar."
     )
 if not odds.empty:
     visible_pairs = set(zip(data["home_key"], data["away_key"])) if not data.empty else set()
     odds_pairs = odds.assign(pair=list(zip(odds["home_key"], odds["away_key"])))
     unmatched_odds = odds_pairs[~odds_pairs["pair"].isin(visible_pairs)].copy()
     if not unmatched_odds.empty:
-        with st.expander("Cuotas sin cruce con prediccion"):
+        with st.expander("Cuotas encontradas que no coinciden con un partido"):
             display_unmatched = [
                 "odds_local_team",
                 "odds_away_team",
@@ -1014,74 +1498,47 @@ if not odds.empty:
                         "decimal_btts_yes": dec,
                     }
                 ),
-                use_container_width=True,
+                width="stretch",
                 hide_index=True,
             )
 
 with st.sidebar:
-    if st.button("Guardar historial de recomendaciones"):
+    if st.button("Guardar seleccion actual"):
         saved_path = save_history(0, parlay, high_parlay)
         if saved_path:
             st.success(f"Historial guardado: {saved_path.name}")
         else:
-            st.warning("No habia recomendaciones para guardar.")
+            st.warning("No habia picks para guardar.")
 
 tab_best, tab_match, tab_parlays, tab_builder, tab_history, tab_matches = st.tabs(
     [
-        "Mejores recomendaciones",
+        "Picks sugeridos",
         "Por partido",
-        "Combinadas sugeridas",
-        "Crea tu combinada",
+        "Combinadas",
+        "Armar combinada",
         "Historial",
-        "Todos los partidos",
+        "Partidos",
     ]
 )
 
 with tab_best:
-    st.subheader("Mejores recomendaciones")
+    st.subheader("Picks sugeridos")
     st.caption(
-        "Criterio: 5 picks de seguridad por probabilidad, 5 picks de valor por edge/EV, "
-        "y hasta 5 oportunidades agresivas cuando la cuota paga bien pero el riesgo es mayor."
+        "Separados entre opciones mas seguras, cuotas interesantes y picks mas arriesgados."
     )
     top_recs = select_general_recommendations(recs)
     if top_recs.empty:
-        st.info("Todavia no hay recomendaciones con las reglas actuales. Revisa cuotas o baja los umbrales.")
+        st.info("Todavia no hay picks claros con los filtros actuales. Prueba actualizar cuotas o ampliar ligas/fechas.")
     else:
+        display = friendly_pick_frame(top_recs, include_group=True, include_result=True, include_reason=True)
         st.dataframe(
-            top_recs[
-                [
-                    "Liga",
-                    "Fecha partido",
-                    "Partido",
-                    "Tipo",
-                    "Mercado",
-                    "Pick",
-                    "Prob. modelo",
-                    "Cuota real",
-                    "Cuota justa",
-                    "Edge",
-                    "EV",
-                    "Recomendacion",
-                    "Resultado",
-                ]
-            ].style.format(
-                {
-                    "Fecha partido": lambda value: pd.to_datetime(value).strftime("%Y-%m-%d")
-                    if pd.notna(value)
-                    else "",
-                    "Prob. modelo": pct,
-                    "Cuota real": dec,
-                    "Cuota justa": dec,
-                    "Edge": pct,
-                    "EV": pct,
-                }
-            ),
-            use_container_width=True,
+            friendly_pick_style(display),
+            width="stretch",
             hide_index=True,
         )
 
 with tab_match:
-    st.subheader("Recomendaciones por partido")
+    st.subheader("Mirar partido por partido")
     match_order = st.radio(
         "Ordenar partidos por",
         ["Fecha real", "Jornada", "Liga"],
@@ -1120,69 +1577,58 @@ with tab_match:
         expander_label = f"{match_date} | Fecha {int(match_row['Jornada'])} | {league_name} | {match_name}"
         with st.expander(expander_label):
             if shown.empty:
-                st.info("Sin cuotas cruzadas o sin recomendacion clara para este partido.")
+                st.info("Sin cuota o sin pick claro para este partido.")
             else:
+                display = friendly_pick_frame(shown, include_result=True, include_reason=True)
                 st.dataframe(
-                    shown[
-                        [
-                            "Jornada",
-                            "Fecha partido",
-                            "Mercado",
-                            "Pick",
-                            "Prob. modelo",
-                            "Cuota real",
-                            "Cuota justa",
-                            "Edge",
-                            "EV",
-                            "Recomendacion",
-                            "Entra por",
-                            "Resultado",
-                            "Explicacion",
-                        ]
-                    ].style.format(
-                        {
-                            "Jornada": "{:.0f}",
-                            "Fecha partido": lambda value: pd.to_datetime(value).strftime("%Y-%m-%d")
-                            if pd.notna(value)
-                            else "",
-                            "Prob. modelo": pct,
-                            "Cuota real": dec,
-                            "Cuota justa": dec,
-                            "Edge": pct,
-                            "EV": pct,
-                        }
-                    ),
-                    use_container_width=True,
+                    friendly_pick_style(display),
+                    width="stretch",
                     hide_index=True,
                 )
 
 with tab_parlays:
-    st.subheader("Combinada razonable de bajo riesgo")
-    st.caption(
-        "Parte con picks de probabilidad muy alta y completa con Bajo riesgo/Alta probabilidad/Valor, "
-        "considera todas las ligas seleccionadas y exige cuota combinada minima 1.60."
+    if parlay_recs.empty or "Fecha partido" not in parlay_recs.columns:
+        parlay_dates = []
+    else:
+        parlay_dates = sorted(pd.to_datetime(parlay_recs["Fecha partido"], errors="coerce").dt.date.dropna().unique())
+    default_parlay_dates = []
+    if parlay_dates:
+        today = datetime.now().date()
+        default_parlay_dates = [today] if today in parlay_dates else [parlay_dates[0]]
+    selected_parlay_dates = st.multiselect(
+        "Fechas para jugar",
+        options=parlay_dates,
+        default=default_parlay_dates,
+        format_func=lambda value: value.strftime("%Y-%m-%d"),
     )
-    show_parlay(parlay, parlay_summary)
+    suggested_recs = filter_recs_by_dates(parlay_recs, selected_parlay_dates)
+    suggested_low_parlay, suggested_low_summary = low_risk_parlay(suggested_recs, DEFAULT_RULES)
+    suggested_high_parlay, suggested_high_summary = high_risk_parlay(suggested_recs, DEFAULT_RULES)
 
-    st.subheader("Combinada de riesgo alto moderado")
+    st.subheader("Combinada prudente")
     st.caption(
-        "Usa 5 picks entre cuota 1.30 y 2.00, con cuota total entre 5 y 10, "
-        "y permite combinar mercados distintos del mismo partido."
+        "Busca una cuota moderada con picks de buena confianza."
     )
-    show_parlay(high_parlay, high_parlay_summary)
+    show_parlay(suggested_low_parlay, suggested_low_summary)
+
+    st.subheader("Combinada mas ambiciosa")
+    st.caption(
+        "Apunta a pagar mas, aceptando que la probabilidad baja."
+    )
+    show_parlay(suggested_high_parlay, suggested_high_summary)
 
 with tab_builder:
-    st.subheader("Crea tu combinada")
+    st.subheader("Armar combinada")
     col1, col2 = st.columns(2)
     with col1:
         leg_range = st.slider(
-            "Cantidad de picks",
+            "Cuantos picks incluir",
             min_value=2,
             max_value=6,
             value=DEFAULT_RULES["custom_legs"],
         )
         total_odds_range = st.slider(
-            "Cuota total buscada",
+            "Cuota total que quieres",
             min_value=1.2,
             max_value=20.0,
             value=DEFAULT_RULES["custom_total_odds"],
@@ -1190,13 +1636,13 @@ with tab_builder:
         )
     with col2:
         pick_odds_range = st.slider(
-            "Cuota por pick",
+            "Cuota de cada pick",
             min_value=1.01,
             max_value=5.0,
             value=DEFAULT_RULES["custom_pick_odds"],
             step=0.01,
         )
-        st.caption("Puede usar mas de un pick del mismo partido si son mercados distintos.")
+        st.caption("Puede mezclar mercados distintos del mismo partido, pero no resultados contradictorios.")
 
     custom_parlay, custom_summary = find_best_parlay(
         parlay_recs,
@@ -1213,11 +1659,67 @@ with tab_builder:
     )
     show_parlay(custom_parlay, custom_summary)
 
+    st.divider()
+    st.subheader("Objetivo de dinero")
+    st.caption("Ejemplo: tengo 5.000 y quiero llegar a 50.000. La app busca una combinada que alcance esa cuota.")
+    target_col1, target_col2 = st.columns(2)
+    with target_col1:
+        bankroll = st.number_input(
+            "Tengo",
+            min_value=1.0,
+            value=5000.0,
+            step=500.0,
+        )
+        target_dates = st.multiselect(
+            "Fechas objetivo",
+            options=parlay_dates,
+            default=default_parlay_dates,
+            format_func=lambda value: value.strftime("%Y-%m-%d"),
+            key="target_dates",
+        )
+    with target_col2:
+        target_amount = st.number_input(
+            "Quiero recibir",
+            min_value=1.0,
+            value=50000.0,
+            step=1000.0,
+        )
+        target_multiple = target_amount / bankroll if bankroll else pd.NA
+        st.metric("Necesitas multiplicar por", dec(target_multiple))
+
+    target_recs = filter_recs_by_dates(parlay_recs, target_dates)
+    target_key = (
+        float(bankroll),
+        float(target_amount),
+        tuple(str(date) for date in target_dates),
+        tuple(selected_leagues),
+    )
+    if st.button("Buscar combinada objetivo"):
+        with st.spinner("Buscando una combinada para tu objetivo..."):
+            target_parlay, target_summary = target_return_parlay(target_recs, bankroll, target_amount)
+        st.session_state["target_return_result"] = {
+            "key": target_key,
+            "parlay": target_parlay,
+            "summary": target_summary,
+        }
+
+    target_result = st.session_state.get("target_return_result")
+    if target_result and target_result.get("key") == target_key:
+        target_parlay = target_result["parlay"]
+        target_summary = target_result["summary"]
+        if target_summary:
+            st.caption(
+                f"Cuota minima necesaria: {dec(target_summary['objetivo_cuota'])}. "
+                f"Pago aproximado con esta combinada: {dec(target_summary['retorno_estimado'])}."
+            )
+        show_parlay(target_parlay, target_summary)
+    else:
+        st.info("Elige el monto, la meta y las fechas. Luego pulsa buscar.")
+
 with tab_history:
-    st.subheader("Historial y ROI simulado")
+    st.subheader("Historial")
     st.caption(
-        "El historial considera 3u para la combinada de bajo riesgo y 0.5u para la combinada "
-        "de riesgo alto moderado."
+        "Resumen simple de combinadas guardadas y su resultado cuando el partido ya termino."
     )
     current_rows = []
     for label, frame, stake in [
@@ -1247,28 +1749,39 @@ with tab_history:
     else:
         current_summary = roi_summary(current)
         c1, c2, c3, c4 = st.columns(4)
-        c1.metric("Combinadas con resultado", current_summary["apuestas"])
-        c2.metric("Aciertos", current_summary["aciertos"])
-        c3.metric("Retorno total", dec(current_summary["retorno"]))
-        c4.metric("ROI sobre stake", pct(current_summary["roi"]))
+        c1.metric("Combinadas cerradas", current_summary["apuestas"])
+        c2.metric("Ganadas", current_summary["aciertos"])
+        c3.metric("Pago total", dec(current_summary["retorno"]))
+        c4.metric("Rendimiento", pct(current_summary["roi"]))
+        current_display = current.rename(
+            columns={
+                "tipo": "Tipo",
+                "Stake u": "Monto base",
+                "Cuota real": "Cuota",
+                "Prob. modelo": "Confianza",
+                "Retorno 1u": "Pago por 1u",
+                "Retorno stake": "Pago total",
+            }
+        )
         st.dataframe(
-            current.style.format(
+            current_display[
+                ["Tipo", "Monto base", "Pick", "Cuota", "Confianza", "Resultado", "Pago por 1u", "Pago total"]
+            ].style.format(
                 {
-                    "Stake u": dec,
-                    "Cuota real": dec,
-                    "Prob. modelo": pct,
-                    "EV": pct,
-                    "Retorno 1u": dec,
-                    "Retorno stake": dec,
+                    "Monto base": dec,
+                    "Cuota": dec,
+                    "Confianza": pct,
+                    "Pago por 1u": dec,
+                    "Pago total": dec,
                 }
             ),
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
         )
 
     history = load_history()
     if history.empty:
-        st.caption("Aun no hay snapshots guardados. Usa el boton de la barra lateral para guardar una fecha.")
+        st.caption("Aun no hay guardados. Usa el boton de la barra lateral para guardar la seleccion actual.")
     else:
         settled_history = history[history["Retorno 1u"].notna()].copy()
         if not settled_history.empty:
@@ -1283,78 +1796,147 @@ with tab_history:
                 .reset_index()
             )
             summary["roi"] = summary["retorno"] / summary["stake"]
+            summary_display = summary.rename(
+                columns={
+                    "matchweek": "Fecha guardada",
+                    "tipo": "Tipo",
+                    "apuestas": "Combinadas",
+                    "aciertos": "Ganadas",
+                    "stake": "Monto base",
+                    "retorno": "Pago total",
+                    "roi": "Rendimiento",
+                }
+            )
             st.dataframe(
-                summary.style.format({"stake": dec, "retorno": dec, "roi": pct}),
-                use_container_width=True,
+                summary_display.style.format({"Monto base": dec, "Pago total": dec, "Rendimiento": pct}),
+                width="stretch",
                 hide_index=True,
             )
-        with st.expander("Snapshots guardados"):
+        with st.expander("Detalle guardado"):
+            history_display = history.tail(200).copy()
+            history_display["Mercado"] = history_display["Mercado"].apply(friendly_market)
+            history_display["Recomendacion"] = history_display["Recomendacion"].apply(friendly_recommendation)
+            history_display = history_display.rename(
+                columns={
+                    "matchweek": "Fecha guardada",
+                    "tipo": "Tipo",
+                    "Fecha partido": "Fecha",
+                    "Prob. modelo": "Confianza",
+                    "Cuota real": "Cuota",
+                    "Recomendacion": "Lectura",
+                    "Retorno 1u": "Pago por 1u",
+                    "Stake u": "Monto base",
+                    "Retorno stake": "Pago total",
+                }
+            )
+            history_cols = [
+                "Fecha guardada",
+                "Tipo",
+                "Fecha",
+                "Partido",
+                "Mercado",
+                "Pick",
+                "Confianza",
+                "Cuota",
+                "Lectura",
+                "Resultado",
+                "Pago por 1u",
+                "Monto base",
+                "Pago total",
+            ]
+            history_cols = [col for col in history_cols if col in history_display.columns]
             st.dataframe(
-                history.tail(200).style.format(
+                history_display[history_cols].style.format(
                     {
-                        "Prob. modelo": pct,
-                        "Cuota real": dec,
-                        "Cuota justa": dec,
-                        "Edge": pct,
-                        "EV": pct,
-                        "Retorno 1u": dec,
-                        "Stake u": dec,
-                        "Retorno stake": dec,
+                        "Fecha": lambda value: pd.to_datetime(value).strftime("%Y-%m-%d") if pd.notna(value) else "",
+                        "Confianza": pct,
+                        "Cuota": dec,
+                        "Pago por 1u": dec,
+                        "Monto base": dec,
+                        "Pago total": dec,
                     }
                 ),
-                use_container_width=True,
+                width="stretch",
                 hide_index=True,
             )
 
 with tab_matches:
-    st.subheader("Todos los partidos")
+    st.subheader("Partidos")
+    st.caption("Vista general de los partidos cargados. Las probabilidades estan expresadas como confianza estimada.")
     display_cols = [
         "Liga",
         "date",
         "local_team",
         "away_team",
+        "Marcador",
         "p_home_win",
         "p_draw",
         "p_away_win",
         "p_over_15",
-        "p_over_25",
-        "p_btts",
         "Target",
         "target_over_15",
-        "target_over_25",
-        "target_btts",
         "decimal_home_win",
         "decimal_draw",
         "decimal_away_win",
         "decimal_over_15",
-        "decimal_over_25",
-        "decimal_btts_yes",
         "odds_source_file",
     ]
     available_cols = [col for col in display_cols if col in data.columns]
+    matches_display = data[available_cols].rename(
+        columns={
+            "date": "Fecha",
+            "local_team": "Local",
+            "away_team": "Visita",
+            "Marcador": "Marcador",
+            "p_home_win": "Gana local",
+            "p_draw": "Empate",
+            "p_away_win": "Gana visita",
+            "p_over_15": "Mas de 1.5 goles",
+            "decimal_home_win": "Cuota local",
+            "decimal_draw": "Cuota empate",
+            "decimal_away_win": "Cuota visita",
+            "decimal_over_15": "Cuota +1.5",
+            "odds_source_file": "Fuente cuotas",
+        }
+    )
+    simple_cols = [
+        "Liga",
+        "Fecha",
+        "Local",
+        "Visita",
+        "Marcador",
+        "Gana local",
+        "Empate",
+        "Gana visita",
+        "Mas de 1.5 goles",
+        "Cuota local",
+        "Cuota empate",
+        "Cuota visita",
+        "Cuota +1.5",
+    ]
+    simple_cols = [col for col in simple_cols if col in matches_display.columns]
     st.dataframe(
-        data[available_cols].style.format(
+        matches_display[simple_cols].style.format(
             {
-                "p_home_win": pct,
-                "p_draw": pct,
-                "p_away_win": pct,
-                "p_over_15": pct,
-                "p_over_25": pct,
-                "p_btts": pct,
-                "decimal_home_win": dec,
-                "decimal_draw": dec,
-                "decimal_away_win": dec,
-                "decimal_over_15": dec,
-                "decimal_over_25": dec,
-                "decimal_btts_yes": dec,
+                "Fecha": lambda value: pd.to_datetime(value).strftime("%Y-%m-%d") if pd.notna(value) else "",
+                "Gana local": pct,
+                "Empate": pct,
+                "Gana visita": pct,
+                "Mas de 1.5 goles": pct,
+                "Mas de 2.5 goles": pct,
+                "Ambos marcan": pct,
+                "Cuota local": dec,
+                "Cuota empate": dec,
+                "Cuota visita": dec,
+                "Cuota +1.5": dec,
+                "Cuota +2.5": dec,
+                "Cuota ambos": dec,
             }
         ),
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
     )
 
 st.caption(
-    "Beta: las cuotas vienen de CuotasAhora cuando el endpoint responde; "
-    "la recomendacion compara probabilidad del modelo vs probabilidad implicita. "
-    "No es consejo financiero."
+    "Las cuotas pueden cambiar. Usa esto como apoyo para decidir, no como garantia de resultado."
 )
