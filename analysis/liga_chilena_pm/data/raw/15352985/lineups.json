@@ -1,0 +1,3036 @@
+{
+  "confirmed": true,
+  "home": {
+    "players": [
+      {
+        "player": {
+          "name": "Matías Bórquez",
+          "firstName": "Matías",
+          "lastName": "Bórquez",
+          "slug": "matias-borquez",
+          "shortName": "M. Bórquez",
+          "position": "G",
+          "jerseyNumber": "1",
+          "height": 182,
+          "userCount": 44,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 874123,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 903484800,
+          "proposedMarketValueRaw": {
+            "value": 410000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ماتياس بوركيس"
+            },
+            "shortNameTranslation": {
+              "ar": "م. بوركيس"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 1,
+        "jerseyNumber": "1",
+        "position": "G",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 29,
+          "accuratePass": 21,
+          "totalLongBalls": 18,
+          "accurateLongBalls": 10,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 13,
+          "totalOwnHalfPasses": 14,
+          "accurateOppositionHalfPasses": 8,
+          "totalOppositionHalfPasses": 15,
+          "ballRecovery": 11,
+          "goodHighClaim": 1,
+          "savedShotsFromInsideTheBox": 1,
+          "saves": 1,
+          "minutesPlayed": 90,
+          "touches": 37,
+          "rating": 8,
+          "possessionLostCtrl": 9,
+          "totalBallCarriesDistance": 23.61905106155,
+          "ballCarriesCount": 4,
+          "totalProgression": 16.0232841884,
+          "progressiveBallCarriesCount": 0,
+          "keeperSaveValue": 0.4999,
+          "ratingVersions": {
+            "original": 8,
+            "alternative": 7.2
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.12,
+          "dribbleValueNormalized": 0,
+          "defensiveValueNormalized": 0.3,
+          "goalkeeperValueNormalized": 0.42,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Yerko González",
+          "firstName": "Yerko",
+          "lastName": "González",
+          "slug": "yerko-gonzalez",
+          "shortName": "Y. González",
+          "position": "D",
+          "jerseyNumber": "23",
+          "height": 180,
+          "userCount": 45,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 980882,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 998265600,
+          "proposedMarketValueRaw": {
+            "value": 480000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "يركو غونزاليس"
+            },
+            "shortNameTranslation": {
+              "ar": "ي. غونزاليس"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 23,
+        "jerseyNumber": "23",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 39,
+          "accuratePass": 35,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 17,
+          "totalOwnHalfPasses": 17,
+          "accurateOppositionHalfPasses": 18,
+          "totalOppositionHalfPasses": 22,
+          "totalCross": 3,
+          "aerialLost": 1,
+          "duelLost": 2,
+          "duelWon": 1,
+          "challengeLost": 1,
+          "onTargetScoringAttempt": 1,
+          "goals": 1,
+          "totalClearance": 4,
+          "interceptionWon": 5,
+          "ballRecovery": 4,
+          "unsuccessfulTouch": 2,
+          "wasFouled": 1,
+          "minutesPlayed": 83,
+          "touches": 67,
+          "rating": 8.3,
+          "possessionLostCtrl": 11,
+          "totalBallCarriesDistance": 261.32656641031,
+          "ballCarriesCount": 17,
+          "totalProgression": 144.9137430413,
+          "bestBallCarryProgression": 30.616509152665,
+          "totalProgressiveBallCarriesDistance": 130.20193661436,
+          "progressiveBallCarriesCount": 5,
+          "ratingVersions": {
+            "original": 8.3,
+            "alternative": 8
+          },
+          "totalShots": 1,
+          "shotValueNormalized": 0.51,
+          "passValueNormalized": 0.27,
+          "dribbleValueNormalized": 0.28,
+          "defensiveValueNormalized": 0.24,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Augusto Aguirre",
+          "firstName": "Augusto",
+          "lastName": "Aguirre",
+          "slug": "augusto-aguirre",
+          "shortName": "A. Aguirre",
+          "position": "D",
+          "jerseyNumber": "2",
+          "height": 184,
+          "userCount": 26,
+          "gender": "M",
+          "country": {
+            "alpha2": "AR",
+            "alpha3": "ARG",
+            "name": "Argentina",
+            "slug": "argentina"
+          },
+          "id": 875564,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 933552000,
+          "proposedMarketValueRaw": {
+            "value": 430000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوغستو أغيري"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. أغيري"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 2,
+        "jerseyNumber": "2",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 35,
+          "accuratePass": 30,
+          "totalLongBalls": 8,
+          "accurateLongBalls": 4,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 21,
+          "totalOwnHalfPasses": 23,
+          "accurateOppositionHalfPasses": 9,
+          "totalOppositionHalfPasses": 12,
+          "aerialLost": 1,
+          "duelLost": 1,
+          "duelWon": 1,
+          "blockedScoringAttempt": 2,
+          "totalClearance": 5,
+          "outfielderBlock": 1,
+          "interceptionWon": 1,
+          "ballRecovery": 7,
+          "wasFouled": 1,
+          "minutesPlayed": 90,
+          "touches": 47,
+          "rating": 7,
+          "possessionLostCtrl": 5,
+          "totalBallCarriesDistance": 116.92043829217,
+          "ballCarriesCount": 13,
+          "totalProgression": 68.610407134589,
+          "bestBallCarryProgression": 25.371302844406,
+          "totalProgressiveBallCarriesDistance": 49.191308402703,
+          "progressiveBallCarriesCount": 2,
+          "ratingVersions": {
+            "original": 7,
+            "alternative": 7.2
+          },
+          "totalShots": 2,
+          "shotValueNormalized": -0.43,
+          "passValueNormalized": 0,
+          "dribbleValueNormalized": 0.2,
+          "defensiveValueNormalized": 0.35,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Alfonso Parot",
+          "slug": "alfonso-parot",
+          "shortName": "A. Parot",
+          "position": "D",
+          "jerseyNumber": "24",
+          "height": 180,
+          "userCount": 76,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 33829,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 624412800,
+          "proposedMarketValueRaw": {
+            "value": 105000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ألفونسو باروت"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. باروت"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 24,
+        "jerseyNumber": "24",
+        "position": "D",
+        "substitute": false,
+        "captain": true,
+        "statistics": {
+          "totalPass": 33,
+          "accuratePass": 30,
+          "totalLongBalls": 5,
+          "accurateLongBalls": 5,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 20,
+          "totalOwnHalfPasses": 22,
+          "accurateOppositionHalfPasses": 10,
+          "totalOppositionHalfPasses": 11,
+          "totalCross": 1,
+          "accurateCross": 1,
+          "aerialWon": 2,
+          "duelWon": 5,
+          "totalClearance": 10,
+          "outfielderBlock": 1,
+          "interceptionWon": 1,
+          "ballRecovery": 4,
+          "totalTackle": 2,
+          "wonTackle": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 90,
+          "touches": 50,
+          "rating": 8.1,
+          "possessionLostCtrl": 3,
+          "totalBallCarriesDistance": 89.858889779472,
+          "ballCarriesCount": 10,
+          "totalProgression": 0.57586655813469,
+          "bestBallCarryProgression": 11.864415046348,
+          "totalProgressiveBallCarriesDistance": 17.778323008653,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 8.1,
+            "alternative": 7.9
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.28,
+          "dribbleValueNormalized": 0.08,
+          "defensiveValueNormalized": 0.49,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Marcelo Flores",
+          "firstName": "Marcelo Flores",
+          "lastName": "",
+          "slug": "marcelo-flores",
+          "shortName": "M. Flores",
+          "position": "D",
+          "jerseyNumber": "4",
+          "height": 176,
+          "userCount": 20,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 1197239,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1007942400,
+          "proposedMarketValueRaw": {
+            "value": 53000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مارسيلو فلوريس"
+            },
+            "shortNameTranslation": {
+              "ar": "م. فلوريس"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 4,
+        "jerseyNumber": "4",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 32,
+          "accuratePass": 22,
+          "totalLongBalls": 11,
+          "accurateLongBalls": 5,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 8,
+          "totalOwnHalfPasses": 11,
+          "accurateOppositionHalfPasses": 14,
+          "totalOppositionHalfPasses": 21,
+          "totalCross": 4,
+          "accurateCross": 1,
+          "aerialLost": 1,
+          "aerialWon": 1,
+          "duelLost": 3,
+          "duelWon": 8,
+          "challengeLost": 2,
+          "totalContest": 4,
+          "wonContest": 4,
+          "totalClearance": 5,
+          "ballRecovery": 5,
+          "totalTackle": 1,
+          "unsuccessfulTouch": 3,
+          "wasFouled": 2,
+          "minutesPlayed": 90,
+          "touches": 62,
+          "rating": 7.5,
+          "possessionLostCtrl": 16,
+          "totalBallCarriesDistance": 170.54427121199,
+          "ballCarriesCount": 19,
+          "totalProgression": 19.314019675066,
+          "bestBallCarryProgression": 32.122755990782,
+          "totalProgressiveBallCarriesDistance": 41.165958800932,
+          "progressiveBallCarriesCount": 1,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 7.5,
+            "alternative": 7.5
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.38,
+          "dribbleValueNormalized": 0.21,
+          "defensiveValueNormalized": 0.14,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Ramón Martínez",
+          "firstName": "Ramon",
+          "lastName": "Martinez",
+          "slug": "ramon-martinez",
+          "shortName": "R. Martínez",
+          "position": "M",
+          "jerseyNumber": "27",
+          "height": 186,
+          "userCount": 82,
+          "gender": "M",
+          "country": {
+            "alpha2": "PY",
+            "alpha3": "PRY",
+            "name": "Paraguay",
+            "slug": "paraguay"
+          },
+          "id": 874853,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 820713600,
+          "proposedMarketValueRaw": {
+            "value": 265000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "رامون مارتينيز"
+            },
+            "shortNameTranslation": {
+              "ar": "ر. مارتينيز"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 27,
+        "jerseyNumber": "27",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 37,
+          "accuratePass": 31,
+          "totalLongBalls": 6,
+          "accurateLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 15,
+          "totalOwnHalfPasses": 18,
+          "accurateOppositionHalfPasses": 16,
+          "totalOppositionHalfPasses": 19,
+          "aerialLost": 2,
+          "aerialWon": 1,
+          "duelLost": 3,
+          "duelWon": 4,
+          "totalContest": 1,
+          "totalClearance": 3,
+          "interceptionWon": 3,
+          "ballRecovery": 3,
+          "totalTackle": 2,
+          "wonTackle": 2,
+          "wasFouled": 1,
+          "minutesPlayed": 90,
+          "touches": 50,
+          "rating": 7,
+          "possessionLostCtrl": 7,
+          "totalBallCarriesDistance": 43.534503331846,
+          "ballCarriesCount": 7,
+          "totalProgression": 4.138216590652,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 7,
+            "alternative": 6.8
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.25,
+          "dribbleValueNormalized": 0.07,
+          "defensiveValueNormalized": 0.28,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Joaquín Montecinos",
+          "firstName": "",
+          "lastName": "",
+          "slug": "joaquin-montecinos",
+          "shortName": "J. Montecinos",
+          "position": "M",
+          "jerseyNumber": "8",
+          "height": 173,
+          "userCount": 318,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 986599,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 818294400,
+          "proposedMarketValueRaw": {
+            "value": 285000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جواكين مونتيسينوس",
+              "bn": "জোয়াকিন মন্টেসিনোস",
+              "hi": "जोआक्विन मोंटेसिनो"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. مونتيسينوس",
+              "bn": "জে. মন্টেসিনোস",
+              "hi": "जे. मोंटेसिनो"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 8,
+        "jerseyNumber": "8",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 29,
+          "accuratePass": 18,
+          "totalLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 3,
+          "accurateOppositionHalfPasses": 17,
+          "totalOppositionHalfPasses": 26,
+          "totalCross": 9,
+          "accurateCross": 1,
+          "aerialLost": 1,
+          "duelLost": 4,
+          "duelWon": 4,
+          "dispossessed": 2,
+          "totalContest": 4,
+          "wonContest": 4,
+          "totalClearance": 2,
+          "interceptionWon": 1,
+          "ballRecovery": 4,
+          "unsuccessfulTouch": 1,
+          "fouls": 1,
+          "minutesPlayed": 62,
+          "touches": 53,
+          "rating": 8.1,
+          "possessionLostCtrl": 22,
+          "totalBallCarriesDistance": 206.14371232522,
+          "ballCarriesCount": 19,
+          "totalProgression": 117.76444492811,
+          "bestBallCarryProgression": 33.735199905594,
+          "totalProgressiveBallCarriesDistance": 111.24308368892,
+          "progressiveBallCarriesCount": 4,
+          "keyPass": 4,
+          "ratingVersions": {
+            "original": 8.1,
+            "alternative": 7.3
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.82,
+          "dribbleValueNormalized": 0.42,
+          "defensiveValueNormalized": 0.13,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Flavio Moya",
+          "slug": "flavio-moya",
+          "shortName": "F. Moya",
+          "position": "M",
+          "jerseyNumber": "21",
+          "height": 175,
+          "userCount": 261,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 1644853,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1137456000,
+          "proposedMarketValueRaw": {
+            "value": 440000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فلافيو مويا"
+            },
+            "shortNameTranslation": {
+              "ar": "ف. مويا"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 21,
+        "jerseyNumber": "21",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 13,
+          "accuratePass": 11,
+          "goalAssist": 1,
+          "accurateOwnHalfPasses": 2,
+          "totalOwnHalfPasses": 3,
+          "accurateOppositionHalfPasses": 9,
+          "totalOppositionHalfPasses": 10,
+          "totalCross": 1,
+          "aerialLost": 2,
+          "duelLost": 3,
+          "duelWon": 3,
+          "totalContest": 1,
+          "wonContest": 1,
+          "bigChanceCreated": 1,
+          "onTargetScoringAttempt": 1,
+          "interceptionWon": 1,
+          "totalTackle": 1,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 45,
+          "touches": 20,
+          "rating": 6.6,
+          "possessionLostCtrl": 3,
+          "totalBallCarriesDistance": 31.276398399043,
+          "ballCarriesCount": 6,
+          "totalProgression": 0.097343425531204,
+          "progressiveBallCarriesCount": 0,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": 7.2
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.39,
+          "passValueNormalized": 0.23,
+          "dribbleValueNormalized": 0.02,
+          "defensiveValueNormalized": 0.13,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Jean Meneses",
+          "slug": "jean-meneses",
+          "shortName": "J. Meneses",
+          "position": "M",
+          "jerseyNumber": "16",
+          "height": 163,
+          "userCount": 1071,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 818816,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 732240000,
+          "proposedMarketValueRaw": {
+            "value": 1500000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "جان مينيسيس",
+              "bn": "জিন মেনেসেস",
+              "hi": "जीन मेनेसेस"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. مينيسيس",
+              "bn": "জে. মেনেসিস",
+              "hi": "जे. मेनेसेस"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 16,
+        "jerseyNumber": "16",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 46,
+          "accuratePass": 36,
+          "totalLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 16,
+          "totalOwnHalfPasses": 18,
+          "accurateOppositionHalfPasses": 20,
+          "totalOppositionHalfPasses": 28,
+          "totalCross": 2,
+          "accurateCross": 1,
+          "aerialLost": 1,
+          "aerialWon": 1,
+          "duelLost": 3,
+          "duelWon": 4,
+          "dispossessed": 1,
+          "shotOffTarget": 1,
+          "onTargetScoringAttempt": 2,
+          "goals": 1,
+          "totalClearance": 2,
+          "interceptionWon": 2,
+          "ballRecovery": 10,
+          "totalTackle": 3,
+          "wonTackle": 2,
+          "unsuccessfulTouch": 6,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 66,
+          "rating": 9,
+          "possessionLostCtrl": 18,
+          "totalBallCarriesDistance": 192.15941476841,
+          "ballCarriesCount": 18,
+          "totalProgression": 105.05389640727,
+          "bestBallCarryProgression": 41.870688538809,
+          "totalProgressiveBallCarriesDistance": 77.400759212339,
+          "progressiveBallCarriesCount": 3,
+          "keyPass": 2,
+          "ratingVersions": {
+            "original": 9,
+            "alternative": 8.1
+          },
+          "totalShots": 3,
+          "shotValueNormalized": 0.6,
+          "passValueNormalized": 0.65,
+          "dribbleValueNormalized": 0.35,
+          "defensiveValueNormalized": 0.28,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Daniel Castro",
+          "firstName": "",
+          "lastName": "",
+          "slug": "daniel-castro",
+          "shortName": "D. Castro",
+          "position": "M",
+          "jerseyNumber": "19",
+          "height": 169,
+          "userCount": 440,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 925992,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 767404800,
+          "proposedMarketValueRaw": {
+            "value": 790000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دانييل كاسترو"
+            },
+            "shortNameTranslation": {
+              "ar": "د. كاسترو"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 19,
+        "jerseyNumber": "19",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 23,
+          "accuratePass": 14,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 3,
+          "totalOwnHalfPasses": 4,
+          "accurateOppositionHalfPasses": 11,
+          "totalOppositionHalfPasses": 19,
+          "totalCross": 1,
+          "accurateCross": 1,
+          "aerialLost": 2,
+          "aerialWon": 2,
+          "duelLost": 3,
+          "duelWon": 5,
+          "totalContest": 3,
+          "wonContest": 3,
+          "shotOffTarget": 3,
+          "blockedScoringAttempt": 1,
+          "ballRecovery": 4,
+          "unsuccessfulTouch": 4,
+          "fouls": 1,
+          "totalOffside": 1,
+          "minutesPlayed": 83,
+          "touches": 35,
+          "rating": 6.2,
+          "possessionLostCtrl": 13,
+          "totalBallCarriesDistance": 86.207111218034,
+          "ballCarriesCount": 9,
+          "totalProgression": 62.72124823369,
+          "bestBallCarryProgression": 21.976551046836,
+          "totalProgressiveBallCarriesDistance": 48.790658947497,
+          "progressiveBallCarriesCount": 3,
+          "ratingVersions": {
+            "original": 6.2,
+            "alternative": 7.2
+          },
+          "totalShots": 4,
+          "shotValueNormalized": -0.55,
+          "passValueNormalized": -0.22,
+          "dribbleValueNormalized": 0.12,
+          "defensiveValueNormalized": -0.02,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Gonzalo Sosa",
+          "firstName": "Gonzalo",
+          "lastName": "Sosa",
+          "slug": "gonzalo-sosa",
+          "shortName": "G. Sosa",
+          "position": "F",
+          "jerseyNumber": "9",
+          "height": 185,
+          "userCount": 329,
+          "gender": "M",
+          "country": {
+            "alpha2": "AR",
+            "alpha3": "ARG",
+            "name": "Argentina",
+            "slug": "argentina"
+          },
+          "id": 988084,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 599875200,
+          "proposedMarketValueRaw": {
+            "value": 120000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "غونزالو سوسا"
+            },
+            "shortNameTranslation": {
+              "ar": "غ. سوسا"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 9,
+        "jerseyNumber": "9",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 22,
+          "accuratePass": 17,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 3,
+          "totalOwnHalfPasses": 4,
+          "accurateOppositionHalfPasses": 14,
+          "totalOppositionHalfPasses": 18,
+          "aerialLost": 10,
+          "aerialWon": 8,
+          "duelLost": 14,
+          "duelWon": 9,
+          "challengeLost": 1,
+          "bigChanceMissed": 1,
+          "shotOffTarget": 2,
+          "blockedScoringAttempt": 1,
+          "totalClearance": 1,
+          "ballRecovery": 2,
+          "errorLeadToAShot": 1,
+          "unsuccessfulTouch": 2,
+          "wasFouled": 1,
+          "fouls": 3,
+          "minutesPlayed": 76,
+          "touches": 32,
+          "rating": 6.8,
+          "possessionLostCtrl": 8,
+          "totalBallCarriesDistance": 8.12211467678,
+          "ballCarriesCount": 2,
+          "totalProgression": -5.6026067379582,
+          "progressiveBallCarriesCount": 0,
+          "keyPass": 2,
+          "ratingVersions": {
+            "original": 6.8,
+            "alternative": 7.1
+          },
+          "totalShots": 3,
+          "shotValueNormalized": -0.5,
+          "passValueNormalized": 0.42,
+          "dribbleValueNormalized": 0.02,
+          "defensiveValueNormalized": -0.19,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Misael Llantén",
+          "firstName": "Misael",
+          "lastName": "Llantén",
+          "slug": "misael-llanten",
+          "shortName": "M. Llantén",
+          "position": "M",
+          "jerseyNumber": "25",
+          "height": 176,
+          "userCount": 17,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 863124,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 918345600,
+          "proposedMarketValueRaw": {
+            "value": 530000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ميسائيل ليانتين"
+            },
+            "shortNameTranslation": {
+              "ar": "م. ليانتين"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 25,
+        "jerseyNumber": "25",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 19,
+          "accuratePass": 12,
+          "totalLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 3,
+          "totalOwnHalfPasses": 5,
+          "accurateOppositionHalfPasses": 9,
+          "totalOppositionHalfPasses": 14,
+          "totalCross": 1,
+          "aerialLost": 3,
+          "duelLost": 5,
+          "challengeLost": 2,
+          "onTargetScoringAttempt": 1,
+          "totalClearance": 2,
+          "ballRecovery": 2,
+          "unsuccessfulTouch": 2,
+          "minutesPlayed": 45,
+          "touches": 26,
+          "rating": 6.2,
+          "possessionLostCtrl": 10,
+          "totalBallCarriesDistance": 45.141151465153,
+          "ballCarriesCount": 6,
+          "totalProgression": 1.2554081865784,
+          "progressiveBallCarriesCount": 0,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.2,
+            "alternative": 6.8
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.34,
+          "passValueNormalized": 0.08,
+          "dribbleValueNormalized": 0.04,
+          "defensiveValueNormalized": -0.05,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Axel Alfonzo",
+          "firstName": "Axel Alfonzo",
+          "lastName": "",
+          "slug": "axel-alfonzo",
+          "shortName": "A. Alfonzo",
+          "position": "D",
+          "jerseyNumber": "5",
+          "height": 182,
+          "userCount": 77,
+          "gender": "M",
+          "country": {
+            "alpha2": "PY",
+            "alpha3": "PRY",
+            "name": "Paraguay",
+            "slug": "paraguay"
+          },
+          "id": 1199394,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1083888000,
+          "proposedMarketValueRaw": {
+            "value": 410000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أكسل ألفونزو"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. ألفونزو"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 5,
+        "jerseyNumber": "5",
+        "position": "D",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 9,
+          "accuratePass": 7,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 6,
+          "totalOwnHalfPasses": 7,
+          "accurateOppositionHalfPasses": 1,
+          "totalOppositionHalfPasses": 2,
+          "aerialLost": 2,
+          "aerialWon": 1,
+          "duelLost": 2,
+          "duelWon": 1,
+          "totalClearance": 6,
+          "minutesPlayed": 28,
+          "touches": 15,
+          "rating": 6.7,
+          "possessionLostCtrl": 2,
+          "totalBallCarriesDistance": 4.3367384057607,
+          "ballCarriesCount": 1,
+          "totalProgression": -0.55499483521604,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.7,
+            "alternative": 6.7
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.02,
+          "dribbleValueNormalized": 0,
+          "defensiveValueNormalized": 0.21,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Marcos Arturia",
+          "firstName": "Marcos",
+          "lastName": "Arturia",
+          "slug": "marcos-arturia",
+          "shortName": "M. Arturia",
+          "position": "F",
+          "jerseyNumber": "26",
+          "height": 187,
+          "userCount": 33,
+          "gender": "M",
+          "country": {
+            "alpha2": "AR",
+            "alpha3": "ARG",
+            "name": "Argentina",
+            "slug": "argentina"
+          },
+          "id": 871813,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 886896000,
+          "proposedMarketValueRaw": {
+            "value": 160000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ماركوس أرتوريا"
+            },
+            "shortNameTranslation": {
+              "ar": "م. أرتوريا"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 26,
+        "jerseyNumber": "26",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 6,
+          "accuratePass": 4,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 1,
+          "goalAssist": 1,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 4,
+          "totalOppositionHalfPasses": 5,
+          "aerialLost": 2,
+          "duelLost": 2,
+          "duelWon": 2,
+          "totalContest": 1,
+          "wonContest": 1,
+          "bigChanceCreated": 1,
+          "shotOffTarget": 1,
+          "onTargetScoringAttempt": 1,
+          "totalClearance": 1,
+          "ballRecovery": 1,
+          "totalTackle": 1,
+          "unsuccessfulTouch": 1,
+          "minutesPlayed": 14,
+          "touches": 14,
+          "rating": 7.9,
+          "possessionLostCtrl": 3,
+          "totalBallCarriesDistance": 23.871400693199,
+          "ballCarriesCount": 2,
+          "totalProgression": 15.907326548465,
+          "bestBallCarryProgression": 10.018052165931,
+          "totalProgressiveBallCarriesDistance": 10.438402368179,
+          "progressiveBallCarriesCount": 1,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 7.9,
+            "alternative": 7.8
+          },
+          "totalShots": 2,
+          "shotValueNormalized": -0.26,
+          "passValueNormalized": 0.75,
+          "dribbleValueNormalized": 0.07,
+          "defensiveValueNormalized": 0.18,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Carlos Morales",
+          "firstName": "Carlos Morales",
+          "lastName": "",
+          "slug": "carlos-morales",
+          "shortName": "C. Morales",
+          "position": "M",
+          "jerseyNumber": "7",
+          "height": 167,
+          "userCount": 27,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 1125514,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 964137600,
+          "proposedMarketValueRaw": {
+            "value": 265000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كارلوس موراليس"
+            },
+            "shortNameTranslation": {
+              "ar": "ك. موراليس"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 7,
+        "jerseyNumber": "7",
+        "position": "D",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 6,
+          "accuratePass": 3,
+          "totalLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 2,
+          "totalOwnHalfPasses": 3,
+          "accurateOppositionHalfPasses": 1,
+          "totalOppositionHalfPasses": 3,
+          "duelLost": 1,
+          "duelWon": 3,
+          "totalContest": 1,
+          "wonContest": 1,
+          "totalClearance": 1,
+          "ballRecovery": 3,
+          "totalTackle": 2,
+          "wonTackle": 2,
+          "fouls": 1,
+          "minutesPlayed": 14,
+          "touches": 10,
+          "rating": 6.8,
+          "possessionLostCtrl": 3,
+          "totalBallCarriesDistance": 14.10104166365,
+          "ballCarriesCount": 1,
+          "totalProgression": 0.72779231860799,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.8,
+            "alternative": 6.9
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0,
+          "dribbleValueNormalized": 0.01,
+          "defensiveValueNormalized": 0.14,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Vicente Álvarez",
+          "firstName": "Vicente",
+          "lastName": "Álvarez",
+          "slug": "vicente-alvarez",
+          "shortName": "V. Álvarez",
+          "position": "M",
+          "jerseyNumber": "15",
+          "height": 175,
+          "userCount": 143,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 1801194,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1166054400,
+          "proposedMarketValueRaw": {
+            "value": 410000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيثنتي ألفاريز"
+            },
+            "shortNameTranslation": {
+              "ar": "ف. ألفاريز"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 15,
+        "jerseyNumber": "15",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "goalAssist": 0,
+          "aerialLost": 1,
+          "duelLost": 3,
+          "duelWon": 1,
+          "totalContest": 2,
+          "wonContest": 1,
+          "onTargetScoringAttempt": 1,
+          "goals": 1,
+          "unsuccessfulTouch": 1,
+          "fouls": 1,
+          "minutesPlayed": 14,
+          "touches": 6,
+          "rating": 7,
+          "possessionLostCtrl": 3,
+          "totalBallCarriesDistance": 28.859164180913,
+          "ballCarriesCount": 2,
+          "totalProgression": 1.4983144598653,
+          "bestBallCarryProgression": 8.6872414804962,
+          "totalProgressiveBallCarriesDistance": 9.0711217057209,
+          "progressiveBallCarriesCount": 1,
+          "ratingVersions": {
+            "original": 7,
+            "alternative": 7.2
+          },
+          "totalShots": 1,
+          "shotValueNormalized": 0.5,
+          "dribbleValueNormalized": -0.22,
+          "defensiveValueNormalized": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Claudio González",
+          "firstName": "Claudio",
+          "lastName": "Gonzalez",
+          "slug": "claudio-gonzalez",
+          "shortName": "C. González",
+          "position": "G",
+          "jerseyNumber": "17",
+          "height": 175,
+          "userCount": 20,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 924180,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 641088000,
+          "proposedMarketValueRaw": {
+            "value": 49000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كلوديو غونزاليس"
+            },
+            "shortNameTranslation": {
+              "ar": "ك. غونزاليس"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 17,
+        "jerseyNumber": "17",
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "César Fuentes",
+          "slug": "cesar-fuentes",
+          "shortName": "C. Fuentes",
+          "position": "M",
+          "jerseyNumber": "6",
+          "height": 171,
+          "userCount": 92,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 247073,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 734572800,
+          "proposedMarketValueRaw": {
+            "value": 235000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "bn": "সিজার ফুয়েন্তেস",
+              "hi": "सीज़र फ़ुएंटेस"
+            },
+            "shortNameTranslation": {
+              "bn": "সি. ফুয়েন্তেস",
+              "hi": "सी. फ़ुएंटेस"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 6,
+        "jerseyNumber": "6",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Danilo Catalán",
+          "firstName": "Danilo",
+          "lastName": "Catalán",
+          "slug": "danilo-catalan",
+          "shortName": "D. Catalán",
+          "position": "M",
+          "jerseyNumber": "34",
+          "height": 171,
+          "userCount": 6,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 877098,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 879897600,
+          "proposedMarketValueRaw": {
+            "value": 195000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دانييلو كاتالان"
+            },
+            "shortNameTranslation": {
+              "ar": "د. كاتالان"
+            }
+          }
+        },
+        "teamId": 39220,
+        "shirtNumber": 20,
+        "jerseyNumber": "20",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Facundo Marín",
+          "firstName": "Facundo Marín",
+          "slug": "facundo-marin",
+          "shortName": "F. Marín",
+          "position": "F",
+          "jerseyNumber": "11",
+          "height": 171,
+          "userCount": 25,
+          "gender": "M",
+          "country": {
+            "alpha2": "AR",
+            "alpha3": "ARG",
+            "name": "Argentina",
+            "slug": "argentina"
+          },
+          "id": 2116602,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 972000000,
+          "proposedMarketValueRaw": {
+            "value": 26000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فاكوندو مارين"
+            },
+            "shortNameTranslation": {
+              "ar": "ف. مارين"
+            }
+          }
+        },
+        "teamId": 331131,
+        "shirtNumber": 11,
+        "jerseyNumber": "11",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      }
+    ],
+    "supportStaff": [],
+    "formation": "4-1-4-1",
+    "playerColor": {
+      "primary": "c21919",
+      "number": "ffffff",
+      "outline": "c21919",
+      "fancyNumber": "ffffff"
+    },
+    "goalkeeperColor": {
+      "primary": "3eaa8e",
+      "number": "ffffff",
+      "outline": "3eaa8e",
+      "fancyNumber": "222226"
+    }
+  },
+  "away": {
+    "players": [
+      {
+        "player": {
+          "name": "Rodrigo Odriozola",
+          "firstName": "Rodrigo",
+          "lastName": "Odriozola",
+          "slug": "rodrigo-odriozola",
+          "shortName": "R. Odriozola",
+          "position": "G",
+          "jerseyNumber": "25",
+          "height": 186,
+          "userCount": 56,
+          "gender": "M",
+          "country": {
+            "alpha2": "UY",
+            "alpha3": "URY",
+            "name": "Uruguay",
+            "slug": "uruguay"
+          },
+          "id": 920957,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 588988800,
+          "proposedMarketValueRaw": {
+            "value": 47000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "رودريغو أودريوزولا"
+            },
+            "shortNameTranslation": {
+              "ar": "ر. أودريوزولا"
+            }
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 25,
+        "jerseyNumber": "25",
+        "position": "G",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 19,
+          "accuratePass": 16,
+          "totalLongBalls": 9,
+          "accurateLongBalls": 6,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 14,
+          "totalOwnHalfPasses": 16,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 3,
+          "ballRecovery": 8,
+          "goodHighClaim": 1,
+          "savedShotsFromInsideTheBox": 3,
+          "saves": 4,
+          "minutesPlayed": 90,
+          "touches": 30,
+          "rating": 6.9,
+          "possessionLostCtrl": 3,
+          "totalBallCarriesDistance": 28.212302472644,
+          "ballCarriesCount": 6,
+          "totalProgression": 15.033125066653,
+          "progressiveBallCarriesCount": 0,
+          "keeperSaveValue": 0.7067,
+          "ratingVersions": {
+            "original": 6.9,
+            "alternative": 7
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.06,
+          "dribbleValueNormalized": -0.01,
+          "defensiveValueNormalized": -0.26,
+          "goalkeeperValueNormalized": 0.54,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Nicolás Vargas",
+          "slug": "nicolas-vargas",
+          "shortName": "N. Vargas",
+          "position": "M",
+          "jerseyNumber": "14",
+          "height": 175,
+          "userCount": 41,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 247055,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 716515200,
+          "proposedMarketValueRaw": {
+            "value": 210000,
+            "currency": "EUR"
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 14,
+        "jerseyNumber": "14",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 54,
+          "accuratePass": 42,
+          "totalLongBalls": 16,
+          "accurateLongBalls": 6,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 24,
+          "totalOwnHalfPasses": 24,
+          "accurateOppositionHalfPasses": 18,
+          "totalOppositionHalfPasses": 30,
+          "totalCross": 3,
+          "accurateCross": 1,
+          "aerialLost": 1,
+          "aerialWon": 1,
+          "duelLost": 2,
+          "duelWon": 4,
+          "challengeLost": 1,
+          "totalClearance": 4,
+          "ballRecovery": 2,
+          "totalTackle": 2,
+          "wonTackle": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 90,
+          "touches": 75,
+          "rating": 6.6,
+          "possessionLostCtrl": 20,
+          "totalBallCarriesDistance": 131.43554344457,
+          "ballCarriesCount": 18,
+          "totalProgression": 74.766970064122,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.6,
+            "alternative": 6.5
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.31,
+          "dribbleValueNormalized": 0.05,
+          "defensiveValueNormalized": -0.45,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Rafael Caroca",
+          "firstName": "Rafael",
+          "lastName": "Caroca",
+          "slug": "rafael-caroca",
+          "shortName": "R. Caroca",
+          "position": "D",
+          "jerseyNumber": "5",
+          "height": 175,
+          "userCount": 38,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 36995,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 616809600,
+          "proposedMarketValueRaw": {
+            "value": 95000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "رافائيل كاروك"
+            },
+            "shortNameTranslation": {
+              "ar": "ر. كاروك"
+            }
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 5,
+        "jerseyNumber": "5",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 51,
+          "accuratePass": 48,
+          "totalLongBalls": 3,
+          "accurateLongBalls": 3,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 39,
+          "totalOwnHalfPasses": 40,
+          "accurateOppositionHalfPasses": 9,
+          "totalOppositionHalfPasses": 11,
+          "aerialLost": 6,
+          "aerialWon": 8,
+          "duelLost": 8,
+          "duelWon": 9,
+          "challengeLost": 2,
+          "totalClearance": 10,
+          "outfielderBlock": 1,
+          "interceptionWon": 3,
+          "ballRecovery": 7,
+          "wasFouled": 1,
+          "minutesPlayed": 90,
+          "touches": 69,
+          "rating": 6.4,
+          "possessionLostCtrl": 3,
+          "totalBallCarriesDistance": 94.380533610129,
+          "ballCarriesCount": 14,
+          "totalProgression": 41.878550778803,
+          "progressiveBallCarriesCount": 0,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": 6.9
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.16,
+          "dribbleValueNormalized": 0.05,
+          "defensiveValueNormalized": -0.35,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Renzo Malanca",
+          "firstName": "",
+          "lastName": "",
+          "slug": "renzo-malanca",
+          "shortName": "R. Malanca",
+          "position": "D",
+          "jerseyNumber": "13",
+          "height": 188,
+          "userCount": 101,
+          "gender": "M",
+          "country": {
+            "alpha2": "AR",
+            "alpha3": "ARG",
+            "name": "Argentina",
+            "slug": "argentina"
+          },
+          "id": 1096236,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1052179200,
+          "proposedMarketValueRaw": {
+            "value": 700000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "رينزو مالانكا"
+            },
+            "shortNameTranslation": {
+              "ar": "ر. مالانكا"
+            }
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 13,
+        "jerseyNumber": "13",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 53,
+          "accuratePass": 40,
+          "totalLongBalls": 8,
+          "accurateLongBalls": 4,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 18,
+          "totalOwnHalfPasses": 21,
+          "accurateOppositionHalfPasses": 22,
+          "totalOppositionHalfPasses": 32,
+          "totalCross": 6,
+          "accurateCross": 1,
+          "aerialLost": 1,
+          "aerialWon": 6,
+          "duelLost": 3,
+          "duelWon": 11,
+          "challengeLost": 1,
+          "onTargetScoringAttempt": 1,
+          "totalClearance": 6,
+          "outfielderBlock": 2,
+          "interceptionWon": 1,
+          "ballRecovery": 5,
+          "totalTackle": 3,
+          "wonTackle": 3,
+          "errorLeadToAShot": 1,
+          "unsuccessfulTouch": 1,
+          "wasFouled": 2,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 89,
+          "rating": 8.4,
+          "possessionLostCtrl": 22,
+          "totalBallCarriesDistance": 172.7536980861,
+          "ballCarriesCount": 19,
+          "totalProgression": 100.74122242366,
+          "bestBallCarryProgression": 27.894571775148,
+          "totalProgressiveBallCarriesDistance": 59.357207031177,
+          "progressiveBallCarriesCount": 2,
+          "ratingVersions": {
+            "original": 8.4,
+            "alternative": 7.5
+          },
+          "totalShots": 1,
+          "shotValueNormalized": 0.31,
+          "passValueNormalized": 0.55,
+          "dribbleValueNormalized": 0.21,
+          "defensiveValueNormalized": 0.14,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Maicol León",
+          "firstName": "Maicol León",
+          "slug": "maicol-leon",
+          "shortName": "M. León",
+          "position": "D",
+          "jerseyNumber": "24",
+          "height": 177,
+          "userCount": 37,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 1108721,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1055203200,
+          "proposedMarketValueRaw": {
+            "value": 330000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايكل ليون"
+            },
+            "shortNameTranslation": {
+              "ar": "م. ليون"
+            }
+          }
+        },
+        "teamId": 213554,
+        "shirtNumber": 24,
+        "jerseyNumber": "24",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 42,
+          "accuratePass": 32,
+          "totalLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 12,
+          "totalOwnHalfPasses": 12,
+          "accurateOppositionHalfPasses": 20,
+          "totalOppositionHalfPasses": 30,
+          "totalCross": 5,
+          "accurateCross": 1,
+          "aerialLost": 1,
+          "aerialWon": 1,
+          "duelLost": 5,
+          "duelWon": 4,
+          "challengeLost": 1,
+          "dispossessed": 2,
+          "totalContest": 2,
+          "wonContest": 2,
+          "totalClearance": 2,
+          "ballRecovery": 3,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 74,
+          "touches": 65,
+          "rating": 6.5,
+          "possessionLostCtrl": 16,
+          "totalBallCarriesDistance": 146.25148578449,
+          "ballCarriesCount": 15,
+          "totalProgression": 78.072085504743,
+          "bestBallCarryProgression": 20.62804831138,
+          "totalProgressiveBallCarriesDistance": 41.238001698276,
+          "progressiveBallCarriesCount": 2,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.6
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.07,
+          "dribbleValueNormalized": 0.21,
+          "defensiveValueNormalized": -0.12,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Santiago Silva",
+          "firstName": "Santiago Silva",
+          "lastName": "",
+          "slug": "santiago-silva",
+          "shortName": "S. Silva",
+          "position": "M",
+          "jerseyNumber": "8",
+          "height": 181,
+          "userCount": 101,
+          "gender": "M",
+          "country": {
+            "alpha2": "UY",
+            "alpha3": "URY",
+            "name": "Uruguay",
+            "slug": "uruguay"
+          },
+          "id": 1381958,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1092960000,
+          "proposedMarketValueRaw": {
+            "value": 670000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سانتياغو سيلفا"
+            },
+            "shortNameTranslation": {
+              "ar": "س. سيلفا"
+            }
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 8,
+        "jerseyNumber": "8",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 22,
+          "accuratePass": 19,
+          "totalLongBalls": 3,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 10,
+          "totalOwnHalfPasses": 11,
+          "accurateOppositionHalfPasses": 9,
+          "totalOppositionHalfPasses": 11,
+          "totalCross": 2,
+          "duelLost": 3,
+          "duelWon": 1,
+          "challengeLost": 2,
+          "ballRecovery": 5,
+          "unsuccessfulTouch": 1,
+          "wasFouled": 1,
+          "fouls": 2,
+          "minutesPlayed": 61,
+          "touches": 30,
+          "rating": 6.3,
+          "possessionLostCtrl": 6,
+          "totalBallCarriesDistance": 93.652709763122,
+          "ballCarriesCount": 9,
+          "totalProgression": 35.60171504231,
+          "bestBallCarryProgression": 19.883407075568,
+          "totalProgressiveBallCarriesDistance": 38.256504619051,
+          "progressiveBallCarriesCount": 2,
+          "ratingVersions": {
+            "original": 6.3,
+            "alternative": 6.3
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.07,
+          "dribbleValueNormalized": 0.17,
+          "defensiveValueNormalized": -0.18,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Claudio Sepúlveda",
+          "firstName": "Claudio",
+          "lastName": "Sepúlveda",
+          "slug": "claudio-sepulveda",
+          "shortName": "C. Sepúlveda",
+          "position": "M",
+          "jerseyNumber": "6",
+          "height": 174,
+          "userCount": 37,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 249373,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 708912000,
+          "proposedMarketValueRaw": {
+            "value": 195000,
+            "currency": "EUR"
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 6,
+        "jerseyNumber": "6",
+        "position": "M",
+        "substitute": false,
+        "captain": true,
+        "statistics": {
+          "totalPass": 62,
+          "accuratePass": 57,
+          "totalLongBalls": 9,
+          "accurateLongBalls": 9,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 27,
+          "totalOwnHalfPasses": 27,
+          "accurateOppositionHalfPasses": 30,
+          "totalOppositionHalfPasses": 35,
+          "totalCross": 2,
+          "aerialLost": 1,
+          "aerialWon": 2,
+          "duelLost": 4,
+          "duelWon": 3,
+          "challengeLost": 2,
+          "totalClearance": 3,
+          "outfielderBlock": 1,
+          "interceptionWon": 1,
+          "ballRecovery": 6,
+          "unsuccessfulTouch": 1,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 72,
+          "rating": 7.5,
+          "possessionLostCtrl": 8,
+          "totalBallCarriesDistance": 222.56257001981,
+          "ballCarriesCount": 25,
+          "totalProgression": 118.15808706335,
+          "bestBallCarryProgression": 31.084911477178,
+          "totalProgressiveBallCarriesDistance": 56.270101065312,
+          "progressiveBallCarriesCount": 2,
+          "ratingVersions": {
+            "original": 7.5,
+            "alternative": 7.1
+          },
+          "totalShots": 0,
+          "passValueNormalized": 0.42,
+          "dribbleValueNormalized": 0.18,
+          "defensiveValueNormalized": -0.11,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Lucas Velásquez",
+          "firstName": "Lucas Velásquez",
+          "slug": "lucas-velasquez",
+          "shortName": "L. Velásquez",
+          "position": "D",
+          "jerseyNumber": "27",
+          "height": 171,
+          "userCount": 51,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 1482399,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1138838400,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "لوكاس فيلاسكيز"
+            },
+            "shortNameTranslation": {
+              "ar": "ل. فيلاسكيز"
+            }
+          }
+        },
+        "teamId": 213554,
+        "shirtNumber": 27,
+        "jerseyNumber": "27",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 11,
+          "accuratePass": 7,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 5,
+          "totalOwnHalfPasses": 6,
+          "accurateOppositionHalfPasses": 2,
+          "totalOppositionHalfPasses": 5,
+          "totalCross": 2,
+          "aerialWon": 1,
+          "duelLost": 3,
+          "duelWon": 2,
+          "challengeLost": 3,
+          "totalContest": 1,
+          "wonContest": 1,
+          "totalClearance": 2,
+          "ballRecovery": 2,
+          "minutesPlayed": 45,
+          "touches": 22,
+          "rating": 6.4,
+          "possessionLostCtrl": 6,
+          "totalBallCarriesDistance": 38.014188475498,
+          "ballCarriesCount": 5,
+          "totalProgression": 18.261312801164,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.4,
+            "alternative": 6.5
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.17,
+          "dribbleValueNormalized": 0.01,
+          "defensiveValueNormalized": -0.18,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Kevin Altez",
+          "firstName": "Kevin Altez",
+          "lastName": "",
+          "slug": "kevin-altez",
+          "shortName": "K. Altez",
+          "position": "M",
+          "jerseyNumber": "30",
+          "height": 163,
+          "userCount": 37,
+          "gender": "M",
+          "country": {
+            "alpha2": "UY",
+            "alpha3": "URY",
+            "name": "Uruguay",
+            "slug": "uruguay"
+          },
+          "id": 1177673,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1102982400,
+          "proposedMarketValueRaw": {
+            "value": 240000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كيفن ألتيس"
+            },
+            "shortNameTranslation": {
+              "ar": "ك. ألتيس"
+            }
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 30,
+        "jerseyNumber": "30",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 12,
+          "accuratePass": 11,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 4,
+          "totalOwnHalfPasses": 4,
+          "accurateOppositionHalfPasses": 7,
+          "totalOppositionHalfPasses": 8,
+          "aerialWon": 1,
+          "duelLost": 2,
+          "duelWon": 1,
+          "totalContest": 1,
+          "bigChanceMissed": 1,
+          "shotOffTarget": 1,
+          "totalClearance": 1,
+          "fouls": 1,
+          "minutesPlayed": 45,
+          "touches": 17,
+          "rating": 6.5,
+          "possessionLostCtrl": 2,
+          "totalBallCarriesDistance": 99.46536285329,
+          "ballCarriesCount": 6,
+          "totalProgression": 8.3924809439046,
+          "bestBallCarryProgression": 23.206528122286,
+          "totalProgressiveBallCarriesDistance": 41.357005243716,
+          "progressiveBallCarriesCount": 2,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.6
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.39,
+          "passValueNormalized": -0.05,
+          "dribbleValueNormalized": 0.09,
+          "defensiveValueNormalized": 0.17,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Lionel Altamirano",
+          "firstName": "Lionel",
+          "lastName": "Altamirano",
+          "slug": "lionel-altamirano",
+          "shortName": "L. Altamirano",
+          "position": "F",
+          "jerseyNumber": "9",
+          "height": 182,
+          "userCount": 383,
+          "gender": "M",
+          "country": {
+            "alpha2": "AR",
+            "alpha3": "ARG",
+            "name": "Argentina",
+            "slug": "argentina"
+          },
+          "id": 323439,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 718761600,
+          "proposedMarketValueRaw": {
+            "value": 520000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ليونيل ألتاميرانو"
+            },
+            "shortNameTranslation": {
+              "ar": "ل. ألتاميرانو"
+            }
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 9,
+        "jerseyNumber": "9",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 22,
+          "accuratePass": 14,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 5,
+          "totalOwnHalfPasses": 5,
+          "accurateOppositionHalfPasses": 9,
+          "totalOppositionHalfPasses": 17,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "aerialWon": 1,
+          "duelLost": 2,
+          "duelWon": 1,
+          "challengeLost": 1,
+          "bigChanceMissed": 1,
+          "shotOffTarget": 1,
+          "totalClearance": 2,
+          "ballRecovery": 2,
+          "unsuccessfulTouch": 2,
+          "minutesPlayed": 60,
+          "touches": 29,
+          "rating": 6.2,
+          "possessionLostCtrl": 11,
+          "totalBallCarriesDistance": 20.842456366371,
+          "ballCarriesCount": 3,
+          "totalProgression": -13.909457450606,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.2,
+            "alternative": 6.7
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.19,
+          "passValueNormalized": -0.33,
+          "dribbleValueNormalized": 0.17,
+          "defensiveValueNormalized": -0.01,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Maximiliano Rodríguez",
+          "slug": "maximiliano-rodriguez",
+          "shortName": "M. Rodríguez",
+          "position": "F",
+          "jerseyNumber": "15",
+          "height": 185,
+          "userCount": 255,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 940483,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 959731200,
+          "proposedMarketValueRaw": {
+            "value": 430000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ماكسيمليانو رودريغيز",
+              "bn": "ম্যাক্সিমিলিয়ানো রদ্রিগেজ",
+              "hi": "मैक्सिमिलियन रोड्रिग्ज"
+            },
+            "shortNameTranslation": {
+              "ar": "م. رودريغيز",
+              "bn": "এম. রদ্রিগেজ",
+              "hi": "एम. रोड्रिग्ज"
+            }
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 15,
+        "jerseyNumber": "15",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 17,
+          "accuratePass": 9,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 2,
+          "totalOwnHalfPasses": 2,
+          "accurateOppositionHalfPasses": 7,
+          "totalOppositionHalfPasses": 15,
+          "totalCross": 1,
+          "accurateCross": 1,
+          "aerialLost": 1,
+          "aerialWon": 3,
+          "duelLost": 6,
+          "duelWon": 3,
+          "dispossessed": 4,
+          "bigChanceCreated": 1,
+          "shotOffTarget": 2,
+          "blockedScoringAttempt": 1,
+          "ballRecovery": 2,
+          "unsuccessfulTouch": 2,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 32,
+          "rating": 5.6,
+          "possessionLostCtrl": 14,
+          "totalBallCarriesDistance": 42.271570276274,
+          "ballCarriesCount": 6,
+          "totalProgression": 11.872769493613,
+          "progressiveBallCarriesCount": 0,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 5.6,
+            "alternative": 6.7
+          },
+          "totalShots": 3,
+          "shotValueNormalized": -0.52,
+          "passValueNormalized": -1,
+          "dribbleValueNormalized": 0.12,
+          "defensiveValueNormalized": 0.15,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Cris Martínez",
+          "firstName": "Cris",
+          "lastName": "Martínez",
+          "slug": "cris-martinez",
+          "shortName": "C. Martínez",
+          "position": "M",
+          "jerseyNumber": "23",
+          "height": 170,
+          "userCount": 240,
+          "gender": "M",
+          "country": {
+            "alpha2": "PY",
+            "alpha3": "PRY",
+            "name": "Paraguay",
+            "slug": "paraguay"
+          },
+          "id": 851968,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 735609600,
+          "proposedMarketValueRaw": {
+            "value": 440000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كريس مارتينيز"
+            },
+            "shortNameTranslation": {
+              "ar": "ك. مارتينيز"
+            }
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 23,
+        "jerseyNumber": "23",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 10,
+          "accuratePass": 6,
+          "goalAssist": 0,
+          "totalOwnHalfPasses": 1,
+          "accurateOppositionHalfPasses": 6,
+          "totalOppositionHalfPasses": 9,
+          "aerialLost": 1,
+          "aerialWon": 1,
+          "duelLost": 3,
+          "duelWon": 1,
+          "challengeLost": 1,
+          "ballRecovery": 2,
+          "fouls": 1,
+          "minutesPlayed": 45,
+          "touches": 12,
+          "rating": 6.1,
+          "possessionLostCtrl": 4,
+          "totalBallCarriesDistance": 32.950430141699,
+          "ballCarriesCount": 5,
+          "totalProgression": -3.9937977115459,
+          "progressiveBallCarriesCount": 0,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.1,
+            "alternative": 6.6
+          },
+          "totalShots": 0,
+          "passValueNormalized": -0.18,
+          "dribbleValueNormalized": 0.03,
+          "defensiveValueNormalized": -0.05,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Ezequiel Cañete",
+          "slug": "ezequiel-canete",
+          "shortName": "E. Cañete",
+          "position": "M",
+          "jerseyNumber": "10",
+          "height": 175,
+          "userCount": 80,
+          "gender": "M",
+          "country": {
+            "alpha2": "AR",
+            "alpha3": "ARG",
+            "name": "Argentina",
+            "slug": "argentina"
+          },
+          "id": 1017455,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 929577600,
+          "proposedMarketValueRaw": {
+            "value": 160000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "إيزكييل كانييت"
+            },
+            "shortNameTranslation": {
+              "ar": "إ. كانييت"
+            }
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 10,
+        "jerseyNumber": "10",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 32,
+          "accuratePass": 27,
+          "totalLongBalls": 6,
+          "accurateLongBalls": 6,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 8,
+          "totalOwnHalfPasses": 8,
+          "accurateOppositionHalfPasses": 19,
+          "totalOppositionHalfPasses": 24,
+          "totalCross": 1,
+          "aerialWon": 3,
+          "duelLost": 2,
+          "duelWon": 3,
+          "dispossessed": 2,
+          "blockedScoringAttempt": 1,
+          "totalClearance": 1,
+          "ballRecovery": 1,
+          "unsuccessfulTouch": 3,
+          "minutesPlayed": 45,
+          "touches": 42,
+          "rating": 7.2,
+          "possessionLostCtrl": 11,
+          "totalBallCarriesDistance": 147.55842823126,
+          "ballCarriesCount": 16,
+          "totalProgression": 72.405873134861,
+          "bestBallCarryProgression": 23.374123566047,
+          "totalProgressiveBallCarriesDistance": 47.312293198622,
+          "progressiveBallCarriesCount": 2,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 7.2,
+            "alternative": 6.8
+          },
+          "totalShots": 1,
+          "shotValueNormalized": 0.01,
+          "passValueNormalized": 0.39,
+          "dribbleValueNormalized": 0.13,
+          "defensiveValueNormalized": -0.12,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Mario Briceño",
+          "firstName": "Mario",
+          "lastName": "Briceño",
+          "slug": "mario-briceno",
+          "shortName": "M. Briceño",
+          "position": "F",
+          "jerseyNumber": "7",
+          "height": 180,
+          "userCount": 49,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 845174,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 835228800,
+          "proposedMarketValueRaw": {
+            "value": 640000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ماريو بريسينيو"
+            },
+            "shortNameTranslation": {
+              "ar": "م. بريسينيو"
+            }
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 7,
+        "jerseyNumber": "7",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 10,
+          "accuratePass": 7,
+          "totalLongBalls": 1,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 2,
+          "totalOwnHalfPasses": 2,
+          "accurateOppositionHalfPasses": 5,
+          "totalOppositionHalfPasses": 8,
+          "totalCross": 8,
+          "accurateCross": 1,
+          "aerialLost": 2,
+          "duelLost": 4,
+          "duelWon": 2,
+          "challengeLost": 1,
+          "totalContest": 2,
+          "wonContest": 1,
+          "shotOffTarget": 1,
+          "ballRecovery": 2,
+          "unsuccessfulTouch": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 30,
+          "touches": 25,
+          "rating": 6.5,
+          "possessionLostCtrl": 12,
+          "totalBallCarriesDistance": 208.94244253487,
+          "ballCarriesCount": 11,
+          "totalProgression": 139.41827006999,
+          "bestBallCarryProgression": 26.421775848079,
+          "totalProgressiveBallCarriesDistance": 173.18879564598,
+          "progressiveBallCarriesCount": 6,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.7
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.53,
+          "passValueNormalized": 0.2,
+          "dribbleValueNormalized": 0.17,
+          "defensiveValueNormalized": -0.06,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Claudio Torres",
+          "firstName": "Claudio Torres",
+          "slug": "claudio-torres",
+          "shortName": "C. Torres",
+          "position": "M",
+          "jerseyNumber": "29",
+          "height": 178,
+          "userCount": 31,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 1108549,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1048982400,
+          "proposedMarketValueRaw": {
+            "value": 330000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كلوديو توريس"
+            },
+            "shortNameTranslation": {
+              "ar": "ك. توريس"
+            }
+          }
+        },
+        "teamId": 213554,
+        "shirtNumber": 29,
+        "jerseyNumber": "29",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 12,
+          "accuratePass": 6,
+          "totalLongBalls": 2,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 1,
+          "totalOwnHalfPasses": 3,
+          "accurateOppositionHalfPasses": 5,
+          "totalOppositionHalfPasses": 9,
+          "totalCross": 2,
+          "aerialWon": 1,
+          "duelLost": 2,
+          "duelWon": 4,
+          "totalContest": 4,
+          "wonContest": 2,
+          "shotOffTarget": 1,
+          "ballRecovery": 1,
+          "unsuccessfulTouch": 2,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 29,
+          "touches": 24,
+          "rating": 6.5,
+          "possessionLostCtrl": 12,
+          "totalBallCarriesDistance": 93.240116123749,
+          "ballCarriesCount": 8,
+          "totalProgression": 40.346972276139,
+          "bestBallCarryProgression": 17.952434090133,
+          "totalProgressiveBallCarriesDistance": 24.445309754634,
+          "progressiveBallCarriesCount": 1,
+          "keyPass": 1,
+          "ratingVersions": {
+            "original": 6.5,
+            "alternative": 6.7
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.01,
+          "passValueNormalized": 0.03,
+          "dribbleValueNormalized": 0.05,
+          "defensiveValueNormalized": -0.1,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Luciano Arriagada",
+          "firstName": "",
+          "lastName": "",
+          "slug": "luciano-arriagada",
+          "shortName": "Luciano Arriagada",
+          "position": "F",
+          "jerseyNumber": "16",
+          "height": 184,
+          "userCount": 288,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 1014798,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1020124800,
+          "proposedMarketValueRaw": {
+            "value": 270000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "لوسيانو أرياغادا",
+              "bn": "লুসিয়ানো আরিয়াগাডা",
+              "hi": "लुसियानो अरियागाडा"
+            },
+            "shortNameTranslation": {
+              "ar": "ل. أرياغادا",
+              "bn": "লুসিয়ানো আরিয়াগাডা",
+              "hi": "लुसियानो अरियागाडा"
+            }
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 16,
+        "jerseyNumber": "16",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 8,
+          "accuratePass": 7,
+          "goalAssist": 0,
+          "accurateOwnHalfPasses": 2,
+          "totalOwnHalfPasses": 2,
+          "accurateOppositionHalfPasses": 5,
+          "totalOppositionHalfPasses": 6,
+          "aerialLost": 1,
+          "duelLost": 2,
+          "blockedScoringAttempt": 1,
+          "ballRecovery": 1,
+          "fouls": 1,
+          "minutesPlayed": 16,
+          "touches": 11,
+          "rating": 6.3,
+          "possessionLostCtrl": 1,
+          "totalBallCarriesDistance": 23.367742531005,
+          "ballCarriesCount": 3,
+          "totalProgression": -2.28993481514,
+          "progressiveBallCarriesCount": 0,
+          "ratingVersions": {
+            "original": 6.3,
+            "alternative": 6.5
+          },
+          "totalShots": 1,
+          "shotValueNormalized": -0.03,
+          "passValueNormalized": -0.16,
+          "dribbleValueNormalized": 0.01,
+          "defensiveValueNormalized": 0.13,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Sebastián Mella",
+          "firstName": "Sebastián",
+          "lastName": "Mella",
+          "slug": "sebastian-mella",
+          "shortName": "S. Mella",
+          "position": "G",
+          "jerseyNumber": "1",
+          "height": 185,
+          "userCount": 205,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 1657110,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1122768000,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيباستيان ميلا"
+            },
+            "shortNameTranslation": {
+              "ar": "س. ميلا"
+            }
+          }
+        },
+        "teamId": 213554,
+        "shirtNumber": 1,
+        "jerseyNumber": "1",
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Cristian Toro",
+          "slug": "cristian-toro",
+          "shortName": "C. Toro",
+          "position": "D",
+          "jerseyNumber": "20",
+          "height": 186,
+          "userCount": 50,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 988146,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 973814400,
+          "proposedMarketValueRaw": {
+            "value": 330000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كريستيانو تورو"
+            },
+            "shortNameTranslation": {
+              "ar": "ك. تورو"
+            }
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 20,
+        "jerseyNumber": "20",
+        "position": "D",
+        "substitute": true,
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Javier Nicolás Cárcamo",
+          "firstName": "",
+          "slug": "nicolas-carcamo",
+          "shortName": "N. Cárcamo",
+          "position": "M",
+          "jerseyNumber": "22",
+          "height": 175,
+          "userCount": 104,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 1656140,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1107129600,
+          "proposedMarketValueRaw": {
+            "value": 55000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "خافيير نيكولاس كاركامو"
+            },
+            "shortNameTranslation": {
+              "ar": "خ. كاركامو"
+            }
+          }
+        },
+        "teamId": 213554,
+        "shirtNumber": 22,
+        "jerseyNumber": "22",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      },
+      {
+        "player": {
+          "name": "Harold Antiñirre",
+          "firstName": "Harold",
+          "lastName": "Antiñirre",
+          "slug": "harold-antinirre",
+          "shortName": "H. Antiñirre",
+          "position": "F",
+          "jerseyNumber": "26",
+          "height": 172,
+          "userCount": 37,
+          "gender": "M",
+          "country": {
+            "alpha2": "CL",
+            "alpha3": "CHL",
+            "name": "Chile",
+            "slug": "chile"
+          },
+          "id": 988078,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1030233600,
+          "proposedMarketValueRaw": {
+            "value": 245000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "هارولد أنتينير"
+            },
+            "shortNameTranslation": {
+              "ar": "ه. أنتينير"
+            }
+          }
+        },
+        "teamId": 3164,
+        "shirtNumber": 26,
+        "jerseyNumber": "26",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalShots": 0,
+          "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+          }
+        }
+      }
+    ],
+    "supportStaff": [],
+    "formation": "3-4-1-2",
+    "playerColor": {
+      "primary": "0078f0",
+      "number": "ffffff",
+      "outline": "0078f0",
+      "fancyNumber": "ffffff"
+    },
+    "goalkeeperColor": {
+      "primary": "32bc54",
+      "number": "000000",
+      "outline": "32bc54",
+      "fancyNumber": "222226"
+    }
+  },
+  "statisticalVersion": 3
+}
