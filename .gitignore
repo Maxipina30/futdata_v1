@@ -1,5 +1,6 @@
 .venv/
 __pycache__/
+**/__pycache__/
 *.csv
 *.parquet
 *.xlsx
@@ -10,3 +11,8 @@ venv*/
 .runtime/
 files/00_cache/
 files/*_files/
+files/01_raw/*/html/
+files/sofascore_pipeline/cache/
+logs/
+streamlit_*.log
+.claude/
