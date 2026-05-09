@@ -1,0 +1,393 @@
+player_id,player,team,partidos,minutos,gf_on,ga_on,pm,pm_per90
+1197239,Marcelo Flores,Deportes Limache,11,947.0,24,9,15,1.43
+874853,Ramón Martínez,Deportes Limache,11,972.0,25,10,15,1.39
+875564,Augusto Aguirre,Deportes Limache,11,990.0,25,10,15,1.36
+818816,Jean Meneses,Deportes Limache,11,964.0,24,9,15,1.4
+925992,Daniel Castro,Deportes Limache,11,956.0,23,9,14,1.32
+980882,Yerko González,Deportes Limache,11,982.0,24,10,14,1.28
+863124,Misael Llantén,Deportes Limache,10,316.0,13,1,12,3.42
+874123,Matías Bórquez,Deportes Limache,7,630.0,16,7,9,1.29
+33829,Alfonso Parot,Deportes Limache,7,606.0,16,7,9,1.34
+871813,Marcos Arturia,Deportes Limache,11,207.0,8,0,8,3.48
+845174,Mario Briceño,Huachipato,8,278.0,10,3,7,2.27
+988084,Gonzalo Sosa,Deportes Limache,11,833.0,17,10,7,0.76
+1117091,Nelson Guillermo Guaiquil,Huachipato,4,352.0,9,3,6,1.53
+340455,Claudio Aquino,Colo-Colo,10,512.0,6,0,6,1.05
+1482408,Felipe Faúndez,O'Higgins,9,733.0,14,8,6,0.74
+1199394,Axel Alfonzo,Deportes Limache,8,403.0,10,4,6,1.34
+924180,Claudio González,Deportes Limache,4,360.0,9,3,6,1.5
+1482395,Christian Bravo,Huachipato,4,360.0,9,3,6,1.5
+995388,Clemente Montes,Universidad Católica,7,468.0,14,8,6,1.15
+983528,Francisco González,O'Higgins,11,793.0,15,9,6,0.68
+1801194,Vicente Álvarez,Deportes Limache,7,258.0,7,1,6,2.09
+805183,Gabriel Castellón,Universidad de Chile,11,990.0,10,5,5,0.45
+324937,Cristián Cuevas,Universidad Católica,10,859.0,18,13,5,0.52
+247055,Nicolás Vargas,Huachipato,10,861.0,16,11,5,0.52
+1177211,Felipe Ogaz,O'Higgins,10,877.0,15,10,5,0.51
+828952,Fernando Zampedri,Universidad Católica,11,981.0,21,16,5,0.46
+1176822,Diego Ulloa,Colo-Colo,10,830.0,9,4,5,0.54
+906105,Maximiliano Guerrero,Universidad de Chile,11,721.0,8,3,5,0.62
+986599,Joaquín Montecinos,Deportes Limache,11,577.0,13,8,5,0.78
+1087387,Marcelo Morales,Universidad de Chile,7,524.0,7,2,5,0.86
+1482399,Lucas Velásquez,Huachipato,9,650.0,12,7,5,0.69
+831242,Omar Carabalí,O'Higgins,10,900.0,15,10,5,0.5
+844183,Juan Leiva,O'Higgins,10,757.0,12,7,5,0.59
+818897,Fabián Hormazábal,Universidad de Chile,11,982.0,10,5,5,0.46
+973992,Diego Céspedes,Ñublense,10,484.0,6,2,4,0.74
+986598,Joaquín Gutiérrez,Deportes La Serena,10,697.0,12,8,4,0.52
+1016653,Vicente Bernedo,Universidad Católica,11,990.0,21,17,4,0.36
+844224,Tomás Alarcón,Colo-Colo,10,812.0,10,6,4,0.44
+925337,Javier Altamirano,Universidad de Chile,11,734.0,8,4,4,0.49
+1022259,Jeyson Rojas,Colo-Colo,10,834.0,7,3,4,0.43
+1125514,Carlos Morales,Deportes Limache,6,96.0,4,0,4,3.75
+589542,Israel Poblete,Universidad de Chile,11,784.0,8,4,4,0.46
+789979,Matías Zaldivia,Universidad de Chile,10,900.0,9,5,4,0.4
+2184978,Lucas Barrera,Universidad de Chile,4,234.0,4,0,4,1.54
+129209,Cristian Palacios,Everton de Viña del Mar,8,502.0,8,4,4,0.72
+1518443,Franco Rami,Ñublense,11,348.0,5,1,4,1.03
+849177,Arnaldo Castillo,O'Higgins,11,656.0,10,6,4,0.55
+831012,Nicolás Ramírez,Universidad de Chile,11,851.0,9,5,4,0.42
+819088,Branco Ampuero,Universidad Católica,11,976.0,21,17,4,0.37
+339699,Luis Pavez Munoz,O'Higgins,7,569.0,9,5,4,0.63
+1981780,Nicolás L'Huiller,Universidad Católica,3,138.0,7,3,4,2.61
+1017455,Ezequiel Cañete,Huachipato,10,477.0,10,7,3,0.57
+792585,Maximiliano Romero,Colo-Colo,11,855.0,8,5,3,0.32
+323439,Lionel Altamirano,Huachipato,11,735.0,12,9,3,0.37
+339891,Diego Oyarzún,Everton de Viña del Mar,9,810.0,9,6,3,0.33
+1643443,Nicolás Johansen,Coquimbo Unido,10,488.0,9,6,3,0.55
+1997136,Yastin Cuevas,Colo-Colo,8,97.0,3,0,3,2.78
+2038201,José Movillo,O'Higgins,3,189.0,5,2,3,1.43
+1064150,Nicolás Meza,Palestino,9,366.0,6,3,3,0.74
+1111544,Daniel Gutiérrez,Unión La Calera,10,900.0,11,8,3,0.3
+932866,Justo Giani,Universidad Católica,11,958.0,20,17,3,0.28
+33943,Fernando Meza,Palestino,7,507.0,9,6,3,0.53
+986496,Daniel González,Universidad Católica,3,215.0,8,5,3,1.26
+974009,Sebastián Galani,Coquimbo Unido,9,716.0,11,8,3,0.38
+36995,Rafael Caroca,Huachipato,11,990.0,16,13,3,0.27
+973560,Matías Palavecino,Universidad Católica,11,745.0,17,14,3,0.36
+37006,Eduardo Vargas,Universidad de Chile,9,654.0,8,5,3,0.41
+1118269,Ignacio Tapia,Ñublense,7,319.0,4,1,3,0.85
+1190022,Joaquín Soto,Unión La Calera,11,586.0,8,5,3,0.46
+818974,César Pinares,Deportes Limache,8,550.0,11,8,3,0.49
+986626,Jovany Campusano,Ñublense,10,886.0,9,6,3,0.3
+990283,Miguel Brizuela,O'Higgins,7,621.0,9,6,3,0.43
+1014795,Jonathan Villagra,Colo-Colo,11,981.0,10,7,3,0.28
+1411686,Martín Maturana,O'Higgins,6,206.0,7,4,3,1.31
+1482412,Ignacio Vásquez,Universidad de Chile,10,343.0,3,0,3,0.79
+947963,Vicente Fernández,Everton de Viña del Mar,8,554.0,7,5,2,0.32
+18342,Arturo Vidal,Colo-Colo,10,774.0,7,5,2,0.23
+931341,César Munder,Palestino,7,488.0,8,6,2,0.37
+965967,Juan Manuel Requena,Unión La Calera,9,800.0,9,7,2,0.22
+359024,Juan Martín Lucero,Universidad de Chile,7,456.0,4,2,2,0.39
+1523685,Francisco Jose Pozzo,Unión La Calera,10,506.0,7,5,2,0.36
+1980388,Gabriel Maureira,Colo-Colo,3,200.0,4,2,2,0.9
+147570,Diego Rubio,Deportes La Serena,10,751.0,7,5,2,0.24
+126376,Bryan Rabello,O'Higgins,7,475.0,7,5,2,0.38
+1836149,Dixon Pereira,Coquimbo Unido,1,45.0,2,0,2,4.0
+986451,Benjamín Gazzolo,Coquimbo Unido,10,900.0,12,10,2,0.2
+973567,Pablo Parra,Universidad de Concepción,6,265.0,3,1,2,0.68
+1381958,Santiago Silva,Huachipato,11,906.0,14,12,2,0.2
+1388813,Agustín Arce,Universidad de Chile,6,273.0,3,1,2,0.66
+1385794,Maximiliano Gutiérrez,Huachipato,3,260.0,4,2,2,0.69
+386220,Tomás Asta-Buruaga,Universidad Católica,6,410.0,8,6,2,0.44
+1644853,Flavio Moya,Deportes Limache,6,104.0,3,1,2,1.73
+1485094,Giovani Chiaverano,Audax Italiano,11,618.0,12,10,2,0.29
+1657110,Sebastián Mella,Huachipato,3,270.0,5,3,2,0.67
+1797934,Ian Garguez,Palestino,11,869.0,13,11,2,0.21
+819115,Jhojan Valencia,Universidad Católica,11,580.0,13,11,2,0.31
+870020,Víctor Felipe Méndez,Colo-Colo,11,946.0,9,7,2,0.19
+895340,Marcelo Ortíz,Audax Italiano,10,888.0,14,12,2,0.2
+1197415,Alex Valdés,Ñublense,7,208.0,2,0,2,0.87
+1119737,Gonzalo Flores,Coquimbo Unido,1,90.0,2,0,2,2.0
+892450,Alan Robledo,O'Higgins,5,450.0,7,5,2,0.4
+889502,Álvaro Madrid,Colo-Colo,10,614.0,6,4,2,0.29
+912067,Michael Vadulli,Audax Italiano,7,424.0,7,5,2,0.42
+1017169,Javier Saldías,Unión La Calera,4,129.0,3,1,2,1.4
+1797930,Francisco Montes,Palestino,10,643.0,9,8,1,0.14
+284729,Fernando Zuqui,Universidad Católica,4,245.0,6,5,1,0.37
+376740,Guido Vadalá,Coquimbo Unido,9,650.0,7,6,1,0.14
+312376,Lorenzo Reyes,Ñublense,11,990.0,9,8,1,0.09
+316170,Gonzalo Escalante,Deportes La Serena,8,720.0,8,7,1,0.12
+247073,César Fuentes,Deportes Limache,5,127.0,3,2,1,0.71
+1836929,Luca Kmet,Universidad de Concepción,1,21.0,1,0,1,4.29
+1836788,Dilan Varas,Deportes Concepción,1,90.0,1,0,1,1.0
+1834686,Martín Mundaca,Coquimbo Unido,7,290.0,3,2,1,0.31
+1385673,Valentín Vidal,Everton de Viña del Mar,7,473.0,6,5,1,0.19
+1409361,Juan Francisco Rossel,Universidad Católica,4,45.0,2,1,1,2.0
+588796,Jimmy Martínez,Universidad Católica,10,589.0,11,10,1,0.15
+1464930,Martín Araya,Palestino,7,372.0,6,5,1,0.24
+787710,Kevin Méndez,Unión La Calera,10,848.0,11,10,1,0.11
+789677,Martín Sarrafiore,O'Higgins,9,503.0,7,6,1,0.18
+819072,Jorge Henríquez,Deportes Concepción,8,442.0,4,3,1,0.2
+1119679,Lucas Soto,Everton de Viña del Mar,8,438.0,5,4,1,0.21
+819075,Osvaldo Bosso,Ñublense,11,990.0,9,8,1,0.09
+1138070,Felipe Salomoni,Universidad de Chile,6,211.0,2,1,1,0.43
+1464931,Vicente Espinoza,Palestino,9,810.0,12,11,1,0.11
+1384819,Yahir Salazar,Deportes La Serena,8,699.0,9,8,1,0.13
+805408,Alejandro Camargo,Coquimbo Unido,9,700.0,9,8,1,0.13
+818874,Fernando de Paul,Colo-Colo,9,790.0,6,5,1,0.11
+1201172,Lucas Romero,Universidad de Chile,4,188.0,1,0,1,0.48
+1177236,Esteban Matus,Audax Italiano,11,969.0,14,13,1,0.09
+1083863,Nicolás Aedo,Audax Italiano,10,578.0,9,8,1,0.16
+1108027,Alejandro Azócar,Coquimbo Unido,8,345.0,5,4,1,0.26
+1106831,José Ignacio Castro,Huachipato,3,68.0,2,1,1,1.32
+1106822,Bastián Ubal,Universidad de Concepción,2,27.0,1,0,1,3.33
+868786,Joe Abrigo,Palestino,1,46.0,1,0,1,1.96
+851968,Cris Martínez,Huachipato,9,632.0,9,8,1,0.14
+988078,Harold Antiñirre,Huachipato,6,166.0,3,2,1,0.54
+995284,Luis Rojas,Universidad de Concepción,1,75.0,1,0,1,1.2
+883928,Nelson Da Silva,Palestino,10,698.0,12,11,1,0.13
+886912,Benjamín Berríos,Everton de Viña del Mar,7,626.0,6,5,1,0.14
+1015675,Pablo Calderón,Ñublense,4,335.0,4,3,1,0.27
+1015274,Joaquín Sosa,Colo-Colo,11,915.0,8,7,1,0.1
+875274,Diego Coelho,Audax Italiano,10,408.0,3,2,1,0.22
+1002936,Cristian Riquelme,Colo-Colo,1,15.0,1,0,1,6.0
+1002931,Bruno Gutiérrez,Deportes La Serena,11,850.0,12,11,1,0.11
+995285,Alejandro Santander,Cobresal,5,450.0,6,5,1,0.2
+986532,Federico Mateos,Audax Italiano,10,773.0,12,11,1,0.12
+986647,Lukas Soza,Coquimbo Unido,1,90.0,1,0,1,1.0
+906110,Diego Valencia,Universidad Católica,5,76.0,1,0,1,1.18
+906106,Ignacio Mesías,Deportes Concepción,7,394.0,5,4,1,0.23
+981010,Enzo Ferrario,Audax Italiano,8,705.0,9,8,1,0.13
+981341,Franco Calderón,Universidad de Chile,8,639.0,6,5,1,0.14
+976168,Hugo Magallanes,Everton de Viña del Mar,8,720.0,6,5,1,0.12
+940483,Maximiliano Rodríguez,Huachipato,11,792.0,12,11,1,0.11
+117430,Eugenio Mena,Universidad Católica,7,327.0,6,5,1,0.28
+2331086,Jhon Cortes,Universidad de Chile,1,26.0,1,0,1,3.46
+951277,Bayron Oyarzo,Unión La Calera,10,673.0,9,8,1,0.13
+951270,Joaquín Moya,Everton de Viña del Mar,11,939.0,9,8,1,0.1
+962130,Fernando Ovelar,Ñublense,10,285.0,3,2,1,0.32
+47441,Nicola Pérez,Ñublense,11,990.0,9,8,1,0.09
+26480,Marcelo Díaz,Universidad de Chile,3,69.0,1,0,1,1.3
+22975,Gary Medel,Universidad Católica,7,630.0,11,10,1,0.14
+18304,Charles Aránguiz,Universidad de Chile,7,495.0,4,4,0,0.0
+2076826,Mateo González Peña,Deportes Concepción,1,24.0,0,0,0,0.0
+2116602,Facundo Marín,Deportes Limache,2,3.0,0,0,0,0.0
+2059827,Amaro Leon,Everton de Viña del Mar,3,45.0,0,0,0,0.0
+2058867,Sebastián Arancibia,Universidad Católica,3,167.0,2,2,0,0.0
+2057322,Vicente Ramírez,Universidad de Chile,1,28.0,0,0,0,0.0
+2048673,Pablo Rodríguez,Coquimbo Unido,4,136.0,3,3,0,0.0
+949422,Carlos Salomón,Ñublense,3,37.0,0,0,0,0.0
+2455393,Francisco Herrera,Universidad de Concepción,3,66.0,0,0,0,0.0
+975882,Tomás Ahumada,Audax Italiano,11,990.0,14,14,0,0.0
+975053,Alan Medina,Everton de Viña del Mar,11,954.0,9,9,0,0.0
+974008,Sebastián Cabrera,Coquimbo Unido,5,304.0,3,3,0,0.0
+2145368,Martín Espinoza Pino,Universidad de Chile,1,2.0,0,0,0,0.0
+2121648,Martín Gómez,Universidad Católica,3,18.0,0,0,0,0.0
+1016766,Alfred Canales,Universidad Católica,4,57.0,0,0,0,0.0
+986548,Francisco Salinas,Coquimbo Unido,9,810.0,9,9,0,0.0
+896624,Juan Ignacio Díaz,Universidad Católica,9,810.0,15,15,0,0.0
+988143,Cristopher Barrera,Everton de Viña del Mar,4,164.0,0,0,0,0.0
+986513,Dylan Escobar,Coquimbo Unido,4,232.0,4,4,0,0.0
+942156,Marco Collao,Audax Italiano,9,740.0,11,11,0,0.0
+924858,Javier Méndez,Colo-Colo,3,6.0,0,0,0,0.0
+924528,Matías Campos López,Unión La Calera,9,277.0,3,3,0,0.0
+924505,Eryin Sanhueza,Deportes La Serena,1,56.0,0,0,0,0.0
+997539,Rodrigo Cabral,Audax Italiano,10,480.0,4,4,0,0.0
+1002939,Lucas Assadi,Universidad de Chile,8,484.0,3,3,0,0.0
+889500,Nicolás Fernández,Universidad de Chile,3,18.0,0,0,0,0.0
+1096735,Juan Cornejo,Coquimbo Unido,8,720.0,11,11,0,0.0
+1063335,Felipe Chamorro,Deportes La Serena,11,854.0,12,12,0,0.0
+1089454,Francis Mac Allister,Deportes La Serena,10,824.0,9,9,0,0.0
+1020255,Braian Martínez,Everton de Viña del Mar,10,477.0,4,4,0,0.0
+1177235,Daniel Piña,Audax Italiano,11,990.0,14,14,0,0.0
+1177673,Kevin Altez,Huachipato,8,200.0,3,3,0,0.0
+1183778,Daniel Barrea,Universidad de Concepción,2,95.0,1,1,0,0.0
+1108721,Maicol León,Huachipato,11,487.0,8,8,0,0.0
+1125257,Nicolás Palma,Unión La Calera,7,614.0,7,7,0,0.0
+859990,Franco Troyansky,Audax Italiano,11,548.0,10,10,0,0.0
+863129,Sebastián Valencia,Ñublense,8,644.0,5,5,0,0.0
+846140,Felipe Villagrán,Everton de Viña del Mar,1,15.0,0,0,0,0.0
+852143,Luis Riveros,Coquimbo Unido,10,538.0,7,7,0,0.0
+790001,Ignacio González,Everton de Viña del Mar,11,990.0,9,9,0,0.0
+790149,Octavio Rivero,Universidad de Chile,2,92.0,0,0,0,0.0
+1508614,Santiago Londoño,Everton de Viña del Mar,3,70.0,0,0,0,0.0
+1835784,Matias Sepulveda,Cobresal,2,50.0,0,0,0,0.0
+1864232,Nicolás Montiel,Everton de Viña del Mar,6,204.0,1,1,0,0.0
+1872533,Sergio Carrasco,Cobresal,1,10.0,0,0,0,0.0
+339711,Dilan Zúñiga,Palestino,10,895.0,13,13,0,0.0
+1798260,Joaquín Tapia,O'Higgins,6,296.0,5,5,0,0.0
+2496220,Benjamín Argandoña,Unión La Calera,1,1.0,0,0,0,0.0
+2523858,Martín Torrejón,Huachipato,1,4.0,0,0,0,0.0
+247079,Carlos Escobar,Deportes Concepción,3,81.0,0,0,0,0.0
+1482420,Francisco Marchant,Colo-Colo,9,239.0,3,3,0,0.0
+581780,Javier Correa,Colo-Colo,8,372.0,3,3,0,0.0
+1482432,Diego Vargas,Universidad de Chile,3,192.0,1,1,0,0.0
+581774,Agustín Farías,Universidad Católica,3,120.0,2,2,0,0.0
+1484208,Juan Figueroa,Huachipato,5,258.0,2,2,0,0.0
+1199243,Lautaro Pastrán,Colo-Colo,6,340.0,3,3,0,0.0
+799653,Rafael Delgado,Deportes La Serena,10,695.0,9,9,0,0.0
+1985127,Ian Alegría,Palestino,1,19.0,1,1,0,0.0
+2038211,Sebastián Melgarejo,Huachipato,1,0.0,0,0,0,
+2456839,Vicente Zenteno,Audax Italiano,2,167.0,4,4,0,0.0
+2456836,Joel Ahumada,Audax Italiano,1,5.0,0,0,0,0.0
+2456453,Maximiliano Fernandez,Unión La Calera,1,16.0,0,0,0,0.0
+2456021,Albert Gomez,Palestino,1,3.0,0,0,0,0.0
+165511,Ángelo Henríquez,Deportes La Serena,2,7.0,0,0,0,0.0
+2039913,Martín Guzmán,Everton de Viña del Mar,1,15.0,0,0,0,0.0
+2038473,Joaquín González,Ñublense,1,15.0,0,0,0,0.0
+1980426,Milovan Velásquez,Deportes La Serena,1,19.0,0,0,0,0.0
+1981750,Daniel Saavedra,Ñublense,1,8.0,0,0,0,0.0
+249373,Claudio Sepúlveda,Huachipato,10,766.0,11,11,0,0.0
+1981736,Vicente Villegas,Coquimbo Unido,1,0.0,0,0,0,
+2537211,Rodrigo Catalán,Colo-Colo,1,1.0,0,0,0,0.0
+1386875,Dilan Salgado,Palestino,4,75.0,0,0,0,0.0
+1403421,Axel Encinas,Unión La Calera,5,224.0,2,2,0,0.0
+800239,Dieter Villalpando,Everton de Viña del Mar,7,510.0,6,6,0,0.0
+805095,Jeisson Vargas,Deportes La Serena,11,930.0,12,12,0,0.0
+1199238,Cristóbal Chadwick,Everton de Viña del Mar,1,2.0,0,0,0,0.0
+986676,Matías Plaza,Ñublense,11,622.0,5,6,-1,-0.14
+906100,Lucas Alarcón,Deportes La Serena,9,792.0,8,9,-1,-0.11
+1014798,Luciano Arriagada,Huachipato,3,28.0,0,1,-1,-3.21
+936901,Sebastián Sáez,Unión La Calera,11,963.0,11,12,-1,-0.09
+923802,Thiago Vecino,O'Higgins,10,374.0,8,9,-1,-0.24
+988146,Cristian Toro,Huachipato,3,140.0,1,2,-1,-0.64
+1384618,Byron Navarro,Everton de Viña del Mar,3,86.0,0,1,-1,-1.05
+805170,Matías Fernández,Colo-Colo,3,165.0,3,4,-1,-0.55
+1199239,Emiliano Ramos,Everton de Viña del Mar,11,596.0,5,6,-1,-0.15
+1440662,Favian Loyola,Audax Italiano,8,159.0,1,2,-1,-0.57
+1473023,Diego Corral,Universidad Católica,4,201.0,4,5,-1,-0.45
+1807803,Joan Orellana,Deportes La Serena,4,17.0,0,1,-1,-5.29
+333405,Felipe Campos,Ñublense,7,506.0,4,5,-1,-0.18
+889043,Rodrigo Holgado,Coquimbo Unido,3,82.0,0,1,-1,-1.1
+886915,Ramiro González,Everton de Viña del Mar,4,280.0,3,4,-1,-0.32
+877098,Danilo Catalán,Deportes Limache,2,9.0,0,1,-1,-10.0
+1108449,Rodrigo Caseres,Unión La Calera,11,990.0,11,12,-1,-0.09
+1019924,Elvis Hernández,Coquimbo Unido,3,270.0,4,5,-1,-0.33
+116096,Sebastián Gallegos,Palestino,11,938.0,14,15,-1,-0.1
+973986,Cristián Zavala,Coquimbo Unido,6,249.0,4,5,-1,-0.36
+956838,Julián Alfaro,Everton de Viña del Mar,10,557.0,4,5,-1,-0.16
+973993,Erick Wiemberg,Colo-Colo,5,215.0,2,3,-1,-0.42
+981333,Dylan Glaby,Coquimbo Unido,9,312.0,4,5,-1,-0.29
+2046426,Cristóbal Sepúlveda,Deportes La Serena,2,29.0,0,1,-1,-3.1
+951278,Manuel Rivera,Ñublense,11,842.0,6,7,-1,-0.11
+883483,Moisés González,Universidad de Concepción,4,182.0,1,2,-1,-0.49
+1002945,Nicolás Garrido,O'Higgins,7,630.0,10,11,-1,-0.14
+1656140,Javier Nicolás Cárcamo,Huachipato,4,126.0,0,1,-1,-0.71
+1906001,Daniel Cordero,Deportes La Serena,1,36.0,0,1,-1,-2.5
+1982599,Martín Ramírez,Universidad de Concepción,2,12.0,0,1,-1,-7.5
+1997135,Martín Jiménez,Audax Italiano,5,141.0,0,1,-1,-0.64
+2462954,Ricardo Rebolledo,Everton de Viña del Mar,1,29.0,0,1,-1,-3.1
+1982597,Vicente Cárcamo,Universidad Católica,3,68.0,0,1,-1,-1.32
+1836787,Benjamín Mellado,Huachipato,1,53.0,0,1,-1,-1.7
+584418,Gabriel Graciani,Ñublense,10,705.0,6,7,-1,-0.13
+1798259,Gabriel Pinto,O'Higgins,4,117.0,1,2,-1,-0.77
+1503119,Giovanny Avalos,Ñublense,6,307.0,2,3,-1,-0.29
+789923,Federico Lanzillotta,Deportes La Serena,11,934.0,12,13,-1,-0.1
+333465,Nicolás Avellaneda,Unión La Calera,11,990.0,11,12,-1,-0.09
+1114520,Paolo Guajardo,Audax Italiano,10,450.0,5,6,-1,-0.2
+872138,Andrés Zanini,Deportes La Serena,7,561.0,7,8,-1,-0.16
+861299,Carlo Villanueva,Unión La Calera,3,121.0,1,2,-1,-0.74
+844271,Sebastián Díaz,Deportes La Serena,7,360.0,6,7,-1,-0.25
+1155908,Matías Pinto,Deportes La Serena,2,21.0,0,1,-1,-4.29
+842274,Sebastián Pérez,Palestino,11,990.0,14,15,-1,-0.09
+1125923,Gonzalo Tapia,Palestino,7,280.0,2,3,-1,-0.32
+1125913,Diego Sanhueza,Ñublense,10,450.0,4,5,-1,-0.2
+830940,Nicolás Araya,Deportes Concepción,4,360.0,4,5,-1,-0.25
+1469553,Martín Cárcamo,Everton de Viña del Mar,3,58.0,0,1,-1,-1.55
+818693,Bernardo Cerezo,Universidad Católica,5,217.0,3,4,-1,-0.41
+1108549,Claudio Torres,Huachipato,5,131.0,1,3,-2,-1.37
+805305,José Bizama,Palestino,5,400.0,4,6,-2,-0.45
+1396682,Lucas Molina,Ñublense,4,185.0,1,3,-2,-0.97
+805150,Ronnie Fernández,Palestino,6,365.0,3,5,-2,-0.49
+829288,Salvador Cordero,Coquimbo Unido,7,309.0,3,5,-2,-0.58
+1973053,Benjamín Valenzuela,Cobresal,6,212.0,4,6,-2,-0.85
+1502658,Fernando Dinamarca,Deportes La Serena,5,219.0,3,5,-2,-0.82
+386218,Diego Sánchez,Coquimbo Unido,10,900.0,11,13,-2,-0.2
+1920586,Mario Sandoval,Audax Italiano,6,198.0,0,2,-2,-0.91
+1875021,Bastián Contreras,Deportes La Serena,5,125.0,0,2,-2,-1.44
+975291,Leandro Díaz,O'Higgins,7,426.0,7,9,-2,-0.42
+2455976,Bastián Sandoval,Deportes La Serena,3,27.0,0,2,-2,-6.67
+889498,Manuel Fernández,Coquimbo Unido,9,765.0,10,12,-2,-0.24
+39244,Lucas Pratto,Coquimbo Unido,11,413.0,4,6,-2,-0.44
+1116992,Antonio Ceza,Palestino,3,75.0,0,2,-2,-2.4
+1125882,Harol Salgado,Universidad de Concepción,5,137.0,1,3,-2,-1.31
+1485083,Benjamin Schamine,O'Higgins,7,201.0,3,5,-2,-0.9
+1482371,Bastián Escobar,Deportes Concepción,2,48.0,1,3,-2,-3.75
+1411683,Renato Huerta,Cobresal,4,177.0,3,5,-2,-1.02
+804983,Raimundo Rebolledo,Audax Italiano,4,309.0,7,9,-2,-0.58
+1650043,Martín Hiriart,Unión La Calera,3,59.0,0,2,-2,-3.05
+1086986,Franco Frías,Cobresal,5,130.0,3,5,-2,-1.38
+1021117,César Yanis,Cobresal,9,565.0,9,11,-2,-0.32
+906112,Oliver Rojas,Audax Italiano,5,236.0,4,6,-2,-0.76
+978979,José Sanhueza,Universidad de Concepción,3,270.0,2,4,-2,-0.67
+2199269,Benjamín Sáez,Universidad de Concepción,3,129.0,0,2,-2,-1.4
+1482287,David Retamal,Universidad de Concepción,6,465.0,4,6,-2,-0.39
+1482455,Leenhan Romero,Deportes Concepción,4,72.0,0,2,-2,-2.5
+1473443,Diego Monreal,Audax Italiano,5,114.0,0,2,-2,-1.58
+761426,Ignacio Jeraldino,Ñublense,11,734.0,6,8,-2,-0.25
+230054,Bryan Carrasco,Palestino,9,287.0,5,8,-3,-0.94
+889511,Christopher Díaz,Unión La Calera,11,910.0,8,11,-3,-0.3
+105971,Enzo Roco,Palestino,5,397.0,4,7,-3,-0.68
+1017320,Jason León,Palestino,9,429.0,4,7,-3,-0.63
+1002941,Joan Cruz,Unión La Calera,4,95.0,0,3,-3,-2.84
+924468,Matías Cavalleri,Deportes Concepción,6,270.0,1,4,-3,-1.0
+874589,Matías Marín,Deportes La Serena,9,365.0,3,6,-3,-0.74
+975502,Jorge Peña,O'Higgins,1,90.0,1,4,-3,-3.0
+2284219,Esteban Páez,Universidad de Concepción,2,155.0,1,4,-3,-1.74
+962847,Esteban Valencia,Cobresal,7,203.0,3,6,-3,-1.33
+2163290,Cristobal Zambrano,Universidad de Concepción,3,108.0,0,3,-3,-2.5
+822444,Yerko Leiva,Unión La Calera,7,342.0,2,5,-3,-0.79
+1125898,Ángel Gillard,Deportes Concepción,10,231.0,1,4,-3,-1.17
+819005,Cristián Gutiérrez,Unión La Calera,10,469.0,4,7,-3,-0.58
+822449,Camilo Moya,Unión La Calera,9,287.0,3,6,-3,-0.94
+862702,Nicolás Baeza,Everton de Viña del Mar,9,482.0,2,5,-3,-0.56
+2038202,Rodrigo Godoy,O'Higgins,5,86.0,0,3,-3,-3.14
+1482396,Cristian Morales,O'Higgins,3,98.0,1,4,-3,-2.76
+1409341,Esteban Calderón,O'Higgins,2,79.0,1,4,-3,-3.42
+582220,Nicolás Stefanelli,Deportes La Serena,8,302.0,3,6,-3,-0.89
+177813,Misael Dávila,Deportes Concepción,8,666.0,5,8,-3,-0.41
+942415,Bastián Yáñez,O'Higgins,9,473.0,5,9,-4,-0.76
+927110,Alexander Pastene,Unión La Calera,1,90.0,0,4,-4,-4.0
+832663,Christian Moreno,Cobresal,8,676.0,9,13,-4,-0.53
+819017,Jonathan Benítez,Palestino,8,279.0,4,8,-4,-1.29
+1601711,Leandro Hernández,Colo-Colo,10,377.0,2,6,-4,-0.95
+334027,Julián Fernández,Palestino,9,659.0,10,14,-4,-0.55
+312318,Brayan Véjar,Deportes Concepción,8,395.0,3,7,-4,-0.91
+1835777,Benjamin Moreno,Cobresal,5,236.0,2,6,-4,-1.53
+991004,Mario Sandoval,Deportes Concepción,6,287.0,3,7,-4,-1.25
+939997,Cristhofer Mesías,Universidad de Concepción,10,769.0,7,11,-4,-0.47
+987924,Antonio Castillo,Cobresal,4,302.0,5,9,-4,-1.19
+985004,Benjamín Rojas,O'Higgins,6,291.0,2,6,-4,-1.24
+1022801,Mauricio Vera,Deportes Concepción,2,162.0,0,4,-4,-2.22
+1096236,Renzo Malanca,Huachipato,6,540.0,5,9,-4,-0.67
+920957,Rodrigo Odriozola,Huachipato,4,360.0,2,7,-5,-1.25
+965775,Agustín Urzi,Universidad de Concepción,10,575.0,4,9,-5,-0.78
+1125880,Benjamín Chandía,Coquimbo Unido,10,536.0,5,10,-5,-0.84
+1216169,Vicente Vega,Everton de Viña del Mar,4,294.0,0,5,-5,-1.53
+1835778,Benjamín Ramírez,Cobresal,4,148.0,1,6,-5,-3.04
+1014802,Rodrigo Sandoval,Cobresal,7,403.0,5,10,-5,-1.12
+986462,Bryan Ogaz,Universidad de Concepción,8,326.0,2,7,-5,-1.38
+1016643,Aaron Astudillo,Cobresal,9,691.0,10,15,-5,-0.65
+1980392,Javier Rojas,Deportes Concepción,7,440.0,2,7,-5,-1.02
+385990,Juan Fuentes,Cobresal,9,490.0,4,10,-6,-1.1
+965719,Ariel Uribe,Universidad de Concepción,9,224.0,1,7,-6,-2.41
+889519,Franco Bechtholdt,Cobresal,10,856.0,12,18,-6,-0.63
+988763,Norman Rodríguez,Deportes Concepción,8,687.0,6,12,-6,-0.79
+873620,Agustin Nadruz,Cobresal,8,712.0,11,17,-6,-0.76
+365990,Leonel González,Universidad de Concepción,9,810.0,7,13,-6,-0.67
+1197454,Yonathan Rodríguez,Deportes Concepción,5,220.0,1,7,-6,-2.45
+22973,Cristián Suárez,Deportes Concepción,7,530.0,3,10,-7,-1.19
+906108,Antonio Díaz,Universidad de Concepción,9,340.0,2,9,-7,-1.85
+939938,Ariel Cáceres,Deportes Concepción,7,531.0,2,9,-7,-1.19
+986529,Ethan Espinoza,Deportes Concepción,9,356.0,1,8,-7,-1.77
+973523,Diego Carrasco,Deportes Concepción,7,616.0,4,11,-7,-1.02
+1106828,Jeison Fuentealba,Universidad de Concepción,11,868.0,8,15,-7,-0.73
+986609,Jorge Espejo,Universidad de Concepción,9,661.0,5,12,-7,-0.95
+1002740,Santiago Silva Azambuja,Universidad de Concepción,8,720.0,6,13,-7,-0.88
+906102,Yerco Oyanedel,Universidad de Concepción,11,821.0,7,14,-7,-0.77
+589548,Nelson Sepúlveda,Deportes Concepción,9,588.0,2,9,-7,-1.07
+790000,Bryan Carvallo,Cobresal,11,878.0,13,21,-8,-0.82
+790010,Leonardo Valencia,Deportes Concepción,11,757.0,3,11,-8,-0.95
+986422,Aldrix Jara,Deportes Concepción,11,668.0,5,13,-8,-1.08
+986622,José Tiznado,Cobresal,8,674.0,11,19,-8,-1.07
+974736,Julián Brea,Cobresal,10,818.0,11,20,-9,-0.99
+47037,Osvaldo González,Universidad de Concepción,11,969.0,8,17,-9,-0.84
+818865,Guillermo Pacheco,Cobresal,11,739.0,10,19,-9,-1.1
+553508,Fausto Grillo,Deportes Concepción,7,561.0,2,11,-9,-1.44
+159931,Cecilio Waterman,Universidad de Concepción,9,810.0,7,16,-9,-1.0
+896753,Facundo Mater,Universidad de Concepción,11,990.0,8,17,-9,-0.82
+937101,Steffan Pino,Cobresal,11,930.0,14,24,-10,-0.97
+158269,César Dutra,Deportes Concepción,7,630.0,2,12,-10,-1.43
+925598,Jorge Pinos,Cobresal,6,540.0,8,19,-11,-1.83
+28242,Joaquín Larrivey,Deportes Concepción,9,784.0,5,16,-11,-1.26

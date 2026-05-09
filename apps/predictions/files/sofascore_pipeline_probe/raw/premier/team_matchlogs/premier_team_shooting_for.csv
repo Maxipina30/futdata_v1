@@ -1,0 +1,21 @@
+date,time,season_id,season_name,season_year,round,day,venue,result,gf,ga,opponent,gls,sh,sot,sotpct,g_per_sh,g_per_sot,pk,pkatt,team,table_side
+2026-05-01,16:00,76986,Premier League 25/26,25/26,Matchweek 35,Fri,Home,W,3.0,1.0,Burnley,3.0,18.0,8.0,44.4,0.167,0.375,,,Leeds United,for
+2026-05-01,16:00,76986,Premier League 25/26,25/26,Matchweek 35,Fri,Away,L,1.0,3.0,Leeds United,1.0,9.0,3.0,33.3,0.111,0.333,,,Burnley,for
+2026-05-02,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Home,W,3.0,1.0,Brighton,3.0,13.0,6.0,46.2,0.231,0.5,,,Newcastle United,for
+2026-05-02,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Away,L,1.0,3.0,Newcastle United,1.0,13.0,4.0,30.8,0.077,0.25,,,Brighton,for
+2026-05-02,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Home,W,3.0,0.0,West Ham United,3.0,14.0,6.0,42.9,0.214,0.5,,,Brentford,for
+2026-05-02,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Away,L,0.0,3.0,Brentford,0.0,13.0,4.0,30.8,0.0,0.0,,,West Ham United,for
+2026-05-02,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Home,D,1.0,1.0,Sunderland,1.0,20.0,7.0,35.0,0.05,0.143,,,Wolves,for
+2026-05-02,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Away,D,1.0,1.0,Wolves,1.0,10.0,2.0,20.0,0.1,0.5,,,Sunderland,for
+2026-05-02,13:30,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Home,W,3.0,0.0,Fulham,3.0,18.0,9.0,50.0,0.167,0.333,,,Arsenal,for
+2026-05-02,13:30,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Away,L,0.0,3.0,Arsenal,0.0,10.0,1.0,10.0,0.0,0.0,,,Fulham,for
+2026-05-03,10:00,76986,Premier League 25/26,25/26,Matchweek 35,Sun,Home,,,,Crystal Palace,,,,,,,,,Bournemouth,for
+2026-05-03,10:00,76986,Premier League 25/26,25/26,Matchweek 35,Sun,Away,,,,Bournemouth,,,,,,,,,Crystal Palace,for
+2026-05-03,11:30,76986,Premier League 25/26,25/26,Matchweek 35,Sun,Home,,,,Liverpool FC,,,,,,,,,Manchester Utd,for
+2026-05-03,11:30,76986,Premier League 25/26,25/26,Matchweek 35,Sun,Away,,,,Manchester Utd,,,,,,,,,Liverpool FC,for
+2026-05-03,15:00,76986,Premier League 25/26,25/26,Matchweek 35,Sun,Home,,,,Tottenham Hotspur,,,,,,,,,Aston Villa,for
+2026-05-03,15:00,76986,Premier League 25/26,25/26,Matchweek 35,Sun,Away,,,,Aston Villa,,,,,,,,,Tottenham Hotspur,for
+2026-05-04,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Mon,Home,,,,Nottingham Forest,,,,,,,,,Chelsea,for
+2026-05-04,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Mon,Away,,,,Chelsea,,,,,,,,,Nottingham Forest,for
+2026-05-04,16:00,76986,Premier League 25/26,25/26,Matchweek 35,Mon,Home,,,,Manchester City,,,,,,,,,Everton,for
+2026-05-04,16:00,76986,Premier League 25/26,25/26,Matchweek 35,Mon,Away,,,,Everton,,,,,,,,,Manchester City,for

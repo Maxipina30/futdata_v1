@@ -31,7 +31,7 @@ def main() -> int:
                 "-m",
                 "streamlit",
                 "run",
-                "dashboard_streamlit.py",
+                "apps/predictions/dashboard_streamlit.py",
                 "--server.address",
                 "127.0.0.1",
                 "--server.port",

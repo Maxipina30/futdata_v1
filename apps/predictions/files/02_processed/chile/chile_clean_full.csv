@@ -1,0 +1,481 @@
+date,time,round,day,venue,result,gf,ga,opponent,poss,captain,formation,opp_formation,referee,match_report,equipo,comp,sh,sot,sot_pct,g_per_sh,g_per_sot,pk,pkatt,sh_allowed,sot_allowed,sot_allowed_pct,g_per_sh_allowed,g_per_sot_allowed,pk_allowed,pkatt_allowed,round_num
+2026-01-30,20:00,Matchweek 1,Fri,Away,D,0.0,0.0,Universidad de Chile,61.0,Marco Collao,5-4-1,4-5-1,Gastón Philippe,Match Report,Audax Italiano,,5.0,2.0,40.0,0.0,0.0,0.0,0.0,5.0,1.0,20.0,0.0,0.0,0.0,0.0,1
+2026-02-06,20:00,Matchweek 2,Fri,Home,W,3.0,0.0,Universidad de Concepcion,47.0,Marco Collao,5-4-1,3-4-3,Mathías Riquelme,Match Report,Audax Italiano,,13.0,5.0,38.5,0.23,0.6,0.0,0.0,17.0,3.0,17.6,0.0,0.0,0.0,0.0,2
+2026-02-15,18:00,Matchweek 3,Sun,Away,L,0.0,1.0,Nublense,60.0,Marco Collao,5-4-1,3-4-3,Piero Maza,Match Report,Audax Italiano,,11.0,6.0,54.5,0.0,0.0,0.0,0.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,3
+2026-02-22,18:00,Matchweek 4,Sun,Home,W,1.0,0.0,Everton,66.0,Tomás Ahumada,3-4-3,5-3-2,Claudio Díaz,Match Report,Audax Italiano,,9.0,3.0,33.3,0.0,0.0,1.0,2.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,4
+2026-02-27,20:30,Matchweek 5,Fri,Away,L,0.0,3.0,Union La Calera,47.0,Marco Collao,5-4-1,4-1-4-1,Cristián Copiapó,Match Report,Audax Italiano,,14.0,4.0,28.6,0.0,0.0,0.0,0.0,11.0,6.0,54.5,0.18,0.33,1.0,1.0,5
+2026-03-07,18:00,Matchweek 6,Sat,Home,L,0.0,1.0,Colo-Colo,44.0,Marco Collao,3-4-3,5-3-2,Héctor Jona,Match Report,Audax Italiano,,6.0,0.0,0.0,0.0,,0.0,0.0,11.0,2.0,18.2,0.09,0.5,0.0,0.0,6
+2026-03-13,20:00,Matchweek 7,Fri,Home,W,3.0,0.0,Deportes Concepcion,50.0,Marco Collao,3-4-3,4-4-2,Nicolas Millas,Match Report,Audax Italiano,,7.0,3.0,42.9,0.43,1.0,0.0,0.0,17.0,3.0,17.6,0.0,0.0,0.0,0.0,7
+2026-04-03,20:00,Matchweek 8,Fri,Away,L,1.0,2.0,O'Higgins,52.0,Marco Collao,3-4-1-2,4-3-3,Juan Lara,Match Report,Audax Italiano,,12.0,3.0,25.0,0.08,0.33,0.0,0.0,22.0,8.0,36.4,0.09,0.25,0.0,0.0,8
+2026-04-11,17:30 (18:30),Matchweek 9,Sat,Home,L,3.0,4.0,Universidad Catolica,46.0,Marco Collao,3-4-1-2,4-1-4-1,Diego Flores,Match Report,Audax Italiano,,10.0,5.0,50.0,0.3,0.6,0.0,0.0,12.0,7.0,58.3,0.33,0.57,0.0,0.0,9
+2026-04-19,20:45 (21:45),Matchweek 10,Sun,Away,L,2.0,3.0,Huachipato,51.0,Tomás Ahumada,3-1-4-2,4-2-3-1,Cristián Copiapó,Match Report,Audax Italiano,,15.0,4.0,26.7,0.13,0.5,0.0,0.0,11.0,5.0,45.5,0.18,0.4,0.0,0.0,10
+2026-04-24,20:30 (21:30),Matchweek 11,Fri,Home,D,2.0,2.0,CD Limache,46.0,Marco Collao,3-4-1-2,4-3-3,Piero Maza,Match Report,Audax Italiano,,13.0,2.0,15.4,0.08,0.5,0.0,0.0,11.0,3.0,27.3,0.09,0.33,1.0,1.0,11
+2026-05-15,20:00 (21:00),Matchweek 12,Fri,Away,,,,Coquimbo Unido,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,12
+2026-05-23,12:30 (13:30),Matchweek 13,Sat,Home,,,,Cobresal,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,13
+2026-05-31,20:00 (21:00),Matchweek 14,Sun,Away,,,,Palestino,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,14
+2026-06-12,20:00 (21:00),Matchweek 15,Fri,Home,,,,La Serena,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Home,,,,Universidad de Chile,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Away,,,,Universidad de Concepcion,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Home,,,,Nublense,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Away,,,,Everton,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Home,,,,Union La Calera,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Away,,,,Colo-Colo,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Away,,,,Deportes Concepcion,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Home,,,,O'Higgins,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Away,,,,Universidad Catolica,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Home,,,,Huachipato,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Away,,,,CD Limache,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Home,,,,Coquimbo Unido,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Away,,,,Cobresal,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Home,,,,Palestino,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Away,,,,La Serena,,,,,,Head-to-Head,Audax Italiano,,,,,,,,,,,,,,,,30
+2026-01-31,12:00,Matchweek 1,Sat,Home,W,3.0,1.0,Colo-Colo,27.0,César Pinares,3-4-3,4-1-4-1,Cristián Garay,Match Report,CD Limache,Liga de Primera,9.0,4.0,44.4,0.33,0.75,0.0,0.0,18.0,7.0,38.9,0.06,0.14,0.0,0.0,1
+2026-02-08,18:00,Matchweek 2,Sun,Away,D,1.0,1.0,Nublense,37.0,César Pinares,3-4-3,3-4-3,Franco Jiménez,Match Report,CD Limache,Liga de Primera,2.0,1.0,50.0,0.5,1.0,0.0,0.0,22.0,3.0,13.6,0.05,0.33,0.0,0.0,2
+2026-02-14,18:00,Matchweek 3,Sat,Home,W,2.0,1.0,O'Higgins,36.0,César Pinares,3-4-3,4-1-4-1,Héctor Jona,Match Report,CD Limache,Liga de Primera,9.0,6.0,66.7,0.22,0.33,0.0,0.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,3
+2026-02-22,20:30,Matchweek 4,Sun,Away,D,2.0,2.0,Universidad de Chile,35.0,César Pinares,3-4-3,3-4-3,Fernando Véjar,Match Report,CD Limache,Liga de Primera,8.0,5.0,62.5,0.25,0.4,0.0,0.0,11.0,5.0,45.5,0.18,0.4,0.0,0.0,4
+2026-02-28,18:00,Matchweek 5,Sat,Home,W,3.0,0.0,Huachipato,47.0,Alfonso Parot,4-1-4-1,3-4-1-2,Mario Salvo,Match Report,CD Limache,Liga de Primera,18.0,7.0,38.9,0.17,0.43,0.0,0.0,10.0,1.0,10.0,0.0,0.0,0.0,0.0,5
+2026-03-07,12:00,Matchweek 6,Sat,Away,L,0.0,1.0,Everton,54.0,César Pinares,4-1-4-1,4-1-4-1,Gastón Philippe,Match Report,CD Limache,Liga de Primera,14.0,2.0,14.3,0.0,0.0,0.0,1.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,6
+2026-03-15,18:00,Matchweek 7,Sun,Away,W,5.0,2.0,Cobresal,49.0,Daniel Castro,4-3-3,4-1-4-1,Miguel Araos,Match Report,CD Limache,Liga de Primera,13.0,8.0,61.5,0.31,0.5,1.0,1.0,22.0,4.0,18.2,0.09,0.5,0.0,1.0,7
+2026-04-04,17:30,Matchweek 8,Sat,Home,W,4.0,0.0,Union La Calera,39.0,César Pinares,4-3-3,4-2-3-1,Diego Flores,Match Report,CD Limache,Liga de Primera,15.0,8.0,53.3,0.27,0.5,0.0,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,8
+2026-04-11,20:00 (21:00),Matchweek 9,Sat,Away,L,0.0,1.0,Palestino,66.0,César Pinares,4-3-3,4-1-4-1,Claudio Díaz,Match Report,CD Limache,Liga de Primera,6.0,1.0,16.7,0.0,0.0,0.0,0.0,9.0,2.0,22.2,0.0,0.0,1.0,1.0,9
+2026-04-17,20:00 (21:00),Matchweek 10,Fri,Home,W,3.0,0.0,Universidad de Concepcion,48.0,Alfonso Parot,4-3-3,5-3-2,Héctor Jona,Match Report,CD Limache,Liga de Primera,26.0,8.0,30.8,0.12,0.38,0.0,0.0,15.0,5.0,33.3,0.0,0.0,0.0,0.0,10
+2026-04-24,20:30 (21:30),Matchweek 11,Fri,Away,D,2.0,2.0,Audax Italiano,54.0,Alfonso Parot,4-3-3,3-4-1-2,Piero Maza,Match Report,CD Limache,Liga de Primera,11.0,3.0,27.3,0.09,0.33,1.0,1.0,13.0,2.0,15.4,0.08,0.5,0.0,0.0,11
+2026-05-16,20:00 (21:00),Matchweek 12,Sat,Home,,,,Universidad Catolica,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,12
+2026-05-24,15:00 (16:00),Matchweek 13,Sun,Away,,,,La Serena,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,13
+2026-05-31,12:30 (13:30),Matchweek 14,Sun,Home,,,,Coquimbo Unido,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,14
+2026-06-14,12:30 (13:30),Matchweek 15,Sun,Away,,,,Deportes Concepcion,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Away,,,,Colo-Colo,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Home,,,,Nublense,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Away,,,,O'Higgins,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Home,,,,Universidad de Chile,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Away,,,,Huachipato,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Home,,,,Everton,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Home,,,,Cobresal,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Away,,,,Union La Calera,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Home,,,,Palestino,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Away,,,,Universidad de Concepcion,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Home,,,,Audax Italiano,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Away,,,,Universidad Catolica,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Home,,,,La Serena,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Away,,,,Coquimbo Unido,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Home,,,,Deportes Concepcion,,,,,,Head-to-Head,CD Limache,Liga de Primera,,,,,,,,,,,,,,,30
+2026-01-31,18:00,Matchweek 1,Sat,Home,W,1.0,0.0,Huachipato,52.0,José Tiznado,5-3-2,4-2-3-1,Matías Assadi,Match Report,Cobresal,,17.0,5.0,29.4,0.0,0.0,1.0,1.0,13.0,0.0,0.0,0.0,,0.0,0.0,1
+2026-02-09,20:00,Matchweek 2,Mon,Away,W,3.0,0.0,Union La Calera,51.0,José Tiznado,5-3-2,4-2-3-1,Manuel Vergara,Match Report,Cobresal,,9.0,1.0,11.1,0.11,1.0,0.0,0.0,14.0,5.0,35.7,0.21,0.6,0.0,0.0,2
+2026-02-14,20:30,Matchweek 3,Sat,Home,W,3.0,2.0,Universidad Catolica,36.0,José Tiznado,5-3-2,4-2-3-1,José Cabero,Match Report,Cobresal,,11.0,8.0,72.7,0.27,0.38,0.0,0.0,23.0,6.0,26.1,0.04,0.17,1.0,1.0,3
+2026-02-20,20:30,Matchweek 4,Fri,Away,D,1.0,1.0,Deportes Concepcion,34.0,José Tiznado,5-3-2,4-1-3-2,Gastón Philippe,Match Report,Cobresal,,9.0,3.0,33.3,0.11,0.33,0.0,0.0,22.0,7.0,31.8,0.05,0.14,0.0,1.0,4
+2026-02-27,18:00,Matchweek 5,Fri,Home,L,0.0,1.0,La Serena,58.0,Franco Bechtholdt,5-3-2,4-2-3-1,Héctor Jona,Match Report,Cobresal,,15.0,6.0,40.0,0.0,0.0,0.0,0.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,5
+2026-03-08,20:30,Matchweek 6,Sun,Away,L,2.0,4.0,Palestino,37.0,José Tiznado,5-4-1,4-1-4-1,Piero Maza,Match Report,Cobresal,,8.0,5.0,62.5,0.25,0.4,0.0,0.0,28.0,10.0,35.7,0.14,0.4,0.0,0.0,6
+2026-03-15,18:00,Matchweek 7,Sun,Home,L,2.0,5.0,CD Limache,51.0,José Tiznado,4-1-4-1,4-3-3,Miguel Araos,Match Report,Cobresal,,22.0,4.0,18.2,0.09,0.5,0.0,1.0,13.0,8.0,61.5,0.31,0.5,1.0,1.0,7
+2026-04-03,17:30,Matchweek 8,Fri,Away,L,2.0,3.0,Coquimbo Unido,42.0,Franco Bechtholdt,5-3-2,4-2-3-1,José Cabero,Match Report,Cobresal,,12.0,4.0,33.3,0.17,0.5,0.0,0.0,23.0,11.0,47.8,0.13,0.27,0.0,0.0,8
+2026-04-12,20:00 (21:00),Matchweek 9,Sun,Away,L,0.0,1.0,Universidad de Concepcion,51.0,Franco Bechtholdt,4-4-2,3-5-2,Gastón Philippe,Match Report,Cobresal,,11.0,1.0,9.1,0.0,0.0,0.0,0.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,9
+2026-04-19,15:30 (16:30),Matchweek 10,Sun,Home,L,2.0,3.0,O'Higgins,42.0,Franco Bechtholdt,4-2-3-1,4-2-3-1,José Cabero,Match Report,Cobresal,,14.0,4.0,28.6,0.14,0.5,0.0,0.0,14.0,5.0,35.7,0.21,0.6,0.0,0.0,10
+2026-04-26,17:30 (18:30),Matchweek 11,Sun,Away,L,1.0,3.0,Everton,43.0,José Tiznado,4-2-3-1,4-4-1-1,Héctor Jona,Match Report,Cobresal,,15.0,6.0,40.0,0.07,0.17,0.0,0.0,21.0,5.0,23.8,0.1,0.4,1.0,1.0,11
+2026-05-17,15:00 (16:00),Matchweek 12,Sun,Home,,,,Universidad de Chile,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,12
+2026-05-23,12:30 (13:30),Matchweek 13,Sat,Away,,,,Audax Italiano,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,13
+2026-05-29,18:00 (19:00),Matchweek 14,Fri,Home,,,,Nublense,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,14
+2026-06-13,17:30 (18:30),Matchweek 15,Sat,Away,,,,Colo-Colo,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Away,,,,Huachipato,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Home,,,,Union La Calera,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Away,,,,Universidad Catolica,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Home,,,,Deportes Concepcion,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Away,,,,La Serena,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Home,,,,Palestino,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Away,,,,CD Limache,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Home,,,,Coquimbo Unido,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Home,,,,Universidad de Concepcion,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Away,,,,O'Higgins,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Home,,,,Everton,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Away,,,,Universidad de Chile,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Home,,,,Audax Italiano,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Away,,,,Nublense,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Home,,,,Colo-Colo,,,,,,Head-to-Head,Cobresal,,,,,,,,,,,,,,,,30
+2026-01-31,12:00,Matchweek 1,Sat,Away,L,1.0,3.0,CD Limache,73.0,Fernando de Paul,4-1-4-1,3-4-3,Cristián Garay,Match Report,Colo-Colo,Liga de Primera,18.0,7.0,38.9,0.06,0.14,0.0,0.0,9.0,4.0,44.4,0.33,0.75,0.0,0.0,1
+2026-02-07,20:30,Matchweek 2,Sat,Home,W,2.0,0.0,Everton,53.0,Fernando de Paul,4-3-3,3-4-1-2,Juan Lara,Match Report,Colo-Colo,Liga de Primera,23.0,8.0,34.8,0.09,0.25,0.0,0.0,10.0,1.0,10.0,0.0,0.0,0.0,0.0,2
+2026-02-15,20:30,Matchweek 3,Sun,Home,W,1.0,0.0,Union La Calera,62.0,Fernando de Paul,4-1-4-1,4-4-2,Fernando Véjar,Match Report,Colo-Colo,Liga de Primera,21.0,5.0,23.8,0.05,0.2,0.0,0.0,6.0,0.0,0.0,0.0,,0.0,0.0,3
+2026-02-21,18:00,Matchweek 4,Sat,Away,W,1.0,0.0,O'Higgins,57.0,Fernando de Paul,4-1-4-1,4-4-2,Mathías Riquelme,Match Report,Colo-Colo,Liga de Primera,12.0,4.0,33.3,0.08,0.25,0.0,0.0,9.0,2.0,22.2,0.0,0.0,0.0,0.0,4
+2026-03-01,18:00,Matchweek 5,Sun,Home,L,0.0,1.0,Universidad de Chile,58.0,Fernando de Paul,4-1-4-1,3-4-3,Cristián Garay,Match Report,Colo-Colo,Liga de Primera,12.0,4.0,33.3,0.0,0.0,0.0,0.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,5
+2026-03-07,18:00,Matchweek 6,Sat,Away,W,1.0,0.0,Audax Italiano,56.0,Fernando de Paul,5-3-2,3-4-3,Héctor Jona,Match Report,Colo-Colo,Liga de Primera,11.0,2.0,18.2,0.09,0.5,0.0,0.0,6.0,0.0,0.0,0.0,,0.0,0.0,6
+2026-03-16,20:30,Matchweek 7,Mon,Home,W,2.0,0.0,Huachipato,55.0,Fernando de Paul,5-3-2,3-4-1-2,Claudio Díaz,Match Report,Colo-Colo,Liga de Primera,11.0,2.0,18.2,0.09,0.5,1.0,1.0,8.0,2.0,25.0,0.0,0.0,0.0,0.0,7
+2026-04-05,15:30 (16:30),Matchweek 8,Sun,Away,W,1.0,0.0,Deportes Concepcion,67.0,Fernando de Paul,3-1-4-2,4-1-4-1,Franco Jiménez,Match Report,Colo-Colo,Liga de Primera,8.0,4.0,50.0,0.13,0.25,0.0,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,8
+2026-04-19,18:30 (19:30),Matchweek 10,Sun,Home,L,0.0,1.0,Palestino,71.0,Fernando de Paul,3-4-3,5-3-2,Fernando Véjar,Match Report,Colo-Colo,Liga de Primera,16.0,5.0,31.3,0.0,0.0,0.0,0.0,8.0,4.0,50.0,0.13,0.25,0.0,0.0,10
+2026-04-26,15:00 (16:00),Matchweek 11,Sun,Away,W,2.0,1.0,Universidad de Concepcion,65.0,Diego Ulloa,4-3-3,4-1-4-1,José Cabero,Match Report,Colo-Colo,Liga de Primera,17.0,5.0,29.4,0.06,0.2,1.0,1.0,9.0,5.0,55.6,0.11,0.2,0.0,0.0,11
+2026-05-03,17:30 (18:30),Matchweek 9,Sun,Home,,,,Coquimbo Unido,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,9
+2026-05-17,17:30 (18:30),Matchweek 12,Sun,Home,,,,Nublense,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,12
+2026-05-24,18:00 (19:00),Matchweek 13,Sun,Away,,,,Universidad Catolica,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,13
+2026-05-30,15:00 (16:00),Matchweek 14,Sat,Away,,,,La Serena,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,14
+2026-06-13,17:30 (18:30),Matchweek 15,Sat,Home,,,,Cobresal,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Home,,,,CD Limache,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Away,,,,Everton,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Away,,,,Union La Calera,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Home,,,,O'Higgins,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Away,,,,Universidad de Chile,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Home,,,,Audax Italiano,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Away,,,,Huachipato,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Home,,,,Deportes Concepcion,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Away,,,,Coquimbo Unido,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Away,,,,Palestino,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Home,,,,Universidad de Concepcion,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Away,,,,Nublense,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Home,,,,Universidad Catolica,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Home,,,,La Serena,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Away,,,,Cobresal,,,,,,Head-to-Head,Colo-Colo,Liga de Primera,,,,,,,,,,,,,,,30
+2026-01-31,15:30,Matchweek 1,Sat,Away,L,0.0,1.0,Universidad de Concepcion,50.0,Sebastián Galani,4-2-3-1,4-2-3-1,Héctor Jona,Match Report,Coquimbo Unido,,8.0,1.0,12.5,0.0,0.0,0.0,0.0,13.0,4.0,30.8,0.08,0.25,0.0,0.0,1
+2026-02-07,12:00,Matchweek 2,Sat,Home,W,3.0,1.0,Palestino,35.0,Sebastián Galani,4-2-3-1,4-1-4-1,Fernando Véjar,Match Report,Coquimbo Unido,,14.0,5.0,35.7,0.21,0.6,0.0,0.0,13.0,6.0,46.2,0.08,0.17,0.0,0.0,2
+2026-02-14,12:00,Matchweek 3,Sat,Away,W,1.0,0.0,La Serena,50.0,Sebastián Galani,4-2-3-1,4-3-1-2,Cristián Garay,Match Report,Coquimbo Unido,,13.0,4.0,30.8,0.08,0.25,0.0,0.0,4.0,0.0,0.0,0.0,,0.0,0.0,3
+2026-02-21,20:30,Matchweek 4,Sat,Away,L,1.0,3.0,Universidad Catolica,41.0,Diego Sánchez Carvajal,4-2-3-1,4-2-3-1,Franco Jiménez,Match Report,Coquimbo Unido,,9.0,4.0,44.4,0.11,0.25,0.0,0.0,15.0,7.0,46.7,0.13,0.29,1.0,1.0,4
+2026-02-28,12:00,Matchweek 5,Sat,Home,L,0.0,1.0,Deportes Concepcion,66.0,Diego Sánchez Carvajal,4-2-3-1,4-1-4-1,Diego Flores,Match Report,Coquimbo Unido,,17.0,3.0,17.6,0.0,0.0,0.0,0.0,8.0,3.0,37.5,0.0,0.0,1.0,1.0,5
+2026-03-07,12:00,Matchweek 6,Sat,Away,W,3.0,1.0,Huachipato,43.0,Sebastián Galani,4-2-3-1,4-1-4-1,Nicolás Gamboa,Match Report,Coquimbo Unido,,16.0,6.0,37.5,0.19,0.5,0.0,0.0,12.0,2.0,16.7,0.0,0.0,1.0,1.0,6
+2026-03-14,18:00,Matchweek 7,Sat,Home,L,0.0,1.0,Universidad de Chile,51.0,Sebastián Galani,4-2-3-1,4-1-4-1,Mathías Riquelme,Match Report,Coquimbo Unido,,19.0,2.0,10.5,0.0,0.0,0.0,0.0,8.0,3.0,37.5,0.13,0.33,0.0,0.0,7
+2026-04-03,17:30,Matchweek 8,Fri,Home,W,3.0,2.0,Cobresal,59.0,Sebastián Galani,4-2-3-1,5-3-2,José Cabero,Match Report,Coquimbo Unido,,23.0,11.0,47.8,0.13,0.27,0.0,0.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,8
+2026-04-19,12:30 (13:30),Matchweek 10,Sun,Home,D,1.0,1.0,Nublense,42.0,Sebastián Galani,4-2-3-1,5-3-2,Nicolas Millas,Match Report,Coquimbo Unido,,10.0,3.0,30.0,0.1,0.33,0.0,0.0,15.0,7.0,46.7,0.07,0.14,0.0,0.0,10
+2026-04-24,18:00 (19:00),Matchweek 11,Fri,Away,W,2.0,1.0,Union La Calera,42.0,Sebastián Galani,4-4-2,4-2-3-1,Miguel Araos,Match Report,Coquimbo Unido,,10.0,6.0,60.0,0.2,0.33,0.0,0.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,11
+2026-05-03,17:30 (18:30),Matchweek 9,Sun,Away,,,,Colo-Colo,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,9
+2026-05-15,20:00 (21:00),Matchweek 12,Fri,Home,,,,Audax Italiano,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,12
+2026-05-22,20:00 (21:00),Matchweek 13,Fri,Away,,,,Everton,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,13
+2026-05-31,12:30 (13:30),Matchweek 14,Sun,Away,,,,CD Limache,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,14
+2026-06-14,20:00 (21:00),Matchweek 15,Sun,Home,,,,O'Higgins,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Home,,,,Universidad de Concepcion,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Away,,,,Palestino,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Home,,,,La Serena,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Home,,,,Universidad Catolica,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Away,,,,Deportes Concepcion,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Home,,,,Huachipato,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Away,,,,Universidad de Chile,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Away,,,,Cobresal,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Home,,,,Colo-Colo,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Away,,,,Nublense,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Home,,,,Union La Calera,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Away,,,,Audax Italiano,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Home,,,,Everton,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Home,,,,CD Limache,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Away,,,,O'Higgins,,,,,,Head-to-Head,Coquimbo Unido,,,,,,,,,,,,,,,,30
+2026-02-02,20:30,Matchweek 1,Mon,Away,L,1.0,2.0,O'Higgins,53.0,Joaquín Larrivey,4-4-2,4-2-3-1,Fernando Véjar,Match Report,Deportes Concepcion,Liga de Primera,12.0,3.0,25.0,0.08,0.33,0.0,0.0,13.0,6.0,46.2,0.15,0.33,0.0,0.0,1
+2026-02-08,20:30,Matchweek 2,Sun,Away,L,0.0,2.0,Universidad Catolica,53.0,Joaquín Larrivey,4-2-3-1,4-2-3-1,Cristián Garay,Match Report,Deportes Concepcion,Liga de Primera,15.0,3.0,20.0,0.0,0.0,0.0,0.0,12.0,5.0,41.7,0.17,0.4,0.0,0.0,2
+2026-02-15,12:00,Matchweek 3,Sun,Away,L,1.0,2.0,Universidad de Concepcion,51.0,Joaquín Larrivey,4-2-3-1,3-4-3,Juan Lara,Match Report,Deportes Concepcion,Liga de Primera,7.0,1.0,14.3,0.0,0.0,1.0,1.0,11.0,9.0,81.8,0.18,0.22,0.0,0.0,3
+2026-02-20,20:30,Matchweek 4,Fri,Home,D,1.0,1.0,Cobresal,66.0,Carlos Escobar Ortíz,4-1-3-2,5-3-2,Gastón Philippe,Match Report,Deportes Concepcion,Liga de Primera,22.0,7.0,31.8,0.05,0.14,0.0,1.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,4
+2026-02-28,12:00,Matchweek 5,Sat,Away,W,1.0,0.0,Coquimbo Unido,34.0,Nelson Sepúlveda,4-1-4-1,4-2-3-1,Diego Flores,Match Report,Deportes Concepcion,Liga de Primera,8.0,3.0,37.5,0.0,0.0,1.0,1.0,17.0,3.0,17.6,0.0,0.0,0.0,0.0,5
+2026-03-06,20:30,Matchweek 6,Fri,Home,L,0.0,2.0,Nublense,57.0,Joaquín Larrivey,4-1-4-1,3-4-3,Cristián Garay,Match Report,Deportes Concepcion,Liga de Primera,8.0,2.0,25.0,0.0,0.0,0.0,0.0,14.0,6.0,42.9,0.14,0.33,0.0,0.0,6
+2026-03-13,20:00,Matchweek 7,Fri,Away,L,0.0,3.0,Audax Italiano,51.0,Joaquín Larrivey,4-4-2,3-4-3,Nicolas Millas,Match Report,Deportes Concepcion,Liga de Primera,17.0,3.0,17.6,0.0,0.0,0.0,0.0,7.0,3.0,42.9,0.43,1.0,0.0,0.0,7
+2026-04-05,15:30 (16:30),Matchweek 8,Sun,Home,L,0.0,1.0,Colo-Colo,33.0,Joaquín Larrivey,4-1-4-1,3-1-4-2,Franco Jiménez,Match Report,Deportes Concepcion,Liga de Primera,8.0,1.0,12.5,0.0,0.0,0.0,0.0,8.0,4.0,50.0,0.13,0.25,0.0,0.0,8
+2026-04-13,20:00 (21:00),Matchweek 9,Mon,Away,L,0.0,1.0,Union La Calera,56.0,Joaquín Larrivey,4-1-4-1,4-2-3-1,Miguel Araos,Match Report,Deportes Concepcion,Liga de Primera,12.0,3.0,25.0,0.0,0.0,0.0,0.0,18.0,3.0,16.7,0.06,0.33,0.0,0.0,9
+2026-04-18,20:00 (21:00),Matchweek 10,Sat,Home,D,3.0,3.0,La Serena,46.0,Joaquín Larrivey,4-2-3-1,4-2-3-1,Francisco Gilabert,Match Report,Deportes Concepcion,Liga de Primera,10.0,3.0,30.0,0.2,0.67,1.0,1.0,16.0,4.0,25.0,0.06,0.25,2.0,2.0,10
+2026-04-23,20:00 (21:00),Matchweek 11,Thu,Away,W,1.0,0.0,Palestino,33.0,Joaquín Larrivey,4-1-4-1,4-1-4-1,Cristián Garay,Match Report,Deportes Concepcion,Liga de Primera,10.0,3.0,30.0,0.0,0.0,1.0,1.0,19.0,2.0,10.5,0.0,0.0,0.0,0.0,11
+2026-05-17,20:00 (21:00),Matchweek 12,Sun,Home,,,,Everton,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,12
+2026-05-24,12:30 (13:30),Matchweek 13,Sun,Home,,,,Huachipato,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,13
+2026-05-30,17:30 (18:30),Matchweek 14,Sat,Away,,,,Universidad de Chile,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,14
+2026-06-14,12:30 (13:30),Matchweek 15,Sun,Home,,,,CD Limache,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Home,,,,O'Higgins,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Home,,,,Universidad Catolica,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Home,,,,Universidad de Concepcion,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Away,,,,Cobresal,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Home,,,,Coquimbo Unido,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Away,,,,Nublense,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Home,,,,Audax Italiano,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Away,,,,Colo-Colo,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Home,,,,Union La Calera,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Away,,,,La Serena,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Home,,,,Palestino,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Away,,,,Everton,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Away,,,,Huachipato,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Home,,,,Universidad de Chile,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Away,,,,CD Limache,,,,,,Head-to-Head,Deportes Concepcion,Liga de Primera,,,,,,,,,,,,,,,30
+2026-02-02,18:00,Matchweek 1,Mon,Home,W,3.0,0.0,Union La Calera,51.0,Diego Oyarzún,4-1-4-1,4-4-1-1,Nicolas Millas,Match Report,Everton,Liga de Primera,14.0,3.0,21.4,0.0,0.0,0.0,0.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,1
+2026-02-07,20:30,Matchweek 2,Sat,Away,L,0.0,2.0,Colo-Colo,47.0,Ramiro González Hernández,3-4-1-2,4-3-3,Juan Lara,Match Report,Everton,Liga de Primera,10.0,1.0,10.0,0.0,0.0,0.0,0.0,23.0,8.0,34.8,0.09,0.25,0.0,0.0,2
+2026-02-13,18:00,Matchweek 3,Fri,Home,L,0.0,3.0,Huachipato,54.0,Ramiro González Hernández,4-2-3-1,3-4-1-2,Nicolás Gamboa,Match Report,Everton,Liga de Primera,12.0,3.0,25.0,0.0,0.0,0.0,0.0,14.0,10.0,71.4,0.21,0.3,0.0,0.0,3
+2026-02-22,18:00,Matchweek 4,Sun,Away,L,0.0,1.0,Audax Italiano,34.0,Diego Oyarzún,5-3-2,3-4-3,Claudio Díaz,Match Report,Everton,Liga de Primera,6.0,1.0,16.7,0.0,0.0,0.0,0.0,9.0,3.0,33.3,0.0,0.0,1.0,2.0,4
+2026-03-01,12:00,Matchweek 5,Sun,Away,W,3.0,0.0,Universidad de Concepcion,46.0,Diego Oyarzún,4-2-3-1,4-4-2,Francisco Gilabert,Match Report,Everton,Liga de Primera,17.0,10.0,58.8,0.18,0.3,0.0,0.0,21.0,4.0,19.0,0.0,0.0,0.0,0.0,5
+2026-03-07,12:00,Matchweek 6,Sat,Home,W,1.0,0.0,CD Limache,46.0,Diego Oyarzún,4-1-4-1,4-1-4-1,Gastón Philippe,Match Report,Everton,Liga de Primera,12.0,4.0,33.3,0.08,0.25,0.0,0.0,14.0,2.0,14.3,0.0,0.0,0.0,1.0,6
+2026-03-14,20:30,Matchweek 7,Sat,Away,D,2.0,2.0,Universidad Catolica,34.0,Diego Oyarzún,4-4-2,4-3-3,Rodrigo Carvajal,Match Report,Everton,Liga de Primera,5.0,3.0,60.0,0.4,0.67,0.0,0.0,14.0,3.0,21.4,0.14,0.67,0.0,0.0,7
+2026-04-04,20:00,Matchweek 8,Sat,Home,D,0.0,0.0,Nublense,49.0,Diego Oyarzún,4-2-3-1,5-3-2,Piero Maza,Match Report,Everton,Liga de Primera,10.0,3.0,30.0,0.0,0.0,0.0,0.0,13.0,3.0,23.1,0.0,0.0,0.0,0.0,8
+2026-04-11,15:00 (16:00),Matchweek 9,Sat,Away,L,0.0,1.0,La Serena,48.0,Diego Oyarzún,4-1-4-1,4-1-4-1,Matías Assadi,Match Report,Everton,Liga de Primera,7.0,2.0,28.6,0.0,0.0,0.0,0.0,13.0,5.0,38.5,0.08,0.2,0.0,0.0,9
+2026-04-18,17:30 (18:30),Matchweek 10,Sat,Home,D,0.0,0.0,Universidad de Chile,36.0,Diego Oyarzún,4-4-1-1,4-1-4-1,Cristián Garay,Match Report,Everton,Liga de Primera,10.0,6.0,60.0,0.0,0.0,0.0,0.0,15.0,6.0,40.0,0.0,0.0,0.0,0.0,10
+2026-04-26,17:30 (18:30),Matchweek 11,Sun,Home,W,3.0,1.0,Cobresal,57.0,Diego Oyarzún,4-4-1-1,4-2-3-1,Héctor Jona,Match Report,Everton,Liga de Primera,21.0,5.0,23.8,0.1,0.4,1.0,1.0,15.0,6.0,40.0,0.07,0.17,0.0,0.0,11
+2026-05-17,20:00 (21:00),Matchweek 12,Sun,Away,,,,Deportes Concepcion,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,12
+2026-05-22,20:00 (21:00),Matchweek 13,Fri,Home,,,,Coquimbo Unido,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,13
+2026-05-31,17:30 (18:30),Matchweek 14,Sun,Away,,,,O'Higgins,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,14
+2026-06-13,15:00 (16:00),Matchweek 15,Sat,Home,,,,Palestino,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Away,,,,Union La Calera,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Home,,,,Colo-Colo,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Away,,,,Huachipato,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Home,,,,Audax Italiano,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Home,,,,Universidad de Concepcion,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Away,,,,CD Limache,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Home,,,,Universidad Catolica,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Away,,,,Nublense,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Home,,,,La Serena,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Away,,,,Universidad de Chile,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Away,,,,Cobresal,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Home,,,,Deportes Concepcion,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Away,,,,Coquimbo Unido,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Home,,,,O'Higgins,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Away,,,,Palestino,,,,,,Head-to-Head,Everton,Liga de Primera,,,,,,,,,,,,,,,30
+2026-01-31,18:00,Matchweek 1,Sat,Away,L,0.0,1.0,Cobresal,49.0,Claudio Sepúlveda,4-2-3-1,5-3-2,Matías Assadi,Match Report,Huachipato,,13.0,0.0,0.0,0.0,,0.0,0.0,17.0,5.0,29.4,0.0,0.0,1.0,1.0,1
+2026-02-08,12:00,Matchweek 2,Sun,Home,W,2.0,1.0,Universidad de Chile,39.0,Claudio Sepúlveda,4-1-3-2,3-4-1-2,Rodrigo Carvajal,Match Report,Huachipato,,12.0,9.0,75.0,0.17,0.22,0.0,1.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,2
+2026-02-13,18:00,Matchweek 3,Fri,Away,W,3.0,0.0,Everton,46.0,Rafael Caroca,3-4-1-2,4-2-3-1,Nicolás Gamboa,Match Report,Huachipato,,14.0,10.0,71.4,0.21,0.3,0.0,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,3
+2026-02-21,12:00,Matchweek 4,Sat,Home,W,2.0,1.0,Palestino,56.0,Cris Martínez,3-4-1-2,3-1-4-2,Juan Lara,Match Report,Huachipato,,22.0,8.0,36.4,0.05,0.13,1.0,1.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,4
+2026-02-28,18:00,Matchweek 5,Sat,Away,L,0.0,3.0,CD Limache,54.0,Claudio Sepúlveda,3-4-1-2,4-1-4-1,Mario Salvo,Match Report,Huachipato,,10.0,1.0,10.0,0.0,0.0,0.0,0.0,18.0,7.0,38.9,0.17,0.43,0.0,0.0,5
+2026-03-07,12:00,Matchweek 6,Sat,Home,L,1.0,3.0,Coquimbo Unido,57.0,Claudio Sepúlveda,4-1-4-1,4-2-3-1,Nicolás Gamboa,Match Report,Huachipato,,12.0,2.0,16.7,0.0,0.0,1.0,1.0,16.0,6.0,37.5,0.19,0.5,0.0,0.0,6
+2026-03-16,20:30,Matchweek 7,Mon,Away,L,0.0,2.0,Colo-Colo,45.0,Claudio Sepúlveda,3-4-1-2,5-3-2,Claudio Díaz,Match Report,Huachipato,,8.0,2.0,25.0,0.0,0.0,0.0,0.0,11.0,2.0,18.2,0.09,0.5,1.0,1.0,7
+2026-04-06,20:00 (21:00),Matchweek 8,Mon,Home,W,5.0,1.0,Universidad de Concepcion,46.0,Claudio Sepúlveda,4-3-3,4-1-4-1,Fernando Véjar,Match Report,Huachipato,,17.0,12.0,70.6,0.29,0.42,0.0,0.0,18.0,6.0,33.3,0.06,0.17,0.0,0.0,8
+2026-04-10,20:00 (21:00),Matchweek 9,Fri,Away,W,2.0,0.0,O'Higgins,37.0,Claudio Sepúlveda,4-3-3,4-1-4-1,Manuel Vergara,Match Report,Huachipato,,11.0,4.0,36.4,0.18,0.5,0.0,0.0,17.0,4.0,23.5,0.0,0.0,0.0,0.0,9
+2026-04-19,20:45 (21:45),Matchweek 10,Sun,Home,W,3.0,2.0,Audax Italiano,49.0,Claudio Sepúlveda,4-2-3-1,3-1-4-2,Cristián Copiapó,Match Report,Huachipato,,11.0,5.0,45.5,0.18,0.4,0.0,0.0,15.0,4.0,26.7,0.13,0.5,0.0,0.0,10
+2026-04-26,12:30 (13:30),Matchweek 11,Sun,Away,D,0.0,0.0,La Serena,45.0,Claudio Sepúlveda,4-2-3-1,4-2-3-1,Julio Díaz,Match Report,Huachipato,,10.0,4.0,40.0,0.0,0.0,0.0,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,11
+2026-05-17,12:30 (13:30),Matchweek 12,Sun,Home,,,,Union La Calera,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,12
+2026-05-24,12:30 (13:30),Matchweek 13,Sun,Away,,,,Deportes Concepcion,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,13
+2026-05-31,15:00 (16:00),Matchweek 14,Sun,Home,,,,Universidad Catolica,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,14
+2026-06-13,20:00 (21:00),Matchweek 15,Sat,Away,,,,Nublense,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Home,,,,Cobresal,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Away,,,,Universidad de Chile,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Home,,,,Everton,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Away,,,,Palestino,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Home,,,,CD Limache,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Away,,,,Coquimbo Unido,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Home,,,,Colo-Colo,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Away,,,,Universidad de Concepcion,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Home,,,,O'Higgins,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Away,,,,Audax Italiano,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Home,,,,La Serena,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Away,,,,Union La Calera,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Home,,,,Deportes Concepcion,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Away,,,,Universidad Catolica,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Home,,,,Nublense,,,,,,Head-to-Head,Huachipato,,,,,,,,,,,,,,,,30
+2026-02-01,18:00,Matchweek 1,Sun,Home,D,2.0,2.0,Universidad Catolica,41.0,Jeisson Vargas,4-1-4-1,4-2-3-1,Piero Maza,Match Report,La Serena,Liga de Primera,10.0,5.0,50.0,0.2,0.4,0.0,0.0,13.0,4.0,30.8,0.15,0.5,0.0,0.0,1
+2026-02-07,18:00,Matchweek 2,Sat,Away,L,0.0,1.0,O'Higgins,52.0,Jeisson Vargas,3-4-3,4-1-4-1,Claudio Díaz,Match Report,La Serena,Liga de Primera,7.0,3.0,42.9,0.0,0.0,0.0,0.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,2
+2026-02-14,12:00,Matchweek 3,Sat,Home,L,0.0,1.0,Coquimbo Unido,50.0,Jeisson Vargas,4-3-1-2,4-2-3-1,Cristián Garay,Match Report,La Serena,Liga de Primera,4.0,0.0,0.0,0.0,,0.0,0.0,13.0,4.0,30.8,0.08,0.25,0.0,0.0,3
+2026-02-22,12:00,Matchweek 4,Sun,Home,D,1.0,1.0,Universidad de Concepcion,60.0,Jeisson Vargas,4-2-3-1,3-4-3,José Cabero,Match Report,La Serena,Liga de Primera,15.0,7.0,46.7,0.07,0.14,0.0,0.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,4
+2026-02-27,18:00,Matchweek 5,Fri,Away,W,1.0,0.0,Cobresal,42.0,Jeisson Vargas,4-2-3-1,5-3-2,Héctor Jona,Match Report,La Serena,Liga de Primera,13.0,3.0,23.1,0.08,0.33,0.0,0.0,15.0,6.0,40.0,0.0,0.0,0.0,0.0,5
+2026-03-06,18:00,Matchweek 6,Fri,Home,W,3.0,0.0,Union La Calera,42.0,Jeisson Vargas,4-2-3-1,4-1-3-2,Matías Assadi,Match Report,La Serena,Liga de Primera,10.0,5.0,50.0,0.3,0.6,0.0,0.0,13.0,4.0,30.8,0.0,0.0,0.0,0.0,6
+2026-03-15,20:30,Matchweek 7,Sun,Away,D,2.0,2.0,Nublense,48.0,Jeisson Vargas,4-1-4-1,3-4-3,Francisco Gilabert,Match Report,La Serena,Liga de Primera,12.0,3.0,25.0,0.17,0.67,0.0,0.0,18.0,5.0,27.8,0.11,0.4,0.0,0.0,7
+2026-04-05,18:00 (19:00),Matchweek 8,Sun,Away,L,0.0,4.0,Universidad de Chile,51.0,Jeisson Vargas,4-2-3-1,4-2-3-1,Mario Salvo,Match Report,La Serena,Liga de Primera,8.0,4.0,50.0,0.0,0.0,0.0,0.0,14.0,6.0,42.9,0.29,0.67,0.0,0.0,8
+2026-04-11,15:00 (16:00),Matchweek 9,Sat,Home,W,1.0,0.0,Everton,52.0,Jeisson Vargas,4-1-4-1,4-1-4-1,Matías Assadi,Match Report,La Serena,Liga de Primera,13.0,5.0,38.5,0.08,0.2,0.0,0.0,7.0,2.0,28.6,0.0,0.0,0.0,0.0,9
+2026-04-18,20:00 (21:00),Matchweek 10,Sat,Away,D,3.0,3.0,Deportes Concepcion,54.0,Jeisson Vargas,4-2-3-1,4-2-3-1,Francisco Gilabert,Match Report,La Serena,Liga de Primera,16.0,4.0,25.0,0.06,0.25,2.0,2.0,10.0,3.0,30.0,0.2,0.67,1.0,1.0,10
+2026-04-26,12:30 (13:30),Matchweek 11,Sun,Home,D,0.0,0.0,Huachipato,55.0,Jeisson Vargas,4-2-3-1,4-2-3-1,Julio Díaz,Match Report,La Serena,Liga de Primera,12.0,3.0,25.0,0.0,0.0,0.0,0.0,10.0,4.0,40.0,0.0,0.0,0.0,0.0,11
+2026-05-15,20:00 (21:00),Matchweek 12,Fri,Away,,,,Palestino,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,12
+2026-05-24,15:00 (16:00),Matchweek 13,Sun,Home,,,,CD Limache,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,13
+2026-05-30,15:00 (16:00),Matchweek 14,Sat,Home,,,,Colo-Colo,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,14
+2026-06-12,20:00 (21:00),Matchweek 15,Fri,Away,,,,Audax Italiano,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Away,,,,Universidad Catolica,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Home,,,,O'Higgins,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Away,,,,Coquimbo Unido,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Away,,,,Universidad de Concepcion,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Home,,,,Cobresal,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Away,,,,Union La Calera,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Home,,,,Nublense,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Home,,,,Universidad de Chile,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Away,,,,Everton,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Home,,,,Deportes Concepcion,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Away,,,,Huachipato,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Home,,,,Palestino,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Away,,,,CD Limache,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Away,,,,Colo-Colo,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Home,,,,Audax Italiano,,,,,,Head-to-Head,La Serena,Liga de Primera,,,,,,,,,,,,,,,30
+2026-02-02,20:30,Matchweek 1,Mon,Home,W,2.0,1.0,Deportes Concepcion,48.0,Alan Robledo,4-2-3-1,4-4-2,Fernando Véjar,Match Report,O'Higgins,,13.0,6.0,46.2,0.15,0.33,0.0,0.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,1
+2026-02-07,18:00,Matchweek 2,Sat,Home,W,1.0,0.0,La Serena,48.0,Alan Robledo,4-1-4-1,3-4-3,Claudio Díaz,Match Report,O'Higgins,,10.0,4.0,40.0,0.1,0.25,0.0,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,2
+2026-02-14,18:00,Matchweek 3,Sat,Away,L,1.0,2.0,CD Limache,64.0,Alan Robledo,4-1-4-1,3-4-3,Héctor Jona,Match Report,O'Higgins,,15.0,4.0,26.7,0.07,0.25,0.0,0.0,9.0,6.0,66.7,0.22,0.33,0.0,0.0,3
+2026-02-21,18:00,Matchweek 4,Sat,Home,L,0.0,1.0,Colo-Colo,44.0,Alan Robledo,4-4-2,4-1-4-1,Mathías Riquelme,Match Report,O'Higgins,,9.0,2.0,22.2,0.0,0.0,0.0,0.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,4
+2026-02-28,20:30,Matchweek 5,Sat,Away,L,2.0,4.0,Palestino,46.0,Nicolás Garrido,4-4-2,4-1-4-1,Gastón Philippe,Match Report,O'Higgins,,8.0,4.0,50.0,0.13,0.25,1.0,1.0,19.0,7.0,36.8,0.21,0.57,0.0,0.0,5
+2026-03-07,20:30,Matchweek 6,Sat,Home,W,1.0,0.0,Universidad Catolica,39.0,Luis Pavez Muñoz,4-4-2,4-2-3-1,Juan Lara,Match Report,O'Higgins,,7.0,3.0,42.9,0.14,0.33,0.0,0.0,8.0,3.0,37.5,0.0,0.0,0.0,0.0,6
+2026-03-16,18:00,Matchweek 7,Mon,Away,D,3.0,3.0,Union La Calera,45.0,Alan Robledo,4-2-3-1,4-2-3-1,Mario Salvo,Match Report,O'Higgins,,13.0,6.0,46.2,0.23,0.5,0.0,0.0,16.0,5.0,31.3,0.13,0.4,1.0,1.0,7
+2026-04-03,20:00,Matchweek 8,Fri,Home,W,2.0,1.0,Audax Italiano,48.0,Luis Pavez Muñoz,4-3-3,3-4-1-2,Juan Lara,Match Report,O'Higgins,,22.0,8.0,36.4,0.09,0.25,0.0,0.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,8
+2026-04-10,20:00 (21:00),Matchweek 9,Fri,Home,L,0.0,2.0,Huachipato,64.0,Bryan Rabello,4-1-4-1,4-3-3,Manuel Vergara,Match Report,O'Higgins,,17.0,4.0,23.5,0.0,0.0,0.0,0.0,11.0,4.0,36.4,0.18,0.5,0.0,0.0,9
+2026-04-19,15:30 (16:30),Matchweek 10,Sun,Away,W,3.0,2.0,Cobresal,58.0,Bryan Rabello,4-2-3-1,4-2-3-1,José Cabero,Match Report,O'Higgins,,14.0,5.0,35.7,0.21,0.6,0.0,0.0,14.0,4.0,28.6,0.14,0.5,0.0,0.0,10
+2026-04-25,15:00 (16:00),Matchweek 11,Sat,Away,W,2.0,0.0,Nublense,54.0,Bryan Rabello,4-2-3-1,3-5-2,Juan Lara,Match Report,O'Higgins,,7.0,5.0,71.4,0.29,0.4,0.0,0.0,15.0,2.0,13.3,0.0,0.0,0.0,0.0,11
+2026-05-16,17:30 (18:30),Matchweek 12,Sat,Home,,,,Universidad de Concepcion,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,12
+2026-05-23,17:30 (18:30),Matchweek 13,Sat,Away,,,,Universidad de Chile,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,13
+2026-05-31,17:30 (18:30),Matchweek 14,Sun,Home,,,,Everton,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,14
+2026-06-14,20:00 (21:00),Matchweek 15,Sun,Away,,,,Coquimbo Unido,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Away,,,,Deportes Concepcion,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Away,,,,La Serena,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Home,,,,CD Limache,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Away,,,,Colo-Colo,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Home,,,,Palestino,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Away,,,,Universidad Catolica,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Home,,,,Union La Calera,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Away,,,,Audax Italiano,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Away,,,,Huachipato,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Home,,,,Cobresal,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Home,,,,Nublense,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Away,,,,Universidad de Concepcion,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Home,,,,Universidad de Chile,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Away,,,,Everton,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Home,,,,Coquimbo Unido,,,,,,Head-to-Head,O'Higgins,,,,,,,,,,,,,,,,30
+2026-02-01,20:30,Matchweek 1,Sun,Home,D,1.0,1.0,Nublense,57.0,Bryan Carrasco,4-1-4-1,4-4-2,Mario Salvo,Match Report,Palestino,Liga de Primera,14.0,7.0,50.0,0.07,0.14,0.0,1.0,9.0,3.0,33.3,0.0,0.0,1.0,1.0,1
+2026-02-07,12:00,Matchweek 2,Sat,Away,L,1.0,3.0,Coquimbo Unido,65.0,Bryan Carrasco,4-1-4-1,4-2-3-1,Fernando Véjar,Match Report,Palestino,Liga de Primera,13.0,6.0,46.2,0.08,0.17,0.0,0.0,14.0,5.0,35.7,0.21,0.6,0.0,0.0,2
+2026-02-13,20:30,Matchweek 3,Fri,Home,D,0.0,0.0,Universidad de Chile,40.0,Sebastián Pérez Kirby,3-1-4-2,3-4-1-2,Diego Flores,Match Report,Palestino,Liga de Primera,8.0,3.0,37.5,0.0,0.0,0.0,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,3
+2026-02-21,12:00,Matchweek 4,Sat,Away,L,1.0,2.0,Huachipato,44.0,Sebastián Pérez Kirby,3-1-4-2,3-4-1-2,Juan Lara,Match Report,Palestino,Liga de Primera,12.0,2.0,16.7,0.08,0.5,0.0,0.0,22.0,8.0,36.4,0.05,0.13,1.0,1.0,4
+2026-02-28,20:30,Matchweek 5,Sat,Home,W,4.0,2.0,O'Higgins,54.0,Sebastián Pérez Kirby,4-1-4-1,4-4-2,Gastón Philippe,Match Report,Palestino,Liga de Primera,19.0,7.0,36.8,0.21,0.57,0.0,0.0,8.0,4.0,50.0,0.13,0.25,1.0,1.0,5
+2026-03-08,20:30,Matchweek 6,Sun,Home,W,4.0,2.0,Cobresal,63.0,Sebastián Pérez Kirby,4-1-4-1,5-4-1,Piero Maza,Match Report,Palestino,Liga de Primera,28.0,10.0,35.7,0.14,0.4,0.0,0.0,8.0,5.0,62.5,0.25,0.4,0.0,0.0,6
+2026-03-15,12:00,Matchweek 7,Sun,Away,L,0.0,1.0,Universidad de Concepcion,56.0,Sebastián Pérez Kirby,4-1-4-1,4-4-2,Cristián Copiapó,Match Report,Palestino,Liga de Primera,11.0,3.0,27.3,0.0,0.0,0.0,0.0,12.0,1.0,8.3,0.08,1.0,0.0,0.0,7
+2026-04-02,18:00,Matchweek 8,Thu,Away,L,1.0,6.0,Universidad Catolica,45.0,Sebastián Pérez Kirby,4-1-4-1,4-1-4-1,Cristián Garay,Match Report,Palestino,Liga de Primera,12.0,2.0,16.7,0.08,0.5,0.0,0.0,15.0,7.0,46.7,0.4,0.86,0.0,0.0,8
+2026-04-11,20:00 (21:00),Matchweek 9,Sat,Home,W,1.0,0.0,CD Limache,34.0,Sebastián Pérez Kirby,4-1-4-1,4-3-3,Claudio Díaz,Match Report,Palestino,Liga de Primera,9.0,2.0,22.2,0.0,0.0,1.0,1.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,9
+2026-04-19,18:30 (19:30),Matchweek 10,Sun,Away,W,1.0,0.0,Colo-Colo,29.0,Sebastián Pérez Kirby,5-3-2,3-4-3,Fernando Véjar,Match Report,Palestino,Liga de Primera,8.0,4.0,50.0,0.13,0.25,0.0,0.0,16.0,5.0,31.3,0.0,0.0,0.0,0.0,10
+2026-04-23,20:00 (21:00),Matchweek 11,Thu,Home,L,0.0,1.0,Deportes Concepcion,67.0,Sebastián Pérez Kirby,4-1-4-1,4-1-4-1,Cristián Garay,Match Report,Palestino,Liga de Primera,19.0,2.0,10.5,0.0,0.0,0.0,0.0,10.0,3.0,30.0,0.0,0.0,1.0,1.0,11
+2026-05-15,20:00 (21:00),Matchweek 12,Fri,Home,,,,La Serena,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,12
+2026-05-23,20:00 (21:00),Matchweek 13,Sat,Away,,,,Union La Calera,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,13
+2026-05-31,20:00 (21:00),Matchweek 14,Sun,Home,,,,Audax Italiano,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,14
+2026-06-13,15:00 (16:00),Matchweek 15,Sat,Away,,,,Everton,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Away,,,,Nublense,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Home,,,,Coquimbo Unido,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Away,,,,Universidad de Chile,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Home,,,,Huachipato,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Away,,,,O'Higgins,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Away,,,,Cobresal,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Home,,,,Universidad de Concepcion,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Home,,,,Universidad Catolica,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Away,,,,CD Limache,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Home,,,,Colo-Colo,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Away,,,,Deportes Concepcion,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Away,,,,La Serena,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Home,,,,Union La Calera,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Away,,,,Audax Italiano,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Home,,,,Everton,,,,,,Head-to-Head,Palestino,Liga de Primera,,,,,,,,,,,,,,,30
+2026-02-01,18:00,Matchweek 1,Sun,Away,D,2.0,2.0,La Serena,59.0,Fernando Zampedri,4-2-3-1,4-1-4-1,Piero Maza,Match Report,Universidad Catolica,,13.0,4.0,30.8,0.15,0.5,0.0,0.0,10.0,5.0,50.0,0.2,0.4,0.0,0.0,1
+2026-02-08,20:30,Matchweek 2,Sun,Home,W,2.0,0.0,Deportes Concepcion,47.0,Fernando Zampedri,4-2-3-1,4-2-3-1,Cristián Garay,Match Report,Universidad Catolica,,12.0,5.0,41.7,0.17,0.4,0.0,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,2
+2026-02-14,20:30,Matchweek 3,Sat,Away,L,2.0,3.0,Cobresal,64.0,Fernando Zampedri,4-2-3-1,5-3-2,José Cabero,Match Report,Universidad Catolica,,23.0,6.0,26.1,0.04,0.17,1.0,1.0,11.0,8.0,72.7,0.27,0.38,0.0,0.0,3
+2026-02-21,20:30,Matchweek 4,Sat,Home,W,3.0,1.0,Coquimbo Unido,59.0,Fernando Zampedri,4-2-3-1,4-2-3-1,Franco Jiménez,Match Report,Universidad Catolica,,15.0,7.0,46.7,0.13,0.29,1.0,1.0,9.0,4.0,44.4,0.11,0.25,0.0,0.0,4
+2026-03-01,20:30,Matchweek 5,Sun,Away,W,2.0,1.0,Nublense,60.0,Fernando Zampedri,4-2-3-1,3-4-3,Fernando Véjar,Match Report,Universidad Catolica,,11.0,6.0,54.5,0.09,0.17,1.0,1.0,6.0,3.0,50.0,0.0,0.0,1.0,1.0,5
+2026-03-07,20:30,Matchweek 6,Sat,Away,L,0.0,1.0,O'Higgins,61.0,Fernando Zampedri,4-2-3-1,4-4-2,Juan Lara,Match Report,Universidad Catolica,,8.0,3.0,37.5,0.0,0.0,0.0,0.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,6
+2026-03-14,20:30,Matchweek 7,Sat,Home,D,2.0,2.0,Everton,66.0,Fernando Zampedri,4-3-3,4-4-2,Rodrigo Carvajal,Match Report,Universidad Catolica,,14.0,3.0,21.4,0.14,0.67,0.0,0.0,5.0,3.0,60.0,0.4,0.67,0.0,0.0,7
+2026-04-02,18:00,Matchweek 8,Thu,Home,W,6.0,1.0,Palestino,55.0,Fernando Zampedri,4-1-4-1,4-1-4-1,Cristián Garay,Match Report,Universidad Catolica,,15.0,7.0,46.7,0.4,0.86,0.0,0.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,8
+2026-04-11,17:30 (18:30),Matchweek 9,Sat,Away,W,4.0,3.0,Audax Italiano,54.0,Fernando Zampedri,4-1-4-1,3-4-1-2,Diego Flores,Match Report,Universidad Catolica,,12.0,7.0,58.3,0.33,0.57,0.0,0.0,10.0,5.0,50.0,0.3,0.6,0.0,0.0,9
+2026-04-20,20:30 (21:30),Matchweek 10,Mon,Home,L,1.0,2.0,Union La Calera,58.0,Fernando Zampedri,4-1-4-1,4-4-2,Nicolás Gamboa,Match Report,Universidad Catolica,,11.0,5.0,45.5,0.09,0.2,0.0,0.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,10
+2026-04-25,18:00 (19:00),Matchweek 11,Sat,Away,L,0.0,1.0,Universidad de Chile,52.0,Fernando Zampedri,4-1-4-1,4-2-3-1,Diego Flores,Match Report,Universidad Catolica,,7.0,4.0,57.1,0.0,0.0,0.0,0.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,11
+2026-05-16,20:00 (21:00),Matchweek 12,Sat,Away,,,,CD Limache,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,12
+2026-05-24,18:00 (19:00),Matchweek 13,Sun,Home,,,,Colo-Colo,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,13
+2026-05-31,15:00 (16:00),Matchweek 14,Sun,Away,,,,Huachipato,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,14
+2026-06-14,17:30 (18:30),Matchweek 15,Sun,Home,,,,Universidad de Concepcion,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Home,,,,La Serena,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Away,,,,Deportes Concepcion,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Home,,,,Cobresal,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Away,,,,Coquimbo Unido,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Home,,,,Nublense,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Home,,,,O'Higgins,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Away,,,,Everton,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Away,,,,Palestino,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Home,,,,Audax Italiano,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Away,,,,Union La Calera,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Home,,,,Universidad de Chile,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Home,,,,CD Limache,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Away,,,,Colo-Colo,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Home,,,,Huachipato,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Away,,,,Universidad de Concepcion,,,,,,Head-to-Head,Universidad Catolica,,,,,,,,,,,,,,,,30
+2026-01-30,20:00,Matchweek 1,Fri,Home,D,0.0,0.0,Audax Italiano,39.0,Charles Aránguiz,4-5-1,5-4-1,Gastón Philippe,Match Report,Universidad de Chile,,5.0,1.0,20.0,0.0,0.0,0.0,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,1
+2026-02-08,12:00,Matchweek 2,Sun,Away,L,1.0,2.0,Huachipato,61.0,Charles Aránguiz,3-4-1-2,4-1-3-2,Rodrigo Carvajal,Match Report,Universidad de Chile,,9.0,2.0,22.2,0.11,0.5,0.0,0.0,12.0,9.0,75.0,0.17,0.22,0.0,1.0,2
+2026-02-13,20:30,Matchweek 3,Fri,Away,D,0.0,0.0,Palestino,60.0,Charles Aránguiz,3-4-1-2,3-1-4-2,Diego Flores,Match Report,Universidad de Chile,,10.0,3.0,30.0,0.0,0.0,0.0,0.0,8.0,3.0,37.5,0.0,0.0,0.0,0.0,3
+2026-02-22,20:30,Matchweek 4,Sun,Home,D,2.0,2.0,CD Limache,65.0,Charles Aránguiz,3-4-3,3-4-3,Fernando Véjar,Match Report,Universidad de Chile,,11.0,5.0,45.5,0.18,0.4,0.0,0.0,8.0,5.0,62.5,0.25,0.4,0.0,0.0,4
+2026-03-01,18:00,Matchweek 5,Sun,Away,W,1.0,0.0,Colo-Colo,42.0,Charles Aránguiz,3-4-3,4-1-4-1,Cristián Garay,Match Report,Universidad de Chile,,7.0,4.0,57.1,0.14,0.25,0.0,0.0,12.0,4.0,33.3,0.0,0.0,0.0,0.0,5
+2026-03-09,20:00,Matchweek 6,Mon,Home,D,1.0,1.0,Universidad de Concepcion,67.0,Charles Aránguiz,3-4-3,5-4-1,José Cabero,Match Report,Universidad de Chile,,20.0,7.0,35.0,0.05,0.14,0.0,0.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,6
+2026-03-14,18:00,Matchweek 7,Sat,Away,W,1.0,0.0,Coquimbo Unido,49.0,Eduardo Vargas,4-1-4-1,4-2-3-1,Mathías Riquelme,Match Report,Universidad de Chile,,8.0,3.0,37.5,0.13,0.33,0.0,0.0,19.0,2.0,10.5,0.0,0.0,0.0,0.0,7
+2026-04-05,18:00 (19:00),Matchweek 8,Sun,Home,W,4.0,0.0,La Serena,49.0,Eduardo Vargas,4-2-3-1,4-2-3-1,Mario Salvo,Match Report,Universidad de Chile,,14.0,6.0,42.9,0.29,0.67,0.0,0.0,8.0,4.0,50.0,0.0,0.0,0.0,0.0,8
+2026-04-12,17:30 (18:30),Matchweek 9,Sun,Away,L,0.0,1.0,Nublense,63.0,Eduardo Vargas,4-2-3-1,3-4-3,Cristián Copiapó,Match Report,Universidad de Chile,,11.0,0.0,0.0,0.0,,0.0,0.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,9
+2026-04-18,17:30 (18:30),Matchweek 10,Sat,Away,D,0.0,0.0,Everton,64.0,Matías Zaldivia,4-1-4-1,4-4-1-1,Cristián Garay,Match Report,Universidad de Chile,,15.0,6.0,40.0,0.0,0.0,0.0,0.0,10.0,6.0,60.0,0.0,0.0,0.0,0.0,10
+2026-04-25,18:00 (19:00),Matchweek 11,Sat,Home,W,1.0,0.0,Universidad Catolica,48.0,Matías Zaldivia,4-2-3-1,4-1-4-1,Diego Flores,Match Report,Universidad de Chile,,15.0,4.0,26.7,0.07,0.25,0.0,0.0,7.0,4.0,57.1,0.0,0.0,0.0,0.0,11
+2026-05-17,15:00 (16:00),Matchweek 12,Sun,Away,,,,Cobresal,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,12
+2026-05-23,17:30 (18:30),Matchweek 13,Sat,Home,,,,O'Higgins,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,13
+2026-05-30,17:30 (18:30),Matchweek 14,Sat,Home,,,,Deportes Concepcion,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,14
+2026-06-14,15:00 (16:00),Matchweek 15,Sun,Away,,,,Union La Calera,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Away,,,,Audax Italiano,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Home,,,,Huachipato,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Home,,,,Palestino,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Away,,,,CD Limache,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Home,,,,Colo-Colo,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Away,,,,Universidad de Concepcion,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Home,,,,Coquimbo Unido,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Away,,,,La Serena,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Home,,,,Nublense,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Home,,,,Everton,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Away,,,,Universidad Catolica,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Home,,,,Cobresal,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Away,,,,O'Higgins,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Away,,,,Deportes Concepcion,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Home,,,,Union La Calera,,,,,,Head-to-Head,Universidad de Chile,,,,,,,,,,,,,,,,30
+2026-01-31,15:30,Matchweek 1,Sat,Home,W,1.0,0.0,Coquimbo Unido,51.0,Osvaldo González,4-2-3-1,4-2-3-1,Héctor Jona,Match Report,Universidad de Concepcion,Liga de Primera,13.0,4.0,30.8,0.08,0.25,0.0,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,1
+2026-02-06,20:00,Matchweek 2,Fri,Away,L,0.0,3.0,Audax Italiano,53.0,Osvaldo González,3-4-3,5-4-1,Mathías Riquelme,Match Report,Universidad de Concepcion,Liga de Primera,17.0,3.0,17.6,0.0,0.0,0.0,0.0,13.0,5.0,38.5,0.23,0.6,0.0,0.0,2
+2026-02-15,12:00,Matchweek 3,Sun,Home,W,2.0,1.0,Deportes Concepcion,49.0,Osvaldo González,3-4-3,4-2-3-1,Juan Lara,Match Report,Universidad de Concepcion,Liga de Primera,11.0,9.0,81.8,0.18,0.22,0.0,0.0,7.0,1.0,14.3,0.0,0.0,1.0,1.0,3
+2026-02-22,12:00,Matchweek 4,Sun,Away,D,1.0,1.0,La Serena,40.0,Osvaldo González,3-4-3,4-2-3-1,José Cabero,Match Report,Universidad de Concepcion,Liga de Primera,10.0,4.0,40.0,0.1,0.25,0.0,0.0,15.0,7.0,46.7,0.07,0.14,0.0,0.0,4
+2026-03-01,12:00,Matchweek 5,Sun,Home,L,0.0,3.0,Everton,54.0,Osvaldo González,4-4-2,4-2-3-1,Francisco Gilabert,Match Report,Universidad de Concepcion,Liga de Primera,21.0,4.0,19.0,0.0,0.0,0.0,0.0,17.0,10.0,58.8,0.18,0.3,0.0,0.0,5
+2026-03-09,20:00,Matchweek 6,Mon,Away,D,1.0,1.0,Universidad de Chile,33.0,Osvaldo González,5-4-1,3-4-3,José Cabero,Match Report,Universidad de Concepcion,Liga de Primera,12.0,4.0,33.3,0.08,0.25,0.0,0.0,20.0,7.0,35.0,0.05,0.14,0.0,0.0,6
+2026-03-15,12:00,Matchweek 7,Sun,Home,W,1.0,0.0,Palestino,44.0,Osvaldo González,4-4-2,4-1-4-1,Cristián Copiapó,Match Report,Universidad de Concepcion,Liga de Primera,12.0,1.0,8.3,0.08,1.0,0.0,0.0,11.0,3.0,27.3,0.0,0.0,0.0,0.0,7
+2026-04-06,20:00 (21:00),Matchweek 8,Mon,Away,L,1.0,5.0,Huachipato,54.0,Osvaldo González,4-1-4-1,4-3-3,Fernando Véjar,Match Report,Universidad de Concepcion,Liga de Primera,18.0,6.0,33.3,0.06,0.17,0.0,0.0,17.0,12.0,70.6,0.29,0.42,0.0,0.0,8
+2026-04-12,20:00 (21:00),Matchweek 9,Sun,Home,W,1.0,0.0,Cobresal,49.0,Osvaldo González,3-5-2,4-4-2,Gastón Philippe,Match Report,Universidad de Concepcion,Liga de Primera,8.0,2.0,25.0,0.13,0.5,0.0,0.0,11.0,1.0,9.1,0.0,0.0,0.0,0.0,9
+2026-04-17,20:00 (21:00),Matchweek 10,Fri,Away,L,0.0,3.0,CD Limache,52.0,Osvaldo González,5-3-2,4-3-3,Héctor Jona,Match Report,Universidad de Concepcion,Liga de Primera,15.0,5.0,33.3,0.0,0.0,0.0,0.0,26.0,8.0,30.8,0.12,0.38,0.0,0.0,10
+2026-04-26,15:00 (16:00),Matchweek 11,Sun,Home,L,1.0,2.0,Colo-Colo,35.0,Osvaldo González,4-1-4-1,4-3-3,José Cabero,Match Report,Universidad de Concepcion,Liga de Primera,9.0,5.0,55.6,0.11,0.2,0.0,0.0,17.0,5.0,29.4,0.06,0.2,1.0,1.0,11
+2026-05-16,17:30 (18:30),Matchweek 12,Sat,Away,,,,O'Higgins,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,12
+2026-05-23,15:00 (16:00),Matchweek 13,Sat,Away,,,,Nublense,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,13
+2026-05-29,20:30 (21:30),Matchweek 14,Fri,Home,,,,Union La Calera,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,14
+2026-06-14,17:30 (18:30),Matchweek 15,Sun,Away,,,,Universidad Catolica,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Away,,,,Coquimbo Unido,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Home,,,,Audax Italiano,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Away,,,,Deportes Concepcion,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Home,,,,La Serena,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Away,,,,Everton,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Home,,,,Universidad de Chile,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Away,,,,Palestino,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Home,,,,Huachipato,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Away,,,,Cobresal,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Home,,,,CD Limache,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Away,,,,Colo-Colo,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Home,,,,O'Higgins,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Home,,,,Nublense,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Away,,,,Union La Calera,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Home,,,,Universidad Catolica,,,,,,Head-to-Head,Universidad de Concepcion,Liga de Primera,,,,,,,,,,,,,,,30
+2026-02-02,18:00,Matchweek 1,Mon,Away,L,0.0,3.0,Everton,49.0,Sebastián Sáez,4-4-1-1,4-1-4-1,Nicolas Millas,Match Report,Union La Calera,Liga de Primera,7.0,2.0,28.6,0.14,0.5,0.0,0.0,14.0,3.0,21.4,0.0,0.0,0.0,0.0,1
+2026-02-09,20:00,Matchweek 2,Mon,Home,L,0.0,3.0,Cobresal,49.0,Sebastián Sáez,4-2-3-1,5-3-2,Manuel Vergara,Match Report,Union La Calera,Liga de Primera,14.0,5.0,35.7,0.21,0.6,0.0,0.0,9.0,1.0,11.1,0.11,1.0,0.0,0.0,2
+2026-02-15,20:30,Matchweek 3,Sun,Away,L,0.0,1.0,Colo-Colo,38.0,Sebastián Sáez,4-4-2,4-1-4-1,Fernando Véjar,Match Report,Union La Calera,Liga de Primera,6.0,0.0,0.0,0.0,,0.0,0.0,21.0,5.0,23.8,0.05,0.2,0.0,0.0,3
+2026-02-20,18:00,Matchweek 4,Fri,Home,L,0.0,1.0,Nublense,62.0,Sebastián Sáez,4-2-3-1,4-1-4-1,Nicolás Gamboa,Match Report,Union La Calera,Liga de Primera,6.0,3.0,50.0,0.0,0.0,0.0,0.0,7.0,1.0,14.3,0.14,1.0,0.0,0.0,4
+2026-02-27,20:30,Matchweek 5,Fri,Home,W,3.0,0.0,Audax Italiano,53.0,Sebastián Sáez,4-1-4-1,5-4-1,Cristián Copiapó,Match Report,Union La Calera,Liga de Primera,11.0,6.0,54.5,0.18,0.33,1.0,1.0,14.0,4.0,28.6,0.0,0.0,0.0,0.0,5
+2026-03-06,18:00,Matchweek 6,Fri,Away,L,0.0,3.0,La Serena,59.0,Sebastián Sáez,4-1-3-2,4-2-3-1,Matías Assadi,Match Report,Union La Calera,Liga de Primera,13.0,4.0,30.8,0.0,0.0,0.0,0.0,10.0,5.0,50.0,0.3,0.6,0.0,0.0,6
+2026-03-16,18:00,Matchweek 7,Mon,Home,D,3.0,3.0,O'Higgins,55.0,Sebastián Sáez,4-2-3-1,4-2-3-1,Mario Salvo,Match Report,Union La Calera,Liga de Primera,16.0,5.0,31.3,0.13,0.4,1.0,1.0,13.0,6.0,46.2,0.23,0.5,0.0,0.0,7
+2026-04-04,17:30,Matchweek 8,Sat,Away,L,0.0,4.0,CD Limache,61.0,Sebastián Sáez,4-2-3-1,4-3-3,Diego Flores,Match Report,Union La Calera,Liga de Primera,7.0,1.0,14.3,0.0,0.0,0.0,0.0,15.0,8.0,53.3,0.27,0.5,0.0,0.0,8
+2026-04-13,20:00 (21:00),Matchweek 9,Mon,Home,W,1.0,0.0,Deportes Concepcion,44.0,Sebastián Sáez,4-2-3-1,4-1-4-1,Miguel Araos,Match Report,Union La Calera,Liga de Primera,18.0,3.0,16.7,0.06,0.33,0.0,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,9
+2026-04-20,20:30 (21:30),Matchweek 10,Mon,Away,W,2.0,1.0,Universidad Catolica,42.0,Sebastián Sáez,4-4-2,4-1-4-1,Nicolás Gamboa,Match Report,Union La Calera,Liga de Primera,9.0,4.0,44.4,0.22,0.5,0.0,0.0,11.0,5.0,45.5,0.09,0.2,0.0,0.0,10
+2026-04-24,18:00 (19:00),Matchweek 11,Fri,Home,L,1.0,2.0,Coquimbo Unido,58.0,Sebastián Sáez,4-2-3-1,4-4-2,Miguel Araos,Match Report,Union La Calera,Liga de Primera,12.0,4.0,33.3,0.08,0.25,0.0,0.0,10.0,6.0,60.0,0.2,0.33,0.0,0.0,11
+2026-05-17,12:30 (13:30),Matchweek 12,Sun,Away,,,,Huachipato,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,12
+2026-05-23,20:00 (21:00),Matchweek 13,Sat,Home,,,,Palestino,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,13
+2026-05-29,20:30 (21:30),Matchweek 14,Fri,Away,,,,Universidad de Concepcion,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,14
+2026-06-14,15:00 (16:00),Matchweek 15,Sun,Home,,,,Universidad de Chile,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Home,,,,Everton,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Away,,,,Cobresal,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Home,,,,Colo-Colo,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Away,,,,Nublense,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Away,,,,Audax Italiano,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Home,,,,La Serena,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Away,,,,O'Higgins,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Home,,,,CD Limache,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Away,,,,Deportes Concepcion,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Home,,,,Universidad Catolica,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Away,,,,Coquimbo Unido,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Home,,,,Huachipato,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Away,,,,Palestino,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Home,,,,Universidad de Concepcion,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Away,,,,Universidad de Chile,,,,,,Head-to-Head,Union La Calera,Liga de Primera,,,,,,,,,,,,,,,30
+2026-02-01,20:30,Matchweek 1,Sun,Away,D,1.0,1.0,Palestino,43.0,Lorenzo Reyes,4-4-2,4-1-4-1,Mario Salvo,Match Report,Nublense,Liga de Primera,9.0,3.0,33.3,0.0,0.0,1.0,1.0,14.0,7.0,50.0,0.07,0.14,0.0,1.0,1
+2026-02-08,18:00,Matchweek 2,Sun,Home,D,1.0,1.0,CD Limache,63.0,Lorenzo Reyes,3-4-3,3-4-3,Franco Jiménez,Match Report,Nublense,Liga de Primera,22.0,3.0,13.6,0.05,0.33,0.0,0.0,2.0,1.0,50.0,0.5,1.0,0.0,0.0,2
+2026-02-15,18:00,Matchweek 3,Sun,Home,W,1.0,0.0,Audax Italiano,41.0,Lorenzo Reyes,3-4-3,5-4-1,Piero Maza,Match Report,Nublense,Liga de Primera,10.0,2.0,20.0,0.1,0.5,0.0,0.0,11.0,6.0,54.5,0.0,0.0,0.0,0.0,3
+2026-02-20,18:00,Matchweek 4,Fri,Away,W,1.0,0.0,Union La Calera,38.0,Lorenzo Reyes,4-1-4-1,4-2-3-1,Nicolás Gamboa,Match Report,Nublense,Liga de Primera,7.0,1.0,14.3,0.14,1.0,0.0,0.0,6.0,3.0,50.0,0.0,0.0,0.0,0.0,4
+2026-03-01,20:30,Matchweek 5,Sun,Home,L,1.0,2.0,Universidad Catolica,40.0,Lorenzo Reyes,3-4-3,4-2-3-1,Fernando Véjar,Match Report,Nublense,Liga de Primera,6.0,3.0,50.0,0.0,0.0,1.0,1.0,11.0,6.0,54.5,0.09,0.17,1.0,1.0,5
+2026-03-06,20:30,Matchweek 6,Fri,Away,W,2.0,0.0,Deportes Concepcion,43.0,Lorenzo Reyes,3-4-3,4-1-4-1,Cristián Garay,Match Report,Nublense,Liga de Primera,14.0,6.0,42.9,0.14,0.33,0.0,0.0,8.0,2.0,25.0,0.0,0.0,0.0,0.0,6
+2026-03-15,20:30,Matchweek 7,Sun,Home,D,2.0,2.0,La Serena,53.0,Lorenzo Reyes,3-4-3,4-1-4-1,Francisco Gilabert,Match Report,Nublense,Liga de Primera,18.0,5.0,27.8,0.11,0.4,0.0,0.0,12.0,3.0,25.0,0.17,0.67,0.0,0.0,7
+2026-04-04,20:00,Matchweek 8,Sat,Away,D,0.0,0.0,Everton,51.0,Lorenzo Reyes,5-3-2,4-2-3-1,Piero Maza,Match Report,Nublense,Liga de Primera,13.0,3.0,23.1,0.0,0.0,0.0,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,8
+2026-04-12,17:30 (18:30),Matchweek 9,Sun,Home,W,1.0,0.0,Universidad de Chile,37.0,Lorenzo Reyes,3-4-3,4-2-3-1,Cristián Copiapó,Match Report,Nublense,Liga de Primera,10.0,4.0,40.0,0.1,0.25,0.0,0.0,11.0,0.0,0.0,0.0,,0.0,0.0,9
+2026-04-19,12:30 (13:30),Matchweek 10,Sun,Away,D,1.0,1.0,Coquimbo Unido,58.0,Lorenzo Reyes,5-3-2,4-2-3-1,Nicolas Millas,Match Report,Nublense,Liga de Primera,15.0,7.0,46.7,0.07,0.14,0.0,0.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,10
+2026-04-25,15:00 (16:00),Matchweek 11,Sat,Home,L,0.0,2.0,O'Higgins,46.0,Lorenzo Reyes,3-5-2,4-2-3-1,Juan Lara,Match Report,Nublense,Liga de Primera,15.0,2.0,13.3,0.0,0.0,0.0,0.0,7.0,5.0,71.4,0.29,0.4,0.0,0.0,11
+2026-05-17,17:30 (18:30),Matchweek 12,Sun,Away,,,,Colo-Colo,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,12
+2026-05-23,15:00 (16:00),Matchweek 13,Sat,Home,,,,Universidad de Concepcion,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,13
+2026-05-29,18:00 (19:00),Matchweek 14,Fri,Away,,,,Cobresal,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,14
+2026-06-13,20:00 (21:00),Matchweek 15,Sat,Home,,,,Huachipato,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,15
+2026-07-26,,Matchweek 16,Sun,Home,,,,Palestino,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,16
+2026-08-02,,Matchweek 17,Sun,Away,,,,CD Limache,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,17
+2026-08-09,,Matchweek 18,Sun,Away,,,,Audax Italiano,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,18
+2026-08-16,,Matchweek 19,Sun,Home,,,,Union La Calera,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,19
+2026-08-23,,Matchweek 20,Sun,Away,,,,Universidad Catolica,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,20
+2026-08-30,,Matchweek 21,Sun,Home,,,,Deportes Concepcion,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,21
+2026-09-06,,Matchweek 22,Sun,Away,,,,La Serena,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,22
+2026-09-13,,Matchweek 23,Sun,Home,,,,Everton,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,23
+2026-10-11,,Matchweek 24,Sun,Away,,,,Universidad de Chile,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,24
+2026-10-25,,Matchweek 25,Sun,Home,,,,Coquimbo Unido,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,25
+2026-11-01,,Matchweek 26,Sun,Away,,,,O'Higgins,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,26
+2026-11-08,,Matchweek 27,Sun,Home,,,,Colo-Colo,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,27
+2026-11-22,,Matchweek 28,Sun,Away,,,,Universidad de Concepcion,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,28
+2026-11-29,,Matchweek 29,Sun,Home,,,,Cobresal,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,29
+2026-12-06,,Matchweek 30,Sun,Away,,,,Huachipato,,,,,,Head-to-Head,Nublense,Liga de Primera,,,,,,,,,,,,,,,30

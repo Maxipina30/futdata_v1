@@ -30,7 +30,7 @@ def main() -> int:
                 "-m",
                 "streamlit",
                 "run",
-                "analysis/liga_chilena_pm/dashboard.py",
+                "apps/liga_chilena/dashboard.py",
                 "--server.address",
                 "127.0.0.1",
                 "--server.port",

@@ -1,0 +1,761 @@
+date,time,round,day,venue,result,gf,ga,opponent,poss,attendance,captain,formation,opp_formation,referee,match_report,notes,team,table_side
+2025-08-16,21:30 (16:30),Matchweek 1,Sat,Home,W,2.0,1.0,Levante,62.0,12837.0,Antonio Blanco,4-1-4-1,5-4-1,Miguel Sesma,Match Report,,Alavés,for
+2025-08-22,21:30 (16:30),Matchweek 2,Fri,Away,L,0.0,1.0,Real Betis,51.0,54646.0,Antonio Blanco,4-4-2,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Alavés,for
+2025-08-30,17:00 (12:00),Matchweek 3,Sat,Home,D,1.0,1.0,Atlético Madrid,40.0,18042.0,Antonio Blanco,4-4-2,4-4-2,Víctor García,Match Report,,Alavés,for
+2025-09-13,18:30 (13:30),Matchweek 4,Sat,Away,W,1.0,0.0,Athletic Club,42.0,49136.0,Antonio Blanco,4-2-3-1,4-2-3-1,Jose Maria Sánchez,Match Report,,Alavés,for
+2025-09-20,18:30 (13:30),Matchweek 5,Sat,Home,L,1.0,2.0,Sevilla,48.0,17525.0,Antonio Blanco,4-3-3,3-4-3,Iosu Galech,Match Report,,Alavés,for
+2025-09-24,19:00 (14:00),Matchweek 6,Wed,Away,D,1.0,1.0,Getafe,54.0,8005.0,Ander Guevara,4-4-2,4-5-1,Alejandro Quintero,Match Report,,Alavés,for
+2025-09-27,18:30 (13:30),Matchweek 7,Sat,Away,L,0.0,1.0,Mallorca,62.0,16275.0,Antonio Blanco,4-1-4-1,4-2-3-1,Adrián Cordero,Match Report,,Alavés,for
+2025-10-05,14:00 (09:00),Matchweek 8,Sun,Home,W,3.0,1.0,Elche,47.0,16203.0,Antonio Blanco,4-2-3-1,3-5-2,Miguel Ángel Ortiz Arias,Match Report,,Alavés,for
+2025-10-20,21:00 (16:00),Matchweek 9,Mon,Home,D,0.0,0.0,Valencia,63.0,15564.0,Antonio Blanco,3-5-2,4-4-2,Iosu Galech,Match Report,,Alavés,for
+2025-10-26,21:00 (17:00),Matchweek 10,Sun,Away,L,0.0,1.0,Rayo Vallecano,47.0,11734.0,Antonio Blanco,4-4-2,4-3-3,Víctor García,Match Report,,Alavés,for
+2025-11-02,16:15 (12:15),Matchweek 11,Sun,Home,W,2.0,1.0,Espanyol,54.0,17149.0,Antonio Blanco,4-4-2,4-4-2,Guillermo Cuadra,Match Report,,Alavés,for
+2025-11-08,14:00 (10:00),Matchweek 12,Sat,Away,L,0.0,1.0,Girona,48.0,10050.0,Antonio Blanco,4-4-2,4-4-1-1,Adrián Cordero,Match Report,,Alavés,for
+2025-11-22,14:00 (10:00),Matchweek 13,Sat,Home,L,0.0,1.0,Celta Vigo,52.0,16582.0,Antonio Blanco,4-4-2,3-4-3,Juan Martínez,Match Report,,Alavés,for
+2025-11-29,16:15 (12:15),Matchweek 14,Sat,Away,L,1.0,3.0,Barcelona,31.0,44834.0,Antonio Blanco,4-1-4-1,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Alavés,for
+2025-12-06,16:15 (12:15),Matchweek 15,Sat,Home,W,1.0,0.0,Real Sociedad,38.0,18132.0,Ander Guevara,4-1-4-1,4-1-4-1,Javier Alberola,Match Report,,Alavés,for
+2025-12-14,21:00 (17:00),Matchweek 16,Sun,Home,L,1.0,2.0,Real Madrid,52.0,19290.0,Antonio Blanco,4-1-4-1,4-4-2,Víctor García,Match Report,,Alavés,for
+2025-12-20,18:30 (14:30),Matchweek 17,Sat,Away,L,0.0,3.0,Osasuna,53.0,20408.0,Antonio Blanco,4-1-4-1,4-2-3-1,César Soto,Match Report,,Alavés,for
+2026-01-04,18:30 (14:30),Matchweek 18,Sun,Home,D,1.0,1.0,Oviedo,57.0,17345.0,Antonio Blanco,4-1-4-1,4-2-3-1,Jesús Gil,Match Report,,Alavés,for
+2026-01-10,16:15 (12:15),Matchweek 19,Sat,Away,L,1.0,3.0,Villarreal,56.0,17011.0,Antonio Blanco,4-2-3-1,4-4-2,Alejandro Muñíz,Match Report,,Alavés,for
+2026-01-18,16:15 (12:15),Matchweek 20,Sun,Away,L,0.0,1.0,Atlético Madrid,46.0,61192.0,Antonio Blanco,4-1-4-1,4-4-2,Guillermo Cuadra,Match Report,,Alavés,for
+2026-01-25,21:00 (17:00),Matchweek 21,Sun,Home,W,2.0,1.0,Real Betis,45.0,14810.0,Antonio Blanco,4-4-2,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Alavés,for
+2026-01-30,21:00 (17:00),Matchweek 22,Fri,Away,W,2.0,1.0,Espanyol,50.0,25881.0,Antonio Blanco,4-4-2,4-4-2,Miguel Sesma,Match Report,,Alavés,for
+2026-02-08,14:00 (10:00),Matchweek 23,Sun,Home,L,0.0,2.0,Getafe,60.0,15960.0,Antonio Blanco,4-4-2,5-3-2,Juan Martínez,Match Report,,Alavés,for
+2026-02-14,18:30 (14:30),Matchweek 24,Sat,Away,D,1.0,1.0,Sevilla,75.0,32846.0,Antonio Blanco,4-4-2,3-5-2,Iosu Galech,Match Report,,Alavés,for
+2026-02-23,21:00 (17:00),Matchweek 25,Mon,Home,D,2.0,2.0,Girona,45.0,14117.0,Antonio Blanco,4-4-2,4-5-1,Adrián Cordero,Match Report,,Alavés,for
+2026-02-27,21:00 (17:00),Matchweek 26,Fri,Away,L,0.0,2.0,Levante,51.0,17880.0,Antonio Blanco,4-4-2,4-1-4-1,Francisco Hernández,Match Report,,Alavés,for
+2026-03-08,21:00 (17:00),Matchweek 27,Sun,Away,L,2.0,3.0,Valencia,39.0,41512.0,Carlos Benavídez,4-4-2,4-2-3-1,José Guzmán,Match Report,,Alavés,for
+2026-03-13,21:00 (17:00),Matchweek 28,Fri,Home,D,1.0,1.0,Villarreal,48.0,16215.0,Antonio Blanco,3-5-2,4-4-2,Alejandro Quintero,Match Report,,Alavés,for
+2026-03-22,16:15 (12:15),Matchweek 29,Sun,Away,W,4.0,3.0,Celta Vigo,44.0,20260.0,Antonio Blanco,4-4-2,3-4-3,Miguel Sesma,Match Report,,Alavés,for
+2026-04-05,21:00 (16:00),Matchweek 30,Sun,Home,D,2.0,2.0,Osasuna,48.0,17736.0,Antonio Blanco,4-4-2,4-2-3-1,César Soto,Match Report,,Alavés,for
+2026-04-11,14:00 (09:00),Matchweek 31,Sat,Away,D,3.0,3.0,Real Sociedad,46.0,31024.0,Antonio Blanco,5-3-2,4-2-3-1,Víctor García,Match Report,,Alavés,for
+2026-04-21,21:30 (16:30),Matchweek 33,Tue,Away,L,1.0,2.0,Real Madrid,39.0,61468.0,Antonio Blanco,5-3-2,4-4-2,Juan Martínez,Match Report,,Alavés,for
+2026-04-25,14:00 (09:00),Matchweek 32,Sat,Home,W,2.0,1.0,Mallorca,50.0,16167.0,Antonio Blanco,5-3-2,4-3-1-2,Javier Alberola,Match Report,,Alavés,for
+2026-05-02,18:30 (13:30),Matchweek 34,Sat,Home,,,,Athletic Club,,,,,,,Head-to-Head,,Alavés,for
+2026-05-09,14:00 (09:00),Matchweek 35,Sat,Away,,,,Elche,,,,,,,Head-to-Head,,Alavés,for
+2026-05-13,21:30 (16:30),Matchweek 36,Wed,Home,,,,Barcelona,,,,,,,Head-to-Head,,Alavés,for
+2026-05-17,,Matchweek 37,Sun,Away,,,,Oviedo,,,,,,,Head-to-Head,,Alavés,for
+2026-05-24,,Matchweek 38,Sun,Home,,,,Rayo Vallecano,,,,,,,Head-to-Head,,Alavés,for
+2025-08-17,19:30 (14:30),Matchweek 1,Sun,Home,W,3.0,2.0,Sevilla,46.0,49134.0,Iñaki Williams,4-2-3-1,4-1-4-1,Francisco Hernández,Match Report,,Athletic Club,for
+2025-08-25,19:30 (14:30),Matchweek 2,Mon,Home,W,1.0,0.0,Rayo Vallecano,41.0,48703.0,Iñaki Williams,4-2-3-1,4-4-1-1,Juan Martínez,Match Report,,Athletic Club,for
+2025-08-31,19:00 (14:00),Matchweek 3,Sun,Away,W,2.0,1.0,Real Betis,50.0,65222.0,Iñaki Williams,4-2-3-1,4-2-3-1,Isidro Díaz de Mera,Match Report,,Athletic Club,for
+2025-09-13,18:30 (13:30),Matchweek 4,Sat,Home,L,0.0,1.0,Alavés,58.0,49136.0,Iñaki Williams,4-2-3-1,4-2-3-1,Jose Maria Sánchez,Match Report,,Athletic Club,for
+2025-09-20,21:00 (16:00),Matchweek 5,Sat,Away,L,0.0,2.0,Valencia,56.0,46004.0,Iñaki Williams,4-2-3-1,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,Athletic Club,for
+2025-09-23,19:00 (14:00),Matchweek 6,Tue,Home,D,1.0,1.0,Girona,67.0,45739.0,Iñaki Williams,4-2-3-1,4-2-3-1,José Luis Munuera,Match Report,,Athletic Club,for
+2025-09-27,21:00 (16:00),Matchweek 7,Sat,Away,L,0.0,1.0,Villarreal,58.0,18908.0,Iñaki Williams,4-2-3-1,4-4-2,Miguel Sesma,Match Report,,Athletic Club,for
+2025-10-04,18:30 (13:30),Matchweek 8,Sat,Home,W,2.0,1.0,Mallorca,52.0,47098.0,Iñaki Williams,4-2-3-1,4-2-3-1,Alejandro Quintero,Match Report,,Athletic Club,for
+2025-10-19,14:00 (09:00),Matchweek 9,Sun,Away,D,0.0,0.0,Elche,31.0,29043.0,Yuri Berchiche,4-2-3-1,4-3-3,José Guzmán,Match Report,,Athletic Club,for
+2025-10-25,18:30 (13:30),Matchweek 10,Sat,Home,L,0.0,1.0,Getafe,57.0,47749.0,Iñigo Lekue,4-2-3-1,4-2-3-1,Isidro Díaz de Mera,Match Report,,Athletic Club,for
+2025-11-01,18:30 (14:30),Matchweek 11,Sat,Away,L,2.0,3.0,Real Sociedad,49.0,37685.0,Yuri Berchiche,4-2-3-1,4-1-4-1,José Luis Munuera,Match Report,,Athletic Club,for
+2025-11-09,14:00 (10:00),Matchweek 12,Sun,Home,W,1.0,0.0,Oviedo,48.0,47209.0,Yuri Berchiche,4-2-3-1,4-2-3-1,César Soto,Match Report,,Athletic Club,for
+2025-11-22,16:15 (12:15),Matchweek 13,Sat,Away,L,0.0,4.0,Barcelona,32.0,45157.0,Yuri Berchiche,4-2-3-1,4-3-3,Jose Maria Sánchez,Match Report,,Athletic Club,for
+2025-11-29,18:30 (14:30),Matchweek 14,Sat,Away,W,2.0,0.0,Levante,44.0,19848.0,Iñigo Lekue,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,Athletic Club,for
+2025-12-03,19:00 (15:00),Matchweek 19,Wed,Home,L,0.0,3.0,Real Madrid,38.0,51313.0,Iñigo Lekue,4-1-4-1,4-3-3,Jesús Gil,Match Report,,Athletic Club,for
+2025-12-06,21:00 (17:00),Matchweek 15,Sat,Home,W,1.0,0.0,Atlético Madrid,44.0,48904.0,Yuri Berchiche,4-2-3-1,4-1-4-1,Alejandro Muñíz,Match Report,,Athletic Club,for
+2025-12-14,16:15 (12:15),Matchweek 16,Sun,Away,L,0.0,2.0,Celta Vigo,50.0,20505.0,Yuri Berchiche,4-2-3-1,3-4-3,Alejandro Hernández,Match Report,,Athletic Club,for
+2025-12-22,21:00 (17:00),Matchweek 17,Mon,Home,L,1.0,2.0,Espanyol,65.0,47856.0,Iñaki Williams,4-2-3-1,4-2-3-1,Mateo Busquets,Match Report,,Athletic Club,for
+2026-01-03,16:15 (12:15),Matchweek 18,Sat,Away,D,1.0,1.0,Osasuna,51.0,22010.0,Iñaki Williams,4-2-3-1,4-2-3-1,José Luis Munuera,Match Report,,Athletic Club,for
+2026-01-17,16:15 (12:15),Matchweek 20,Sat,Away,L,2.0,3.0,Mallorca,49.0,14284.0,Yuri Berchiche,4-2-3-1,4-4-2,José Guzmán,Match Report,,Athletic Club,for
+2026-01-24,18:30 (14:30),Matchweek 21,Sat,Away,L,1.0,2.0,Sevilla,50.0,34642.0,Yuri Berchiche,4-2-3-1,3-4-1-2,Francisco Hernández,Match Report,,Athletic Club,for
+2026-02-01,21:00 (17:00),Matchweek 22,Sun,Home,D,1.0,1.0,Real Sociedad,55.0,48020.0,Yuri Berchiche,4-2-3-1,4-4-2,Guillermo Cuadra,Match Report,,Athletic Club,for
+2026-02-08,16:15 (12:15),Matchweek 23,Sun,Home,W,4.0,2.0,Levante,55.0,46487.0,Iñaki Williams,4-2-3-1,4-2-3-1,Alejandro Muñíz,Match Report,,Athletic Club,for
+2026-02-15,14:00 (10:00),Matchweek 24,Sun,Away,W,2.0,1.0,Oviedo,46.0,25255.0,Iñaki Williams,4-2-3-1,4-2-3-1,Mateo Busquets,Match Report,,Athletic Club,for
+2026-02-20,21:00 (17:00),Matchweek 25,Fri,Home,W,2.0,1.0,Elche,46.0,46654.0,Iñaki Williams,4-2-3-1,3-1-4-2,Alejandro Hernández,Match Report,,Athletic Club,for
+2026-02-28,14:00 (10:00),Matchweek 26,Sat,Away,D,1.0,1.0,Rayo Vallecano,50.0,13512.0,Iñaki Williams,4-2-3-1,4-2-3-1,Víctor García,Match Report,,Athletic Club,for
+2026-03-07,21:00 (17:00),Matchweek 27,Sat,Home,L,0.0,1.0,Barcelona,30.0,50629.0,Iñaki Williams,4-2-3-1,4-3-3,José Luis Munuera,Match Report,,Athletic Club,for
+2026-03-14,14:00 (10:00),Matchweek 28,Sat,Away,L,0.0,3.0,Girona,53.0,8811.0,Iñaki Williams,4-2-3-1,4-2-3-1,Iosu Galech,Match Report,,Athletic Club,for
+2026-03-22,18:30 (14:30),Matchweek 29,Sun,Home,W,2.0,1.0,Real Betis,39.0,47723.0,Iñaki Williams,4-2-3-1,4-4-2,Alejandro Muñíz,Match Report,,Athletic Club,for
+2026-04-05,14:00 (09:00),Matchweek 30,Sun,Away,L,0.0,2.0,Getafe,68.0,7749.0,Yeray Álvarez,4-2-3-1,5-4-1,Juan Martínez,Match Report,,Athletic Club,for
+2026-04-12,21:00 (16:00),Matchweek 31,Sun,Home,L,1.0,2.0,Villarreal,61.0,42891.0,Iñaki Williams,4-2-3-1,4-4-2,José Guzmán,Match Report,,Athletic Club,for
+2026-04-21,19:00 (14:00),Matchweek 33,Tue,Home,W,1.0,0.0,Osasuna,36.0,47500.0,Iñaki Williams,4-2-3-1,4-2-3-1,Víctor García,Match Report,,Athletic Club,for
+2026-04-25,21:00 (16:00),Matchweek 32,Sat,Away,L,2.0,3.0,Atlético Madrid,46.0,56598.0,Iñaki Williams,4-2-3-1,4-4-2,Jesús Gil,Match Report,,Athletic Club,for
+2026-05-02,18:30 (13:30),Matchweek 34,Sat,Away,,,,Alavés,,,,,,,Head-to-Head,,Athletic Club,for
+2026-05-10,16:15 (11:15),Matchweek 35,Sun,Home,,,,Valencia,,,,,,,Head-to-Head,,Athletic Club,for
+2026-05-13,19:00 (14:00),Matchweek 36,Wed,Away,,,,Espanyol,,,,,,,Head-to-Head,,Athletic Club,for
+2026-05-17,,Matchweek 37,Sun,Home,,,,Celta Vigo,,,,,,,Head-to-Head,,Athletic Club,for
+2026-05-24,,Matchweek 38,Sun,Away,,,,Real Madrid,,,,,,,Head-to-Head,,Athletic Club,for
+2025-08-17,21:30 (16:30),Matchweek 1,Sun,Away,L,1.0,2.0,Espanyol,60.0,29612.0,Jan Oblak,4-2-3-1,4-2-3-1,Mateo Busquets,Match Report,,Atlético Madrid,for
+2025-08-23,19:30 (14:30),Matchweek 2,Sat,Home,D,1.0,1.0,Elche,58.0,59369.0,Jan Oblak,4-4-2,3-4-1-2,César Soto,Match Report,,Atlético Madrid,for
+2025-08-30,17:00 (12:00),Matchweek 3,Sat,Away,D,1.0,1.0,Alavés,60.0,18042.0,Jan Oblak,4-4-2,4-4-2,Víctor García,Match Report,,Atlético Madrid,for
+2025-09-13,21:00 (16:00),Matchweek 4,Sat,Home,W,2.0,0.0,Villarreal,61.0,63312.0,Koke,4-4-2,4-4-2,José Luis Munuera,Match Report,,Atlético Madrid,for
+2025-09-21,16:15 (11:15),Matchweek 5,Sun,Away,D,1.0,1.0,Mallorca,58.0,21027.0,Koke,4-4-2,5-3-2,Francisco Hernández,Match Report,,Atlético Madrid,for
+2025-09-24,21:30 (16:30),Matchweek 6,Wed,Home,W,3.0,2.0,Rayo Vallecano,61.0,54098.0,Koke,5-3-2,4-4-2,Alejandro Hernández,Match Report,,Atlético Madrid,for
+2025-09-27,16:15 (11:15),Matchweek 7,Sat,Home,W,5.0,2.0,Real Madrid,37.0,69167.0,Koke,4-4-2,4-2-3-1,Javier Alberola,Match Report,,Atlético Madrid,for
+2025-10-05,21:00 (16:00),Matchweek 8,Sun,Away,D,1.0,1.0,Celta Vigo,41.0,20877.0,Koke,4-4-2,3-4-3,César Soto,Match Report,,Atlético Madrid,for
+2025-10-18,21:00 (16:00),Matchweek 9,Sat,Home,W,1.0,0.0,Osasuna,59.0,62884.0,Koke,5-3-2,3-4-3,Ricardo de Burgos,Match Report,,Atlético Madrid,for
+2025-10-27,21:00 (17:00),Matchweek 10,Mon,Away,W,2.0,0.0,Real Betis,43.0,57537.0,Koke,4-3-3,4-2-3-1,Juan Martínez,Match Report,,Atlético Madrid,for
+2025-11-01,16:15 (12:15),Matchweek 11,Sat,Home,W,3.0,0.0,Sevilla,47.0,66119.0,Koke,4-4-2,4-2-3-1,Francisco Hernández,Match Report,,Atlético Madrid,for
+2025-11-08,18:30 (14:30),Matchweek 12,Sat,Home,W,3.0,1.0,Levante,74.0,60119.0,Koke,4-4-2,4-4-2,Jesús Gil,Match Report,,Atlético Madrid,for
+2025-11-23,18:30 (14:30),Matchweek 13,Sun,Away,W,1.0,0.0,Getafe,59.0,9783.0,Koke,4-1-4-1,4-1-4-1,Guillermo Cuadra,Match Report,,Atlético Madrid,for
+2025-11-29,21:00 (17:00),Matchweek 14,Sat,Home,W,2.0,0.0,Oviedo,52.0,61305.0,Koke,5-3-2,4-1-3-2,Víctor Acosta,Match Report,,Atlético Madrid,for
+2025-12-02,21:00 (17:00),Matchweek 19,Tue,Away,L,1.0,3.0,Barcelona,42.0,45205.0,Jan Oblak,4-2-3-1,4-2-3-1,Ricardo de Burgos,Match Report,,Atlético Madrid,for
+2025-12-06,21:00 (17:00),Matchweek 15,Sat,Away,L,0.0,1.0,Athletic Club,56.0,48904.0,Jan Oblak,4-1-4-1,4-2-3-1,Alejandro Muñíz,Match Report,,Atlético Madrid,for
+2025-12-13,14:00 (10:00),Matchweek 16,Sat,Home,W,2.0,1.0,Valencia,46.0,61011.0,Koke,4-4-2,3-5-2,César Soto,Match Report,,Atlético Madrid,for
+2025-12-21,14:00 (10:00),Matchweek 17,Sun,Away,W,3.0,0.0,Girona,49.0,12363.0,Koke,4-4-2,4-5-1,José Guzmán,Match Report,,Atlético Madrid,for
+2026-01-04,21:00 (17:00),Matchweek 18,Sun,Away,D,1.0,1.0,Real Sociedad,55.0,31576.0,Koke,4-4-2,4-4-2,Juan Martínez,Match Report,,Atlético Madrid,for
+2026-01-18,16:15 (12:15),Matchweek 20,Sun,Home,W,1.0,0.0,Alavés,54.0,61192.0,Jan Oblak,4-4-2,4-1-4-1,Guillermo Cuadra,Match Report,,Atlético Madrid,for
+2026-01-25,14:00 (10:00),Matchweek 21,Sun,Home,W,3.0,0.0,Mallorca,61.0,55028.0,Jan Oblak,4-4-2,4-4-2,Jose Maria Sánchez,Match Report,,Atlético Madrid,for
+2026-01-31,18:30 (14:30),Matchweek 22,Sat,Away,D,0.0,0.0,Levante,55.0,20573.0,Jan Oblak,4-4-2,4-2-3-1,Víctor García,Match Report,,Atlético Madrid,for
+2026-02-08,18:30 (14:30),Matchweek 23,Sun,Home,L,0.0,1.0,Real Betis,65.0,65210.0,Koke,4-4-2,4-3-3,Mateo Busquets,Match Report,,Atlético Madrid,for
+2026-02-15,16:15 (12:15),Matchweek 24,Sun,Away,L,0.0,3.0,Rayo Vallecano,59.0,5335.0,Jan Oblak,4-1-4-1,4-1-4-1,Ricardo de Burgos,Match Report,,Atlético Madrid,for
+2026-02-21,21:00 (17:00),Matchweek 25,Sat,Home,W,4.0,2.0,Espanyol,61.0,56412.0,Jan Oblak,3-4-3,5-4-1,Alejandro Muñíz,Match Report,,Atlético Madrid,for
+2026-02-28,21:00 (17:00),Matchweek 26,Sat,Away,W,1.0,0.0,Oviedo,62.0,27067.0,Jan Oblak,4-4-2,4-2-3-1,César Soto,Match Report,,Atlético Madrid,for
+2026-03-07,18:30 (14:30),Matchweek 27,Sat,Home,W,3.0,2.0,Real Sociedad,52.0,60788.0,Koke,4-4-2,4-4-2,Adrián Cordero,Match Report,,Atlético Madrid,for
+2026-03-14,16:15 (12:15),Matchweek 28,Sat,Home,W,1.0,0.0,Getafe,66.0,58893.0,Koke,3-5-2,5-3-2,Miguel Ángel Ortiz Arias,Match Report,,Atlético Madrid,for
+2026-03-22,21:00 (17:00),Matchweek 29,Sun,Away,L,2.0,3.0,Real Madrid,48.0,77964.0,Koke,4-4-2,4-4-2,José Luis Munuera,Match Report,,Atlético Madrid,for
+2026-04-04,21:00 (16:00),Matchweek 30,Sat,Home,L,1.0,2.0,Barcelona,33.0,67710.0,Koke,4-4-2,4-2-3-1,Mateo Busquets,Match Report,,Atlético Madrid,for
+2026-04-11,21:00 (16:00),Matchweek 31,Sat,Away,L,1.0,2.0,Sevilla,68.0,29723.0,Juan Musso,4-2-3-1,5-4-1,Isidro Díaz de Mera,Match Report,,Atlético Madrid,for
+2026-04-22,19:00 (14:00),Matchweek 33,Wed,Away,L,2.0,3.0,Elche,28.0,27587.0,Jan Oblak,4-4-2,3-5-2,Guillermo Cuadra,Match Report,,Atlético Madrid,for
+2026-04-25,21:00 (16:00),Matchweek 32,Sat,Home,W,3.0,2.0,Athletic Club,54.0,56598.0,Koke,4-4-2,4-2-3-1,Jesús Gil,Match Report,,Atlético Madrid,for
+2026-05-02,16:15 (11:15),Matchweek 34,Sat,Away,,,,Valencia,,,,,,,Head-to-Head,,Atlético Madrid,for
+2026-05-09,18:30 (13:30),Matchweek 35,Sat,Home,,,,Celta Vigo,,,,,,,Head-to-Head,,Atlético Madrid,for
+2026-05-12,21:30 (16:30),Matchweek 36,Tue,Away,,,,Osasuna,,,,,,,Head-to-Head,,Atlético Madrid,for
+2026-05-17,,Matchweek 37,Sun,Home,,,,Girona,,,,,,,Head-to-Head,,Atlético Madrid,for
+2026-05-24,,Matchweek 38,Sun,Away,,,,Villarreal,,,,,,,Head-to-Head,,Atlético Madrid,for
+2025-08-16,19:30 (14:30),Matchweek 1,Sat,Away,W,3.0,0.0,Mallorca,71.0,23318.0,Ronald Araújo,4-2-3-1,4-2-3-1,José Luis Munuera,Match Report,,Barcelona,for
+2025-08-23,21:30 (16:30),Matchweek 2,Sat,Away,W,3.0,2.0,Levante,82.0,23415.0,Ronald Araújo,4-2-3-1,5-4-1,Alejandro Hernández,Match Report,,Barcelona,for
+2025-08-31,21:30 (16:30),Matchweek 3,Sun,Away,D,1.0,1.0,Rayo Vallecano,57.0,14438.0,Frenkie de Jong,4-2-3-1,4-4-2,Mateo Busquets,Match Report,,Barcelona,for
+2025-09-14,21:00 (16:00),Matchweek 4,Sun,Home,W,6.0,0.0,Valencia,72.0,5862.0,Pedri,4-2-3-1,5-3-2,Guillermo Cuadra,Match Report,,Barcelona,for
+2025-09-21,21:00 (16:00),Matchweek 5,Sun,Home,W,3.0,0.0,Getafe,71.0,5711.0,Frenkie de Jong,4-3-3,5-3-2,Ricardo de Burgos,Match Report,,Barcelona,for
+2025-09-25,21:30 (16:30),Matchweek 6,Thu,Away,W,3.0,1.0,Oviedo,80.0,29850.0,Ronald Araújo,4-2-3-1,4-4-1-1,Miguel Ángel Ortiz Arias,Match Report,,Barcelona,for
+2025-09-28,18:30 (13:30),Matchweek 7,Sun,Home,W,2.0,1.0,Real Sociedad,75.0,50103.0,Ronald Araújo,4-2-3-1,4-1-4-1,Alejandro Hernández,Match Report,,Barcelona,for
+2025-10-05,16:15 (11:15),Matchweek 8,Sun,Away,L,1.0,4.0,Sevilla,61.0,41040.0,Ronald Araújo,4-2-3-1,4-2-3-1,Alejandro Muñíz,Match Report,,Barcelona,for
+2025-10-18,16:15 (11:15),Matchweek 9,Sat,Home,W,2.0,1.0,Girona,68.0,43172.0,Frenkie de Jong,4-2-3-1,4-4-2,Jesús Gil,Match Report,,Barcelona,for
+2025-10-26,16:15 (12:15),Matchweek 10,Sun,Away,L,1.0,2.0,Real Madrid,69.0,78107.0,Frenkie de Jong,4-2-3-1,4-1-4-1,César Soto,Match Report,,Barcelona,for
+2025-11-02,18:30 (14:30),Matchweek 11,Sun,Home,W,3.0,1.0,Elche,49.0,44370.0,Ronald Araújo,4-2-3-1,4-1-4-1,Miguel Sesma,Match Report,,Barcelona,for
+2025-11-09,21:00 (17:00),Matchweek 12,Sun,Away,W,4.0,2.0,Celta Vigo,62.0,21887.0,Ronald Araújo,4-3-3,3-4-3,Javier Alberola,Match Report,,Barcelona,for
+2025-11-22,16:15 (12:15),Matchweek 13,Sat,Home,W,4.0,0.0,Athletic Club,68.0,45157.0,Robert Lewandowski,4-3-3,4-2-3-1,Jose Maria Sánchez,Match Report,,Barcelona,for
+2025-11-29,16:15 (12:15),Matchweek 14,Sat,Home,W,3.0,1.0,Alavés,69.0,44834.0,Raphinha,4-2-3-1,4-1-4-1,Miguel Ángel Ortiz Arias,Match Report,,Barcelona,for
+2025-12-02,21:00 (17:00),Matchweek 19,Tue,Home,W,3.0,1.0,Atlético Madrid,58.0,45205.0,Raphinha,4-2-3-1,4-2-3-1,Ricardo de Burgos,Match Report,,Barcelona,for
+2025-12-06,18:30 (14:30),Matchweek 15,Sat,Away,W,5.0,3.0,Real Betis,62.0,64562.0,Pedri,4-2-3-1,4-2-3-1,Francisco Hernández,Match Report,,Barcelona,for
+2025-12-13,18:30 (14:30),Matchweek 16,Sat,Home,W,2.0,0.0,Osasuna,80.0,42058.0,Raphinha,4-2-3-1,5-4-1,Adrián Cordero,Match Report,,Barcelona,for
+2025-12-21,16:15 (12:15),Matchweek 17,Sun,Away,W,2.0,0.0,Villarreal,80.0,20701.0,Frenkie de Jong,4-2-3-1,4-4-2,Javier Alberola,Match Report,,Barcelona,for
+2026-01-03,21:00 (17:00),Matchweek 18,Sat,Away,W,2.0,0.0,Espanyol,69.0,36283.0,Frenkie de Jong,4-2-3-1,4-2-3-1,Víctor García,Match Report,,Barcelona,for
+2026-01-18,21:00 (17:00),Matchweek 20,Sun,Away,L,1.0,2.0,Real Sociedad,73.0,36346.0,Frenkie de Jong,4-3-3,4-4-2,Jesús Gil,Match Report,,Barcelona,for
+2026-01-25,16:15 (12:15),Matchweek 21,Sun,Home,W,3.0,0.0,Oviedo,73.0,44763.0,Frenkie de Jong,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,Barcelona,for
+2026-01-31,21:00 (17:00),Matchweek 22,Sat,Away,W,3.0,1.0,Elche,61.0,31233.0,Frenkie de Jong,4-3-3,3-4-1-2,Alejandro Muñíz,Match Report,,Barcelona,for
+2026-02-07,16:15 (12:15),Matchweek 23,Sat,Home,W,3.0,0.0,Mallorca,76.0,44301.0,Robert Lewandowski,4-3-3,4-2-3-1,Alejandro Quintero,Match Report,,Barcelona,for
+2026-02-16,21:00 (17:00),Matchweek 24,Mon,Away,L,1.0,2.0,Girona,71.0,14043.0,Frenkie de Jong,4-3-3,4-2-3-1,César Soto,Match Report,,Barcelona,for
+2026-02-22,16:15 (12:15),Matchweek 25,Sun,Home,W,3.0,0.0,Levante,73.0,44936.0,Frenkie de Jong,4-2-3-1,4-1-4-1,Javier Alberola,Match Report,,Barcelona,for
+2026-02-28,16:15 (12:15),Matchweek 26,Sat,Home,W,4.0,1.0,Villarreal,74.0,44256.0,Raphinha,4-3-3,4-4-2,Isidro Díaz de Mera,Match Report,,Barcelona,for
+2026-03-07,21:00 (17:00),Matchweek 27,Sat,Away,W,1.0,0.0,Athletic Club,70.0,50629.0,Eric García,4-3-3,4-2-3-1,José Luis Munuera,Match Report,,Barcelona,for
+2026-03-15,16:15 (12:15),Matchweek 28,Sun,Home,W,5.0,2.0,Sevilla,61.0,56483.0,Raphinha,4-3-3,4-2-3-1,Juan Martínez,Match Report,,Barcelona,for
+2026-03-22,14:00 (10:00),Matchweek 29,Sun,Home,W,1.0,0.0,Rayo Vallecano,61.0,56812.0,Ronald Araújo,4-2-3-1,4-2-3-1,Adrián Cordero,Match Report,,Barcelona,for
+2026-04-04,21:00 (16:00),Matchweek 30,Sat,Away,W,2.0,1.0,Atlético Madrid,67.0,67710.0,Ronald Araújo,4-2-3-1,4-4-2,Mateo Busquets,Match Report,,Barcelona,for
+2026-04-11,18:30 (13:30),Matchweek 31,Sat,Home,W,4.0,1.0,Espanyol,77.0,60736.0,Ronald Araújo,4-2-3-1,4-4-1-1,Alejandro Hernández,Match Report,,Barcelona,for
+2026-04-22,21:30 (16:30),Matchweek 33,Wed,Home,W,1.0,0.0,Celta Vigo,61.0,59034.0,Pedri,4-2-3-1,3-4-3,José Luis Munuera,Match Report,,Barcelona,for
+2026-04-25,16:15 (11:15),Matchweek 32,Sat,Away,W,2.0,0.0,Getafe,75.0,9487.0,Pedri,4-2-3-1,5-3-2,Francisco Hernández,Match Report,,Barcelona,for
+2026-05-02,21:00 (16:00),Matchweek 34,Sat,Away,,,,Osasuna,,,,,,,Head-to-Head,,Barcelona,for
+2026-05-10,21:00 (16:00),Matchweek 35,Sun,Home,,,,Real Madrid,,,,,,,Head-to-Head,,Barcelona,for
+2026-05-13,21:30 (16:30),Matchweek 36,Wed,Away,,,,Alavés,,,,,,,Head-to-Head,,Barcelona,for
+2026-05-17,,Matchweek 37,Sun,Home,,,,Real Betis,,,,,,,Head-to-Head,,Barcelona,for
+2026-05-24,,Matchweek 38,Sun,Away,,,,Valencia,,,,,,,Head-to-Head,,Barcelona,for
+2025-08-17,17:00 (12:00),Matchweek 1,Sun,Home,L,0.0,2.0,Getafe,69.0,20530.0,Iago Aspas,3-4-3,5-3-2,Iosu Galech,Match Report,,Celta Vigo,for
+2025-08-23,17:00 (12:00),Matchweek 2,Sat,Away,D,1.0,1.0,Mallorca,50.0,16274.0,Iago Aspas,3-4-3,4-2-3-1,José Guzmán,Match Report,,Celta Vigo,for
+2025-08-27,21:00 (16:00),Matchweek 6,Wed,Home,D,1.0,1.0,Real Betis,47.0,20302.0,Borja Iglesias,3-4-3,4-2-3-1,Jesús Gil,Match Report,,Celta Vigo,for
+2025-08-31,17:00 (12:00),Matchweek 3,Sun,Home,D,1.0,1.0,Villarreal,65.0,20172.0,Iago Aspas,3-4-3,4-4-2,Alejandro Quintero,Match Report,,Celta Vigo,for
+2025-09-14,14:00 (09:00),Matchweek 4,Sun,Home,D,1.0,1.0,Girona,60.0,18862.0,Iago Aspas,3-4-3,4-3-3,Adrián Cordero,Match Report,,Celta Vigo,for
+2025-09-21,14:00 (09:00),Matchweek 5,Sun,Away,D,1.0,1.0,Rayo Vallecano,41.0,13028.0,Fran Beltrán,3-4-3,4-4-2,Víctor García,Match Report,,Celta Vigo,for
+2025-09-28,16:15 (11:15),Matchweek 7,Sun,Away,L,1.0,2.0,Elche,38.0,26708.0,Borja Iglesias,4-3-3,5-3-2,Guillermo Cuadra,Match Report,,Celta Vigo,for
+2025-10-05,21:00 (16:00),Matchweek 8,Sun,Home,D,1.0,1.0,Atlético Madrid,59.0,20877.0,Fran Beltrán,3-4-3,4-4-2,César Soto,Match Report,,Celta Vigo,for
+2025-10-19,16:15 (11:15),Matchweek 9,Sun,Home,D,1.0,1.0,Real Sociedad,41.0,19102.0,Carl Starfelt,3-4-3,4-4-2,Juan Martínez,Match Report,,Celta Vigo,for
+2025-10-26,18:30 (14:30),Matchweek 10,Sun,Away,W,3.0,2.0,Osasuna,39.0,20065.0,Borja Iglesias,3-4-3,3-4-3,Alejandro Hernández,Match Report,,Celta Vigo,for
+2025-11-02,14:00 (10:00),Matchweek 11,Sun,Away,W,2.0,1.0,Levante,64.0,19513.0,Fran Beltrán,3-4-3,4-2-3-1,Alejandro Quintero,Match Report,,Celta Vigo,for
+2025-11-09,21:00 (17:00),Matchweek 12,Sun,Home,L,2.0,4.0,Barcelona,39.0,21887.0,Carl Starfelt,3-4-3,4-3-3,Javier Alberola,Match Report,,Celta Vigo,for
+2025-11-22,14:00 (10:00),Matchweek 13,Sat,Away,W,1.0,0.0,Alavés,49.0,16582.0,Iago Aspas,3-4-3,4-4-2,Juan Martínez,Match Report,,Celta Vigo,for
+2025-11-30,18:30 (14:30),Matchweek 14,Sun,Home,L,0.0,1.0,Espanyol,60.0,20031.0,Iago Aspas,3-4-3,4-4-2,Isidro Díaz de Mera,Match Report,,Celta Vigo,for
+2025-12-07,21:00 (17:00),Matchweek 15,Sun,Away,W,2.0,0.0,Real Madrid,42.0,74511.0,Carl Starfelt,3-4-3,4-4-2,Alejandro Quintero,Match Report,,Celta Vigo,for
+2025-12-14,16:15 (12:15),Matchweek 16,Sun,Home,W,2.0,0.0,Athletic Club,50.0,20505.0,Iago Aspas,3-4-3,4-2-3-1,Alejandro Hernández,Match Report,,Celta Vigo,for
+2025-12-20,14:00 (10:00),Matchweek 17,Sat,Away,D,0.0,0.0,Oviedo,44.0,23613.0,Fran Beltrán,3-4-3,4-2-3-1,Francisco Hernández,Match Report,,Celta Vigo,for
+2026-01-03,14:00 (10:00),Matchweek 18,Sat,Home,W,4.0,1.0,Valencia,40.0,20475.0,Borja Iglesias,3-4-3,3-5-2,Ricardo de Burgos,Match Report,,Celta Vigo,for
+2026-01-12,21:00 (17:00),Matchweek 19,Mon,Away,W,1.0,0.0,Sevilla,41.0,31383.0,Iago Aspas,4-4-2,3-4-3,Jose Maria Sánchez,Match Report,,Celta Vigo,for
+2026-01-18,18:30 (14:30),Matchweek 20,Sun,Home,W,3.0,0.0,Rayo Vallecano,49.0,20835.0,Carl Starfelt,3-4-3,4-3-3,Mateo Busquets,Match Report,,Celta Vigo,for
+2026-01-25,18:30 (14:30),Matchweek 21,Sun,Away,L,1.0,3.0,Real Sociedad,64.0,29682.0,Carl Starfelt,3-4-3,4-4-2,Javier Alberola,Match Report,,Celta Vigo,for
+2026-02-01,18:30 (14:30),Matchweek 22,Sun,Away,D,0.0,0.0,Getafe,62.0,7363.0,Carl Starfelt,3-4-3,5-3-2,Iosu Galech,Match Report,,Celta Vigo,for
+2026-02-06,21:00 (17:00),Matchweek 23,Fri,Home,L,1.0,2.0,Osasuna,57.0,18705.0,Carl Starfelt,3-4-3,4-2-3-1,José Luis Munuera,Match Report,,Celta Vigo,for
+2026-02-14,14:00 (10:00),Matchweek 24,Sat,Away,D,2.0,2.0,Espanyol,57.0,27368.0,Carl Starfelt,3-4-3,4-2-3-1,Guillermo Cuadra,Match Report,,Celta Vigo,for
+2026-02-22,18:30 (14:30),Matchweek 25,Sun,Home,W,2.0,0.0,Mallorca,57.0,19689.0,Marcos Alonso,3-4-3,4-2-3-1,José Guzmán,Match Report,,Celta Vigo,for
+2026-03-01,21:00 (17:00),Matchweek 26,Sun,Away,W,2.0,1.0,Girona,43.0,11371.0,Carlos Dominguez,3-4-3,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Celta Vigo,for
+2026-03-06,21:00 (17:00),Matchweek 27,Fri,Home,L,1.0,2.0,Real Madrid,37.0,22048.0,Carl Starfelt,3-4-3,4-4-2,Isidro Díaz de Mera,Match Report,,Celta Vigo,for
+2026-03-15,18:30 (14:30),Matchweek 28,Sun,Away,D,1.0,1.0,Real Betis,48.0,58689.0,Carl Starfelt,3-4-3,4-2-3-1,Jose Maria Sánchez,Match Report,,Celta Vigo,for
+2026-03-22,16:15 (12:15),Matchweek 29,Sun,Home,L,3.0,4.0,Alavés,56.0,20260.0,Borja Iglesias,3-4-3,4-4-2,Miguel Sesma,Match Report,,Celta Vigo,for
+2026-04-05,16:15 (11:15),Matchweek 30,Sun,Away,W,3.0,2.0,Valencia,58.0,43764.0,Marcos Alonso,3-4-3,4-4-2,Iosu Galech,Match Report,,Celta Vigo,for
+2026-04-12,18:30 (13:30),Matchweek 31,Sun,Home,L,0.0,3.0,Oviedo,68.0,20360.0,Marcos Alonso,3-4-3,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Celta Vigo,for
+2026-04-22,21:30 (16:30),Matchweek 33,Wed,Away,L,0.0,1.0,Barcelona,39.0,59034.0,Marcos Alonso,3-4-3,4-2-3-1,José Luis Munuera,Match Report,,Celta Vigo,for
+2026-04-26,21:00 (16:00),Matchweek 32,Sun,Away,L,1.0,2.0,Villarreal,53.0,16895.0,Borja Iglesias,3-4-3,4-4-2,Alejandro Quintero,Match Report,,Celta Vigo,for
+2026-05-03,14:00 (09:00),Matchweek 34,Sun,Home,,,,Elche,,,,,,,Head-to-Head,,Celta Vigo,for
+2026-05-09,18:30 (13:30),Matchweek 35,Sat,Away,,,,Atlético Madrid,,,,,,,Head-to-Head,,Celta Vigo,for
+2026-05-12,19:00 (14:00),Matchweek 36,Tue,Home,,,,Levante,,,,,,,Head-to-Head,,Celta Vigo,for
+2026-05-17,,Matchweek 37,Sun,Away,,,,Athletic Club,,,,,,,Head-to-Head,,Celta Vigo,for
+2026-05-24,,Matchweek 38,Sun,Home,,,,Sevilla,,,,,,,Head-to-Head,,Celta Vigo,for
+2025-08-18,21:00 (16:00),Matchweek 1,Mon,Home,D,1.0,1.0,Real Betis,68.0,28585.0,Pedro Bigas,4-3-3,4-2-3-1,Víctor García,Match Report,,Elche,for
+2025-08-23,19:30 (14:30),Matchweek 2,Sat,Away,D,1.0,1.0,Atlético Madrid,42.0,59369.0,Pedro Bigas,3-4-1-2,4-4-2,César Soto,Match Report,,Elche,for
+2025-08-29,19:30 (14:30),Matchweek 3,Fri,Home,W,2.0,0.0,Levante,67.0,26936.0,Pedro Bigas,3-1-4-2,5-4-1,Iosu Galech,Match Report,,Elche,for
+2025-09-12,21:00 (16:00),Matchweek 4,Fri,Away,D,2.0,2.0,Sevilla,47.0,37331.0,Pedro Bigas,3-5-2,3-4-3,Javier Alberola,Match Report,,Elche,for
+2025-09-21,18:30 (13:30),Matchweek 5,Sun,Home,W,1.0,0.0,Oviedo,61.0,27235.0,Pedro Bigas,3-1-4-2,4-2-3-1,Miguel Sesma,Match Report,,Elche,for
+2025-09-25,19:30 (14:30),Matchweek 6,Thu,Away,D,1.0,1.0,Osasuna,61.0,19475.0,Bambo Diaby,5-3-2,3-1-4-2,Adrián Cordero,Match Report,,Elche,for
+2025-09-28,16:15 (11:15),Matchweek 7,Sun,Home,W,2.0,1.0,Celta Vigo,62.0,26708.0,Pedro Bigas,5-3-2,4-3-3,Guillermo Cuadra,Match Report,,Elche,for
+2025-10-05,14:00 (09:00),Matchweek 8,Sun,Away,L,1.0,3.0,Alavés,53.0,16203.0,Pedro Bigas,3-5-2,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Elche,for
+2025-10-19,14:00 (09:00),Matchweek 9,Sun,Home,D,0.0,0.0,Athletic Club,69.0,29043.0,Pedro Bigas,4-3-3,4-2-3-1,José Guzmán,Match Report,,Elche,for
+2025-10-25,16:15 (11:15),Matchweek 10,Sat,Away,L,0.0,1.0,Espanyol,68.0,30820.0,Pedro Bigas,4-1-4-1,4-2-3-1,Ricardo de Burgos,Match Report,,Elche,for
+2025-11-02,18:30 (14:30),Matchweek 11,Sun,Away,L,1.0,3.0,Barcelona,51.0,44370.0,Pedro Bigas,4-1-4-1,4-2-3-1,Miguel Sesma,Match Report,,Elche,for
+2025-11-07,21:00 (17:00),Matchweek 12,Fri,Home,D,1.0,1.0,Real Sociedad,63.0,26242.0,Josan,4-1-4-1,4-1-4-1,Isidro Díaz de Mera,Match Report,,Elche,for
+2025-11-23,21:00 (17:00),Matchweek 13,Sun,Home,D,2.0,2.0,Real Madrid,49.0,31024.0,Aleix Febas,5-3-2,3-4-1-2,Francisco Hernández,Match Report,,Elche,for
+2025-11-28,21:00 (17:00),Matchweek 14,Fri,Away,L,0.0,1.0,Getafe,67.0,7697.0,Aleix Febas,5-3-2,4-4-2,Alejandro Hernández,Match Report,,Elche,for
+2025-12-07,14:00 (10:00),Matchweek 15,Sun,Home,W,3.0,0.0,Girona,58.0,23374.0,Pedro Bigas,3-5-2,4-4-2,Miguel Sesma,Match Report,,Elche,for
+2025-12-13,16:15 (12:15),Matchweek 16,Sat,Away,L,1.0,3.0,Mallorca,58.0,16199.0,Pedro Bigas,4-1-4-1,4-2-3-1,José Luis Munuera,Match Report,,Elche,for
+2025-12-21,18:30 (14:30),Matchweek 17,Sun,Home,W,4.0,0.0,Rayo Vallecano,47.0,23765.0,Pedro Bigas,3-5-2,4-2-3-1,Adrián Cordero,Match Report,,Elche,for
+2026-01-03,18:30 (14:30),Matchweek 18,Sat,Home,L,1.0,3.0,Villarreal,78.0,27078.0,Pedro Bigas,3-5-2,4-4-2,Isidro Díaz de Mera,Match Report,,Elche,for
+2026-01-10,21:00 (17:00),Matchweek 19,Sat,Away,D,1.0,1.0,Valencia,61.0,44949.0,Pedro Bigas,4-1-4-1,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Elche,for
+2026-01-19,21:00 (17:00),Matchweek 20,Mon,Home,D,2.0,2.0,Sevilla,50.0,22594.0,Josan,3-4-3,3-4-3,Ricardo de Burgos,Match Report,,Elche,for
+2026-01-23,21:00 (17:00),Matchweek 21,Fri,Away,L,2.0,3.0,Levante,58.0,18973.0,Aleix Febas,4-5-1,4-2-3-1,José Luis Munuera,Match Report,,Elche,for
+2026-01-31,21:00 (17:00),Matchweek 22,Sat,Home,L,1.0,3.0,Barcelona,39.0,31233.0,David Affengruber,3-4-1-2,4-3-3,Alejandro Muñíz,Match Report,,Elche,for
+2026-02-07,21:00 (17:00),Matchweek 23,Sat,Away,L,1.0,3.0,Real Sociedad,66.0,30187.0,Aleix Febas,3-1-4-2,4-4-2,José Guzmán,Match Report,,Elche,for
+2026-02-13,21:00 (17:00),Matchweek 24,Fri,Home,D,0.0,0.0,Osasuna,64.0,21253.0,Pedro Bigas,3-5-2,4-2-3-1,Jose Maria Sánchez,Match Report,,Elche,for
+2026-02-20,21:00 (17:00),Matchweek 25,Fri,Away,L,1.0,2.0,Athletic Club,54.0,46654.0,Pedro Bigas,3-1-4-2,4-2-3-1,Alejandro Hernández,Match Report,,Elche,for
+2026-03-01,14:00 (10:00),Matchweek 26,Sun,Home,D,2.0,2.0,Espanyol,71.0,25028.0,Pedro Bigas,3-5-2,4-4-1-1,Iosu Galech,Match Report,,Elche,for
+2026-03-08,14:00 (10:00),Matchweek 27,Sun,Away,L,1.0,2.0,Villarreal,63.0,16301.0,Matías Dituro,3-5-2,4-4-2,Víctor García,Match Report,,Elche,for
+2026-03-14,21:00 (17:00),Matchweek 28,Sat,Away,L,1.0,4.0,Real Madrid,53.0,71048.0,Matías Dituro,5-3-2,4-4-2,Jesús Gil,Match Report,,Elche,for
+2026-03-21,14:00 (10:00),Matchweek 29,Sat,Home,W,2.0,1.0,Mallorca,47.0,25462.0,Pedro Bigas,3-5-2,4-2-3-1,Javier Alberola,Match Report,,Elche,for
+2026-04-03,21:00 (16:00),Matchweek 30,Fri,Away,L,0.0,1.0,Rayo Vallecano,40.0,11182.0,Pedro Bigas,3-4-3,4-3-3,José Luis Munuera,Match Report,,Elche,for
+2026-04-11,16:15 (11:15),Matchweek 31,Sat,Home,W,1.0,0.0,Valencia,57.0,27795.0,Matías Dituro,3-4-1-2,4-4-2,Francisco Hernández,Match Report,,Elche,for
+2026-04-22,19:00 (14:00),Matchweek 33,Wed,Home,W,3.0,2.0,Atlético Madrid,72.0,27587.0,Matías Dituro,3-5-2,4-4-2,Guillermo Cuadra,Match Report,,Elche,for
+2026-04-26,16:15 (11:15),Matchweek 32,Sun,Away,W,2.0,1.0,Oviedo,40.0,25615.0,Pedro Bigas,5-3-2,4-2-3-1,Jose Maria Sánchez,Match Report,,Elche,for
+2026-05-03,14:00 (09:00),Matchweek 34,Sun,Away,,,,Celta Vigo,,,,,,,Head-to-Head,,Elche,for
+2026-05-09,14:00 (09:00),Matchweek 35,Sat,Home,,,,Alavés,,,,,,,Head-to-Head,,Elche,for
+2026-05-12,20:00 (15:00),Matchweek 36,Tue,Away,,,,Real Betis,,,,,,,Head-to-Head,,Elche,for
+2026-05-17,,Matchweek 37,Sun,Home,,,,Getafe,,,,,,,Head-to-Head,,Elche,for
+2026-05-24,,Matchweek 38,Sun,Away,,,,Girona,,,,,,,Head-to-Head,,Elche,for
+2025-08-17,21:30 (16:30),Matchweek 1,Sun,Home,W,2.0,1.0,Atlético Madrid,40.0,29612.0,Javi Puado,4-2-3-1,4-2-3-1,Mateo Busquets,Match Report,,Espanyol,for
+2025-08-24,19:30 (14:30),Matchweek 2,Sun,Away,D,2.0,2.0,Real Sociedad,38.0,31616.0,Javi Puado,4-2-3-1,4-1-4-1,Alejandro Quintero,Match Report,,Espanyol,for
+2025-08-31,19:30 (14:30),Matchweek 3,Sun,Home,W,1.0,0.0,Osasuna,46.0,29780.0,Javi Puado,4-2-3-1,3-4-3,Miguel Sesma,Match Report,,Espanyol,for
+2025-09-15,21:00 (16:00),Matchweek 4,Mon,Home,W,3.0,2.0,Mallorca,38.0,26082.0,Javi Puado,4-4-1-1,5-3-2,Alejandro Hernández,Match Report,,Espanyol,for
+2025-09-20,16:15 (11:15),Matchweek 5,Sat,Away,L,0.0,2.0,Real Madrid,28.0,73466.0,Javi Puado,4-2-3-1,4-4-2,Juan Martínez,Match Report,,Espanyol,for
+2025-09-23,19:00 (14:00),Matchweek 6,Tue,Home,D,2.0,2.0,Valencia,56.0,26802.0,Javi Puado,4-2-3-1,4-4-2,José Guzmán,Match Report,,Espanyol,for
+2025-09-26,21:00 (16:00),Matchweek 7,Fri,Away,D,0.0,0.0,Girona,40.0,11488.0,Javi Puado,4-4-2,3-5-2,Francisco Hernández,Match Report,,Espanyol,for
+2025-10-05,18:30 (13:30),Matchweek 8,Sun,Home,L,1.0,2.0,Real Betis,50.0,32778.0,Javi Puado,4-2-3-1,4-2-3-1,Iosu Galech,Match Report,,Espanyol,for
+2025-10-17,21:00 (16:00),Matchweek 9,Fri,Away,W,2.0,0.0,Oviedo,39.0,25625.0,Leandro Cabrera,4-4-2,4-2-3-1,Mateo Busquets,Match Report,,Espanyol,for
+2025-10-25,16:15 (11:15),Matchweek 10,Sat,Home,W,1.0,0.0,Elche,32.0,30820.0,Leandro Cabrera,4-2-3-1,4-1-4-1,Ricardo de Burgos,Match Report,,Espanyol,for
+2025-11-02,16:15 (12:15),Matchweek 11,Sun,Away,L,1.0,2.0,Alavés,46.0,17149.0,Leandro Cabrera,4-4-2,4-4-2,Guillermo Cuadra,Match Report,,Espanyol,for
+2025-11-08,21:00 (17:00),Matchweek 12,Sat,Home,L,0.0,2.0,Villarreal,55.0,29540.0,Leandro Cabrera,4-4-1-1,4-4-2,Alejandro Hernández,Match Report,,Espanyol,for
+2025-11-24,21:00 (17:00),Matchweek 13,Mon,Home,W,2.0,1.0,Sevilla,33.0,25166.0,Leandro Cabrera,4-4-2,4-2-3-1,Miguel Sesma,Match Report,,Espanyol,for
+2025-11-30,18:30 (14:30),Matchweek 14,Sun,Away,W,1.0,0.0,Celta Vigo,40.0,20031.0,Leandro Cabrera,4-4-2,3-4-3,Isidro Díaz de Mera,Match Report,,Espanyol,for
+2025-12-07,18:30 (14:30),Matchweek 15,Sun,Home,W,1.0,0.0,Rayo Vallecano,37.0,28110.0,Leandro Cabrera,4-2-3-1,4-2-3-1,Jose Maria Sánchez,Match Report,,Espanyol,for
+2025-12-13,21:00 (17:00),Matchweek 16,Sat,Away,W,1.0,0.0,Getafe,44.0,7443.0,Leandro Cabrera,4-4-2,4-4-2,Jesús Gil,Match Report,,Espanyol,for
+2025-12-22,21:00 (17:00),Matchweek 17,Mon,Away,W,2.0,1.0,Athletic Club,35.0,47856.0,Leandro Cabrera,4-2-3-1,4-2-3-1,Mateo Busquets,Match Report,,Espanyol,for
+2026-01-03,21:00 (17:00),Matchweek 18,Sat,Home,L,0.0,2.0,Barcelona,31.0,36283.0,Leandro Cabrera,4-2-3-1,4-2-3-1,Víctor García,Match Report,,Espanyol,for
+2026-01-11,16:15 (12:15),Matchweek 19,Sun,Away,D,1.0,1.0,Levante,51.0,20501.0,Leandro Cabrera,4-4-2,4-2-3-1,César Soto,Match Report,,Espanyol,for
+2026-01-16,21:00 (17:00),Matchweek 20,Fri,Home,L,0.0,2.0,Girona,49.0,28451.0,Leandro Cabrera,4-2-3-1,4-2-3-1,Iosu Galech,Match Report,,Espanyol,for
+2026-01-24,16:15 (12:15),Matchweek 21,Sat,Away,L,2.0,3.0,Valencia,53.0,44163.0,Leandro Cabrera,4-4-2,4-4-2,Alejandro Hernández,Match Report,,Espanyol,for
+2026-01-30,21:00 (17:00),Matchweek 22,Fri,Home,L,1.0,2.0,Alavés,50.0,25881.0,Leandro Cabrera,4-4-2,4-4-2,Miguel Sesma,Match Report,,Espanyol,for
+2026-02-09,21:00 (17:00),Matchweek 23,Mon,Away,L,1.0,4.0,Villarreal,51.0,16825.0,Leandro Cabrera,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,Espanyol,for
+2026-02-14,14:00 (10:00),Matchweek 24,Sat,Home,D,2.0,2.0,Celta Vigo,43.0,27368.0,Leandro Cabrera,4-2-3-1,3-4-3,Guillermo Cuadra,Match Report,,Espanyol,for
+2026-02-21,21:00 (17:00),Matchweek 25,Sat,Away,L,2.0,4.0,Atlético Madrid,39.0,56412.0,Leandro Cabrera,5-4-1,3-4-3,Alejandro Muñíz,Match Report,,Espanyol,for
+2026-03-01,14:00 (10:00),Matchweek 26,Sun,Away,D,2.0,2.0,Elche,30.0,25028.0,Leandro Cabrera,4-4-1-1,3-5-2,Iosu Galech,Match Report,,Espanyol,for
+2026-03-09,21:00 (17:00),Matchweek 27,Mon,Home,D,1.0,1.0,Oviedo,58.0,24807.0,Leandro Cabrera,4-4-1-1,4-2-3-1,Javier Alberola,Match Report,,Espanyol,for
+2026-03-15,14:00 (10:00),Matchweek 28,Sun,Away,L,1.0,2.0,Mallorca,32.0,17879.0,Leandro Cabrera,4-2-3-1,4-3-2-1,Ricardo de Burgos,Match Report,,Espanyol,for
+2026-03-21,16:15 (12:15),Matchweek 29,Sat,Home,L,1.0,2.0,Getafe,66.0,27577.0,Leandro Cabrera,4-4-1-1,5-4-1,Isidro Díaz de Mera,Match Report,,Espanyol,for
+2026-04-04,18:30 (13:30),Matchweek 30,Sat,Away,D,0.0,0.0,Real Betis,30.0,54444.0,Leandro Cabrera,4-4-1-1,4-3-3,Guillermo Cuadra,Match Report,,Espanyol,for
+2026-04-11,18:30 (13:30),Matchweek 31,Sat,Away,L,1.0,4.0,Barcelona,23.0,60736.0,Leandro Cabrera,4-4-1-1,4-2-3-1,Alejandro Hernández,Match Report,,Espanyol,for
+2026-04-23,20:00 (15:00),Matchweek 33,Thu,Away,L,0.0,1.0,Rayo Vallecano,47.0,11605.0,Leandro Cabrera,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,Espanyol,for
+2026-04-27,21:00 (16:00),Matchweek 32,Mon,Home,,,,Levante,,,,,,,Head-to-Head,,Espanyol,for
+2026-05-03,21:00 (16:00),Matchweek 34,Sun,Home,,,,Real Madrid,,,,,,,Head-to-Head,,Espanyol,for
+2026-05-09,16:15 (11:15),Matchweek 35,Sat,Away,,,,Sevilla,,,,,,,Head-to-Head,,Espanyol,for
+2026-05-13,19:00 (14:00),Matchweek 36,Wed,Home,,,,Athletic Club,,,,,,,Head-to-Head,,Espanyol,for
+2026-05-17,,Matchweek 37,Sun,Away,,,,Osasuna,,,,,,,Head-to-Head,,Espanyol,for
+2026-05-24,,Matchweek 38,Sun,Home,,,,Real Sociedad,,,,,,,Head-to-Head,,Espanyol,for
+2025-08-17,17:00 (12:00),Matchweek 1,Sun,Away,W,2.0,0.0,Celta Vigo,31.0,20530.0,Djené,5-3-2,3-4-3,Iosu Galech,Match Report,,Getafe,for
+2025-08-25,21:30 (16:30),Matchweek 2,Mon,Away,W,2.0,1.0,Sevilla,29.0,36697.0,Djené,5-3-2,4-2-3-1,Isidro Díaz de Mera,Match Report,,Getafe,for
+2025-08-29,21:30 (16:30),Matchweek 3,Fri,Away,L,0.0,3.0,Valencia,43.0,45449.0,Djené,5-3-2,4-2-3-1,Francisco Hernández,Match Report,,Getafe,for
+2025-09-13,14:00 (09:00),Matchweek 4,Sat,Home,W,2.0,0.0,Oviedo,48.0,8657.0,Djené,5-3-2,4-2-3-1,José Guzmán,Match Report,,Getafe,for
+2025-09-21,21:00 (16:00),Matchweek 5,Sun,Away,L,0.0,3.0,Barcelona,29.0,5711.0,Djené,5-3-2,4-3-3,Ricardo de Burgos,Match Report,,Getafe,for
+2025-09-24,19:00 (14:00),Matchweek 6,Wed,Home,D,1.0,1.0,Alavés,46.0,8005.0,Djené,4-5-1,4-4-2,Alejandro Quintero,Match Report,,Getafe,for
+2025-09-27,14:00 (09:00),Matchweek 7,Sat,Home,D,1.0,1.0,Levante,54.0,7749.0,Djené,5-3-2,4-4-2,Mateo Busquets,Match Report,,Getafe,for
+2025-10-03,21:00 (16:00),Matchweek 8,Fri,Away,L,1.0,2.0,Osasuna,42.0,19895.0,David Soria,5-3-2,3-5-2,Javier Alberola,Match Report,,Getafe,for
+2025-10-19,21:00 (16:00),Matchweek 9,Sun,Home,L,0.0,1.0,Real Madrid,24.0,10090.0,Djené,5-3-2,4-2-3-1,José Luis Munuera,Match Report,,Getafe,for
+2025-10-25,18:30 (13:30),Matchweek 10,Sat,Away,W,1.0,0.0,Athletic Club,43.0,47749.0,Djené,4-2-3-1,4-2-3-1,Isidro Díaz de Mera,Match Report,,Getafe,for
+2025-10-31,21:00 (17:00),Matchweek 11,Fri,Home,W,2.0,1.0,Girona,40.0,7223.0,Djené,4-4-2,4-1-4-1,Jose Maria Sánchez,Match Report,,Getafe,for
+2025-11-09,18:30 (14:30),Matchweek 12,Sun,Away,L,0.0,1.0,Mallorca,61.0,17507.0,David Soria,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,Getafe,for
+2025-11-23,18:30 (14:30),Matchweek 13,Sun,Home,L,0.0,1.0,Atlético Madrid,41.0,9783.0,Djené,4-1-4-1,4-1-4-1,Guillermo Cuadra,Match Report,,Getafe,for
+2025-11-28,21:00 (17:00),Matchweek 14,Fri,Home,W,1.0,0.0,Elche,34.0,7697.0,Djené,4-4-2,5-3-2,Alejandro Hernández,Match Report,,Getafe,for
+2025-12-06,14:00 (10:00),Matchweek 15,Sat,Away,L,0.0,2.0,Villarreal,39.0,17089.0,David Soria,4-4-2,4-4-2,Mateo Busquets,Match Report,,Getafe,for
+2025-12-13,21:00 (17:00),Matchweek 16,Sat,Home,L,0.0,1.0,Espanyol,56.0,7443.0,Djené,4-4-2,4-4-2,Jesús Gil,Match Report,,Getafe,for
+2025-12-21,21:00 (17:00),Matchweek 17,Sun,Away,L,0.0,4.0,Real Betis,51.0,54365.0,Djené,5-3-2,4-2-3-1,Miguel Sesma,Match Report,,Getafe,for
+2026-01-02,21:00 (17:00),Matchweek 18,Fri,Away,D,1.0,1.0,Rayo Vallecano,40.0,12544.0,Djené,4-5-1,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Getafe,for
+2026-01-09,21:00 (17:00),Matchweek 19,Fri,Home,L,1.0,2.0,Real Sociedad,43.0,7497.0,David Soria,4-5-1,4-4-2,Francisco Hernández,Match Report,,Getafe,for
+2026-01-18,14:00 (10:00),Matchweek 20,Sun,Home,L,0.0,1.0,Valencia,55.0,8361.0,Djené,4-4-2,4-4-2,Isidro Díaz de Mera,Match Report,,Getafe,for
+2026-01-26,21:00 (17:00),Matchweek 21,Mon,Away,D,1.0,1.0,Girona,31.0,11388.0,Djené,5-3-2,4-2-3-1,Alejandro Quintero,Match Report,,Getafe,for
+2026-02-01,18:30 (14:30),Matchweek 22,Sun,Home,D,0.0,0.0,Celta Vigo,38.0,7363.0,Djené,5-3-2,3-4-3,Iosu Galech,Match Report,,Getafe,for
+2026-02-08,14:00 (10:00),Matchweek 23,Sun,Away,W,2.0,0.0,Alavés,40.0,15960.0,Djené,5-3-2,4-4-2,Juan Martínez,Match Report,,Getafe,for
+2026-02-14,16:15 (12:15),Matchweek 24,Sat,Home,W,2.0,1.0,Villarreal,44.0,7551.0,Djené,5-3-2,4-4-2,Miguel Sesma,Match Report,,Getafe,for
+2026-02-22,14:00 (10:00),Matchweek 25,Sun,Home,L,0.0,1.0,Sevilla,31.0,8814.0,Djené,5-3-2,5-3-2,Mateo Busquets,Match Report,,Getafe,for
+2026-03-02,21:00 (17:00),Matchweek 26,Mon,Away,W,1.0,0.0,Real Madrid,23.0,65104.0,David Soria,5-4-1,4-2-3-1,Alejandro Muñíz,Match Report,,Getafe,for
+2026-03-08,16:15 (12:15),Matchweek 27,Sun,Home,W,2.0,0.0,Real Betis,29.0,8757.0,Djené,5-4-1,4-3-3,Francisco Hernández,Match Report,,Getafe,for
+2026-03-14,16:15 (12:15),Matchweek 28,Sat,Away,L,0.0,1.0,Atlético Madrid,35.0,58893.0,Djené,5-3-2,3-5-2,Miguel Ángel Ortiz Arias,Match Report,,Getafe,for
+2026-03-21,16:15 (12:15),Matchweek 29,Sat,Away,W,2.0,1.0,Espanyol,35.0,27577.0,Djené,5-4-1,4-4-1-1,Isidro Díaz de Mera,Match Report,,Getafe,for
+2026-04-05,14:00 (09:00),Matchweek 30,Sun,Home,W,2.0,0.0,Athletic Club,32.0,7749.0,Djené,5-4-1,4-2-3-1,Juan Martínez,Match Report,,Getafe,for
+2026-04-13,21:00 (16:00),Matchweek 31,Mon,Away,L,0.0,1.0,Levante,37.0,18155.0,Djené,5-4-1,4-1-4-1,Alejandro Quintero,Match Report,,Getafe,for
+2026-04-22,20:00 (15:00),Matchweek 33,Wed,Away,W,1.0,0.0,Real Sociedad,34.0,31464.0,Djené,5-3-2,4-2-3-1,Mateo Busquets,Match Report,,Getafe,for
+2026-04-25,16:15 (11:15),Matchweek 32,Sat,Home,L,0.0,2.0,Barcelona,25.0,9487.0,Djené,5-3-2,4-2-3-1,Francisco Hernández,Match Report,,Getafe,for
+2026-05-03,16:15 (11:15),Matchweek 34,Sun,Home,,,,Rayo Vallecano,,,,,,,Head-to-Head,,Getafe,for
+2026-05-10,18:30 (13:30),Matchweek 35,Sun,Away,,,,Oviedo,,,,,,,Head-to-Head,,Getafe,for
+2026-05-13,21:30 (16:30),Matchweek 36,Wed,Home,,,,Mallorca,,,,,,,Head-to-Head,,Getafe,for
+2026-05-17,,Matchweek 37,Sun,Away,,,,Elche,,,,,,,Head-to-Head,,Getafe,for
+2026-05-24,,Matchweek 38,Sun,Home,,,,Osasuna,,,,,,,Head-to-Head,,Getafe,for
+2025-08-15,19:00 (14:00),Matchweek 1,Fri,Home,L,1.0,3.0,Rayo Vallecano,44.0,12403.0,Arnau Martinez,4-3-3,4-2-3-1,Javier Alberola,Match Report,,Girona,for
+2025-08-24,19:30 (14:30),Matchweek 2,Sun,Away,L,0.0,5.0,Villarreal,48.0,18195.0,Portu,4-4-1-1,4-4-2,Guillermo Cuadra,Match Report,,Girona,for
+2025-08-30,19:30 (14:30),Matchweek 3,Sat,Home,L,0.0,2.0,Sevilla,58.0,11305.0,Cristhian Stuani,4-2-3-1,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Girona,for
+2025-09-14,14:00 (09:00),Matchweek 4,Sun,Away,D,1.0,1.0,Celta Vigo,40.0,18862.0,Arnau Martinez,4-3-3,3-4-3,Adrián Cordero,Match Report,,Girona,for
+2025-09-20,14:00 (09:00),Matchweek 5,Sat,Home,L,0.0,4.0,Levante,35.0,11048.0,Arnau Martinez,4-5-1,4-4-2,Alejandro Quintero,Match Report,,Girona,for
+2025-09-23,19:00 (14:00),Matchweek 6,Tue,Away,D,1.0,1.0,Athletic Club,33.0,45739.0,Iván Martín,4-2-3-1,4-2-3-1,José Luis Munuera,Match Report,,Girona,for
+2025-09-26,21:00 (16:00),Matchweek 7,Fri,Home,D,0.0,0.0,Espanyol,60.0,11488.0,Iván Martín,3-5-2,4-4-2,Francisco Hernández,Match Report,,Girona,for
+2025-10-04,16:15 (11:15),Matchweek 8,Sat,Home,W,2.0,1.0,Valencia,45.0,10867.0,Arnau Martinez,3-4-3,4-4-2,Isidro Díaz de Mera,Match Report,,Girona,for
+2025-10-18,16:15 (11:15),Matchweek 9,Sat,Away,L,1.0,2.0,Barcelona,32.0,43172.0,Arnau Martinez,4-4-2,4-2-3-1,Jesús Gil,Match Report,,Girona,for
+2025-10-25,14:00 (09:00),Matchweek 10,Sat,Home,D,3.0,3.0,Oviedo,65.0,11120.0,Arnau Martinez,4-2-3-1,4-3-3,Alejandro Muñíz,Match Report,,Girona,for
+2025-10-31,21:00 (17:00),Matchweek 11,Fri,Away,L,1.0,2.0,Getafe,60.0,7223.0,Arnau Martinez,4-1-4-1,4-4-2,Jose Maria Sánchez,Match Report,,Girona,for
+2025-11-08,14:00 (10:00),Matchweek 12,Sat,Home,W,1.0,0.0,Alavés,52.0,10050.0,Arnau Martinez,4-4-1-1,4-4-2,Adrián Cordero,Match Report,,Girona,for
+2025-11-23,16:15 (12:15),Matchweek 13,Sun,Away,D,1.0,1.0,Real Betis,46.0,64268.0,Arnau Martinez,4-1-4-1,4-2-3-1,Iosu Galech,Match Report,,Girona,for
+2025-11-30,21:00 (17:00),Matchweek 14,Sun,Home,D,1.0,1.0,Real Madrid,40.0,14005.0,Arnau Martinez,4-2-3-1,4-3-3,Ricardo de Burgos,Match Report,,Girona,for
+2025-12-07,14:00 (10:00),Matchweek 15,Sun,Away,L,0.0,3.0,Elche,42.0,23374.0,Iván Martín,4-4-2,3-5-2,Miguel Sesma,Match Report,,Girona,for
+2025-12-12,21:00 (17:00),Matchweek 16,Fri,Away,W,2.0,1.0,Real Sociedad,53.0,26122.0,Arnau Martinez,4-2-3-1,4-1-4-1,Miguel Ángel Ortiz Arias,Match Report,,Girona,for
+2025-12-21,14:00 (10:00),Matchweek 17,Sun,Home,L,0.0,3.0,Atlético Madrid,51.0,12363.0,Arnau Martinez,4-5-1,4-4-2,José Guzmán,Match Report,,Girona,for
+2026-01-04,18:30 (14:30),Matchweek 18,Sun,Away,W,2.0,1.0,Mallorca,51.0,16011.0,Arnau Martinez,4-1-4-1,4-2-3-1,Javier Alberola,Match Report,,Girona,for
+2026-01-10,18:30 (14:30),Matchweek 19,Sat,Home,W,1.0,0.0,Osasuna,46.0,12059.0,Arnau Martinez,4-2-3-1,4-2-3-1,Alejandro Hernández,Match Report,,Girona,for
+2026-01-16,21:00 (17:00),Matchweek 20,Fri,Away,W,2.0,0.0,Espanyol,51.0,28451.0,Arnau Martinez,4-2-3-1,4-2-3-1,Iosu Galech,Match Report,,Girona,for
+2026-01-26,21:00 (17:00),Matchweek 21,Mon,Home,D,1.0,1.0,Getafe,69.0,11388.0,Iván Martín,4-2-3-1,5-3-2,Alejandro Quintero,Match Report,,Girona,for
+2026-01-31,14:00 (10:00),Matchweek 22,Sat,Away,L,0.0,1.0,Oviedo,66.0,25085.0,Arnau Martinez,4-3-3,4-2-3-1,Javier Alberola,Match Report,,Girona,for
+2026-02-08,16:15 (12:15),Matchweek 23,Sun,Away,D,1.0,1.0,Sevilla,49.0,30384.0,Arnau Martinez,4-2-3-1,5-3-2,Jesús Gil,Match Report,,Girona,for
+2026-02-16,21:00 (17:00),Matchweek 24,Mon,Home,W,2.0,1.0,Barcelona,29.0,14043.0,Arnau Martinez,4-2-3-1,4-3-3,César Soto,Match Report,,Girona,for
+2026-02-23,21:00 (17:00),Matchweek 25,Mon,Away,D,2.0,2.0,Alavés,55.0,14117.0,Arnau Martinez,4-5-1,4-4-2,Adrián Cordero,Match Report,,Girona,for
+2026-03-01,21:00 (17:00),Matchweek 26,Sun,Home,L,1.0,2.0,Celta Vigo,57.0,11371.0,Arnau Martinez,4-2-3-1,3-4-3,Miguel Ángel Ortiz Arias,Match Report,,Girona,for
+2026-03-07,16:15 (12:15),Matchweek 27,Sat,Away,D,1.0,1.0,Levante,67.0,18542.0,Arnau Martinez,4-2-3-1,4-2-3-1,Guillermo Cuadra,Match Report,,Girona,for
+2026-03-14,14:00 (10:00),Matchweek 28,Sat,Home,W,3.0,0.0,Athletic Club,47.0,8811.0,Arnau Martinez,4-2-3-1,4-2-3-1,Iosu Galech,Match Report,,Girona,for
+2026-03-21,18:30 (14:30),Matchweek 29,Sat,Away,L,0.0,1.0,Osasuna,52.0,20975.0,Arnau Martinez,4-2-3-1,4-2-3-1,José Guzmán,Match Report,,Girona,for
+2026-04-06,21:00 (16:00),Matchweek 30,Mon,Home,W,1.0,0.0,Villarreal,54.0,12008.0,Arnau Martinez,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,Girona,for
+2026-04-10,21:00 (16:00),Matchweek 31,Fri,Away,D,1.0,1.0,Real Madrid,39.0,70885.0,Arnau Martinez,4-2-3-1,4-4-2,Javier Alberola,Match Report,,Girona,for
+2026-04-21,21:30 (16:30),Matchweek 33,Tue,Home,L,2.0,3.0,Real Betis,56.0,11934.0,Arnau Martinez,4-4-1-1,4-3-3,Iosu Galech,Match Report,,Girona,for
+2026-04-25,18:30 (13:30),Matchweek 32,Sat,Away,L,1.0,2.0,Valencia,63.0,44394.0,Arnau Martinez,4-2-3-1,4-4-2,Alejandro Muñíz,Match Report,,Girona,for
+2026-05-01,21:00 (16:00),Matchweek 34,Fri,Home,,,,Mallorca,,,,,,,Head-to-Head,,Girona,for
+2026-05-11,21:00 (16:00),Matchweek 35,Mon,Away,,,,Rayo Vallecano,,,,,,,Head-to-Head,,Girona,for
+2026-05-14,20:00 (15:00),Matchweek 36,Thu,Home,,,,Real Sociedad,,,,,,,Head-to-Head,,Girona,for
+2026-05-17,,Matchweek 37,Sun,Away,,,,Atlético Madrid,,,,,,,Head-to-Head,,Girona,for
+2026-05-24,,Matchweek 38,Sun,Home,,,,Elche,,,,,,,Head-to-Head,,Girona,for
+2025-08-16,21:30 (16:30),Matchweek 1,Sat,Away,L,1.0,2.0,Alavés,38.0,12837.0,Pablo Martínez,5-4-1,4-1-4-1,Miguel Sesma,Match Report,,Levante,for
+2025-08-23,21:30 (16:30),Matchweek 2,Sat,Home,L,2.0,3.0,Barcelona,18.0,23415.0,Pablo Martínez,5-4-1,4-2-3-1,Alejandro Hernández,Match Report,,Levante,for
+2025-08-29,19:30 (14:30),Matchweek 3,Fri,Away,L,0.0,2.0,Elche,33.0,26936.0,Pablo Martínez,5-4-1,3-1-4-2,Iosu Galech,Match Report,,Levante,for
+2025-09-14,16:15 (11:15),Matchweek 4,Sun,Home,D,2.0,2.0,Real Betis,33.0,21938.0,Pablo Martínez,4-4-2,4-2-3-1,Alejandro Muñíz,Match Report,,Levante,for
+2025-09-20,14:00 (09:00),Matchweek 5,Sat,Away,W,4.0,0.0,Girona,65.0,11048.0,Brugui,4-4-2,4-5-1,Alejandro Quintero,Match Report,,Levante,for
+2025-09-23,21:30 (16:30),Matchweek 6,Tue,Home,L,1.0,4.0,Real Madrid,38.0,23361.0,Unai Elgezabal,4-4-2,3-4-3,Isidro Díaz de Mera,Match Report,,Levante,for
+2025-09-27,14:00 (09:00),Matchweek 7,Sat,Away,D,1.0,1.0,Getafe,46.0,7749.0,Brugui,4-4-2,5-3-2,Mateo Busquets,Match Report,,Levante,for
+2025-10-04,14:00 (09:00),Matchweek 8,Sat,Away,W,2.0,0.0,Oviedo,43.0,23878.0,Brugui,4-4-2,4-3-3,José Luis Munuera,Match Report,,Levante,for
+2025-10-19,18:30 (13:30),Matchweek 9,Sun,Home,L,0.0,3.0,Rayo Vallecano,54.0,20312.0,Brugui,4-4-2,4-2-3-1,Miguel Sesma,Match Report,,Levante,for
+2025-10-26,14:00 (10:00),Matchweek 10,Sun,Away,D,1.0,1.0,Mallorca,37.0,12964.0,Pablo Martínez,4-4-2,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Levante,for
+2025-11-02,14:00 (10:00),Matchweek 11,Sun,Home,L,1.0,2.0,Celta Vigo,36.0,19513.0,Brugui,4-2-3-1,3-4-3,Alejandro Quintero,Match Report,,Levante,for
+2025-11-08,18:30 (14:30),Matchweek 12,Sat,Away,L,1.0,3.0,Atlético Madrid,26.0,60119.0,Brugui,4-4-2,4-4-2,Jesús Gil,Match Report,,Levante,for
+2025-11-21,21:00 (17:00),Matchweek 13,Fri,Away,L,0.0,1.0,Valencia,41.0,46302.0,Unai Elgezabal,4-5-1,4-2-3-1,Alejandro Muñíz,Match Report,,Levante,for
+2025-11-29,18:30 (14:30),Matchweek 14,Sat,Home,L,0.0,2.0,Athletic Club,56.0,19848.0,Unai Elgezabal,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,Levante,for
+2025-12-08,21:00 (17:00),Matchweek 15,Mon,Away,L,0.0,2.0,Osasuna,59.0,18160.0,Brugui,4-4-2,3-4-3,José Guzmán,Match Report,,Levante,for
+2025-12-20,16:15 (12:15),Matchweek 17,Sat,Home,D,1.0,1.0,Real Sociedad,44.0,17346.0,Pablo Martínez,4-2-3-1,4-1-4-1,Guillermo Cuadra,Match Report,,Levante,for
+2026-01-04,14:00 (10:00),Matchweek 18,Sun,Away,W,3.0,0.0,Sevilla,36.0,25303.0,Pablo Martínez,4-2-3-1,3-5-2,Iosu Galech,Match Report,,Levante,for
+2026-01-11,16:15 (12:15),Matchweek 19,Sun,Home,D,1.0,1.0,Espanyol,49.0,20501.0,Pablo Martínez,4-2-3-1,4-4-2,César Soto,Match Report,,Levante,for
+2026-01-17,14:00 (10:00),Matchweek 20,Sat,Away,L,0.0,2.0,Real Madrid,30.0,70104.0,Pablo Martínez,4-2-3-1,4-3-3,Miguel Sesma,Match Report,,Levante,for
+2026-01-23,21:00 (17:00),Matchweek 21,Fri,Home,W,3.0,2.0,Elche,42.0,18973.0,Pablo Martínez,4-2-3-1,4-5-1,José Luis Munuera,Match Report,,Levante,for
+2026-01-31,18:30 (14:30),Matchweek 22,Sat,Home,D,0.0,0.0,Atlético Madrid,45.0,20573.0,Pablo Martínez,4-2-3-1,4-4-2,Víctor García,Match Report,,Levante,for
+2026-02-08,16:15 (12:15),Matchweek 23,Sun,Away,L,2.0,4.0,Athletic Club,45.0,46487.0,Pablo Martínez,4-2-3-1,4-2-3-1,Alejandro Muñíz,Match Report,,Levante,for
+2026-02-15,18:30 (14:30),Matchweek 24,Sun,Home,L,0.0,2.0,Valencia,47.0,22967.0,Pablo Martínez,4-2-3-1,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,Levante,for
+2026-02-18,20:00 (16:00),Matchweek 16,Wed,Home,L,0.0,1.0,Villarreal,59.0,18153.0,Adrián de la Fuente,4-3-3,4-4-2,Juan Martínez,Match Report,,Levante,for
+2026-02-22,16:15 (12:15),Matchweek 25,Sun,Away,L,0.0,3.0,Barcelona,27.0,44936.0,Adrián de la Fuente,4-1-4-1,4-2-3-1,Javier Alberola,Match Report,,Levante,for
+2026-02-27,21:00 (17:00),Matchweek 26,Fri,Home,W,2.0,0.0,Alavés,49.0,17880.0,Adrián de la Fuente,4-1-4-1,4-4-2,Francisco Hernández,Match Report,,Levante,for
+2026-03-07,16:15 (12:15),Matchweek 27,Sat,Home,D,1.0,1.0,Girona,33.0,18542.0,Adrián de la Fuente,4-2-3-1,4-2-3-1,Guillermo Cuadra,Match Report,,Levante,for
+2026-03-16,21:00 (17:00),Matchweek 28,Mon,Away,D,1.0,1.0,Rayo Vallecano,42.0,10975.0,Iván Romero,4-2-3-1,4-2-3-1,César Soto,Match Report,,Levante,for
+2026-03-21,18:30 (14:30),Matchweek 29,Sat,Home,W,4.0,2.0,Oviedo,38.0,19398.0,Adrián de la Fuente,4-1-4-1,4-2-3-1,Jesús Gil,Match Report,,Levante,for
+2026-04-04,14:00 (09:00),Matchweek 30,Sat,Away,L,0.0,2.0,Real Sociedad,41.0,27000.0,Adrián de la Fuente,4-3-3,4-2-3-1,Alejandro Muñíz,Match Report,,Levante,for
+2026-04-13,21:00 (16:00),Matchweek 31,Mon,Home,W,1.0,0.0,Getafe,63.0,18155.0,Pablo Martínez,4-1-4-1,5-4-1,Alejandro Quintero,Match Report,,Levante,for
+2026-04-23,19:00 (14:00),Matchweek 33,Thu,Home,W,2.0,0.0,Sevilla,43.0,20210.0,Pablo Martínez,4-1-4-1,3-4-3,Jose Maria Sánchez,Match Report,,Levante,for
+2026-04-27,21:00 (16:00),Matchweek 32,Mon,Away,,,,Espanyol,,,,,,,Head-to-Head,,Levante,for
+2026-05-02,14:00 (09:00),Matchweek 34,Sat,Away,,,,Villarreal,,,,,,,Head-to-Head,,Levante,for
+2026-05-08,21:00 (16:00),Matchweek 35,Fri,Home,,,,Osasuna,,,,,,,Head-to-Head,,Levante,for
+2026-05-12,19:00 (14:00),Matchweek 36,Tue,Away,,,,Celta Vigo,,,,,,,Head-to-Head,,Levante,for
+2026-05-17,,Matchweek 37,Sun,Home,,,,Mallorca,,,,,,,Head-to-Head,,Levante,for
+2026-05-24,,Matchweek 38,Sun,Away,,,,Real Betis,,,,,,,Head-to-Head,,Levante,for
+2025-08-16,19:30 (14:30),Matchweek 1,Sat,Home,L,0.0,3.0,Barcelona,29.0,23318.0,Antonio Raillo,4-2-3-1,4-2-3-1,José Luis Munuera,Match Report,,Mallorca,for
+2025-08-23,17:00 (12:00),Matchweek 2,Sat,Home,D,1.0,1.0,Celta Vigo,50.0,16274.0,Antonio Raillo,4-2-3-1,3-4-3,José Guzmán,Match Report,,Mallorca,for
+2025-08-30,21:30 (16:30),Matchweek 3,Sat,Away,L,1.0,2.0,Real Madrid,42.0,72699.0,Antonio Raillo,5-3-2,4-2-3-1,Jose Maria Sánchez,Match Report,,Mallorca,for
+2025-09-15,21:00 (16:00),Matchweek 4,Mon,Away,L,2.0,3.0,Espanyol,63.0,26082.0,Antonio Raillo,5-3-2,4-4-1-1,Alejandro Hernández,Match Report,,Mallorca,for
+2025-09-21,16:15 (11:15),Matchweek 5,Sun,Home,D,1.0,1.0,Atlético Madrid,42.0,21027.0,Antonio Raillo,5-3-2,4-4-2,Francisco Hernández,Match Report,,Mallorca,for
+2025-09-24,21:30 (16:30),Matchweek 6,Wed,Away,L,0.0,1.0,Real Sociedad,36.0,22442.0,Antonio Raillo,5-3-2,4-3-3,Iosu Galech,Match Report,,Mallorca,for
+2025-09-27,18:30 (13:30),Matchweek 7,Sat,Home,W,1.0,0.0,Alavés,39.0,16275.0,Antonio Raillo,4-2-3-1,4-1-4-1,Adrián Cordero,Match Report,,Mallorca,for
+2025-10-04,18:30 (13:30),Matchweek 8,Sat,Away,L,1.0,2.0,Athletic Club,48.0,47098.0,Antonio Raillo,4-2-3-1,4-2-3-1,Alejandro Quintero,Match Report,,Mallorca,for
+2025-10-18,14:00 (09:00),Matchweek 9,Sat,Away,W,3.0,1.0,Sevilla,42.0,37008.0,Antonio Raillo,4-2-3-1,4-2-3-1,Víctor García,Match Report,,Mallorca,for
+2025-10-26,14:00 (10:00),Matchweek 10,Sun,Home,D,1.0,1.0,Levante,63.0,12964.0,Antonio Raillo,4-2-3-1,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,Mallorca,for
+2025-11-02,21:00 (17:00),Matchweek 11,Sun,Away,L,0.0,3.0,Real Betis,48.0,54747.0,Antonio Raillo,4-2-3-1,4-2-3-1,Jesús Gil,Match Report,,Mallorca,for
+2025-11-09,18:30 (14:30),Matchweek 12,Sun,Home,W,1.0,0.0,Getafe,39.0,17507.0,Antonio Raillo,4-2-3-1,4-4-2,Ricardo de Burgos,Match Report,,Mallorca,for
+2025-11-22,21:00 (17:00),Matchweek 13,Sat,Away,L,1.0,2.0,Villarreal,42.0,16854.0,Antonio Raillo,4-2-3-1,4-4-2,José Guzmán,Match Report,,Mallorca,for
+2025-11-29,14:00 (10:00),Matchweek 14,Sat,Home,D,2.0,2.0,Osasuna,53.0,15457.0,Antonio Raillo,4-2-3-1,3-4-3,Jesús Gil,Match Report,,Mallorca,for
+2025-12-05,21:00 (17:00),Matchweek 15,Fri,Away,D,0.0,0.0,Oviedo,38.0,23333.0,Antonio Raillo,4-2-3-1,4-2-3-1,Iosu Galech,Match Report,,Mallorca,for
+2025-12-13,16:15 (12:15),Matchweek 16,Sat,Home,W,3.0,1.0,Elche,42.0,16199.0,Antonio Raillo,4-2-3-1,4-1-4-1,José Luis Munuera,Match Report,,Mallorca,for
+2025-12-19,21:00 (17:00),Matchweek 17,Fri,Away,D,1.0,1.0,Valencia,29.0,41179.0,Antonio Raillo,4-2-3-1,4-4-2,Alejandro Quintero,Match Report,,Mallorca,for
+2026-01-04,18:30 (14:30),Matchweek 18,Sun,Home,L,1.0,2.0,Girona,49.0,16011.0,Antonio Raillo,4-2-3-1,4-1-4-1,Javier Alberola,Match Report,,Mallorca,for
+2026-01-11,14:00 (10:00),Matchweek 19,Sun,Away,L,1.0,2.0,Rayo Vallecano,47.0,12223.0,Martin Valjent,4-4-2,4-2-3-1,Juan Martínez,Match Report,,Mallorca,for
+2026-01-17,16:15 (12:15),Matchweek 20,Sat,Home,W,3.0,2.0,Athletic Club,51.0,14284.0,Martin Valjent,4-4-2,4-2-3-1,José Guzmán,Match Report,,Mallorca,for
+2026-01-25,14:00 (10:00),Matchweek 21,Sun,Away,L,0.0,3.0,Atlético Madrid,39.0,55028.0,Martin Valjent,4-4-2,4-4-2,Jose Maria Sánchez,Match Report,,Mallorca,for
+2026-02-02,21:00 (17:00),Matchweek 22,Mon,Home,W,4.0,1.0,Sevilla,33.0,15621.0,Martin Valjent,4-2-3-1,5-3-2,César Soto,Match Report,,Mallorca,for
+2026-02-07,16:15 (12:15),Matchweek 23,Sat,Away,L,0.0,3.0,Barcelona,24.0,44301.0,Martin Valjent,4-2-3-1,4-3-3,Alejandro Quintero,Match Report,,Mallorca,for
+2026-02-15,21:00 (17:00),Matchweek 24,Sun,Home,L,1.0,2.0,Real Betis,65.0,18658.0,Martin Valjent,4-2-3-1,4-3-3,Isidro Díaz de Mera,Match Report,,Mallorca,for
+2026-02-22,18:30 (14:30),Matchweek 25,Sun,Away,L,0.0,2.0,Celta Vigo,43.0,19689.0,Antonio Raillo,4-2-3-1,3-4-3,José Guzmán,Match Report,,Mallorca,for
+2026-02-28,18:30 (14:30),Matchweek 26,Sat,Home,L,0.0,1.0,Real Sociedad,44.0,17120.0,Antonio Raillo,4-3-3,4-2-3-1,Miguel Sesma,Match Report,,Mallorca,for
+2026-03-07,14:00 (10:00),Matchweek 27,Sat,Away,D,2.0,2.0,Osasuna,50.0,19746.0,Antonio Raillo,4-4-2◆,4-2-3-1,Alejandro Hernández,Match Report,,Mallorca,for
+2026-03-15,14:00 (10:00),Matchweek 28,Sun,Home,W,2.0,1.0,Espanyol,68.0,17879.0,Antonio Raillo,4-3-2-1,4-2-3-1,Ricardo de Burgos,Match Report,,Mallorca,for
+2026-03-21,14:00 (10:00),Matchweek 29,Sat,Away,L,1.0,2.0,Elche,53.0,25462.0,Antonio Raillo,4-2-3-1,3-5-2,Javier Alberola,Match Report,,Mallorca,for
+2026-04-04,16:15 (11:15),Matchweek 30,Sat,Home,W,2.0,1.0,Real Madrid,36.0,23015.0,Martin Valjent,4-4-2◆,4-4-2,Jose Maria Sánchez,Match Report,,Mallorca,for
+2026-04-12,16:15 (11:15),Matchweek 31,Sun,Home,W,3.0,0.0,Rayo Vallecano,45.0,16323.0,Sergi Darder,4-3-1-2,4-3-3,Jesús Gil,Match Report,,Mallorca,for
+2026-04-21,19:00 (14:00),Matchweek 33,Tue,Home,D,1.0,1.0,Valencia,59.0,20103.0,Martin Valjent,4-3-1-2,4-4-2,César Soto,Match Report,,Mallorca,for
+2026-04-25,14:00 (09:00),Matchweek 32,Sat,Away,L,1.0,2.0,Alavés,50.0,16167.0,Martin Valjent,4-3-1-2,5-3-2,Javier Alberola,Match Report,,Mallorca,for
+2026-05-01,21:00 (16:00),Matchweek 34,Fri,Away,,,,Girona,,,,,,,Head-to-Head,,Mallorca,for
+2026-05-10,14:00 (09:00),Matchweek 35,Sun,Home,,,,Villarreal,,,,,,,Head-to-Head,,Mallorca,for
+2026-05-13,21:30 (16:30),Matchweek 36,Wed,Away,,,,Getafe,,,,,,,Head-to-Head,,Mallorca,for
+2026-05-17,,Matchweek 37,Sun,Away,,,,Levante,,,,,,,Head-to-Head,,Mallorca,for
+2026-05-24,,Matchweek 38,Sun,Home,,,,Oviedo,,,,,,,Head-to-Head,,Mallorca,for
+2025-08-19,21:00 (16:00),Matchweek 1,Tue,Away,L,0.0,1.0,Real Madrid,29.0,68407.0,Sergio Herrera,3-4-3,4-3-3,Adrián Cordero,Match Report,,Osasuna,for
+2025-08-24,17:00 (12:00),Matchweek 2,Sun,Home,W,1.0,0.0,Valencia,55.0,21226.0,Sergio Herrera,3-4-3,4-4-2,Jesús Gil,Match Report,,Osasuna,for
+2025-08-31,19:30 (14:30),Matchweek 3,Sun,Away,L,0.0,1.0,Espanyol,55.0,29780.0,Sergio Herrera,3-4-3,4-2-3-1,Miguel Sesma,Match Report,,Osasuna,for
+2025-09-14,18:30 (13:30),Matchweek 4,Sun,Home,W,2.0,0.0,Rayo Vallecano,36.0,20511.0,Sergio Herrera,3-4-3,4-4-2,César Soto,Match Report,,Osasuna,for
+2025-09-20,18:30 (13:30),Matchweek 5,Sat,Away,L,1.0,2.0,Villarreal,34.0,17542.0,Sergio Herrera,3-4-3,4-4-2,Isidro Díaz de Mera,Match Report,,Osasuna,for
+2025-09-25,19:30 (14:30),Matchweek 6,Thu,Home,D,1.0,1.0,Elche,39.0,19475.0,Sergio Herrera,3-1-4-2,5-3-2,Adrián Cordero,Match Report,,Osasuna,for
+2025-09-28,21:00 (16:00),Matchweek 7,Sun,Away,L,0.0,2.0,Real Betis,50.0,50034.0,Sergio Herrera,3-5-2,4-2-3-1,Víctor García,Match Report,,Osasuna,for
+2025-10-03,21:00 (16:00),Matchweek 8,Fri,Home,W,2.0,1.0,Getafe,58.0,19895.0,Sergio Herrera,3-5-2,5-3-2,Javier Alberola,Match Report,,Osasuna,for
+2025-10-18,21:00 (16:00),Matchweek 9,Sat,Away,L,0.0,1.0,Atlético Madrid,41.0,62884.0,Sergio Herrera,3-4-3,5-3-2,Ricardo de Burgos,Match Report,,Osasuna,for
+2025-10-26,18:30 (14:30),Matchweek 10,Sun,Home,L,2.0,3.0,Celta Vigo,62.0,20065.0,Sergio Herrera,3-4-3,3-4-3,Alejandro Hernández,Match Report,,Osasuna,for
+2025-11-03,21:00 (17:00),Matchweek 11,Mon,Away,D,0.0,0.0,Oviedo,47.0,23795.0,Sergio Herrera,4-4-2,4-2-3-1,José Guzmán,Match Report,,Osasuna,for
+2025-11-08,16:15 (12:15),Matchweek 12,Sat,Away,L,0.0,1.0,Sevilla,53.0,35169.0,Kike Barja,4-2-3-1,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Osasuna,for
+2025-11-22,18:30 (14:30),Matchweek 13,Sat,Home,L,1.0,3.0,Real Sociedad,46.0,21377.0,Sergio Herrera,3-4-3,4-4-2,Mateo Busquets,Match Report,,Osasuna,for
+2025-11-29,14:00 (10:00),Matchweek 14,Sat,Away,D,2.0,2.0,Mallorca,48.0,15457.0,Sergio Herrera,3-4-3,4-2-3-1,Jesús Gil,Match Report,,Osasuna,for
+2025-12-08,21:00 (17:00),Matchweek 15,Mon,Home,W,2.0,0.0,Levante,41.0,18160.0,Sergio Herrera,3-4-3,4-4-2,José Guzmán,Match Report,,Osasuna,for
+2025-12-13,18:30 (14:30),Matchweek 16,Sat,Away,L,0.0,2.0,Barcelona,20.0,42058.0,Sergio Herrera,5-4-1,4-2-3-1,Adrián Cordero,Match Report,,Osasuna,for
+2025-12-20,18:30 (14:30),Matchweek 17,Sat,Home,W,3.0,0.0,Alavés,47.0,20408.0,Sergio Herrera,4-2-3-1,4-1-4-1,César Soto,Match Report,,Osasuna,for
+2026-01-03,16:15 (12:15),Matchweek 18,Sat,Home,D,1.0,1.0,Athletic Club,49.0,22010.0,Rubén García,4-2-3-1,4-2-3-1,José Luis Munuera,Match Report,,Osasuna,for
+2026-01-10,18:30 (14:30),Matchweek 19,Sat,Away,L,0.0,1.0,Girona,54.0,12059.0,Rubén García,4-2-3-1,4-2-3-1,Alejandro Hernández,Match Report,,Osasuna,for
+2026-01-17,18:30 (14:30),Matchweek 20,Sat,Home,W,3.0,2.0,Oviedo,51.0,20651.0,Rubén García,4-2-3-1,4-4-2,Alejandro Quintero,Match Report,,Osasuna,for
+2026-01-24,14:00 (10:00),Matchweek 21,Sat,Away,W,3.0,1.0,Rayo Vallecano,33.0,12091.0,Rubén García,4-2-3-1,4-2-3-1,Miguel Sesma,Match Report,,Osasuna,for
+2026-01-31,16:15 (12:15),Matchweek 22,Sat,Home,D,2.0,2.0,Villarreal,47.0,20455.0,Rubén García,4-2-3-1,4-4-2,Ricardo de Burgos,Match Report,,Osasuna,for
+2026-02-06,21:00 (17:00),Matchweek 23,Fri,Away,W,2.0,1.0,Celta Vigo,43.0,18705.0,Rubén García,4-2-3-1,3-4-3,José Luis Munuera,Match Report,,Osasuna,for
+2026-02-13,21:00 (17:00),Matchweek 24,Fri,Away,D,0.0,0.0,Elche,36.0,21253.0,Rubén García,4-2-3-1,3-5-2,Jose Maria Sánchez,Match Report,,Osasuna,for
+2026-02-21,18:30 (14:30),Matchweek 25,Sat,Home,W,2.0,1.0,Real Madrid,39.0,22480.0,Rubén García,4-2-3-1,4-4-2,Alejandro Quintero,Match Report,,Osasuna,for
+2026-03-01,16:15 (12:15),Matchweek 26,Sun,Away,L,0.0,1.0,Valencia,52.0,44415.0,Rubén García,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,Osasuna,for
+2026-03-07,14:00 (10:00),Matchweek 27,Sat,Home,D,2.0,2.0,Mallorca,50.0,19746.0,Rubén García,4-2-3-1,4-4-2,Alejandro Hernández,Match Report,,Osasuna,for
+2026-03-15,21:00 (17:00),Matchweek 28,Sun,Away,L,1.0,3.0,Real Sociedad,51.0,30856.0,Jon Moncayola,4-2-3-1,4-1-4-1,Guillermo Cuadra,Match Report,,Osasuna,for
+2026-03-21,18:30 (14:30),Matchweek 29,Sat,Home,W,1.0,0.0,Girona,48.0,20975.0,Rubén García,4-2-3-1,4-2-3-1,José Guzmán,Match Report,,Osasuna,for
+2026-04-05,21:00 (16:00),Matchweek 30,Sun,Away,D,2.0,2.0,Alavés,52.0,17736.0,Kike Barja,4-2-3-1,4-4-2,César Soto,Match Report,,Osasuna,for
+2026-04-12,14:00 (09:00),Matchweek 31,Sun,Home,D,1.0,1.0,Real Betis,51.0,20080.0,Rubén García,4-2-3-1,4-2-3-1,Miguel Sesma,Match Report,,Osasuna,for
+2026-04-21,19:00 (14:00),Matchweek 33,Tue,Away,L,0.0,1.0,Athletic Club,65.0,47500.0,Rubén García,4-2-3-1,4-2-3-1,Víctor García,Match Report,,Osasuna,for
+2026-04-26,18:30 (13:30),Matchweek 32,Sun,Home,W,2.0,1.0,Sevilla,61.0,20541.0,Rubén García,4-2-3-1,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,Osasuna,for
+2026-05-02,21:00 (16:00),Matchweek 34,Sat,Home,,,,Barcelona,,,,,,,Head-to-Head,,Osasuna,for
+2026-05-08,21:00 (16:00),Matchweek 35,Fri,Away,,,,Levante,,,,,,,Head-to-Head,,Osasuna,for
+2026-05-12,21:30 (16:30),Matchweek 36,Tue,Home,,,,Atlético Madrid,,,,,,,Head-to-Head,,Osasuna,for
+2026-05-17,,Matchweek 37,Sun,Home,,,,Espanyol,,,,,,,Head-to-Head,,Osasuna,for
+2026-05-24,,Matchweek 38,Sun,Away,,,,Getafe,,,,,,,Head-to-Head,,Osasuna,for
+2025-08-15,21:30 (16:30),Matchweek 1,Fri,Away,L,0.0,2.0,Villarreal,32.0,18333.0,Dani Calvo,4-2-3-1,4-4-2,Alejandro Muñíz,Match Report,,Oviedo,for
+2025-08-24,21:30 (16:30),Matchweek 2,Sun,Home,L,0.0,3.0,Real Madrid,35.0,29758.0,Dani Calvo,3-4-3,4-2-3-1,Ricardo de Burgos,Match Report,,Oviedo,for
+2025-08-30,19:00 (14:00),Matchweek 3,Sat,Home,W,1.0,0.0,Real Sociedad,43.0,25688.0,Dani Calvo,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,Oviedo,for
+2025-09-13,14:00 (09:00),Matchweek 4,Sat,Away,L,0.0,2.0,Getafe,52.0,8657.0,Dani Calvo,4-2-3-1,5-3-2,José Guzmán,Match Report,,Oviedo,for
+2025-09-21,18:30 (13:30),Matchweek 5,Sun,Away,L,0.0,1.0,Elche,39.0,27235.0,Dani Calvo,4-2-3-1,3-1-4-2,Miguel Sesma,Match Report,,Oviedo,for
+2025-09-25,21:30 (16:30),Matchweek 6,Thu,Home,L,1.0,3.0,Barcelona,21.0,29850.0,Santi Cazorla,4-4-1-1,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Oviedo,for
+2025-09-30,20:00 (15:00),Matchweek 7,Tue,Away,W,2.0,1.0,Valencia,43.0,40364.0,Dani Calvo,4-3-3,4-4-2,Ricardo de Burgos,Match Report,,Oviedo,for
+2025-10-04,14:00 (09:00),Matchweek 8,Sat,Home,L,0.0,2.0,Levante,57.0,23878.0,Salomón Rondón,4-3-3,4-4-2,José Luis Munuera,Match Report,,Oviedo,for
+2025-10-17,21:00 (16:00),Matchweek 9,Fri,Home,L,0.0,2.0,Espanyol,61.0,25625.0,Santiago Colombatto,4-2-3-1,4-4-2,Mateo Busquets,Match Report,,Oviedo,for
+2025-10-25,14:00 (09:00),Matchweek 10,Sat,Away,D,3.0,3.0,Girona,35.0,11120.0,David Costas,4-3-3,4-2-3-1,Alejandro Muñíz,Match Report,,Oviedo,for
+2025-11-03,21:00 (17:00),Matchweek 11,Mon,Home,D,0.0,0.0,Osasuna,53.0,23795.0,David Costas,4-2-3-1,4-4-2,José Guzmán,Match Report,,Oviedo,for
+2025-11-09,14:00 (10:00),Matchweek 12,Sun,Away,L,0.0,1.0,Athletic Club,52.0,47209.0,David Costas,4-2-3-1,4-2-3-1,César Soto,Match Report,,Oviedo,for
+2025-11-23,14:00 (10:00),Matchweek 13,Sun,Home,D,0.0,0.0,Rayo Vallecano,39.0,23684.0,Santi Cazorla,4-2-3-1,4-2-3-1,Alejandro Quintero,Match Report,,Oviedo,for
+2025-11-29,21:00 (17:00),Matchweek 14,Sat,Away,L,0.0,2.0,Atlético Madrid,48.0,61305.0,Santi Cazorla,4-1-3-2,5-3-2,Víctor Acosta,Match Report,,Oviedo,for
+2025-12-05,21:00 (17:00),Matchweek 15,Fri,Home,D,0.0,0.0,Mallorca,62.0,23333.0,Santi Cazorla,4-2-3-1,4-2-3-1,Iosu Galech,Match Report,,Oviedo,for
+2025-12-14,14:00 (10:00),Matchweek 16,Sun,Away,L,0.0,4.0,Sevilla,44.0,32885.0,David Costas,4-2-3-1,5-3-2,Isidro Díaz de Mera,Match Report,,Oviedo,for
+2025-12-20,14:00 (10:00),Matchweek 17,Sat,Home,D,0.0,0.0,Celta Vigo,56.0,23613.0,David Costas,4-2-3-1,3-4-3,Francisco Hernández,Match Report,,Oviedo,for
+2026-01-04,18:30 (14:30),Matchweek 18,Sun,Away,D,1.0,1.0,Alavés,43.0,17345.0,David Costas,4-2-3-1,4-1-4-1,Jesús Gil,Match Report,,Oviedo,for
+2026-01-10,14:00 (10:00),Matchweek 19,Sat,Home,D,1.0,1.0,Real Betis,42.0,25549.0,David Costas,4-2-3-1,4-3-3,Guillermo Cuadra,Match Report,,Oviedo,for
+2026-01-17,18:30 (14:30),Matchweek 20,Sat,Away,L,2.0,3.0,Osasuna,49.0,20651.0,David Costas,4-4-2,4-2-3-1,Alejandro Quintero,Match Report,,Oviedo,for
+2026-01-25,16:15 (12:15),Matchweek 21,Sun,Away,L,0.0,3.0,Barcelona,27.0,44763.0,David Costas,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,Oviedo,for
+2026-01-31,14:00 (10:00),Matchweek 22,Sat,Home,W,1.0,0.0,Girona,34.0,25085.0,David Costas,4-2-3-1,4-3-3,Javier Alberola,Match Report,,Oviedo,for
+2026-02-15,14:00 (10:00),Matchweek 24,Sun,Home,L,1.0,2.0,Athletic Club,54.0,25255.0,Santiago Colombatto,4-2-3-1,4-2-3-1,Mateo Busquets,Match Report,,Oviedo,for
+2026-02-21,14:00 (10:00),Matchweek 25,Sat,Away,D,3.0,3.0,Real Sociedad,38.0,30917.0,Aarón Escandell,4-2-3-1,4-2-3-1,José Luis Munuera,Match Report,,Oviedo,for
+2026-02-28,21:00 (17:00),Matchweek 26,Sat,Home,L,0.0,1.0,Atlético Madrid,38.0,27067.0,Dani Calvo,4-2-3-1,4-4-2,César Soto,Match Report,,Oviedo,for
+2026-03-04,19:00 (15:00),Matchweek 23,Wed,Away,L,0.0,3.0,Rayo Vallecano,48.0,11886.0,Dani Calvo,4-2-3-1,4-2-3-1,Alejandro Hernández,Match Report,,Oviedo,for
+2026-03-09,21:00 (17:00),Matchweek 27,Mon,Away,D,1.0,1.0,Espanyol,42.0,24807.0,Dani Calvo,4-2-3-1,4-4-1-1,Javier Alberola,Match Report,,Oviedo,for
+2026-03-14,18:30 (14:30),Matchweek 28,Sat,Home,W,1.0,0.0,Valencia,42.0,22826.0,David Costas,4-2-3-1,4-2-3-1,Miguel Sesma,Match Report,,Oviedo,for
+2026-03-21,18:30 (14:30),Matchweek 29,Sat,Away,L,2.0,4.0,Levante,62.0,19398.0,David Costas,4-2-3-1,4-1-4-1,Jesús Gil,Match Report,,Oviedo,for
+2026-04-05,18:30 (13:30),Matchweek 30,Sun,Home,W,1.0,0.0,Sevilla,70.0,24921.0,Dani Calvo,4-2-3-1,4-2-3-1,Alejandro Hernández,Match Report,,Oviedo,for
+2026-04-12,18:30 (13:30),Matchweek 31,Sun,Away,W,3.0,0.0,Celta Vigo,32.0,20360.0,Dani Calvo,4-2-3-1,3-4-3,Miguel Ángel Ortiz Arias,Match Report,,Oviedo,for
+2026-04-23,21:30 (16:30),Matchweek 33,Thu,Home,D,1.0,1.0,Villarreal,58.0,27092.0,Dani Calvo,4-2-3-1,4-4-2,Ricardo de Burgos,Match Report,,Oviedo,for
+2026-04-26,16:15 (11:15),Matchweek 32,Sun,Home,L,1.0,2.0,Elche,60.0,25615.0,David Costas,4-2-3-1,5-3-2,Jose Maria Sánchez,Match Report,,Oviedo,for
+2026-05-03,18:30 (13:30),Matchweek 34,Sun,Away,,,,Real Betis,,,,,,,Head-to-Head,,Oviedo,for
+2026-05-10,18:30 (13:30),Matchweek 35,Sun,Home,,,,Getafe,,,,,,,Head-to-Head,,Oviedo,for
+2026-05-14,21:30 (16:30),Matchweek 36,Thu,Away,,,,Real Madrid,,,,,,,Head-to-Head,,Oviedo,for
+2026-05-17,,Matchweek 37,Sun,Home,,,,Alavés,,,,,,,Head-to-Head,,Oviedo,for
+2026-05-24,,Matchweek 38,Sun,Away,,,,Mallorca,,,,,,,Head-to-Head,,Oviedo,for
+2025-08-15,19:00 (14:00),Matchweek 1,Fri,Away,W,3.0,1.0,Girona,56.0,12403.0,Isaac Palazón Camacho,4-2-3-1,4-3-3,Javier Alberola,Match Report,,Rayo Vallecano,for
+2025-08-25,19:30 (14:30),Matchweek 2,Mon,Away,L,0.0,1.0,Athletic Club,60.0,48703.0,Isaac Palazón Camacho,4-4-1-1,4-2-3-1,Juan Martínez,Match Report,,Rayo Vallecano,for
+2025-08-31,21:30 (16:30),Matchweek 3,Sun,Home,D,1.0,1.0,Barcelona,43.0,14438.0,Isaac Palazón Camacho,4-4-2,4-2-3-1,Mateo Busquets,Match Report,,Rayo Vallecano,for
+2025-09-14,18:30 (13:30),Matchweek 4,Sun,Away,L,0.0,2.0,Osasuna,64.0,20511.0,Isaac Palazón Camacho,4-4-2,3-4-3,César Soto,Match Report,,Rayo Vallecano,for
+2025-09-21,14:00 (09:00),Matchweek 5,Sun,Home,D,1.0,1.0,Celta Vigo,59.0,13028.0,Óscar Valentín,4-4-2,3-4-3,Víctor García,Match Report,,Rayo Vallecano,for
+2025-09-24,21:30 (16:30),Matchweek 6,Wed,Away,L,2.0,3.0,Atlético Madrid,39.0,54098.0,Óscar Valentín,4-4-2,5-3-2,Alejandro Hernández,Match Report,,Rayo Vallecano,for
+2025-09-28,14:00 (09:00),Matchweek 7,Sun,Home,L,0.0,1.0,Sevilla,64.0,13080.0,Óscar Valentín,4-4-2,3-4-3,Jesús Gil,Match Report,,Rayo Vallecano,for
+2025-10-05,18:30 (13:30),Matchweek 8,Sun,Away,W,1.0,0.0,Real Sociedad,49.0,31189.0,Óscar Valentín,4-2-3-1,4-1-4-1,José Guzmán,Match Report,,Rayo Vallecano,for
+2025-10-19,18:30 (13:30),Matchweek 9,Sun,Away,W,3.0,0.0,Levante,46.0,20312.0,Óscar Valentín,4-2-3-1,4-4-2,Miguel Sesma,Match Report,,Rayo Vallecano,for
+2025-10-26,21:00 (17:00),Matchweek 10,Sun,Home,W,1.0,0.0,Alavés,54.0,11734.0,Óscar Valentín,4-3-3,4-4-2,Víctor García,Match Report,,Rayo Vallecano,for
+2025-11-01,14:00 (10:00),Matchweek 11,Sat,Away,L,0.0,4.0,Villarreal,53.0,17022.0,Isaac Palazón Camacho,4-2-3-1,4-4-2,Iosu Galech,Match Report,,Rayo Vallecano,for
+2025-11-09,16:15 (12:15),Matchweek 12,Sun,Home,D,0.0,0.0,Real Madrid,46.0,14468.0,Isaac Palazón Camacho,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,Rayo Vallecano,for
+2025-11-23,14:00 (10:00),Matchweek 13,Sun,Away,D,0.0,0.0,Oviedo,61.0,23684.0,Óscar Valentín,4-2-3-1,4-2-3-1,Alejandro Quintero,Match Report,,Rayo Vallecano,for
+2025-12-01,21:00 (17:00),Matchweek 14,Mon,Home,D,1.0,1.0,Valencia,56.0,11267.0,Óscar Valentín,4-1-4-1,4-2-3-1,Javier Alberola,Match Report,,Rayo Vallecano,for
+2025-12-07,18:30 (14:30),Matchweek 15,Sun,Away,L,0.0,1.0,Espanyol,64.0,28110.0,Óscar Valentín,4-2-3-1,4-2-3-1,Jose Maria Sánchez,Match Report,,Rayo Vallecano,for
+2025-12-15,21:00 (17:00),Matchweek 16,Mon,Home,D,0.0,0.0,Real Betis,59.0,11489.0,Óscar Valentín,4-2-3-1,4-2-3-1,Ricardo de Burgos,Match Report,,Rayo Vallecano,for
+2025-12-21,18:30 (14:30),Matchweek 17,Sun,Away,L,0.0,4.0,Elche,54.0,23765.0,Óscar Valentín,4-2-3-1,3-5-2,Adrián Cordero,Match Report,,Rayo Vallecano,for
+2026-01-02,21:00 (17:00),Matchweek 18,Fri,Home,D,1.0,1.0,Getafe,60.0,12544.0,Óscar Valentín,4-2-3-1,4-5-1,Miguel Ángel Ortiz Arias,Match Report,,Rayo Vallecano,for
+2026-01-11,14:00 (10:00),Matchweek 19,Sun,Home,W,2.0,1.0,Mallorca,53.0,12223.0,Óscar Valentín,4-2-3-1,4-4-2,Juan Martínez,Match Report,,Rayo Vallecano,for
+2026-01-18,18:30 (14:30),Matchweek 20,Sun,Away,L,0.0,3.0,Celta Vigo,51.0,20835.0,Isaac Palazón Camacho,4-3-3,3-4-3,Mateo Busquets,Match Report,,Rayo Vallecano,for
+2026-01-24,14:00 (10:00),Matchweek 21,Sat,Home,L,1.0,3.0,Osasuna,67.0,12091.0,Óscar Valentín,4-2-3-1,4-2-3-1,Miguel Sesma,Match Report,,Rayo Vallecano,for
+2026-02-01,14:00 (10:00),Matchweek 22,Sun,Away,L,1.0,2.0,Real Madrid,43.0,71051.0,Isaac Palazón Camacho,4-2-3-1,4-4-2,Isidro Díaz de Mera,Match Report,,Rayo Vallecano,for
+2026-02-15,16:15 (12:15),Matchweek 24,Sun,Home,W,3.0,0.0,Atlético Madrid,41.0,5335.0,Óscar Valentín,4-1-4-1,4-1-4-1,Ricardo de Burgos,Match Report,,Rayo Vallecano,for
+2026-02-21,16:15 (12:15),Matchweek 25,Sat,Away,D,1.0,1.0,Real Betis,53.0,59436.0,Óscar Valentín,4-2-3-1,4-3-3,Juan Martínez,Match Report,,Rayo Vallecano,for
+2026-02-28,14:00 (10:00),Matchweek 26,Sat,Home,D,1.0,1.0,Athletic Club,50.0,13512.0,Isaac Palazón Camacho,4-2-3-1,4-2-3-1,Víctor García,Match Report,,Rayo Vallecano,for
+2026-03-04,19:00 (15:00),Matchweek 23,Wed,Home,W,3.0,0.0,Oviedo,52.0,11886.0,Álvaro García,4-2-3-1,4-2-3-1,Alejandro Hernández,Match Report,,Rayo Vallecano,for
+2026-03-08,18:30 (14:30),Matchweek 27,Sun,Away,D,1.0,1.0,Sevilla,58.0,37178.0,Óscar Valentín,4-1-4-1,4-4-2,Alejandro Muñíz,Match Report,,Rayo Vallecano,for
+2026-03-16,21:00 (17:00),Matchweek 28,Mon,Home,D,1.0,1.0,Levante,58.0,10975.0,Óscar Valentín,4-2-3-1,4-2-3-1,César Soto,Match Report,,Rayo Vallecano,for
+2026-03-22,14:00 (10:00),Matchweek 29,Sun,Away,L,0.0,1.0,Barcelona,39.0,56812.0,Óscar Valentín,4-2-3-1,4-2-3-1,Adrián Cordero,Match Report,,Rayo Vallecano,for
+2026-04-03,21:00 (16:00),Matchweek 30,Fri,Home,W,1.0,0.0,Elche,60.0,11182.0,Óscar Valentín,4-3-3,3-4-3,José Luis Munuera,Match Report,,Rayo Vallecano,for
+2026-04-12,16:15 (11:15),Matchweek 31,Sun,Away,L,0.0,3.0,Mallorca,55.0,16323.0,Óscar Valentín,4-3-3,4-3-1-2,Jesús Gil,Match Report,,Rayo Vallecano,for
+2026-04-23,20:00 (15:00),Matchweek 33,Thu,Home,W,1.0,0.0,Espanyol,53.0,11605.0,Óscar Valentín,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,Rayo Vallecano,for
+2026-04-26,14:00 (09:00),Matchweek 32,Sun,Home,D,3.0,3.0,Real Sociedad,58.0,12845.0,Isaac Palazón Camacho,4-2-3-1,4-4-2,José Guzmán,Match Report,,Rayo Vallecano,for
+2026-05-03,16:15 (11:15),Matchweek 34,Sun,Away,,,,Getafe,,,,,,,Head-to-Head,,Rayo Vallecano,for
+2026-05-11,21:00 (16:00),Matchweek 35,Mon,Home,,,,Girona,,,,,,,Head-to-Head,,Rayo Vallecano,for
+2026-05-14,19:00 (14:00),Matchweek 36,Thu,Away,,,,Valencia,,,,,,,Head-to-Head,,Rayo Vallecano,for
+2026-05-17,,Matchweek 37,Sun,Home,,,,Villarreal,,,,,,,Head-to-Head,,Rayo Vallecano,for
+2026-05-24,,Matchweek 38,Sun,Away,,,,Alavés,,,,,,,Head-to-Head,,Rayo Vallecano,for
+2025-08-18,21:00 (16:00),Matchweek 1,Mon,Away,D,1.0,1.0,Elche,32.0,28585.0,Marc Bartra,4-2-3-1,4-3-3,Víctor García,Match Report,,Real Betis,for
+2025-08-22,21:30 (16:30),Matchweek 2,Fri,Home,W,1.0,0.0,Alavés,49.0,54646.0,Marc Bartra,4-2-3-1,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,Real Betis,for
+2025-08-27,21:00 (16:00),Matchweek 6,Wed,Away,D,1.0,1.0,Celta Vigo,53.0,20302.0,Marc Bartra,4-2-3-1,3-4-3,Jesús Gil,Match Report,,Real Betis,for
+2025-08-31,19:00 (14:00),Matchweek 3,Sun,Home,L,1.0,2.0,Athletic Club,51.0,65222.0,Marc Bartra,4-2-3-1,4-2-3-1,Isidro Díaz de Mera,Match Report,,Real Betis,for
+2025-09-14,16:15 (11:15),Matchweek 4,Sun,Away,D,2.0,2.0,Levante,67.0,21938.0,Héctor Bellerín,4-2-3-1,4-4-2,Alejandro Muñíz,Match Report,,Real Betis,for
+2025-09-19,21:00 (16:00),Matchweek 5,Fri,Home,W,3.0,1.0,Real Sociedad,50.0,59773.0,Héctor Bellerín,4-2-3-1,4-1-4-1,Mateo Busquets,Match Report,,Real Betis,for
+2025-09-28,21:00 (16:00),Matchweek 7,Sun,Home,W,2.0,0.0,Osasuna,51.0,50034.0,Héctor Bellerín,4-2-3-1,3-5-2,Víctor García,Match Report,,Real Betis,for
+2025-10-05,18:30 (13:30),Matchweek 8,Sun,Away,W,2.0,1.0,Espanyol,50.0,32778.0,Héctor Bellerín,4-2-3-1,4-2-3-1,Iosu Galech,Match Report,,Real Betis,for
+2025-10-18,18:30 (13:30),Matchweek 9,Sat,Away,D,2.0,2.0,Villarreal,61.0,19238.0,Héctor Bellerín,4-2-3-1,4-4-2,Francisco Hernández,Match Report,,Real Betis,for
+2025-10-27,21:00 (17:00),Matchweek 10,Mon,Home,L,0.0,2.0,Atlético Madrid,57.0,57537.0,Marc Bartra,4-2-3-1,4-3-3,Juan Martínez,Match Report,,Real Betis,for
+2025-11-02,21:00 (17:00),Matchweek 11,Sun,Home,W,3.0,0.0,Mallorca,53.0,54747.0,Marc Bartra,4-2-3-1,4-2-3-1,Jesús Gil,Match Report,,Real Betis,for
+2025-11-09,18:30 (14:30),Matchweek 12,Sun,Away,D,1.0,1.0,Valencia,57.0,45820.0,Marc Bartra,4-2-3-1,4-2-3-1,Víctor García,Match Report,,Real Betis,for
+2025-11-23,16:15 (12:15),Matchweek 13,Sun,Home,D,1.0,1.0,Girona,54.0,64268.0,Marc Bartra,4-2-3-1,4-1-4-1,Iosu Galech,Match Report,,Real Betis,for
+2025-11-30,16:15 (12:15),Matchweek 14,Sun,Away,W,2.0,0.0,Sevilla,35.0,42580.0,Marc Bartra,4-2-3-1,4-2-3-1,José Luis Munuera,Match Report,,Real Betis,for
+2025-12-06,18:30 (14:30),Matchweek 15,Sat,Home,L,3.0,5.0,Barcelona,38.0,64562.0,Marc Bartra,4-2-3-1,4-2-3-1,Francisco Hernández,Match Report,,Real Betis,for
+2025-12-15,21:00 (17:00),Matchweek 16,Mon,Away,D,0.0,0.0,Rayo Vallecano,41.0,11489.0,Aitor Ruibal,4-2-3-1,4-2-3-1,Ricardo de Burgos,Match Report,,Real Betis,for
+2025-12-21,21:00 (17:00),Matchweek 17,Sun,Home,W,4.0,0.0,Getafe,49.0,54365.0,Marc Bartra,4-2-3-1,5-3-2,Miguel Sesma,Match Report,,Real Betis,for
+2026-01-04,16:15 (12:15),Matchweek 18,Sun,Away,L,1.0,5.0,Real Madrid,39.0,75190.0,Marc Bartra,4-2-3-1,4-4-2,Alejandro Hernández,Match Report,,Real Betis,for
+2026-01-10,14:00 (10:00),Matchweek 19,Sat,Away,D,1.0,1.0,Oviedo,58.0,25549.0,Marc Bartra,4-3-3,4-2-3-1,Guillermo Cuadra,Match Report,,Real Betis,for
+2026-01-17,21:00 (17:00),Matchweek 20,Sat,Home,W,2.0,0.0,Villarreal,60.0,60138.0,Marc Bartra,4-2-3-1,4-4-2,Víctor García,Match Report,,Real Betis,for
+2026-01-25,21:00 (17:00),Matchweek 21,Sun,Away,L,1.0,2.0,Alavés,56.0,14810.0,Marc Bartra,4-2-3-1,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,Real Betis,for
+2026-02-01,16:15 (12:15),Matchweek 22,Sun,Home,W,2.0,1.0,Valencia,53.0,57523.0,Marc Bartra,4-2-3-1,4-4-2,Jose Maria Sánchez,Match Report,,Real Betis,for
+2026-02-08,18:30 (14:30),Matchweek 23,Sun,Away,W,1.0,0.0,Atlético Madrid,35.0,65210.0,Aitor Ruibal,4-3-3,4-4-2,Mateo Busquets,Match Report,,Real Betis,for
+2026-02-15,21:00 (17:00),Matchweek 24,Sun,Away,W,2.0,1.0,Mallorca,35.0,18658.0,Aitor Ruibal,4-3-3,4-2-3-1,Isidro Díaz de Mera,Match Report,,Real Betis,for
+2026-02-21,16:15 (12:15),Matchweek 25,Sat,Home,D,1.0,1.0,Rayo Vallecano,47.0,59436.0,Aitor Ruibal,4-3-3,4-2-3-1,Juan Martínez,Match Report,,Real Betis,for
+2026-03-01,18:30 (14:30),Matchweek 26,Sun,Home,D,2.0,2.0,Sevilla,45.0,67447.0,Aitor Ruibal,4-3-3,3-4-3,Ricardo de Burgos,Match Report,,Real Betis,for
+2026-03-08,16:15 (12:15),Matchweek 27,Sun,Away,L,0.0,2.0,Getafe,71.0,8757.0,Marc Bartra,4-3-3,5-4-1,Francisco Hernández,Match Report,,Real Betis,for
+2026-03-15,18:30 (14:30),Matchweek 28,Sun,Home,D,1.0,1.0,Celta Vigo,52.0,58689.0,Marc Bartra,4-2-3-1,3-4-3,Jose Maria Sánchez,Match Report,,Real Betis,for
+2026-03-22,18:30 (14:30),Matchweek 29,Sun,Away,L,1.0,2.0,Athletic Club,61.0,47723.0,Aitor Ruibal,4-4-2,4-2-3-1,Alejandro Muñíz,Match Report,,Real Betis,for
+2026-04-04,18:30 (13:30),Matchweek 30,Sat,Home,D,0.0,0.0,Espanyol,70.0,54444.0,Marc Bartra,4-3-3,4-4-1-1,Guillermo Cuadra,Match Report,,Real Betis,for
+2026-04-12,14:00 (09:00),Matchweek 31,Sun,Away,D,1.0,1.0,Osasuna,49.0,20080.0,Héctor Bellerín,4-2-3-1,4-2-3-1,Miguel Sesma,Match Report,,Real Betis,for
+2026-04-21,21:30 (16:30),Matchweek 33,Tue,Away,W,3.0,2.0,Girona,44.0,11934.0,Marc Bartra,4-3-3,4-4-1-1,Iosu Galech,Match Report,,Real Betis,for
+2026-04-24,21:00 (16:00),Matchweek 32,Fri,Home,D,1.0,1.0,Real Madrid,52.0,54348.0,Marc Bartra,4-2-3-1,4-4-2,César Soto,Match Report,,Real Betis,for
+2026-05-03,18:30 (13:30),Matchweek 34,Sun,Home,,,,Oviedo,,,,,,,Head-to-Head,,Real Betis,for
+2026-05-09,21:00 (16:00),Matchweek 35,Sat,Away,,,,Real Sociedad,,,,,,,Head-to-Head,,Real Betis,for
+2026-05-12,20:00 (15:00),Matchweek 36,Tue,Home,,,,Elche,,,,,,,Head-to-Head,,Real Betis,for
+2026-05-17,,Matchweek 37,Sun,Away,,,,Barcelona,,,,,,,Head-to-Head,,Real Betis,for
+2026-05-24,,Matchweek 38,Sun,Home,,,,Levante,,,,,,,Head-to-Head,,Real Betis,for
+2025-08-19,21:00 (16:00),Matchweek 1,Tue,Home,W,1.0,0.0,Osasuna,71.0,68407.0,Federico Valverde,4-3-3,3-4-3,Adrián Cordero,Match Report,,Real Madrid,for
+2025-08-24,21:30 (16:30),Matchweek 2,Sun,Away,W,3.0,0.0,Oviedo,65.0,29758.0,Dani Carvajal,4-2-3-1,3-4-3,Ricardo de Burgos,Match Report,,Real Madrid,for
+2025-08-30,21:30 (16:30),Matchweek 3,Sat,Home,W,2.0,1.0,Mallorca,58.0,72699.0,Federico Valverde,4-2-3-1,5-3-2,Jose Maria Sánchez,Match Report,,Real Madrid,for
+2025-09-13,16:15 (11:15),Matchweek 4,Sat,Away,W,2.0,1.0,Real Sociedad,36.0,36958.0,Dani Carvajal,4-2-3-1,4-2-3-1,Jesús Gil,Match Report,,Real Madrid,for
+2025-09-20,16:15 (11:15),Matchweek 5,Sat,Home,W,2.0,0.0,Espanyol,72.0,73466.0,Dani Carvajal,4-4-2,4-2-3-1,Juan Martínez,Match Report,,Real Madrid,for
+2025-09-23,21:30 (16:30),Matchweek 6,Tue,Away,W,4.0,1.0,Levante,62.0,23361.0,Federico Valverde,3-4-3,4-4-2,Isidro Díaz de Mera,Match Report,,Real Madrid,for
+2025-09-27,16:15 (11:15),Matchweek 7,Sat,Away,L,2.0,5.0,Atlético Madrid,63.0,69167.0,Dani Carvajal,4-2-3-1,4-4-2,Javier Alberola,Match Report,,Real Madrid,for
+2025-10-04,21:00 (16:00),Matchweek 8,Sat,Home,W,3.0,1.0,Villarreal,70.0,75216.0,Federico Valverde,4-2-3-1,4-4-2,Guillermo Cuadra,Match Report,,Real Madrid,for
+2025-10-19,21:00 (16:00),Matchweek 9,Sun,Away,W,1.0,0.0,Getafe,76.0,10090.0,Federico Valverde,4-2-3-1,5-3-2,José Luis Munuera,Match Report,,Real Madrid,for
+2025-10-26,16:15 (12:15),Matchweek 10,Sun,Home,W,2.0,1.0,Barcelona,32.0,78107.0,Federico Valverde,4-1-4-1,4-2-3-1,César Soto,Match Report,,Real Madrid,for
+2025-11-01,21:00 (17:00),Matchweek 11,Sat,Home,W,4.0,0.0,Valencia,65.0,74796.0,Federico Valverde,4-3-3,4-4-2,Mateo Busquets,Match Report,,Real Madrid,for
+2025-11-09,16:15 (12:15),Matchweek 12,Sun,Away,D,0.0,0.0,Rayo Vallecano,55.0,14468.0,Federico Valverde,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,Real Madrid,for
+2025-11-23,21:00 (17:00),Matchweek 13,Sun,Away,D,2.0,2.0,Elche,52.0,31024.0,Thibaut Courtois,3-4-1-2,5-3-2,Francisco Hernández,Match Report,,Real Madrid,for
+2025-11-30,21:00 (17:00),Matchweek 14,Sun,Away,D,1.0,1.0,Girona,60.0,14005.0,Federico Valverde,4-3-3,4-2-3-1,Ricardo de Burgos,Match Report,,Real Madrid,for
+2025-12-03,19:00 (15:00),Matchweek 19,Wed,Away,W,3.0,0.0,Athletic Club,62.0,51313.0,Federico Valverde,4-3-3,4-1-4-1,Jesús Gil,Match Report,,Real Madrid,for
+2025-12-07,21:00 (17:00),Matchweek 15,Sun,Home,L,0.0,2.0,Celta Vigo,58.0,74511.0,Federico Valverde,4-4-2,3-4-3,Alejandro Quintero,Match Report,,Real Madrid,for
+2025-12-14,21:00 (17:00),Matchweek 16,Sun,Away,W,2.0,1.0,Alavés,48.0,19290.0,Federico Valverde,4-4-2,4-1-4-1,Víctor García,Match Report,,Real Madrid,for
+2025-12-20,21:00 (17:00),Matchweek 17,Sat,Home,W,2.0,0.0,Sevilla,53.0,72062.0,Vinicius Júnior,4-3-3,5-3-2,Alejandro Muñíz,Match Report,,Real Madrid,for
+2026-01-04,16:15 (12:15),Matchweek 18,Sun,Home,W,5.0,1.0,Real Betis,61.0,75190.0,Federico Valverde,4-4-2,4-2-3-1,Alejandro Hernández,Match Report,,Real Madrid,for
+2026-01-17,14:00 (10:00),Matchweek 20,Sat,Home,W,2.0,0.0,Levante,70.0,70104.0,Federico Valverde,4-3-3,4-2-3-1,Miguel Sesma,Match Report,,Real Madrid,for
+2026-01-24,21:00 (17:00),Matchweek 21,Sat,Away,W,2.0,0.0,Villarreal,58.0,20432.0,Federico Valverde,4-3-3,4-4-2,César Soto,Match Report,,Real Madrid,for
+2026-02-01,14:00 (10:00),Matchweek 22,Sun,Home,W,2.0,1.0,Rayo Vallecano,57.0,71051.0,Federico Valverde,4-4-2,4-2-3-1,Isidro Díaz de Mera,Match Report,,Real Madrid,for
+2026-02-08,21:00 (17:00),Matchweek 23,Sun,Away,W,2.0,0.0,Valencia,60.0,47515.0,Federico Valverde,4-4-2,4-4-2,Javier Alberola,Match Report,,Real Madrid,for
+2026-02-14,21:00 (17:00),Matchweek 24,Sat,Home,W,4.0,1.0,Real Sociedad,52.0,74176.0,Federico Valverde,4-4-2,4-2-3-1,Francisco Hernández,Match Report,,Real Madrid,for
+2026-02-21,18:30 (14:30),Matchweek 25,Sat,Away,L,1.0,2.0,Osasuna,61.0,22480.0,Dani Carvajal,4-4-2,4-2-3-1,Alejandro Quintero,Match Report,,Real Madrid,for
+2026-03-02,21:00 (17:00),Matchweek 26,Mon,Home,L,0.0,1.0,Getafe,77.0,65104.0,Federico Valverde,4-2-3-1,5-4-1,Alejandro Muñíz,Match Report,,Real Madrid,for
+2026-03-06,21:00 (17:00),Matchweek 27,Fri,Away,W,2.0,1.0,Celta Vigo,63.0,22048.0,Federico Valverde,4-4-2,3-4-3,Isidro Díaz de Mera,Match Report,,Real Madrid,for
+2026-03-14,21:00 (17:00),Matchweek 28,Sat,Home,W,4.0,1.0,Elche,48.0,71048.0,Dani Carvajal,4-4-2,5-3-2,Jesús Gil,Match Report,,Real Madrid,for
+2026-03-22,21:00 (17:00),Matchweek 29,Sun,Home,W,3.0,2.0,Atlético Madrid,53.0,77964.0,Dani Carvajal,4-4-2,4-4-2,José Luis Munuera,Match Report,,Real Madrid,for
+2026-04-04,16:15 (11:15),Matchweek 30,Sat,Away,L,1.0,2.0,Mallorca,64.0,23015.0,Andriy Lunin,4-4-2,4-4-2,Jose Maria Sánchez,Match Report,,Real Madrid,for
+2026-04-10,21:00 (16:00),Matchweek 31,Fri,Home,D,1.0,1.0,Girona,61.0,70885.0,Dani Carvajal,4-4-2,4-2-3-1,Javier Alberola,Match Report,,Real Madrid,for
+2026-04-21,21:30 (16:30),Matchweek 33,Tue,Home,W,2.0,1.0,Alavés,61.0,61468.0,Federico Valverde,4-4-2,5-3-2,Juan Martínez,Match Report,,Real Madrid,for
+2026-04-24,21:00 (16:00),Matchweek 32,Fri,Away,D,1.0,1.0,Real Betis,48.0,54348.0,Federico Valverde,4-4-2,4-2-3-1,César Soto,Match Report,,Real Madrid,for
+2026-05-03,21:00 (16:00),Matchweek 34,Sun,Away,,,,Espanyol,,,,,,,Head-to-Head,,Real Madrid,for
+2026-05-10,21:00 (16:00),Matchweek 35,Sun,Away,,,,Barcelona,,,,,,,Head-to-Head,,Real Madrid,for
+2026-05-14,21:30 (16:30),Matchweek 36,Thu,Home,,,,Oviedo,,,,,,,Head-to-Head,,Real Madrid,for
+2026-05-17,,Matchweek 37,Sun,Away,,,,Sevilla,,,,,,,Head-to-Head,,Real Madrid,for
+2026-05-24,,Matchweek 38,Sun,Home,,,,Athletic Club,,,,,,,Head-to-Head,,Real Madrid,for
+2025-08-16,21:30 (16:30),Matchweek 1,Sat,Away,D,1.0,1.0,Valencia,46.0,45333.0,Mikel Oyarzabal,4-4-2,4-4-2,Jose Maria Sánchez,Match Report,,Real Sociedad,for
+2025-08-24,19:30 (14:30),Matchweek 2,Sun,Home,D,2.0,2.0,Espanyol,62.0,31616.0,Mikel Oyarzabal,4-1-4-1,4-2-3-1,Alejandro Quintero,Match Report,,Real Sociedad,for
+2025-08-30,19:00 (14:00),Matchweek 3,Sat,Away,L,0.0,1.0,Oviedo,57.0,25688.0,Mikel Oyarzabal,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,Real Sociedad,for
+2025-09-13,16:15 (11:15),Matchweek 4,Sat,Home,L,1.0,2.0,Real Madrid,64.0,36958.0,Mikel Oyarzabal,4-2-3-1,4-2-3-1,Jesús Gil,Match Report,,Real Sociedad,for
+2025-09-19,21:00 (16:00),Matchweek 5,Fri,Away,L,1.0,3.0,Real Betis,50.0,59773.0,Mikel Oyarzabal,4-1-4-1,4-2-3-1,Mateo Busquets,Match Report,,Real Sociedad,for
+2025-09-24,21:30 (16:30),Matchweek 6,Wed,Home,W,1.0,0.0,Mallorca,64.0,22442.0,Mikel Oyarzabal,4-3-3,5-3-2,Iosu Galech,Match Report,,Real Sociedad,for
+2025-09-28,18:30 (13:30),Matchweek 7,Sun,Away,L,1.0,2.0,Barcelona,25.0,50103.0,Mikel Oyarzabal,4-1-4-1,4-2-3-1,Alejandro Hernández,Match Report,,Real Sociedad,for
+2025-10-05,18:30 (13:30),Matchweek 8,Sun,Home,L,0.0,1.0,Rayo Vallecano,51.0,31189.0,Mikel Oyarzabal,4-1-4-1,4-2-3-1,José Guzmán,Match Report,,Real Sociedad,for
+2025-10-19,16:15 (11:15),Matchweek 9,Sun,Away,D,1.0,1.0,Celta Vigo,59.0,19102.0,Mikel Oyarzabal,4-4-2,3-4-3,Juan Martínez,Match Report,,Real Sociedad,for
+2025-10-24,21:00 (16:00),Matchweek 10,Fri,Home,W,2.0,1.0,Sevilla,40.0,30965.0,Mikel Oyarzabal,4-2-3-1,4-2-3-1,Adrián Cordero,Match Report,,Real Sociedad,for
+2025-11-01,18:30 (14:30),Matchweek 11,Sat,Home,W,3.0,2.0,Athletic Club,51.0,37685.0,Mikel Oyarzabal,4-1-4-1,4-2-3-1,José Luis Munuera,Match Report,,Real Sociedad,for
+2025-11-07,21:00 (17:00),Matchweek 12,Fri,Away,D,1.0,1.0,Elche,37.0,26242.0,Mikel Oyarzabal,4-1-4-1,4-1-4-1,Isidro Díaz de Mera,Match Report,,Real Sociedad,for
+2025-11-22,18:30 (14:30),Matchweek 13,Sat,Away,W,3.0,1.0,Osasuna,54.0,21377.0,Mikel Oyarzabal,4-4-2,3-4-3,Mateo Busquets,Match Report,,Real Sociedad,for
+2025-11-30,14:00 (10:00),Matchweek 14,Sun,Home,L,2.0,3.0,Villarreal,60.0,30140.0,Aritz Elustondo,4-2-3-1,4-4-2,César Soto,Match Report,,Real Sociedad,for
+2025-12-06,16:15 (12:15),Matchweek 15,Sat,Away,L,0.0,1.0,Alavés,62.0,18132.0,Aritz Elustondo,4-1-4-1,4-1-4-1,Javier Alberola,Match Report,,Real Sociedad,for
+2025-12-12,21:00 (17:00),Matchweek 16,Fri,Home,L,1.0,2.0,Girona,47.0,26122.0,Igor Zubeldia,4-1-4-1,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Real Sociedad,for
+2025-12-20,16:15 (12:15),Matchweek 17,Sat,Away,D,1.0,1.0,Levante,56.0,17346.0,Mikel Oyarzabal,4-1-4-1,4-2-3-1,Guillermo Cuadra,Match Report,,Real Sociedad,for
+2026-01-04,21:00 (17:00),Matchweek 18,Sun,Home,D,1.0,1.0,Atlético Madrid,45.0,31576.0,Mikel Oyarzabal,4-4-2,4-4-2,Juan Martínez,Match Report,,Real Sociedad,for
+2026-01-09,21:00 (17:00),Matchweek 19,Fri,Away,W,2.0,1.0,Getafe,57.0,7497.0,Mikel Oyarzabal,4-4-2,4-5-1,Francisco Hernández,Match Report,,Real Sociedad,for
+2026-01-18,21:00 (17:00),Matchweek 20,Sun,Home,W,2.0,1.0,Barcelona,27.0,36346.0,Mikel Oyarzabal,4-4-2,4-3-3,Jesús Gil,Match Report,,Real Sociedad,for
+2026-01-25,18:30 (14:30),Matchweek 21,Sun,Home,W,3.0,1.0,Celta Vigo,36.0,29682.0,Mikel Oyarzabal,4-4-2,3-4-3,Javier Alberola,Match Report,,Real Sociedad,for
+2026-02-01,21:00 (17:00),Matchweek 22,Sun,Away,D,1.0,1.0,Athletic Club,45.0,48020.0,Mikel Oyarzabal,4-4-2,4-2-3-1,Guillermo Cuadra,Match Report,,Real Sociedad,for
+2026-02-07,21:00 (17:00),Matchweek 23,Sat,Home,W,3.0,1.0,Elche,34.0,30187.0,Mikel Oyarzabal,4-4-2,3-1-4-2,José Guzmán,Match Report,,Real Sociedad,for
+2026-02-14,21:00 (17:00),Matchweek 24,Sat,Away,L,1.0,4.0,Real Madrid,48.0,74176.0,Mikel Oyarzabal,4-2-3-1,4-4-2,Francisco Hernández,Match Report,,Real Sociedad,for
+2026-02-21,14:00 (10:00),Matchweek 25,Sat,Home,D,3.0,3.0,Oviedo,62.0,30917.0,Mikel Oyarzabal,4-2-3-1,4-2-3-1,José Luis Munuera,Match Report,,Real Sociedad,for
+2026-02-28,18:30 (14:30),Matchweek 26,Sat,Away,W,1.0,0.0,Mallorca,56.0,17120.0,Mikel Oyarzabal,4-2-3-1,4-3-3,Miguel Sesma,Match Report,,Real Sociedad,for
+2026-03-07,18:30 (14:30),Matchweek 27,Sat,Away,L,2.0,3.0,Atlético Madrid,48.0,60788.0,Ander Barrenetxea,4-4-2,4-4-2,Adrián Cordero,Match Report,,Real Sociedad,for
+2026-03-15,21:00 (17:00),Matchweek 28,Sun,Home,W,3.0,1.0,Osasuna,49.0,30856.0,Mikel Oyarzabal,4-1-4-1,4-2-3-1,Guillermo Cuadra,Match Report,,Real Sociedad,for
+2026-03-20,21:00 (17:00),Matchweek 29,Fri,Away,L,1.0,3.0,Villarreal,65.0,18032.0,Mikel Oyarzabal,4-4-2,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,Real Sociedad,for
+2026-04-04,14:00 (09:00),Matchweek 30,Sat,Home,W,2.0,0.0,Levante,60.0,27000.0,Mikel Oyarzabal,4-2-3-1,4-3-3,Alejandro Muñíz,Match Report,,Real Sociedad,for
+2026-04-11,14:00 (09:00),Matchweek 31,Sat,Home,D,3.0,3.0,Alavés,54.0,31024.0,Aritz Elustondo,4-2-3-1,5-3-2,Víctor García,Match Report,,Real Sociedad,for
+2026-04-22,20:00 (15:00),Matchweek 33,Wed,Home,L,0.0,1.0,Getafe,67.0,31464.0,Aritz Elustondo,4-2-3-1,5-3-2,Mateo Busquets,Match Report,,Real Sociedad,for
+2026-04-26,14:00 (09:00),Matchweek 32,Sun,Away,D,3.0,3.0,Rayo Vallecano,42.0,12845.0,Mikel Oyarzabal,4-4-2,4-2-3-1,José Guzmán,Match Report,,Real Sociedad,for
+2026-05-04,21:00 (16:00),Matchweek 34,Mon,Away,,,,Sevilla,,,,,,,Head-to-Head,,Real Sociedad,for
+2026-05-09,21:00 (16:00),Matchweek 35,Sat,Home,,,,Real Betis,,,,,,,Head-to-Head,,Real Sociedad,for
+2026-05-14,20:00 (15:00),Matchweek 36,Thu,Away,,,,Girona,,,,,,,Head-to-Head,,Real Sociedad,for
+2026-05-17,,Matchweek 37,Sun,Home,,,,Valencia,,,,,,,Head-to-Head,,Real Sociedad,for
+2026-05-24,,Matchweek 38,Sun,Away,,,,Espanyol,,,,,,,Head-to-Head,,Real Sociedad,for
+2025-08-17,19:30 (14:30),Matchweek 1,Sun,Away,L,2.0,3.0,Athletic Club,54.0,49134.0,Nemanja Gudelj,4-1-4-1,4-2-3-1,Francisco Hernández,Match Report,,Sevilla,for
+2025-08-25,21:30 (16:30),Matchweek 2,Mon,Home,L,1.0,2.0,Getafe,71.0,36697.0,Nemanja Gudelj,4-2-3-1,5-3-2,Isidro Díaz de Mera,Match Report,,Sevilla,for
+2025-08-30,19:30 (14:30),Matchweek 3,Sat,Away,W,2.0,0.0,Girona,42.0,11305.0,Nemanja Gudelj,4-2-3-1,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Sevilla,for
+2025-09-12,21:00 (16:00),Matchweek 4,Fri,Home,D,2.0,2.0,Elche,53.0,37331.0,Nemanja Gudelj,3-4-3,3-5-2,Javier Alberola,Match Report,,Sevilla,for
+2025-09-20,18:30 (13:30),Matchweek 5,Sat,Away,W,2.0,1.0,Alavés,52.0,17525.0,Marcão,3-4-3,4-3-3,Iosu Galech,Match Report,,Sevilla,for
+2025-09-23,21:30 (16:30),Matchweek 6,Tue,Home,L,1.0,2.0,Villarreal,66.0,38145.0,Nemanja Gudelj,3-4-3,4-3-3,César Soto,Match Report,,Sevilla,for
+2025-09-28,14:00 (09:00),Matchweek 7,Sun,Away,W,1.0,0.0,Rayo Vallecano,36.0,13080.0,Marcão,3-4-3,4-4-2,Jesús Gil,Match Report,,Sevilla,for
+2025-10-05,16:15 (11:15),Matchweek 8,Sun,Home,W,4.0,1.0,Barcelona,39.0,41040.0,Marcão,4-2-3-1,4-2-3-1,Alejandro Muñíz,Match Report,,Sevilla,for
+2025-10-18,14:00 (09:00),Matchweek 9,Sat,Home,L,1.0,3.0,Mallorca,58.0,37008.0,Marcão,4-2-3-1,4-2-3-1,Víctor García,Match Report,,Sevilla,for
+2025-10-24,21:00 (16:00),Matchweek 10,Fri,Away,L,1.0,2.0,Real Sociedad,60.0,30965.0,Nemanja Gudelj,4-2-3-1,4-2-3-1,Adrián Cordero,Match Report,,Sevilla,for
+2025-11-01,16:15 (12:15),Matchweek 11,Sat,Away,L,0.0,3.0,Atlético Madrid,53.0,66119.0,Marcão,4-2-3-1,4-4-2,Francisco Hernández,Match Report,,Sevilla,for
+2025-11-08,16:15 (12:15),Matchweek 12,Sat,Home,W,1.0,0.0,Osasuna,47.0,35169.0,Marcão,4-2-3-1,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Sevilla,for
+2025-11-24,21:00 (17:00),Matchweek 13,Mon,Away,L,1.0,2.0,Espanyol,67.0,25166.0,Marcão,4-2-3-1,4-4-2,Miguel Sesma,Match Report,,Sevilla,for
+2025-11-30,16:15 (12:15),Matchweek 14,Sun,Home,L,0.0,2.0,Real Betis,65.0,42580.0,Marcão,4-2-3-1,4-2-3-1,José Luis Munuera,Match Report,,Sevilla,for
+2025-12-07,16:15 (12:15),Matchweek 15,Sun,Away,D,1.0,1.0,Valencia,52.0,44369.0,Nemanja Gudelj,5-4-1,4-2-3-1,Guillermo Cuadra,Match Report,,Sevilla,for
+2025-12-14,14:00 (10:00),Matchweek 16,Sun,Home,W,4.0,0.0,Oviedo,56.0,32885.0,Nemanja Gudelj,5-3-2,4-2-3-1,Isidro Díaz de Mera,Match Report,,Sevilla,for
+2025-12-20,21:00 (17:00),Matchweek 17,Sat,Away,L,0.0,2.0,Real Madrid,47.0,72062.0,Nemanja Gudelj,5-3-2,4-3-3,Alejandro Muñíz,Match Report,,Sevilla,for
+2026-01-04,14:00 (10:00),Matchweek 18,Sun,Home,L,0.0,3.0,Levante,65.0,25303.0,Nemanja Gudelj,3-5-2,4-2-3-1,Iosu Galech,Match Report,,Sevilla,for
+2026-01-12,21:00 (17:00),Matchweek 19,Mon,Home,L,0.0,1.0,Celta Vigo,59.0,31383.0,Nemanja Gudelj,3-4-3,4-4-2,Jose Maria Sánchez,Match Report,,Sevilla,for
+2026-01-19,21:00 (17:00),Matchweek 20,Mon,Away,D,2.0,2.0,Elche,50.0,22594.0,Nemanja Gudelj,3-4-3,3-4-3,Ricardo de Burgos,Match Report,,Sevilla,for
+2026-01-24,18:30 (14:30),Matchweek 21,Sat,Home,W,2.0,1.0,Athletic Club,50.0,34642.0,Nemanja Gudelj,3-4-1-2,4-2-3-1,Francisco Hernández,Match Report,,Sevilla,for
+2026-02-02,21:00 (17:00),Matchweek 22,Mon,Away,L,1.0,4.0,Mallorca,67.0,15621.0,Gabriel Suazo,5-3-2,4-2-3-1,César Soto,Match Report,,Sevilla,for
+2026-02-08,16:15 (12:15),Matchweek 23,Sun,Home,D,1.0,1.0,Girona,51.0,30384.0,Nemanja Gudelj,5-3-2,4-2-3-1,Jesús Gil,Match Report,,Sevilla,for
+2026-02-14,18:30 (14:30),Matchweek 24,Sat,Home,D,1.0,1.0,Alavés,25.0,32846.0,Nemanja Gudelj,3-5-2,4-4-2,Iosu Galech,Match Report,,Sevilla,for
+2026-02-22,14:00 (10:00),Matchweek 25,Sun,Away,W,1.0,0.0,Getafe,69.0,8814.0,Nemanja Gudelj,5-3-2,5-3-2,Mateo Busquets,Match Report,,Sevilla,for
+2026-03-01,18:30 (14:30),Matchweek 26,Sun,Away,D,2.0,2.0,Real Betis,55.0,67447.0,Nemanja Gudelj,3-4-3,4-3-3,Ricardo de Burgos,Match Report,,Sevilla,for
+2026-03-08,18:30 (14:30),Matchweek 27,Sun,Home,D,1.0,1.0,Rayo Vallecano,42.0,37178.0,Nemanja Gudelj,4-4-2,4-1-4-1,Alejandro Muñíz,Match Report,,Sevilla,for
+2026-03-15,16:15 (12:15),Matchweek 28,Sun,Away,L,2.0,5.0,Barcelona,39.0,56483.0,Nemanja Gudelj,4-2-3-1,4-3-3,Juan Martínez,Match Report,,Sevilla,for
+2026-03-21,21:00 (17:00),Matchweek 29,Sat,Home,L,0.0,2.0,Valencia,59.0,35031.0,Nemanja Gudelj,4-3-3,4-3-3,Víctor García,Match Report,,Sevilla,for
+2026-04-05,18:30 (13:30),Matchweek 30,Sun,Away,L,0.0,1.0,Oviedo,30.0,24921.0,Nemanja Gudelj,4-2-3-1,4-2-3-1,Alejandro Hernández,Match Report,,Sevilla,for
+2026-04-11,21:00 (16:00),Matchweek 31,Sat,Home,W,2.0,1.0,Atlético Madrid,32.0,29723.0,Nemanja Gudelj,5-4-1,4-2-3-1,Isidro Díaz de Mera,Match Report,,Sevilla,for
+2026-04-23,19:00 (14:00),Matchweek 33,Thu,Away,L,0.0,2.0,Levante,57.0,20210.0,Nemanja Gudelj,3-4-3,4-1-4-1,Jose Maria Sánchez,Match Report,,Sevilla,for
+2026-04-26,18:30 (13:30),Matchweek 32,Sun,Away,L,1.0,2.0,Osasuna,39.0,20541.0,Gabriel Suazo,4-4-2,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Sevilla,for
+2026-05-04,21:00 (16:00),Matchweek 34,Mon,Home,,,,Real Sociedad,,,,,,,Head-to-Head,,Sevilla,for
+2026-05-09,16:15 (11:15),Matchweek 35,Sat,Home,,,,Espanyol,,,,,,,Head-to-Head,,Sevilla,for
+2026-05-13,19:00 (14:00),Matchweek 36,Wed,Away,,,,Villarreal,,,,,,,Head-to-Head,,Sevilla,for
+2026-05-17,,Matchweek 37,Sun,Home,,,,Real Madrid,,,,,,,Head-to-Head,,Sevilla,for
+2026-05-24,,Matchweek 38,Sun,Away,,,,Celta Vigo,,,,,,,Head-to-Head,,Sevilla,for
+2025-08-16,21:30 (16:30),Matchweek 1,Sat,Home,D,1.0,1.0,Real Sociedad,54.0,45333.0,José Luis Gayà,4-4-2,4-4-2,Jose Maria Sánchez,Match Report,,Valencia,for
+2025-08-24,17:00 (12:00),Matchweek 2,Sun,Away,L,0.0,1.0,Osasuna,45.0,21226.0,José Luis Gayà,4-4-2,3-4-3,Jesús Gil,Match Report,,Valencia,for
+2025-08-29,21:30 (16:30),Matchweek 3,Fri,Home,W,3.0,0.0,Getafe,57.0,45449.0,César Tárrega,4-2-3-1,5-3-2,Francisco Hernández,Match Report,,Valencia,for
+2025-09-14,21:00 (16:00),Matchweek 4,Sun,Away,L,0.0,6.0,Barcelona,28.0,5862.0,José Luis Gayà,5-3-2,4-2-3-1,Guillermo Cuadra,Match Report,,Valencia,for
+2025-09-20,21:00 (16:00),Matchweek 5,Sat,Home,W,2.0,0.0,Athletic Club,44.0,46004.0,José Luis Gayà,4-4-2,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Valencia,for
+2025-09-23,19:00 (14:00),Matchweek 6,Tue,Away,D,2.0,2.0,Espanyol,44.0,26802.0,José Luis Gayà,4-4-2,4-2-3-1,José Guzmán,Match Report,,Valencia,for
+2025-09-30,20:00 (15:00),Matchweek 7,Tue,Home,L,1.0,2.0,Oviedo,57.0,40364.0,José Luis Gayà,4-4-2,4-3-3,Ricardo de Burgos,Match Report,,Valencia,for
+2025-10-04,16:15 (11:15),Matchweek 8,Sat,Away,L,1.0,2.0,Girona,55.0,10867.0,César Tárrega,4-4-2,3-4-3,Isidro Díaz de Mera,Match Report,,Valencia,for
+2025-10-20,21:00 (16:00),Matchweek 9,Mon,Away,D,0.0,0.0,Alavés,38.0,15564.0,José Luis Gayà,4-4-2,3-5-2,Iosu Galech,Match Report,,Valencia,for
+2025-10-25,21:00 (16:00),Matchweek 10,Sat,Home,L,0.0,2.0,Villarreal,57.0,45560.0,José Luis Gayà,4-4-2,4-4-2,Javier Alberola,Match Report,,Valencia,for
+2025-11-01,21:00 (17:00),Matchweek 11,Sat,Away,L,0.0,4.0,Real Madrid,35.0,74796.0,José Luis Gayà,4-4-2,4-3-3,Mateo Busquets,Match Report,,Valencia,for
+2025-11-09,18:30 (14:30),Matchweek 12,Sun,Home,D,1.0,1.0,Real Betis,43.0,45820.0,José Luis Gayà,4-2-3-1,4-2-3-1,Víctor García,Match Report,,Valencia,for
+2025-11-21,21:00 (17:00),Matchweek 13,Fri,Home,W,1.0,0.0,Levante,60.0,46302.0,José Luis Gayà,4-2-3-1,4-5-1,Alejandro Muñíz,Match Report,,Valencia,for
+2025-12-01,21:00 (17:00),Matchweek 14,Mon,Away,D,1.0,1.0,Rayo Vallecano,44.0,11267.0,José Luis Gayà,4-2-3-1,4-1-4-1,Javier Alberola,Match Report,,Valencia,for
+2025-12-07,16:15 (12:15),Matchweek 15,Sun,Home,D,1.0,1.0,Sevilla,48.0,44369.0,José Luis Gayà,4-2-3-1,5-4-1,Guillermo Cuadra,Match Report,,Valencia,for
+2025-12-13,14:00 (10:00),Matchweek 16,Sat,Away,L,1.0,2.0,Atlético Madrid,54.0,61011.0,José Luis García Vayá,3-5-2,4-4-2,César Soto,Match Report,,Valencia,for
+2025-12-19,21:00 (17:00),Matchweek 17,Fri,Home,D,1.0,1.0,Mallorca,71.0,41179.0,José Luis Gayà,4-4-2,4-2-3-1,Alejandro Quintero,Match Report,,Valencia,for
+2026-01-03,14:00 (10:00),Matchweek 18,Sat,Away,L,1.0,4.0,Celta Vigo,60.0,20475.0,José Luis García Vayá,3-5-2,3-4-3,Ricardo de Burgos,Match Report,,Valencia,for
+2026-01-10,21:00 (17:00),Matchweek 19,Sat,Home,D,1.0,1.0,Elche,39.0,44949.0,José Luis Gayà,4-2-3-1,4-1-4-1,Miguel Ángel Ortiz Arias,Match Report,,Valencia,for
+2026-01-18,14:00 (10:00),Matchweek 20,Sun,Away,W,1.0,0.0,Getafe,45.0,8361.0,José Luis Gayà,4-4-2,4-4-2,Isidro Díaz de Mera,Match Report,,Valencia,for
+2026-01-24,16:15 (12:15),Matchweek 21,Sat,Home,W,3.0,2.0,Espanyol,47.0,44163.0,José Luis García Vayá,4-4-2,4-4-2,Alejandro Hernández,Match Report,,Valencia,for
+2026-02-01,16:15 (12:15),Matchweek 22,Sun,Away,L,1.0,2.0,Real Betis,47.0,57523.0,José Luis Gayà,4-4-2,4-2-3-1,Jose Maria Sánchez,Match Report,,Valencia,for
+2026-02-08,21:00 (17:00),Matchweek 23,Sun,Home,L,0.0,2.0,Real Madrid,40.0,47515.0,José Luis Gayà,4-4-2,4-4-2,Javier Alberola,Match Report,,Valencia,for
+2026-02-15,18:30 (14:30),Matchweek 24,Sun,Away,W,2.0,0.0,Levante,53.0,22967.0,José Luis Gayà,4-4-2,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,Valencia,for
+2026-02-22,21:00 (17:00),Matchweek 25,Sun,Away,L,1.0,2.0,Villarreal,57.0,19233.0,José Luis Gayà,3-4-3,4-4-2,Jesús Gil,Match Report,,Valencia,for
+2026-03-01,16:15 (12:15),Matchweek 26,Sun,Home,W,1.0,0.0,Osasuna,48.0,44415.0,José Luis Gayà,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,Valencia,for
+2026-03-08,21:00 (17:00),Matchweek 27,Sun,Home,W,3.0,2.0,Alavés,61.0,41512.0,José Luis Gayà,4-2-3-1,4-4-2,José Guzmán,Match Report,,Valencia,for
+2026-03-14,18:30 (14:30),Matchweek 28,Sat,Away,L,0.0,1.0,Oviedo,58.0,22826.0,José Luis Gayà,4-2-3-1,4-2-3-1,Miguel Sesma,Match Report,,Valencia,for
+2026-03-21,21:00 (17:00),Matchweek 29,Sat,Away,W,2.0,0.0,Sevilla,41.0,35031.0,José Luis Gayà,4-3-3,4-3-3,Víctor García,Match Report,,Valencia,for
+2026-04-05,16:15 (11:15),Matchweek 30,Sun,Home,L,2.0,3.0,Celta Vigo,42.0,43764.0,José Luis Gayà,4-4-2,3-4-3,Iosu Galech,Match Report,,Valencia,for
+2026-04-11,16:15 (11:15),Matchweek 31,Sat,Away,L,0.0,1.0,Elche,43.0,27795.0,José Luis Gayà,4-4-2,3-4-1-2,Francisco Hernández,Match Report,,Valencia,for
+2026-04-21,19:00 (14:00),Matchweek 33,Tue,Away,D,1.0,1.0,Mallorca,41.0,20103.0,José Luis Gayà,4-4-2,4-3-1-2,César Soto,Match Report,,Valencia,for
+2026-04-25,18:30 (13:30),Matchweek 32,Sat,Home,W,2.0,1.0,Girona,37.0,44394.0,José Luis Gayà,4-4-2,4-2-3-1,Alejandro Muñíz,Match Report,,Valencia,for
+2026-05-02,16:15 (11:15),Matchweek 34,Sat,Home,,,,Atlético Madrid,,,,,,,Head-to-Head,,Valencia,for
+2026-05-10,16:15 (11:15),Matchweek 35,Sun,Away,,,,Athletic Club,,,,,,,Head-to-Head,,Valencia,for
+2026-05-14,19:00 (14:00),Matchweek 36,Thu,Home,,,,Rayo Vallecano,,,,,,,Head-to-Head,,Valencia,for
+2026-05-17,,Matchweek 37,Sun,Away,,,,Real Sociedad,,,,,,,Head-to-Head,,Valencia,for
+2026-05-24,,Matchweek 38,Sun,Home,,,,Barcelona,,,,,,,Head-to-Head,,Valencia,for
+2025-08-15,21:30 (16:30),Matchweek 1,Fri,Home,W,2.0,0.0,Oviedo,68.0,18333.0,Gerard Moreno,4-4-2,4-2-3-1,Alejandro Muñíz,Match Report,,Villarreal,for
+2025-08-24,19:30 (14:30),Matchweek 2,Sun,Home,W,5.0,0.0,Girona,53.0,18195.0,Juan Foyth,4-4-2,4-4-1-1,Guillermo Cuadra,Match Report,,Villarreal,for
+2025-08-31,17:00 (12:00),Matchweek 3,Sun,Away,D,1.0,1.0,Celta Vigo,35.0,20172.0,Juan Foyth,4-4-2,3-4-3,Alejandro Quintero,Match Report,,Villarreal,for
+2025-09-13,21:00 (16:00),Matchweek 4,Sat,Away,L,0.0,2.0,Atlético Madrid,39.0,63312.0,Daniel Parejo,4-4-2,4-4-2,José Luis Munuera,Match Report,,Villarreal,for
+2025-09-20,18:30 (13:30),Matchweek 5,Sat,Home,W,2.0,1.0,Osasuna,66.0,17542.0,Juan Foyth,4-4-2,3-4-3,Isidro Díaz de Mera,Match Report,,Villarreal,for
+2025-09-23,21:30 (16:30),Matchweek 6,Tue,Away,W,2.0,1.0,Sevilla,35.0,38145.0,Daniel Parejo,4-3-3,3-4-3,César Soto,Match Report,,Villarreal,for
+2025-09-27,21:00 (16:00),Matchweek 7,Sat,Home,W,1.0,0.0,Athletic Club,42.0,18908.0,Sergi Cardona,4-4-2,4-2-3-1,Miguel Sesma,Match Report,,Villarreal,for
+2025-10-04,21:00 (16:00),Matchweek 8,Sat,Away,L,1.0,3.0,Real Madrid,31.0,75216.0,Santi Comesaña,4-4-2,4-2-3-1,Guillermo Cuadra,Match Report,,Villarreal,for
+2025-10-18,18:30 (13:30),Matchweek 9,Sat,Home,D,2.0,2.0,Real Betis,39.0,19238.0,Gerard Moreno,4-4-2,4-2-3-1,Francisco Hernández,Match Report,,Villarreal,for
+2025-10-25,21:00 (16:00),Matchweek 10,Sat,Away,W,2.0,0.0,Valencia,43.0,45560.0,Gerard Moreno,4-4-2,4-4-2,Javier Alberola,Match Report,,Villarreal,for
+2025-11-01,14:00 (10:00),Matchweek 11,Sat,Home,W,4.0,0.0,Rayo Vallecano,47.0,17022.0,Gerard Moreno,4-4-2,4-2-3-1,Iosu Galech,Match Report,,Villarreal,for
+2025-11-08,21:00 (17:00),Matchweek 12,Sat,Away,W,2.0,0.0,Espanyol,45.0,29540.0,Gerard Moreno,4-4-2,4-4-1-1,Alejandro Hernández,Match Report,,Villarreal,for
+2025-11-22,21:00 (17:00),Matchweek 13,Sat,Home,W,2.0,1.0,Mallorca,58.0,16854.0,Gerard Moreno,4-4-2,4-2-3-1,José Guzmán,Match Report,,Villarreal,for
+2025-11-30,14:00 (10:00),Matchweek 14,Sun,Away,W,3.0,2.0,Real Sociedad,40.0,30140.0,Gerard Moreno,4-4-2,4-2-3-1,César Soto,Match Report,,Villarreal,for
+2025-12-06,14:00 (10:00),Matchweek 15,Sat,Home,W,2.0,0.0,Getafe,61.0,17089.0,Daniel Parejo,4-4-2,4-4-2,Mateo Busquets,Match Report,,Villarreal,for
+2025-12-21,16:15 (12:15),Matchweek 17,Sun,Home,L,0.0,2.0,Barcelona,21.0,20701.0,Daniel Parejo,4-4-2,4-2-3-1,Javier Alberola,Match Report,,Villarreal,for
+2026-01-03,18:30 (14:30),Matchweek 18,Sat,Away,W,3.0,1.0,Elche,22.0,27078.0,Daniel Parejo,4-4-2,3-5-2,Isidro Díaz de Mera,Match Report,,Villarreal,for
+2026-01-10,16:15 (12:15),Matchweek 19,Sat,Home,W,3.0,1.0,Alavés,44.0,17011.0,Daniel Parejo,4-4-2,4-2-3-1,Alejandro Muñíz,Match Report,,Villarreal,for
+2026-01-17,21:00 (17:00),Matchweek 20,Sat,Away,L,0.0,2.0,Real Betis,40.0,60138.0,Gerard Moreno,4-4-2,4-2-3-1,Víctor García,Match Report,,Villarreal,for
+2026-01-24,21:00 (17:00),Matchweek 21,Sat,Home,L,0.0,2.0,Real Madrid,42.0,20432.0,Gerard Moreno,4-4-2,4-3-3,César Soto,Match Report,,Villarreal,for
+2026-01-31,16:15 (12:15),Matchweek 22,Sat,Away,D,2.0,2.0,Osasuna,53.0,20455.0,Gerard Moreno,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,Villarreal,for
+2026-02-09,21:00 (17:00),Matchweek 23,Mon,Home,W,4.0,1.0,Espanyol,49.0,16825.0,Daniel Parejo,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,Villarreal,for
+2026-02-14,16:15 (12:15),Matchweek 24,Sat,Away,L,1.0,2.0,Getafe,56.0,7551.0,Daniel Parejo,4-4-2,5-3-2,Miguel Sesma,Match Report,,Villarreal,for
+2026-02-18,20:00 (16:00),Matchweek 16,Wed,Away,W,1.0,0.0,Levante,41.0,18153.0,Santi Comesaña,4-4-2,4-3-3,Juan Martínez,Match Report,,Villarreal,for
+2026-02-22,21:00 (17:00),Matchweek 25,Sun,Home,W,2.0,1.0,Valencia,43.0,19233.0,Santi Comesaña,4-4-2,3-4-3,Jesús Gil,Match Report,,Villarreal,for
+2026-02-28,16:15 (12:15),Matchweek 26,Sat,Away,L,1.0,4.0,Barcelona,26.0,44256.0,Santi Comesaña,4-4-2,4-3-3,Isidro Díaz de Mera,Match Report,,Villarreal,for
+2026-03-08,14:00 (10:00),Matchweek 27,Sun,Home,W,2.0,1.0,Elche,37.0,16301.0,Santi Comesaña,4-4-2,3-5-2,Víctor García,Match Report,,Villarreal,for
+2026-03-13,21:00 (17:00),Matchweek 28,Fri,Away,D,1.0,1.0,Alavés,52.0,16215.0,Alfonso Pedraza,4-4-2,3-5-2,Alejandro Quintero,Match Report,,Villarreal,for
+2026-03-20,21:00 (17:00),Matchweek 29,Fri,Home,W,3.0,1.0,Real Sociedad,35.0,18032.0,Gerard Moreno,4-4-2,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,Villarreal,for
+2026-04-06,21:00 (16:00),Matchweek 30,Mon,Away,L,0.0,1.0,Girona,46.0,12008.0,Gerard Moreno,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,Villarreal,for
+2026-04-12,21:00 (16:00),Matchweek 31,Sun,Away,W,2.0,1.0,Athletic Club,39.0,42891.0,Gerard Moreno,4-4-2,4-2-3-1,José Guzmán,Match Report,,Villarreal,for
+2026-04-23,21:30 (16:30),Matchweek 33,Thu,Away,D,1.0,1.0,Oviedo,42.0,27092.0,Daniel Parejo,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,Villarreal,for
+2026-04-26,21:00 (16:00),Matchweek 32,Sun,Home,W,2.0,1.0,Celta Vigo,47.0,16895.0,Gerard Moreno,4-4-2,3-4-3,Alejandro Quintero,Match Report,,Villarreal,for
+2026-05-02,14:00 (09:00),Matchweek 34,Sat,Home,,,,Levante,,,,,,,Head-to-Head,,Villarreal,for
+2026-05-10,14:00 (09:00),Matchweek 35,Sun,Away,,,,Mallorca,,,,,,,Head-to-Head,,Villarreal,for
+2026-05-13,19:00 (14:00),Matchweek 36,Wed,Home,,,,Sevilla,,,,,,,Head-to-Head,,Villarreal,for
+2026-05-17,,Matchweek 37,Sun,Away,,,,Rayo Vallecano,,,,,,,Head-to-Head,,Villarreal,for
+2026-05-24,,Matchweek 38,Sun,Home,,,,Atlético Madrid,,,,,,,Head-to-Head,,Villarreal,for

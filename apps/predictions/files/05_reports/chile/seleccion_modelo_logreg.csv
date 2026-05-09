@@ -1,0 +1,2 @@
+feature_set,model_kind,C,n_features,folds,selection_note
+all_generated_features,logreg,0.1,109,0,train_all_no_test

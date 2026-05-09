@@ -1,0 +1,4 @@
+target,model_kind,C,n_features,folds,selection_note
+over_15,logreg,0.1,109,0,train_all_no_test
+over_25,logreg,0.1,109,0,train_all_no_test
+btts,logreg,0.1,109,0,train_all_no_test

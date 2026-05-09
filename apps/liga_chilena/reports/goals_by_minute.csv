@@ -1,0 +1,233 @@
+match_id,date,scoring_team,conceding_team,franja,minute
+15352948,2026-02-06,Audax Italiano,Universidad de Concepción,76-90'+,90
+15352948,2026-02-06,Audax Italiano,Universidad de Concepción,31-45',42
+15352948,2026-02-06,Audax Italiano,Universidad de Concepción,0-15',8
+15352949,2026-02-14,Universidad Católica,Cobresal,76-90'+,90
+15352949,2026-02-14,Cobresal,Universidad Católica,46-60',50
+15352949,2026-02-14,Universidad Católica,Cobresal,31-45',44
+15352949,2026-02-14,Cobresal,Universidad Católica,0-15',14
+15352949,2026-02-14,Cobresal,Universidad Católica,0-15',3
+15352950,2026-02-14,Deportes Limache,O'Higgins,46-60',52
+15352950,2026-02-14,O'Higgins,Deportes Limache,16-30',19
+15352950,2026-02-14,Deportes Limache,O'Higgins,0-15',14
+15352951,2026-02-01,Universidad Católica,Deportes La Serena,76-90'+,85
+15352951,2026-02-01,Universidad Católica,Deportes La Serena,46-60',45
+15352951,2026-02-01,Deportes La Serena,Universidad Católica,31-45',38
+15352951,2026-02-01,Deportes La Serena,Universidad Católica,31-45',33
+15352952,2026-01-31,Universidad de Concepción,Coquimbo Unido,46-60',53
+15352954,2026-02-02,Unión La Calera,Everton de Viña del Mar,16-30',24
+15352955,2026-02-08,Universidad Católica,Deportes Concepción,61-75',71
+15352955,2026-02-08,Universidad Católica,Deportes Concepción,46-60',51
+15352957,2026-02-15,Colo-Colo,Unión La Calera,76-90'+,90
+15352958,2026-01-31,Cobresal,Huachipato,46-60',45
+15352959,2026-02-13,Huachipato,Everton de Viña del Mar,76-90'+,89
+15352959,2026-02-13,Huachipato,Everton de Viña del Mar,46-60',56
+15352959,2026-02-13,Huachipato,Everton de Viña del Mar,46-60',51
+15352960,2026-02-14,Coquimbo Unido,Deportes La Serena,76-90'+,75
+15352961,2026-02-15,Universidad de Concepción,Deportes Concepción,61-75',71
+15352961,2026-02-15,Universidad de Concepción,Deportes Concepción,46-60',50
+15352961,2026-02-15,Deportes Concepción,Universidad de Concepción,16-30',22
+15352962,2026-02-20,Deportes Concepción,Cobresal,76-90'+,90
+15352962,2026-02-20,Cobresal,Deportes Concepción,76-90'+,81
+15352963,2026-02-15,Ñublense,Audax Italiano,46-60',45
+15352964,2026-02-09,Cobresal,Unión La Calera,46-60',45
+15352964,2026-02-09,Unión La Calera,Cobresal,31-45',35
+15352964,2026-02-09,Unión La Calera,Cobresal,16-30',29
+15352964,2026-02-09,Unión La Calera,Cobresal,0-15',8
+15352965,2026-01-31,Colo-Colo,Deportes Limache,76-90'+,83
+15352965,2026-01-31,Deportes Limache,Colo-Colo,16-30',27
+15352965,2026-01-31,Deportes Limache,Colo-Colo,0-15',14
+15352965,2026-01-31,Deportes Limache,Colo-Colo,0-15',7
+15352967,2026-02-21,Universidad Católica,Coquimbo Unido,61-75',70
+15352967,2026-02-21,Universidad Católica,Coquimbo Unido,46-60',48
+15352967,2026-02-21,Universidad Católica,Coquimbo Unido,31-45',35
+15352967,2026-02-21,Coquimbo Unido,Universidad Católica,16-30',19
+15352968,2026-02-22,Audax Italiano,Everton de Viña del Mar,61-75',67
+15352969,2026-02-07,Coquimbo Unido,Palestino,76-90'+,76
+15352969,2026-02-07,Palestino,Coquimbo Unido,61-75',73
+15352969,2026-02-07,Coquimbo Unido,Palestino,31-45',33
+15352969,2026-02-07,Coquimbo Unido,Palestino,16-30',19
+15352970,2026-02-21,Colo-Colo,O'Higgins,46-60',55
+15352971,2026-02-08,Ñublense,Deportes Limache,46-60',56
+15352971,2026-02-08,Deportes Limache,Ñublense,16-30',19
+15352972,2026-02-01,Ñublense,Palestino,61-75',74
+15352972,2026-02-01,Palestino,Ñublense,16-30',29
+15352973,2026-02-21,Huachipato,Palestino,76-90'+,81
+15352973,2026-02-21,Huachipato,Palestino,61-75',62
+15352973,2026-02-21,Palestino,Huachipato,16-30',18
+15352974,2026-02-08,Huachipato,Universidad de Chile,76-90'+,81
+15352974,2026-02-08,Huachipato,Universidad de Chile,31-45',35
+15352974,2026-02-08,Universidad de Chile,Huachipato,0-15',13
+15352975,2026-02-20,Ñublense,Unión La Calera,76-90'+,90
+15352976,2026-02-07,Colo-Colo,Everton de Viña del Mar,76-90'+,90
+15352976,2026-02-07,Colo-Colo,Everton de Viña del Mar,76-90'+,90
+15352977,2026-02-22,Universidad de Concepción,Deportes La Serena,31-45',38
+15352977,2026-02-22,Deportes La Serena,Universidad de Concepción,31-45',30
+15352978,2026-03-01,Universidad Católica,Ñublense,76-90'+,90
+15352978,2026-03-01,Universidad Católica,Ñublense,46-60',45
+15352978,2026-03-01,Ñublense,Universidad Católica,16-30',26
+15352979,2026-03-01,Universidad de Chile,Colo-Colo,61-75',70
+15352980,2026-02-27,Deportes La Serena,Cobresal,0-15',1
+15352981,2026-03-01,Everton de Viña del Mar,Universidad de Concepción,46-60',58
+15352981,2026-03-01,Everton de Viña del Mar,Universidad de Concepción,16-30',16
+15352981,2026-03-01,Everton de Viña del Mar,Universidad de Concepción,0-15',10
+15352982,2026-02-28,Deportes Concepción,Coquimbo Unido,0-15',14
+15352983,2026-02-27,Unión La Calera,Audax Italiano,76-90'+,90
+15352983,2026-02-27,Unión La Calera,Audax Italiano,61-75',72
+15352983,2026-02-27,Unión La Calera,Audax Italiano,16-30',23
+15352984,2026-02-07,O'Higgins,Deportes La Serena,76-90'+,88
+15352985,2026-02-28,Deportes Limache,Huachipato,76-90'+,86
+15352985,2026-02-28,Deportes Limache,Huachipato,46-60',52
+15352985,2026-02-28,Deportes Limache,Huachipato,16-30',16
+15352986,2026-02-28,O'Higgins,Palestino,76-90'+,90
+15352986,2026-02-28,Palestino,O'Higgins,76-90'+,76
+15352986,2026-02-28,Palestino,O'Higgins,61-75',69
+15352986,2026-02-28,Palestino,O'Higgins,46-60',46
+15352986,2026-02-28,O'Higgins,Palestino,46-60',45
+15352986,2026-02-28,Palestino,O'Higgins,31-45',34
+15352987,2026-03-08,Palestino,Cobresal,76-90'+,87
+15352987,2026-03-08,Cobresal,Palestino,76-90'+,86
+15352987,2026-03-08,Palestino,Cobresal,76-90'+,77
+15352987,2026-03-08,Palestino,Cobresal,61-75',69
+15352987,2026-03-08,Cobresal,Palestino,61-75',67
+15352987,2026-03-08,Palestino,Cobresal,31-45',33
+15352988,2026-03-07,Colo-Colo,Audax Italiano,0-15',5
+15352989,2026-03-07,O'Higgins,Universidad Católica,31-45',38
+15352990,2026-03-07,Everton de Viña del Mar,Deportes Limache,61-75',67
+15352991,2026-03-07,Coquimbo Unido,Huachipato,76-90'+,90
+15352991,2026-03-07,Huachipato,Coquimbo Unido,76-90'+,90
+15352991,2026-03-07,Coquimbo Unido,Huachipato,61-75',72
+15352991,2026-03-07,Coquimbo Unido,Huachipato,0-15',5
+15352992,2026-03-06,Deportes La Serena,Unión La Calera,76-90'+,90
+15352992,2026-03-06,Deportes La Serena,Unión La Calera,31-45',41
+15352992,2026-03-06,Deportes La Serena,Unión La Calera,31-45',38
+15352993,2026-03-06,Ñublense,Deportes Concepción,76-90'+,88
+15352993,2026-03-06,Ñublense,Deportes Concepción,16-30',29
+15352994,2026-03-14,Universidad Católica,Everton de Viña del Mar,61-75',73
+15352994,2026-03-14,Universidad Católica,Everton de Viña del Mar,46-60',45
+15352994,2026-03-14,Everton de Viña del Mar,Universidad Católica,0-15',7
+15352994,2026-03-14,Everton de Viña del Mar,Universidad Católica,0-15',4
+15352995,2026-03-09,Universidad de Chile,Universidad de Concepción,46-60',55
+15352995,2026-03-09,Universidad de Concepción,Universidad de Chile,31-45',38
+15352996,2026-03-14,Universidad de Chile,Coquimbo Unido,76-90'+,76
+15352997,2026-03-16,Colo-Colo,Huachipato,76-90'+,84
+15352997,2026-03-16,Colo-Colo,Huachipato,31-45',43
+15352998,2026-03-15,Ñublense,Deportes La Serena,76-90'+,88
+15352998,2026-03-15,Deportes La Serena,Ñublense,46-60',57
+15352998,2026-03-15,Deportes La Serena,Ñublense,46-60',54
+15352998,2026-03-15,Ñublense,Deportes La Serena,31-45',32
+15352999,2026-04-04,Deportes Limache,Unión La Calera,76-90'+,87
+15352999,2026-04-04,Deportes Limache,Unión La Calera,76-90'+,77
+15352999,2026-04-04,Deportes Limache,Unión La Calera,46-60',54
+15352999,2026-04-04,Deportes Limache,Unión La Calera,16-30',17
+15353000,2026-03-13,Audax Italiano,Deportes Concepción,31-45',32
+15353000,2026-03-13,Audax Italiano,Deportes Concepción,0-15',9
+15353000,2026-03-13,Audax Italiano,Deportes Concepción,0-15',3
+15353001,2026-03-15,Universidad de Concepción,Palestino,76-90'+,90
+15353002,2026-04-05,Universidad de Chile,Deportes La Serena,76-90'+,90
+15353002,2026-04-05,Universidad de Chile,Deportes La Serena,61-75',68
+15353002,2026-04-05,Universidad de Chile,Deportes La Serena,46-60',55
+15353002,2026-04-05,Universidad de Chile,Deportes La Serena,46-60',50
+15353003,2026-04-11,Universidad Católica,Audax Italiano,76-90'+,89
+15353003,2026-04-11,Audax Italiano,Universidad Católica,46-60',53
+15353003,2026-04-11,Universidad Católica,Audax Italiano,31-45',41
+15353003,2026-04-11,Universidad Católica,Audax Italiano,31-45',33
+15353003,2026-04-11,Audax Italiano,Universidad Católica,16-30',28
+15353003,2026-04-11,Universidad Católica,Audax Italiano,0-15',11
+15353003,2026-04-11,Audax Italiano,Universidad Católica,0-15',4
+15353005,2026-03-15,Cobresal,Deportes Limache,76-90'+,90
+15353005,2026-03-15,Cobresal,Deportes Limache,76-90'+,88
+15353005,2026-03-15,Deportes Limache,Cobresal,61-75',74
+15353005,2026-03-15,Deportes Limache,Cobresal,61-75',67
+15353005,2026-03-15,Deportes Limache,Cobresal,31-45',36
+15353005,2026-03-15,Deportes Limache,Cobresal,31-45',33
+15353005,2026-03-15,Deportes Limache,Cobresal,16-30',17
+15353006,2026-04-05,Colo-Colo,Deportes Concepción,61-75',68
+15353007,2026-04-03,Cobresal,Coquimbo Unido,76-90'+,75
+15353007,2026-04-03,Coquimbo Unido,Cobresal,61-75',73
+15353007,2026-04-03,Coquimbo Unido,Cobresal,61-75',61
+15353007,2026-04-03,Cobresal,Coquimbo Unido,46-60',57
+15353007,2026-04-03,Coquimbo Unido,Cobresal,31-45',36
+15353008,2026-04-11,Deportes La Serena,Everton de Viña del Mar,16-30',15
+15353009,2026-03-16,Unión La Calera,O'Higgins,76-90'+,90
+15353009,2026-03-16,Unión La Calera,O'Higgins,76-90'+,85
+15353009,2026-03-16,Unión La Calera,O'Higgins,76-90'+,79
+15353009,2026-03-16,O'Higgins,Unión La Calera,46-60',56
+15353009,2026-03-16,O'Higgins,Unión La Calera,16-30',23
+15353009,2026-03-16,O'Higgins,Unión La Calera,0-15',1
+15353010,2026-04-02,Universidad Católica,Palestino,76-90'+,90
+15353010,2026-04-02,Universidad Católica,Palestino,61-75',72
+15353010,2026-04-02,Universidad Católica,Palestino,61-75',66
+15353010,2026-04-02,Universidad Católica,Palestino,61-75',63
+15353010,2026-04-02,Universidad Católica,Palestino,31-45',32
+15353010,2026-04-02,Palestino,Universidad Católica,16-30',22
+15353010,2026-04-02,Universidad Católica,Palestino,0-15',9
+15353011,2026-04-12,Palestino,Deportes Limache,61-75',63
+15353012,2026-04-12,Ñublense,Universidad de Chile,76-90'+,90
+15353013,2026-04-07,Huachipato,Universidad de Concepción,76-90'+,83
+15353013,2026-04-07,Huachipato,Universidad de Concepción,76-90'+,79
+15353013,2026-04-07,Huachipato,Universidad de Concepción,61-75',70
+15353013,2026-04-07,Huachipato,Universidad de Concepción,61-75',67
+15353013,2026-04-07,Huachipato,Universidad de Concepción,31-45',37
+15353013,2026-04-07,Universidad de Concepción,Huachipato,0-15',6
+15353014,2026-04-13,Universidad de Concepción,Cobresal,31-45',30
+15353015,2026-02-22,Deportes Limache,Universidad de Chile,76-90'+,84
+15353015,2026-02-22,Universidad de Chile,Deportes Limache,46-60',54
+15353015,2026-02-22,Universidad de Chile,Deportes Limache,16-30',27
+15353015,2026-02-22,Deportes Limache,Universidad de Chile,0-15',5
+15353016,2026-04-03,O'Higgins,Audax Italiano,46-60',49
+15353016,2026-04-03,Audax Italiano,O'Higgins,16-30',17
+15353016,2026-04-03,O'Higgins,Audax Italiano,0-15',12
+15353017,2026-04-11,Huachipato,O'Higgins,76-90'+,85
+15353017,2026-04-11,Huachipato,O'Higgins,0-15',1
+15353018,2026-05-03,Colo-Colo,Coquimbo Unido,76-90'+,86
+15353018,2026-05-03,Colo-Colo,Coquimbo Unido,76-90'+,84
+15353018,2026-05-03,Coquimbo Unido,Colo-Colo,46-60',56
+15353018,2026-05-03,Colo-Colo,Coquimbo Unido,46-60',45
+15353019,2026-04-14,Unión La Calera,Deportes Concepción,46-60',54
+15353021,2026-04-19,Deportes Concepción,Deportes La Serena,61-75',67
+15353021,2026-04-19,Deportes Concepción,Deportes La Serena,46-60',46
+15353021,2026-04-19,Deportes La Serena,Deportes Concepción,31-45',41
+15353021,2026-04-19,Deportes La Serena,Deportes Concepción,31-45',31
+15353021,2026-04-19,Deportes La Serena,Deportes Concepción,16-30',24
+15353021,2026-04-19,Deportes Concepción,Deportes La Serena,0-15',11
+15353022,2026-04-21,Unión La Calera,Universidad Católica,76-90'+,83
+15353022,2026-04-21,Unión La Calera,Universidad Católica,46-60',52
+15353022,2026-04-21,Universidad Católica,Unión La Calera,31-45',44
+15353023,2026-04-20,Huachipato,Audax Italiano,76-90'+,90
+15353023,2026-04-20,Huachipato,Audax Italiano,61-75',66
+15353023,2026-04-20,Huachipato,Audax Italiano,46-60',58
+15353023,2026-04-20,Audax Italiano,Huachipato,46-60',55
+15353023,2026-04-20,Audax Italiano,Huachipato,46-60',45
+15353024,2026-04-19,Palestino,Colo-Colo,31-45',33
+15353025,2026-04-19,O'Higgins,Cobresal,76-90'+,78
+15353025,2026-04-19,O'Higgins,Cobresal,61-75',74
+15353025,2026-04-19,Cobresal,O'Higgins,61-75',69
+15353025,2026-04-19,O'Higgins,Cobresal,46-60',48
+15353025,2026-04-19,Cobresal,O'Higgins,0-15',7
+15353026,2026-04-19,Ñublense,Coquimbo Unido,61-75',68
+15353026,2026-04-19,Coquimbo Unido,Ñublense,16-30',17
+15353027,2026-04-18,Deportes Limache,Universidad de Concepción,76-90'+,83
+15353027,2026-04-18,Deportes Limache,Universidad de Concepción,61-75',72
+15353027,2026-04-18,Deportes Limache,Universidad de Concepción,0-15',7
+15353028,2026-04-26,Colo-Colo,Universidad de Concepción,76-90'+,90
+15353028,2026-04-26,Universidad de Concepción,Colo-Colo,76-90'+,76
+15353028,2026-04-26,Colo-Colo,Universidad de Concepción,31-45',30
+15353029,2026-04-25,Universidad de Chile,Universidad Católica,16-30',16
+15353030,2026-04-24,Coquimbo Unido,Unión La Calera,76-90'+,90
+15353030,2026-04-24,Unión La Calera,Coquimbo Unido,76-90'+,90
+15353030,2026-04-24,Coquimbo Unido,Unión La Calera,61-75',63
+15353031,2026-04-25,Deportes Limache,Audax Italiano,61-75',65
+15353031,2026-04-25,Audax Italiano,Deportes Limache,46-60',55
+15353031,2026-04-25,Deportes Limache,Audax Italiano,46-60',45
+15353031,2026-04-25,Audax Italiano,Deportes Limache,31-45',37
+15353032,2026-04-26,Everton de Viña del Mar,Cobresal,76-90'+,78
+15353032,2026-04-26,Everton de Viña del Mar,Cobresal,31-45',33
+15353032,2026-04-26,Everton de Viña del Mar,Cobresal,16-30',21
+15353032,2026-04-26,Cobresal,Everton de Viña del Mar,0-15',12
+15353033,2026-04-25,O'Higgins,Ñublense,31-45',34
+15353033,2026-04-25,O'Higgins,Ñublense,0-15',13
+15353035,2026-04-24,Deportes Concepción,Palestino,16-30',17
+15353074,2026-02-02,Deportes Concepción,O'Higgins,76-90'+,90
+15353074,2026-02-02,O'Higgins,Deportes Concepción,76-90'+,84
+15353074,2026-02-02,O'Higgins,Deportes Concepción,16-30',29

@@ -1,0 +1,786 @@
+match_id,date,team,player_in_id,player_in,player_out,minute,pm_at_entry,pm_after
+15352948,2026-02-06,Audax Italiano,1485094.0,Giovani Chiaverano,Diego Coelho,62,2,1
+15352948,2026-02-06,Audax Italiano,1114520.0,Paolo Guajardo,Rodrigo Cabral,62,2,1
+15352948,2026-02-06,Audax Italiano,859990.0,Franco Troyansky,Michael Vadulli,68,2,1
+15352948,2026-02-06,Audax Italiano,1920586.0,Mario Sandoval,Nicolás Aedo,82,2,1
+15352948,2026-02-06,Audax Italiano,1473443.0,Diego Monreal,Federico Mateos,82,2,1
+15352948,2026-02-06,Universidad de Concepción,965719.0,Ariel Uribe,Cristobal Zambrano,46,-2,-1
+15352948,2026-02-06,Universidad de Concepción,906102.0,Yerco Oyanedel,Antonio Díaz,60,-2,-1
+15352948,2026-02-06,Universidad de Concepción,973567.0,Pablo Parra,Jorge Espejo,69,-2,-1
+15352948,2026-02-06,Universidad de Concepción,1482287.0,David Retamal,Osvaldo González,69,-2,-1
+15352948,2026-02-06,Universidad de Concepción,965775.0,Agustín Urzi,Cristhofer Mesías,82,-2,-1
+15352949,2026-02-14,Cobresal,1016643.0,Aaron Astudillo,Rodrigo Sandoval,36,2,-1
+15352949,2026-02-14,Cobresal,962847.0,Esteban Valencia,Julián Brea,78,2,-1
+15352949,2026-02-14,Cobresal,1973053.0,Benjamín Valenzuela,César Yanis,86,2,-1
+15352949,2026-02-14,Cobresal,1835784.0,Matias Sepulveda,Steffan Pino,86,2,-1
+15352949,2026-02-14,Universidad Católica,819115.0,Jhojan Valencia,Tomás Asta-Buruaga,70,-2,1
+15352949,2026-02-14,Universidad Católica,818693.0,Bernardo Cerezo,Jimmy Martínez,70,-2,1
+15352949,2026-02-14,Universidad Católica,906110.0,Diego Valencia,Matías Palavecino,81,-2,1
+15352949,2026-02-14,Universidad Católica,1982597.0,Vicente Cárcamo,Diego Corral,81,-2,1
+15352950,2026-02-14,Deportes Limache,863124.0,Misael Llantén,Joaquín Montecinos,68,1,0
+15352950,2026-02-14,Deportes Limache,247073.0,César Fuentes,César Pinares,68,1,0
+15352950,2026-02-14,Deportes Limache,871813.0,Marcos Arturia,Gonzalo Sosa,85,1,0
+15352950,2026-02-14,Deportes Limache,877098.0,Danilo Catalán,Jean Meneses,90,1,0
+15352950,2026-02-14,Deportes Limache,2116602.0,Facundo Marín,Daniel Castro,90,1,0
+15352950,2026-02-14,O'Higgins,789677.0,Martín Sarrafiore,Benjamin Schamine,46,0,-1
+15352950,2026-02-14,O'Higgins,2038202.0,Rodrigo Godoy,Francisco González,60,-1,0
+15352950,2026-02-14,O'Higgins,844183.0,Juan Leiva,Bryan Rabello,60,-1,0
+15352950,2026-02-14,O'Higgins,849177.0,Arnaldo Castillo,Thiago Vecino,72,-1,0
+15352950,2026-02-14,O'Higgins,1798259.0,Gabriel Pinto,Felipe Ogaz,81,-1,0
+15352951,2026-02-01,Deportes La Serena,1906001.0,Daniel Cordero,Felipe Chamorro,54,1,-1
+15352951,2026-02-01,Deportes La Serena,1875021.0,Bastián Contreras,Matías Marín,69,1,-1
+15352951,2026-02-01,Deportes La Serena,1502658.0,Fernando Dinamarca,Yahir Salazar,69,1,-1
+15352951,2026-02-01,Deportes La Serena,1155908.0,Matías Pinto,Bruno Gutiérrez,69,1,-1
+15352951,2026-02-01,Deportes La Serena,799653.0,Rafael Delgado,Joaquín Gutiérrez,84,1,-1
+15352951,2026-02-01,Universidad Católica,386220.0,Tomás Asta-Buruaga,Bernardo Cerezo,76,-1,1
+15352951,2026-02-01,Universidad Católica,1409361.0,Juan Francisco Rossel,Matías Palavecino,76,-1,1
+15352951,2026-02-01,Universidad Católica,819115.0,Jhojan Valencia,Eugenio Mena,81,-1,1
+15352952,2026-01-31,Universidad de Concepción,906102.0,Yerco Oyanedel,Antonio Díaz,63,1,0
+15352952,2026-01-31,Universidad de Concepción,965719.0,Ariel Uribe,Jeison Fuentealba,63,1,0
+15352952,2026-01-31,Universidad de Concepción,2163290.0,Cristobal Zambrano,Jorge Espejo,72,1,0
+15352952,2026-01-31,Universidad de Concepción,986462.0,Bryan Ogaz,Cristhofer Mesías,72,1,0
+15352952,2026-01-31,Universidad de Concepción,973567.0,Pablo Parra,Luis Rojas,75,1,0
+15352952,2026-01-31,Coquimbo Unido,981333.0,Dylan Glaby,Alejandro Camargo,56,-1,0
+15352952,2026-01-31,Coquimbo Unido,986513.0,Dylan Escobar,Martín Mundaca,57,-1,0
+15352952,2026-01-31,Coquimbo Unido,852143.0,Luis Riveros,Nicolás Johansen,57,-1,0
+15352952,2026-01-31,Coquimbo Unido,2048673.0,Pablo Rodríguez,Guido Vadalá,64,-1,0
+15352952,2026-01-31,Coquimbo Unido,39244.0,Lucas Pratto,Benjamín Chandía,64,-1,0
+15352953,2026-02-13,Palestino,1064150.0,Nicolás Meza,Julián Fernández,61,0,0
+15352953,2026-02-13,Palestino,230054.0,Bryan Carrasco,Gonzalo Tapia,74,0,0
+15352953,2026-02-13,Palestino,819017.0,Jonathan Benítez,Jason León,74,0,0
+15352953,2026-02-13,Palestino,1116992.0,Antonio Ceza,Ian Garguez,90,0,0
+15352953,2026-02-13,Palestino,1797930.0,Francisco Montes,Sebastián Gallegos,90,0,0
+15352953,2026-02-13,Universidad de Chile,1482412.0,Ignacio Vásquez,Diego Vargas,62,0,0
+15352953,2026-02-13,Universidad de Chile,790149.0,Octavio Rivero,Eduardo Vargas,70,0,0
+15352953,2026-02-13,Universidad de Chile,906105.0,Maximiliano Guerrero,Fabián Hormazábal,85,0,0
+15352953,2026-02-13,Universidad de Chile,925337.0,Javier Altamirano,Israel Poblete,85,0,0
+15352954,2026-02-02,Everton de Viña del Mar,1384618.0,Byron Navarro,Nicolás Baeza,46,-1,0
+15352954,2026-02-02,Everton de Viña del Mar,951270.0,Joaquín Moya,Vicente Vega,46,-1,0
+15352954,2026-02-02,Everton de Viña del Mar,129209.0,Cristian Palacios,Dieter Villalpando,56,-1,0
+15352954,2026-02-02,Everton de Viña del Mar,2059827.0,Amaro Leon,Braian Martínez,56,-1,0
+15352954,2026-02-02,Everton de Viña del Mar,988143.0,Cristopher Barrera,Julián Alfaro,80,-1,0
+15352954,2026-02-02,Unión La Calera,1403421.0,Axel Encinas,Joaquín Soto,59,1,0
+15352954,2026-02-02,Unión La Calera,822444.0,Yerko Leiva,Bayron Oyarzo,59,1,0
+15352954,2026-02-02,Unión La Calera,924528.0,Matías Campos López,Francisco Jose Pozzo,72,1,0
+15352954,2026-02-02,Unión La Calera,822449.0,Camilo Moya,Sebastián Sáez,85,1,0
+15352955,2026-02-08,Universidad Católica,588796.0,Jimmy Martínez,Eugenio Mena,46,0,2
+15352955,2026-02-08,Universidad Católica,1981780.0,Nicolás L'Huiller,Justo Giani,82,2,0
+15352955,2026-02-08,Universidad Católica,819115.0,Jhojan Valencia,Matías Palavecino,82,2,0
+15352955,2026-02-08,Universidad Católica,906110.0,Diego Valencia,Cristián Cuevas,90,2,0
+15352955,2026-02-08,Universidad Católica,581774.0,Agustín Farías,Gary Medel,90,2,0
+15352955,2026-02-08,Deportes Concepción,1125898.0,Ángel Gillard,Aldrix Jara,57,-1,-1
+15352955,2026-02-08,Deportes Concepción,589548.0,Nelson Sepúlveda,Mario Sandoval,57,-1,-1
+15352955,2026-02-08,Deportes Concepción,247079.0,Carlos Escobar,Ethan Espinoza,75,-2,0
+15352955,2026-02-08,Deportes Concepción,1482455.0,Leenhan Romero,Mauricio Vera,75,-2,0
+15352955,2026-02-08,Deportes Concepción,939938.0,Ariel Cáceres,Brayan Véjar,75,-2,0
+15352957,2026-02-15,Colo-Colo,1601711.0,Leandro Hernández,Javier Correa,24,0,1
+15352957,2026-02-15,Colo-Colo,973993.0,Erick Wiemberg,Diego Ulloa,46,0,1
+15352957,2026-02-15,Colo-Colo,889502.0,Álvaro Madrid,Claudio Aquino,64,0,1
+15352957,2026-02-15,Colo-Colo,1482420.0,Francisco Marchant,Tomás Alarcón,64,0,1
+15352957,2026-02-15,Colo-Colo,1997136.0,Yastin Cuevas,Arturo Vidal,73,0,1
+15352957,2026-02-15,Unión La Calera,1017169.0,Javier Saldías,Cristián Gutiérrez,58,0,-1
+15352957,2026-02-15,Unión La Calera,822449.0,Camilo Moya,Joaquín Soto,58,0,-1
+15352957,2026-02-15,Unión La Calera,924528.0,Matías Campos López,Francisco Jose Pozzo,68,0,-1
+15352957,2026-02-15,Unión La Calera,822444.0,Yerko Leiva,Bayron Oyarzo,79,0,-1
+15352958,2026-01-31,Cobresal,818865.0,Guillermo Pacheco,Rodrigo Sandoval,73,1,0
+15352958,2026-01-31,Cobresal,962847.0,Esteban Valencia,César Yanis,73,1,0
+15352958,2026-01-31,Cobresal,1872533.0,Sergio Carrasco,Steffan Pino,80,1,0
+15352958,2026-01-31,Cobresal,1835778.0,Benjamín Ramírez,Julián Brea,80,1,0
+15352958,2026-01-31,Cobresal,1973053.0,Benjamín Valenzuela,Bryan Carvallo,80,1,0
+15352958,2026-01-31,Huachipato,988146.0,Cristian Toro,Maicol León,46,-1,0
+15352958,2026-01-31,Huachipato,1017455.0,Ezequiel Cañete,Claudio Sepúlveda,62,-1,0
+15352958,2026-01-31,Huachipato,1656140.0,Javier Nicolás Cárcamo,Nicolás Vargas,62,-1,0
+15352958,2026-01-31,Huachipato,940483.0,Maximiliano Rodríguez,Lucas Velásquez,67,-1,0
+15352958,2026-01-31,Huachipato,1177673.0,Kevin Altez,Santiago Silva,72,-1,0
+15352959,2026-02-13,Everton de Viña del Mar,1199239.0,Emiliano Ramos,Nicolás Baeza,60,-2,-1
+15352959,2026-02-13,Everton de Viña del Mar,2462954.0,Ricardo Rebolledo,Dieter Villalpando,61,-2,-1
+15352959,2026-02-13,Everton de Viña del Mar,1384618.0,Byron Navarro,Vicente Fernández,68,-2,-1
+15352959,2026-02-13,Everton de Viña del Mar,1020255.0,Braian Martínez,Julián Alfaro,68,-2,-1
+15352959,2026-02-13,Everton de Viña del Mar,1469553.0,Martín Cárcamo,Cristian Palacios,68,-2,-1
+15352959,2026-02-13,Huachipato,1108721.0,Maicol León,Javier Nicolás Cárcamo,46,0,3
+15352959,2026-02-13,Huachipato,1177673.0,Kevin Altez,Maximiliano Gutiérrez,80,2,1
+15352959,2026-02-13,Huachipato,1108549.0,Claudio Torres,Lionel Altamirano,80,2,1
+15352959,2026-02-13,Huachipato,845174.0,Mario Briceño,Maximiliano Rodríguez,86,2,1
+15352959,2026-02-13,Huachipato,1106831.0,José Ignacio Castro,Lucas Velásquez,86,2,1
+15352960,2026-02-14,Deportes La Serena,986598.0,Joaquín Gutiérrez,Bruno Gutiérrez,70,0,-1
+15352960,2026-02-14,Deportes La Serena,1875021.0,Bastián Contreras,Jeisson Vargas,70,0,-1
+15352960,2026-02-14,Deportes La Serena,874589.0,Matías Marín,Diego Rubio,70,0,-1
+15352960,2026-02-14,Deportes La Serena,799653.0,Rafael Delgado,Francis Mac Allister,86,-1,0
+15352960,2026-02-14,Coquimbo Unido,1108027.0,Alejandro Azócar,Luis Riveros,60,0,1
+15352960,2026-02-14,Coquimbo Unido,1643443.0,Nicolás Johansen,Lucas Pratto,67,0,1
+15352960,2026-02-14,Coquimbo Unido,1834686.0,Martín Mundaca,Benjamín Chandía,84,1,0
+15352960,2026-02-14,Coquimbo Unido,889043.0,Rodrigo Holgado,Guido Vadalá,85,1,0
+15352960,2026-02-14,Coquimbo Unido,981333.0,Dylan Glaby,Alejandro Camargo,85,1,0
+15352961,2026-02-15,Universidad de Concepción,906102.0,Yerco Oyanedel,Antonio Díaz,46,-1,2
+15352961,2026-02-15,Universidad de Concepción,965719.0,Ariel Uribe,Agustín Urzi,68,0,1
+15352961,2026-02-15,Universidad de Concepción,986609.0,Jorge Espejo,Pablo Parra,79,1,0
+15352961,2026-02-15,Universidad de Concepción,1125882.0,Harol Salgado,Cecilio Waterman,90,1,0
+15352961,2026-02-15,Universidad de Concepción,883483.0,Moisés González,Jeison Fuentealba,90,1,0
+15352961,2026-02-15,Deportes Concepción,1482455.0,Leenhan Romero,Aldrix Jara,60,0,-1
+15352961,2026-02-15,Deportes Concepción,924468.0,Matías Cavalleri,Ethan Espinoza,73,-1,0
+15352961,2026-02-15,Deportes Concepción,312318.0,Brayan Véjar,Javier Rojas,73,-1,0
+15352961,2026-02-15,Deportes Concepción,1125898.0,Ángel Gillard,Leonardo Valencia,73,-1,0
+15352961,2026-02-15,Deportes Concepción,247079.0,Carlos Escobar,Mario Sandoval,87,-1,0
+15352962,2026-02-20,Deportes Concepción,986529.0,Ethan Espinoza,Carlos Escobar,63,0,0
+15352962,2026-02-20,Deportes Concepción,22973.0,Cristián Suárez,Fausto Grillo,65,0,0
+15352962,2026-02-20,Deportes Concepción,1125898.0,Ángel Gillard,Ignacio Mesías,80,0,0
+15352962,2026-02-20,Deportes Concepción,986422.0,Aldrix Jara,Leonardo Valencia,80,0,0
+15352962,2026-02-20,Deportes Concepción,991004.0,Mario Sandoval,Misael Dávila,80,0,0
+15352962,2026-02-20,Cobresal,818865.0,Guillermo Pacheco,Benjamín Valenzuela,46,0,0
+15352962,2026-02-20,Cobresal,937101.0,Steffan Pino,Matias Sepulveda,46,0,0
+15352962,2026-02-20,Cobresal,962847.0,Esteban Valencia,Julián Brea,74,0,0
+15352962,2026-02-20,Cobresal,385990.0,Juan Fuentes,Bryan Carvallo,85,1,-1
+15352963,2026-02-15,Ñublense,1518443.0,Franco Rami,Ignacio Jeraldino,60,1,0
+15352963,2026-02-15,Ñublense,1125913.0,Diego Sanhueza,Gabriel Graciani,61,1,0
+15352963,2026-02-15,Ñublense,986676.0,Matías Plaza,Lucas Molina,61,1,0
+15352963,2026-02-15,Ñublense,1197415.0,Alex Valdés,Ignacio Tapia,72,1,0
+15352963,2026-02-15,Ñublense,863129.0,Sebastián Valencia,Jovany Campusano,76,1,0
+15352963,2026-02-15,Audax Italiano,1114520.0,Paolo Guajardo,Michael Vadulli,43,0,-1
+15352963,2026-02-15,Audax Italiano,859990.0,Franco Troyansky,Diego Coelho,46,-1,0
+15352963,2026-02-15,Audax Italiano,1485094.0,Giovani Chiaverano,Rodrigo Cabral,46,-1,0
+15352963,2026-02-15,Audax Italiano,1997135.0,Martín Jiménez,Marcelo Ortíz,78,-1,0
+15352963,2026-02-15,Audax Italiano,1440662.0,Favian Loyola,Federico Mateos,78,-1,0
+15352964,2026-02-09,Unión La Calera,822444.0,Yerko Leiva,Joaquín Soto,62,2,0
+15352964,2026-02-09,Unión La Calera,1403421.0,Axel Encinas,Bayron Oyarzo,69,2,0
+15352964,2026-02-09,Unión La Calera,822449.0,Camilo Moya,Sebastián Sáez,69,2,0
+15352964,2026-02-09,Unión La Calera,924528.0,Matías Campos López,Francisco Jose Pozzo,80,2,0
+15352964,2026-02-09,Unión La Calera,819005.0,Cristián Gutiérrez,Juan Manuel Requena,80,2,0
+15352964,2026-02-09,Cobresal,1411683.0,Renato Huerta,Juan Fuentes,45,-2,0
+15352965,2026-01-31,Deportes Limache,1199394.0,Axel Alfonzo,Joaquín Montecinos,72,3,-1
+15352965,2026-01-31,Deportes Limache,877098.0,Danilo Catalán,Marcelo Flores,81,3,-1
+15352965,2026-01-31,Deportes Limache,1644853.0,Flavio Moya,Jean Meneses,85,2,0
+15352965,2026-01-31,Deportes Limache,863124.0,Misael Llantén,César Pinares,85,2,0
+15352965,2026-01-31,Deportes Limache,871813.0,Marcos Arturia,Gonzalo Sosa,85,2,0
+15352965,2026-01-31,Colo-Colo,340455.0,Claudio Aquino,Leandro Hernández,46,-3,1
+15352965,2026-01-31,Colo-Colo,1997136.0,Yastin Cuevas,Francisco Marchant,46,-3,1
+15352965,2026-01-31,Colo-Colo,1022259.0,Jeyson Rojas,Matías Fernández,66,-3,1
+15352965,2026-01-31,Colo-Colo,1002936.0,Cristian Riquelme,Erick Wiemberg,75,-3,1
+15352966,2026-01-30,Universidad de Chile,1482412.0,Ignacio Vásquez,Lucas Romero,46,0,0
+15352966,2026-01-30,Universidad de Chile,359024.0,Juan Martín Lucero,Octavio Rivero,72,0,0
+15352966,2026-01-30,Universidad de Chile,589542.0,Israel Poblete,Javier Altamirano,89,0,0
+15352966,2026-01-30,Universidad de Chile,831012.0,Nicolás Ramírez,Maximiliano Guerrero,89,0,0
+15352966,2026-01-30,Universidad de Chile,37006.0,Eduardo Vargas,Lucas Assadi,90,0,0
+15352966,2026-01-30,Audax Italiano,986532.0,Federico Mateos,Martín Jiménez,46,0,0
+15352966,2026-01-30,Audax Italiano,1485094.0,Giovani Chiaverano,Rodrigo Cabral,80,0,0
+15352966,2026-01-30,Audax Italiano,859990.0,Franco Troyansky,Diego Coelho,89,0,0
+15352966,2026-01-30,Audax Italiano,1440662.0,Favian Loyola,Michael Vadulli,89,0,0
+15352967,2026-02-21,Universidad Católica,1982597.0,Vicente Cárcamo,Diego Corral,77,2,0
+15352967,2026-02-21,Universidad Católica,819115.0,Jhojan Valencia,Matías Palavecino,77,2,0
+15352967,2026-02-21,Universidad Católica,906110.0,Diego Valencia,Jimmy Martínez,87,2,0
+15352967,2026-02-21,Universidad Católica,117430.0,Eugenio Mena,Cristián Cuevas,89,2,0
+15352967,2026-02-21,Coquimbo Unido,829288.0,Salvador Cordero,Dylan Glaby,57,-1,-1
+15352967,2026-02-21,Coquimbo Unido,889043.0,Rodrigo Holgado,Lucas Pratto,57,-1,-1
+15352967,2026-02-21,Coquimbo Unido,974008.0,Sebastián Cabrera,Benjamín Chandía,71,-2,0
+15352967,2026-02-21,Coquimbo Unido,986513.0,Dylan Escobar,Luis Riveros,71,-2,0
+15352967,2026-02-21,Coquimbo Unido,1108027.0,Alejandro Azócar,Guido Vadalá,79,-2,0
+15352968,2026-02-22,Audax Italiano,1440662.0,Favian Loyola,Paolo Guajardo,57,0,1
+15352968,2026-02-22,Audax Italiano,1920586.0,Mario Sandoval,Nicolás Aedo,74,1,0
+15352968,2026-02-22,Audax Italiano,859990.0,Franco Troyansky,Rodrigo Cabral,74,1,0
+15352968,2026-02-22,Audax Italiano,1473443.0,Diego Monreal,Federico Mateos,82,1,0
+15352968,2026-02-22,Audax Italiano,906112.0,Oliver Rojas,Giovani Chiaverano,82,1,0
+15352968,2026-02-22,Everton de Viña del Mar,1119679.0,Lucas Soto,Cristopher Barrera,61,0,-1
+15352968,2026-02-22,Everton de Viña del Mar,1469553.0,Martín Cárcamo,Julián Alfaro,70,-1,0
+15352968,2026-02-22,Everton de Viña del Mar,1020255.0,Braian Martínez,Vicente Vega,83,-1,0
+15352968,2026-02-22,Everton de Viña del Mar,2059827.0,Amaro Leon,Emiliano Ramos,84,-1,0
+15352969,2026-02-07,Coquimbo Unido,889498.0,Manuel Fernández,Dixon Pereira,45,2,0
+15352969,2026-02-07,Coquimbo Unido,1125880.0,Benjamín Chandía,Lucas Pratto,60,2,0
+15352969,2026-02-07,Coquimbo Unido,981333.0,Dylan Glaby,Alejandro Camargo,60,2,0
+15352969,2026-02-07,Coquimbo Unido,1643443.0,Nicolás Johansen,Luis Riveros,67,2,0
+15352969,2026-02-07,Coquimbo Unido,974008.0,Sebastián Cabrera,Guido Vadalá,67,2,0
+15352969,2026-02-07,Palestino,883928.0,Nelson Da Silva,Jonathan Benítez,46,-2,0
+15352969,2026-02-07,Palestino,105971.0,Enzo Roco,Antonio Ceza,46,-2,0
+15352969,2026-02-07,Palestino,1125923.0,Gonzalo Tapia,Francisco Montes,46,-2,0
+15352969,2026-02-07,Palestino,1017320.0,Jason León,Ian Garguez,46,-2,0
+15352969,2026-02-07,Palestino,1985127.0,Ian Alegría,Bryan Carrasco,71,-2,0
+15352969,2026-02-07,Palestino,,?,Ronnie Fernández,90,-2,0
+15352970,2026-02-21,O'Higgins,1798260.0,Joaquín Tapia,Francisco González,60,-1,0
+15352970,2026-02-21,O'Higgins,126376.0,Bryan Rabello,Martín Sarrafiore,60,-1,0
+15352970,2026-02-21,O'Higgins,2038202.0,Rodrigo Godoy,Bastián Yáñez,76,-1,0
+15352970,2026-02-21,O'Higgins,1485083.0,Benjamin Schamine,Felipe Ogaz,76,-1,0
+15352970,2026-02-21,O'Higgins,923802.0,Thiago Vecino,Arnaldo Castillo,79,-1,0
+15352970,2026-02-21,Colo-Colo,1199243.0,Lautaro Pastrán,Leandro Hernández,67,1,0
+15352970,2026-02-21,Colo-Colo,1482420.0,Francisco Marchant,Claudio Aquino,79,1,0
+15352970,2026-02-21,Colo-Colo,889502.0,Álvaro Madrid,Arturo Vidal,79,1,0
+15352970,2026-02-21,Colo-Colo,924858.0,Javier Méndez,Maximiliano Romero,89,1,0
+15352970,2026-02-21,Colo-Colo,1997136.0,Yastin Cuevas,Tomás Alarcón,90,1,0
+15352971,2026-02-08,Ñublense,951278.0,Manuel Rivera,Diego Sanhueza,46,-1,1
+15352971,2026-02-08,Ñublense,949422.0,Carlos Salomón,Pablo Calderón,65,0,0
+15352971,2026-02-08,Ñublense,1197415.0,Alex Valdés,Ignacio Tapia,65,0,0
+15352971,2026-02-08,Ñublense,962130.0,Fernando Ovelar,Matías Plaza,70,0,0
+15352971,2026-02-08,Ñublense,1518443.0,Franco Rami,Ignacio Jeraldino,80,0,0
+15352971,2026-02-08,Deportes Limache,1199394.0,Axel Alfonzo,Joaquín Montecinos,65,0,0
+15352971,2026-02-08,Deportes Limache,247073.0,César Fuentes,César Pinares,82,0,0
+15352971,2026-02-08,Deportes Limache,871813.0,Marcos Arturia,Daniel Castro,90,0,0
+15352972,2026-02-01,Palestino,1125923.0,Gonzalo Tapia,Joe Abrigo,46,1,-1
+15352972,2026-02-01,Palestino,1017320.0,Jason León,Jonathan Benítez,57,1,-1
+15352972,2026-02-01,Palestino,883928.0,Nelson Da Silva,Ronnie Fernández,79,0,0
+15352972,2026-02-01,Palestino,1386875.0,Dilan Salgado,Bryan Carrasco,80,0,0
+15352972,2026-02-01,Ñublense,1118269.0,Ignacio Tapia,Gabriel Graciani,58,-1,1
+15352972,2026-02-01,Ñublense,973992.0,Diego Céspedes,Manuel Rivera,59,-1,1
+15352972,2026-02-01,Ñublense,1518443.0,Franco Rami,Lucas Molina,59,-1,1
+15352972,2026-02-01,Ñublense,962130.0,Fernando Ovelar,Ignacio Jeraldino,77,0,0
+15352972,2026-02-01,Ñublense,1981750.0,Daniel Saavedra,Matías Plaza,82,0,0
+15352973,2026-02-21,Huachipato,988078.0,Harold Antiñirre,José Ignacio Castro,45,-1,2
+15352973,2026-02-21,Huachipato,1017455.0,Ezequiel Cañete,Javier Nicolás Cárcamo,46,-1,2
+15352973,2026-02-21,Huachipato,249373.0,Claudio Sepúlveda,Santiago Silva,53,-1,2
+15352973,2026-02-21,Huachipato,845174.0,Mario Briceño,Benjamín Mellado,53,-1,2
+15352973,2026-02-21,Huachipato,323439.0,Lionel Altamirano,Kevin Altez,79,0,1
+15352973,2026-02-21,Palestino,1797930.0,Francisco Montes,Gonzalo Tapia,68,0,-1
+15352973,2026-02-21,Palestino,230054.0,Bryan Carrasco,Ian Garguez,68,0,-1
+15352973,2026-02-21,Palestino,819017.0,Jonathan Benítez,Jason León,68,0,-1
+15352973,2026-02-21,Palestino,2456021.0,Albert Gomez,Sebastián Gallegos,87,-1,0
+15352973,2026-02-21,Palestino,1064150.0,Nicolás Meza,Julián Fernández,87,-1,0
+15352974,2026-02-08,Huachipato,1106831.0,José Ignacio Castro,Maximiliano Rodríguez,71,0,1
+15352974,2026-02-08,Huachipato,1108721.0,Maicol León,Lucas Velásquez,71,0,1
+15352974,2026-02-08,Huachipato,1656140.0,Javier Nicolás Cárcamo,Nicolás Vargas,84,1,0
+15352974,2026-02-08,Huachipato,1108549.0,Claudio Torres,Ezequiel Cañete,84,1,0
+15352974,2026-02-08,Huachipato,2038211.0,Sebastián Melgarejo,Maximiliano Gutiérrez,90,1,0
+15352974,2026-02-08,Universidad de Chile,1087387.0,Marcelo Morales,Diego Vargas,59,0,-1
+15352974,2026-02-08,Universidad de Chile,906105.0,Maximiliano Guerrero,Javier Altamirano,59,0,-1
+15352974,2026-02-08,Universidad de Chile,1482412.0,Ignacio Vásquez,Nicolás Ramírez,84,-1,0
+15352975,2026-02-20,Unión La Calera,822444.0,Yerko Leiva,Kevin Méndez,63,0,-1
+15352975,2026-02-20,Unión La Calera,1403421.0,Axel Encinas,Joaquín Soto,63,0,-1
+15352975,2026-02-20,Unión La Calera,861299.0,Carlo Villanueva,Bayron Oyarzo,88,0,-1
+15352975,2026-02-20,Unión La Calera,924528.0,Matías Campos López,Francisco Jose Pozzo,88,0,-1
+15352975,2026-02-20,Ñublense,1125913.0,Diego Sanhueza,Gabriel Graciani,63,0,1
+15352975,2026-02-20,Ñublense,1518443.0,Franco Rami,Ignacio Jeraldino,63,0,1
+15352975,2026-02-20,Ñublense,1396682.0,Lucas Molina,Matías Plaza,71,0,1
+15352975,2026-02-20,Ñublense,949422.0,Carlos Salomón,Manuel Rivera,81,0,1
+15352975,2026-02-20,Ñublense,962130.0,Fernando Ovelar,Alex Valdés,81,0,1
+15352976,2026-02-07,Colo-Colo,889502.0,Álvaro Madrid,Tomás Alarcón,61,0,2
+15352976,2026-02-07,Colo-Colo,1482420.0,Francisco Marchant,Maximiliano Romero,70,0,2
+15352976,2026-02-07,Colo-Colo,1601711.0,Leandro Hernández,Arturo Vidal,70,0,2
+15352976,2026-02-07,Colo-Colo,1997136.0,Yastin Cuevas,Claudio Aquino,79,0,2
+15352976,2026-02-07,Everton de Viña del Mar,1199239.0,Emiliano Ramos,Alan Medina,57,0,-2
+15352976,2026-02-07,Everton de Viña del Mar,800239.0,Dieter Villalpando,Nicolás Baeza,57,0,-2
+15352976,2026-02-07,Everton de Viña del Mar,1384618.0,Byron Navarro,Julián Alfaro,70,0,-2
+15352976,2026-02-07,Everton de Viña del Mar,1020255.0,Braian Martínez,Cristian Palacios,74,0,-2
+15352976,2026-02-07,Everton de Viña del Mar,2039913.0,Martín Guzmán,Vicente Vega,75,0,-2
+15352977,2026-02-22,Deportes La Serena,1089454.0,Francis Mac Allister,Sebastián Díaz,55,0,0
+15352977,2026-02-22,Deportes La Serena,874589.0,Matías Marín,Diego Rubio,71,0,0
+15352977,2026-02-22,Deportes La Serena,582220.0,Nicolás Stefanelli,Felipe Chamorro,90,0,0
+15352977,2026-02-22,Deportes La Serena,1155908.0,Matías Pinto,Joaquín Gutiérrez,90,0,0
+15352977,2026-02-22,Universidad de Concepción,986462.0,Bryan Ogaz,Agustín Urzi,59,0,0
+15352977,2026-02-22,Universidad de Concepción,2199269.0,Benjamín Sáez,Esteban Páez,65,0,0
+15352977,2026-02-22,Universidad de Concepción,906108.0,Antonio Díaz,Harol Salgado,76,0,0
+15352977,2026-02-22,Universidad de Concepción,2455393.0,Francisco Herrera,Jeison Fuentealba,76,0,0
+15352978,2026-03-01,Ñublense,1197415.0,Alex Valdés,Matías Plaza,46,0,-1
+15352978,2026-03-01,Ñublense,962130.0,Fernando Ovelar,Ignacio Jeraldino,59,0,-1
+15352978,2026-03-01,Ñublense,333405.0,Felipe Campos,Gabriel Graciani,67,0,-1
+15352978,2026-03-01,Ñublense,1503119.0,Giovanny Avalos,Franco Rami,87,0,-1
+15352978,2026-03-01,Ñublense,949422.0,Carlos Salomón,Manuel Rivera,87,0,-1
+15352978,2026-03-01,Universidad Católica,906110.0,Diego Valencia,Diego Corral,29,-1,2
+15352978,2026-03-01,Universidad Católica,973560.0,Matías Palavecino,Jhojan Valencia,67,0,1
+15352978,2026-03-01,Universidad Católica,1016766.0,Alfred Canales,Jimmy Martínez,78,0,1
+15352978,2026-03-01,Universidad Católica,818693.0,Bernardo Cerezo,Tomás Asta-Buruaga,79,0,1
+15352979,2026-03-01,Colo-Colo,1199243.0,Lautaro Pastrán,Maximiliano Romero,66,0,-1
+15352979,2026-03-01,Colo-Colo,889502.0,Álvaro Madrid,Arturo Vidal,67,0,-1
+15352979,2026-03-01,Colo-Colo,1601711.0,Leandro Hernández,Claudio Aquino,67,0,-1
+15352979,2026-03-01,Colo-Colo,1997136.0,Yastin Cuevas,Tomás Alarcón,80,-1,0
+15352979,2026-03-01,Colo-Colo,1482420.0,Francisco Marchant,Diego Ulloa,85,-1,0
+15352979,2026-03-01,Universidad de Chile,906105.0,Maximiliano Guerrero,Eduardo Vargas,61,0,1
+15352979,2026-03-01,Universidad de Chile,1138070.0,Felipe Salomoni,Marcelo Morales,72,1,0
+15352979,2026-03-01,Universidad de Chile,1201172.0,Lucas Romero,Javier Altamirano,84,1,0
+15352980,2026-02-27,Cobresal,1835777.0,Benjamin Moreno,Juan Fuentes,46,-1,0
+15352980,2026-02-27,Cobresal,1411683.0,Renato Huerta,Julián Brea,46,-1,0
+15352980,2026-02-27,Cobresal,962847.0,Esteban Valencia,César Yanis,46,-1,0
+15352980,2026-02-27,Cobresal,1086986.0,Franco Frías,Agustin Nadruz,82,-1,0
+15352980,2026-02-27,Deportes La Serena,582220.0,Nicolás Stefanelli,Joaquín Gutiérrez,71,1,0
+15352980,2026-02-27,Deportes La Serena,1807803.0,Joan Orellana,Francis Mac Allister,82,1,0
+15352980,2026-02-27,Deportes La Serena,1875021.0,Bastián Contreras,Diego Rubio,87,1,0
+15352980,2026-02-27,Deportes La Serena,2455976.0,Bastián Sandoval,Felipe Chamorro,88,1,0
+15352981,2026-03-01,Universidad de Concepción,2163290.0,Cristobal Zambrano,Ariel Uribe,46,-2,-1
+15352981,2026-03-01,Universidad de Concepción,1183778.0,Daniel Barrea,Cristhofer Mesías,46,-2,-1
+15352981,2026-03-01,Universidad de Concepción,1125882.0,Harol Salgado,Agustín Urzi,46,-2,-1
+15352981,2026-03-01,Universidad de Concepción,2455393.0,Francisco Herrera,Jeison Fuentealba,65,-3,0
+15352981,2026-03-01,Everton de Viña del Mar,1199239.0,Emiliano Ramos,Braian Martínez,46,2,1
+15352981,2026-03-01,Everton de Viña del Mar,1119679.0,Lucas Soto,Julián Alfaro,46,2,1
+15352981,2026-03-01,Everton de Viña del Mar,862702.0,Nicolás Baeza,Cristian Palacios,69,3,0
+15352981,2026-03-01,Everton de Viña del Mar,1469553.0,Martín Cárcamo,Vicente Fernández,74,3,0
+15352981,2026-03-01,Everton de Viña del Mar,2059827.0,Amaro Leon,Joaquín Moya,85,3,0
+15352982,2026-02-28,Coquimbo Unido,889043.0,Rodrigo Holgado,Lucas Pratto,46,-1,0
+15352982,2026-02-28,Coquimbo Unido,829288.0,Salvador Cordero,Dylan Glaby,46,-1,0
+15352982,2026-02-28,Coquimbo Unido,1643443.0,Nicolás Johansen,Luis Riveros,64,-1,0
+15352982,2026-02-28,Coquimbo Unido,1834686.0,Martín Mundaca,Benjamín Chandía,72,-1,0
+15352982,2026-02-28,Coquimbo Unido,1981736.0,Vicente Villegas,Alejandro Camargo,90,-1,0
+15352982,2026-02-28,Deportes Concepción,986422.0,Aldrix Jara,Ignacio Mesías,67,1,0
+15352982,2026-02-28,Deportes Concepción,1197454.0,Yonathan Rodríguez,Jorge Henríquez,67,1,0
+15352982,2026-02-28,Deportes Concepción,924468.0,Matías Cavalleri,Ángel Gillard,80,1,0
+15352982,2026-02-28,Deportes Concepción,986529.0,Ethan Espinoza,Leonardo Valencia,87,1,0
+15352983,2026-02-27,Unión La Calera,822449.0,Camilo Moya,Carlo Villanueva,59,1,2
+15352983,2026-02-27,Unión La Calera,1017169.0,Javier Saldías,Christopher Díaz,59,1,2
+15352983,2026-02-27,Unión La Calera,1190022.0,Joaquín Soto,Axel Encinas,85,2,1
+15352983,2026-02-27,Unión La Calera,1002941.0,Joan Cruz,Yerko Leiva,85,2,1
+15352983,2026-02-27,Unión La Calera,1523685.0,Francisco Jose Pozzo,Sebastián Sáez,90,2,1
+15352983,2026-02-27,Audax Italiano,997539.0,Rodrigo Cabral,Giovani Chiaverano,46,-1,-2
+15352983,2026-02-27,Audax Italiano,1114520.0,Paolo Guajardo,Martín Jiménez,46,-1,-2
+15352983,2026-02-27,Audax Italiano,986532.0,Federico Mateos,Marco Collao,46,-1,-2
+15352983,2026-02-27,Audax Italiano,1083863.0,Nicolás Aedo,Esteban Matus,69,-1,-2
+15352983,2026-02-27,Audax Italiano,875274.0,Diego Coelho,Enzo Ferrario,81,-2,-1
+15352984,2026-02-07,O'Higgins,942415.0,Bastián Yáñez,Martín Sarrafiore,67,0,1
+15352984,2026-02-07,O'Higgins,1411686.0,Martín Maturana,Juan Leiva,79,0,1
+15352984,2026-02-07,O'Higgins,923802.0,Thiago Vecino,Arnaldo Castillo,80,0,1
+15352984,2026-02-07,O'Higgins,1485083.0,Benjamin Schamine,Bryan Rabello,90,1,0
+15352984,2026-02-07,Deportes La Serena,1002931.0,Bruno Gutiérrez,Rafael Delgado,55,0,-1
+15352984,2026-02-07,Deportes La Serena,2455976.0,Bastián Sandoval,Diego Rubio,72,0,-1
+15352984,2026-02-07,Deportes La Serena,1502658.0,Fernando Dinamarca,Lucas Alarcón,72,0,-1
+15352984,2026-02-07,Deportes La Serena,1063335.0,Felipe Chamorro,Bastián Contreras,81,0,-1
+15352984,2026-02-07,Deportes La Serena,1807803.0,Joan Orellana,Francis Mac Allister,81,0,-1
+15352985,2026-02-28,Deportes Limache,863124.0,Misael Llantén,Flavio Moya,46,1,2
+15352985,2026-02-28,Deportes Limache,1199394.0,Axel Alfonzo,Joaquín Montecinos,62,2,1
+15352985,2026-02-28,Deportes Limache,871813.0,Marcos Arturia,Gonzalo Sosa,76,2,1
+15352985,2026-02-28,Deportes Limache,1125514.0,Carlos Morales,Yerko González,83,2,1
+15352985,2026-02-28,Deportes Limache,1801194.0,Vicente Álvarez,Daniel Castro,83,2,1
+15352985,2026-02-28,Huachipato,851968.0,Cris Martínez,Lucas Velásquez,46,-1,-2
+15352985,2026-02-28,Huachipato,1017455.0,Ezequiel Cañete,Kevin Altez,46,-1,-2
+15352985,2026-02-28,Huachipato,845174.0,Mario Briceño,Lionel Altamirano,60,-2,-1
+15352985,2026-02-28,Huachipato,1108549.0,Claudio Torres,Santiago Silva,61,-2,-1
+15352985,2026-02-28,Huachipato,1014798.0,Luciano Arriagada,Maicol León,74,-2,-1
+15352986,2026-02-28,Palestino,33943.0,Fernando Meza,José Bizama,40,1,1
+15352986,2026-02-28,Palestino,230054.0,Bryan Carrasco,Martín Araya,57,1,1
+15352986,2026-02-28,Palestino,931341.0,César Munder,Jonathan Benítez,57,1,1
+15352986,2026-02-28,Palestino,1064150.0,Nicolás Meza,Julián Fernández,66,1,1
+15352986,2026-02-28,O'Higgins,1411686.0,Martín Maturana,Gabriel Pinto,61,-1,-1
+15352986,2026-02-28,O'Higgins,2038202.0,Rodrigo Godoy,Bastián Yáñez,70,-2,0
+15352986,2026-02-28,O'Higgins,849177.0,Arnaldo Castillo,Esteban Calderón,70,-2,0
+15352986,2026-02-28,O'Higgins,983528.0,Francisco González,Joaquín Tapia,70,-2,0
+15352987,2026-03-08,Palestino,1064150.0,Nicolás Meza,Francisco Montes,73,1,1
+15352987,2026-03-08,Palestino,230054.0,Bryan Carrasco,Martín Araya,73,1,1
+15352987,2026-03-08,Palestino,819017.0,Jonathan Benítez,César Munder,84,2,0
+15352987,2026-03-08,Palestino,1017320.0,Jason León,Dilan Zúñiga,85,2,0
+15352987,2026-03-08,Palestino,1125923.0,Gonzalo Tapia,Sebastián Gallegos,90,2,0
+15352987,2026-03-08,Cobresal,1021117.0,César Yanis,Juan Fuentes,46,-1,-1
+15352987,2026-03-08,Cobresal,790000.0,Bryan Carvallo,Benjamín Ramírez,46,-1,-1
+15352987,2026-03-08,Cobresal,1086986.0,Franco Frías,Christian Moreno,46,-1,-1
+15352987,2026-03-08,Cobresal,1016643.0,Aaron Astudillo,Rodrigo Sandoval,56,-1,-1
+15352988,2026-03-07,Audax Italiano,1485094.0,Giovani Chiaverano,Nicolás Aedo,60,-1,0
+15352988,2026-03-07,Audax Italiano,859990.0,Franco Troyansky,Diego Coelho,60,-1,0
+15352988,2026-03-07,Audax Italiano,1920586.0,Mario Sandoval,Marco Collao,74,-1,0
+15352988,2026-03-07,Audax Italiano,1997135.0,Martín Jiménez,Paolo Guajardo,83,-1,0
+15352988,2026-03-07,Audax Italiano,1440662.0,Favian Loyola,Enzo Ferrario,84,-1,0
+15352988,2026-03-07,Colo-Colo,1601711.0,Leandro Hernández,Lautaro Pastrán,46,1,0
+15352988,2026-03-07,Colo-Colo,973993.0,Erick Wiemberg,Diego Ulloa,69,1,0
+15352988,2026-03-07,Colo-Colo,581780.0,Javier Correa,Maximiliano Romero,77,1,0
+15352989,2026-03-07,O'Higgins,923802.0,Thiago Vecino,Arnaldo Castillo,46,1,0
+15352989,2026-03-07,O'Higgins,789677.0,Martín Sarrafiore,Juan Leiva,62,1,0
+15352989,2026-03-07,O'Higgins,1485083.0,Benjamin Schamine,Francisco González,62,1,0
+15352989,2026-03-07,O'Higgins,975291.0,Leandro Díaz,Luis Pavez Munoz,75,1,0
+15352989,2026-03-07,O'Higgins,1482408.0,Felipe Faúndez,Joaquín Tapia,75,1,0
+15352989,2026-03-07,Universidad Católica,973560.0,Matías Palavecino,Vicente Cárcamo,46,-1,0
+15352989,2026-03-07,Universidad Católica,995388.0,Clemente Montes,Jhojan Valencia,46,-1,0
+15352989,2026-03-07,Universidad Católica,818693.0,Bernardo Cerezo,Tomás Asta-Buruaga,67,-1,0
+15352989,2026-03-07,Universidad Católica,1016766.0,Alfred Canales,Jimmy Martínez,67,-1,0
+15352989,2026-03-07,Universidad Católica,2121648.0,Martín Gómez,Justo Giani,87,-1,0
+15352990,2026-03-07,Everton de Viña del Mar,1119679.0,Lucas Soto,Julián Alfaro,43,0,1
+15352990,2026-03-07,Everton de Viña del Mar,1199239.0,Emiliano Ramos,Braian Martínez,63,0,1
+15352990,2026-03-07,Everton de Viña del Mar,886915.0,Ramiro González,Vicente Fernández,80,1,0
+15352990,2026-03-07,Everton de Viña del Mar,1864232.0,Nicolás Montiel,Cristian Palacios,80,1,0
+15352990,2026-03-07,Deportes Limache,986599.0,Joaquín Montecinos,Vicente Álvarez,64,0,-1
+15352990,2026-03-07,Deportes Limache,863124.0,Misael Llantén,César Pinares,72,-1,0
+15352990,2026-03-07,Deportes Limache,871813.0,Marcos Arturia,Ramón Martínez,72,-1,0
+15352990,2026-03-07,Deportes Limache,1125514.0,Carlos Morales,Axel Alfonzo,80,-1,0
+15352991,2026-03-07,Huachipato,1177673.0,Kevin Altez,Ezequiel Cañete,57,-1,-1
+15352991,2026-03-07,Huachipato,988078.0,Harold Antiñirre,Lucas Velásquez,57,-1,-1
+15352991,2026-03-07,Huachipato,1108549.0,Claudio Torres,Cris Martínez,71,-1,-1
+15352991,2026-03-07,Huachipato,940483.0,Maximiliano Rodríguez,Mario Briceño,71,-1,-1
+15352991,2026-03-07,Huachipato,1014798.0,Luciano Arriagada,Maicol León,83,-2,0
+15352991,2026-03-07,Coquimbo Unido,829288.0,Salvador Cordero,Guido Vadalá,63,1,1
+15352991,2026-03-07,Coquimbo Unido,852143.0,Luis Riveros,Martín Mundaca,64,1,1
+15352991,2026-03-07,Coquimbo Unido,973986.0,Cristián Zavala,Alejandro Azócar,74,2,0
+15352991,2026-03-07,Coquimbo Unido,39244.0,Lucas Pratto,Nicolás Johansen,80,2,0
+15352992,2026-03-06,Deportes La Serena,582220.0,Nicolás Stefanelli,Joaquín Gutiérrez,64,2,1
+15352992,2026-03-06,Deportes La Serena,874589.0,Matías Marín,Felipe Chamorro,73,2,1
+15352992,2026-03-06,Deportes La Serena,1807803.0,Joan Orellana,Francis Mac Allister,90,3,0
+15352992,2026-03-06,Deportes La Serena,2046426.0,Cristóbal Sepúlveda,Diego Rubio,90,3,0
+15352992,2026-03-06,Unión La Calera,1523685.0,Francisco Jose Pozzo,Axel Encinas,60,-2,-1
+15352992,2026-03-06,Unión La Calera,1002941.0,Joan Cruz,Carlo Villanueva,60,-2,-1
+15352992,2026-03-06,Unión La Calera,1190022.0,Joaquín Soto,Camilo Moya,60,-2,-1
+15352992,2026-03-06,Unión La Calera,1017169.0,Javier Saldías,Cristián Gutiérrez,68,-2,-1
+15352992,2026-03-06,Unión La Calera,951277.0,Bayron Oyarzo,Christopher Díaz,85,-2,-1
+15352993,2026-03-06,Deportes Concepción,986529.0,Ethan Espinoza,Ignacio Mesías,46,-1,-1
+15352993,2026-03-06,Deportes Concepción,986422.0,Aldrix Jara,Misael Dávila,46,-1,-1
+15352993,2026-03-06,Deportes Concepción,1197454.0,Yonathan Rodríguez,Nelson Sepúlveda,46,-1,-1
+15352993,2026-03-06,Deportes Concepción,1125898.0,Ángel Gillard,Leonardo Valencia,82,-1,-1
+15352993,2026-03-06,Ñublense,1125913.0,Diego Sanhueza,Gabriel Graciani,69,1,1
+15352993,2026-03-06,Ñublense,986676.0,Matías Plaza,Giovanny Avalos,69,1,1
+15352993,2026-03-06,Ñublense,1518443.0,Franco Rami,Ignacio Jeraldino,75,1,1
+15352993,2026-03-06,Ñublense,1197415.0,Alex Valdés,Fernando Ovelar,83,1,1
+15352994,2026-03-14,Universidad Católica,995388.0,Clemente Montes,Jhojan Valencia,68,-1,1
+15352994,2026-03-14,Universidad Católica,906110.0,Diego Valencia,Matías Palavecino,87,0,0
+15352994,2026-03-14,Universidad Católica,117430.0,Eugenio Mena,Bernardo Cerezo,87,0,0
+15352994,2026-03-14,Everton de Viña del Mar,1385673.0,Valentín Vidal,Cristian Palacios,71,1,-1
+15352994,2026-03-14,Everton de Viña del Mar,1508614.0,Santiago Londoño,Lucas Soto,80,0,0
+15352994,2026-03-14,Everton de Viña del Mar,862702.0,Nicolás Baeza,Joaquín Moya,90,0,0
+15352994,2026-03-14,Everton de Viña del Mar,1864232.0,Nicolás Montiel,Diego Oyarzún,90,0,0
+15352995,2026-03-09,Universidad de Chile,1388813.0,Agustín Arce,Charles Aránguiz,27,0,0
+15352995,2026-03-09,Universidad de Chile,26480.0,Marcelo Díaz,Nicolás Ramírez,46,-1,1
+15352995,2026-03-09,Universidad de Chile,1482412.0,Ignacio Vásquez,Israel Poblete,82,0,0
+15352995,2026-03-09,Universidad de Chile,2145368.0,Martín Espinoza Pino,Javier Altamirano,88,0,0
+15352995,2026-03-09,Universidad de Concepción,965719.0,Ariel Uribe,Daniel Barrea,51,1,-1
+15352995,2026-03-09,Universidad de Concepción,973567.0,Pablo Parra,Jeison Fuentealba,67,0,0
+15352995,2026-03-09,Universidad de Concepción,986462.0,Bryan Ogaz,Agustín Urzi,83,0,0
+15352995,2026-03-09,Universidad de Concepción,1106822.0,Bastián Ubal,David Retamal,84,0,0
+15352996,2026-03-14,Coquimbo Unido,852143.0,Luis Riveros,Nicolás Johansen,46,0,-1
+15352996,2026-03-14,Coquimbo Unido,973986.0,Cristián Zavala,Martín Mundaca,58,0,-1
+15352996,2026-03-14,Coquimbo Unido,1125880.0,Benjamín Chandía,Alejandro Azócar,58,0,-1
+15352996,2026-03-14,Coquimbo Unido,39244.0,Lucas Pratto,Guido Vadalá,70,0,-1
+15352996,2026-03-14,Universidad de Chile,2331086.0,Jhon Cortes,Ignacio Vásquez,64,0,1
+15352996,2026-03-14,Universidad de Chile,1388813.0,Agustín Arce,Javier Altamirano,64,0,1
+15352996,2026-03-14,Universidad de Chile,1138070.0,Felipe Salomoni,Marcelo Morales,79,1,0
+15352996,2026-03-14,Universidad de Chile,889500.0,Nicolás Fernández,Maximiliano Guerrero,90,1,0
+15352997,2026-03-16,Colo-Colo,973993.0,Erick Wiemberg,Joaquín Sosa,35,0,2
+15352997,2026-03-16,Colo-Colo,340455.0,Claudio Aquino,Lautaro Pastrán,70,1,1
+15352997,2026-03-16,Colo-Colo,581780.0,Javier Correa,Maximiliano Romero,86,2,0
+15352997,2026-03-16,Colo-Colo,1601711.0,Leandro Hernández,Álvaro Madrid,86,2,0
+15352997,2026-03-16,Huachipato,1017455.0,Ezequiel Cañete,Cris Martínez,67,-1,-1
+15352997,2026-03-16,Huachipato,323439.0,Lionel Altamirano,Claudio Torres,67,-1,-1
+15352997,2026-03-16,Huachipato,988078.0,Harold Antiñirre,Nicolás Vargas,85,-2,0
+15352997,2026-03-16,Huachipato,1014798.0,Luciano Arriagada,Claudio Sepúlveda,85,-2,0
+15352997,2026-03-16,Huachipato,1484208.0,Juan Figueroa,Maximiliano Rodríguez,85,-2,0
+15352998,2026-03-15,Ñublense,1125913.0,Diego Sanhueza,Felipe Campos,58,-1,1
+15352998,2026-03-15,Ñublense,986676.0,Matías Plaza,Fernando Ovelar,58,-1,1
+15352998,2026-03-15,Ñublense,1197415.0,Alex Valdés,Giovanny Avalos,65,-1,1
+15352998,2026-03-15,Ñublense,973992.0,Diego Céspedes,Manuel Rivera,77,-1,1
+15352998,2026-03-15,Ñublense,1518443.0,Franco Rami,Ignacio Jeraldino,77,-1,1
+15352998,2026-03-15,Deportes La Serena,582220.0,Nicolás Stefanelli,Joaquín Gutiérrez,69,1,-1
+15352998,2026-03-15,Deportes La Serena,2455976.0,Bastián Sandoval,Diego Rubio,83,1,-1
+15352998,2026-03-15,Deportes La Serena,874589.0,Matías Marín,Jeisson Vargas,90,0,0
+15352999,2026-04-04,Deportes Limache,871813.0,Marcos Arturia,Gonzalo Sosa,69,2,2
+15352999,2026-04-04,Deportes Limache,863124.0,Misael Llantén,César Pinares,69,2,2
+15352999,2026-04-04,Deportes Limache,1801194.0,Vicente Álvarez,Joaquín Montecinos,81,3,1
+15352999,2026-04-04,Deportes Limache,1644853.0,Flavio Moya,Jean Meneses,81,3,1
+15352999,2026-04-04,Deportes Limache,1125514.0,Carlos Morales,Daniel Castro,81,3,1
+15352999,2026-04-04,Unión La Calera,1002941.0,Joan Cruz,Camilo Moya,46,-1,-3
+15352999,2026-04-04,Unión La Calera,819005.0,Cristián Gutiérrez,Joaquín Soto,65,-2,-2
+15352999,2026-04-04,Unión La Calera,924528.0,Matías Campos López,Kevin Méndez,65,-2,-2
+15352999,2026-04-04,Unión La Calera,1650043.0,Martín Hiriart,Bayron Oyarzo,89,-4,0
+15352999,2026-04-04,Unión La Calera,2496220.0,Benjamín Argandoña,Sebastián Sáez,89,-4,0
+15353000,2026-03-13,Audax Italiano,1920586.0,Mario Sandoval,Nicolás Aedo,46,3,0
+15353000,2026-03-13,Audax Italiano,1997135.0,Martín Jiménez,Paolo Guajardo,60,3,0
+15353000,2026-03-13,Audax Italiano,875274.0,Diego Coelho,Giovani Chiaverano,60,3,0
+15353000,2026-03-13,Audax Italiano,997539.0,Rodrigo Cabral,Franco Troyansky,72,3,0
+15353000,2026-03-13,Audax Italiano,1440662.0,Favian Loyola,Marco Collao,80,3,0
+15353000,2026-03-13,Deportes Concepción,589548.0,Nelson Sepúlveda,Mario Sandoval,12,-2,-1
+15353000,2026-03-13,Deportes Concepción,819072.0,Jorge Henríquez,Matías Cavalleri,46,-3,0
+15353000,2026-03-13,Deportes Concepción,1980392.0,Javier Rojas,Brayan Véjar,46,-3,0
+15353000,2026-03-13,Deportes Concepción,986529.0,Ethan Espinoza,Yonathan Rodríguez,78,-3,0
+15353000,2026-03-13,Deportes Concepción,1125898.0,Ángel Gillard,Joaquín Larrivey,78,-3,0
+15353001,2026-03-15,Universidad de Concepción,986462.0,Bryan Ogaz,Pablo Parra,70,0,1
+15353001,2026-03-15,Universidad de Concepción,1125882.0,Harol Salgado,Jorge Espejo,86,0,1
+15353001,2026-03-15,Universidad de Concepción,1982599.0,Martín Ramírez,Agustín Urzi,86,0,1
+15353001,2026-03-15,Universidad de Concepción,906108.0,Antonio Díaz,Jeison Fuentealba,90,1,0
+15353001,2026-03-15,Palestino,819017.0,Jonathan Benítez,Martín Araya,59,0,-1
+15353001,2026-03-15,Palestino,1064150.0,Nicolás Meza,Julián Fernández,80,0,-1
+15353001,2026-03-15,Palestino,230054.0,Bryan Carrasco,César Munder,80,0,-1
+15353002,2026-04-05,Universidad de Chile,2184978.0,Lucas Barrera,Lucas Romero,46,0,4
+15353002,2026-04-05,Universidad de Chile,1002939.0,Lucas Assadi,Ignacio Vásquez,58,2,2
+15353002,2026-04-05,Universidad de Chile,889500.0,Nicolás Fernández,Marcelo Morales,74,3,1
+15353002,2026-04-05,Universidad de Chile,1388813.0,Agustín Arce,Javier Altamirano,74,3,1
+15353002,2026-04-05,Universidad de Chile,26480.0,Marcelo Díaz,Israel Poblete,82,3,1
+15353002,2026-04-05,Deportes La Serena,2046426.0,Cristóbal Sepúlveda,Nicolás Stefanelli,61,-2,-2
+15353002,2026-04-05,Deportes La Serena,1980426.0,Milovan Velásquez,Jeisson Vargas,71,-3,-1
+15353002,2026-04-05,Deportes La Serena,844271.0,Sebastián Díaz,Matías Marín,71,-3,-1
+15353003,2026-04-11,Audax Italiano,912067.0,Michael Vadulli,Nicolás Aedo,46,-1,0
+15353003,2026-04-11,Audax Italiano,1114520.0,Paolo Guajardo,Franco Troyansky,69,0,-1
+15353003,2026-04-11,Audax Italiano,906112.0,Oliver Rojas,Giovani Chiaverano,78,0,-1
+15353003,2026-04-11,Audax Italiano,1440662.0,Favian Loyola,Raimundo Rebolledo,90,-1,0
+15353003,2026-04-11,Audax Italiano,875274.0,Diego Coelho,Federico Mateos,90,-1,0
+15353003,2026-04-11,Universidad Católica,324937.0,Cristián Cuevas,Nicolás L'Huiller,40,0,1
+15353003,2026-04-11,Universidad Católica,2058867.0,Sebastián Arancibia,Clemente Montes,57,0,1
+15353003,2026-04-11,Universidad Católica,588796.0,Jimmy Martínez,Matías Palavecino,57,0,1
+15353003,2026-04-11,Universidad Católica,1409361.0,Juan Francisco Rossel,Daniel González,79,0,1
+15353004,2026-04-04,Everton de Viña del Mar,862702.0,Nicolás Baeza,Vicente Fernández,44,0,0
+15353004,2026-04-04,Everton de Viña del Mar,956838.0,Julián Alfaro,Braian Martínez,74,0,0
+15353004,2026-04-04,Everton de Viña del Mar,1508614.0,Santiago Londoño,Nicolás Montiel,74,0,0
+15353004,2026-04-04,Everton de Viña del Mar,1385673.0,Valentín Vidal,Benjamín Berríos,86,0,0
+15353004,2026-04-04,Ñublense,1125913.0,Diego Sanhueza,Ignacio Tapia,57,0,0
+15353004,2026-04-04,Ñublense,986676.0,Matías Plaza,Giovanny Avalos,57,0,0
+15353004,2026-04-04,Ñublense,1518443.0,Franco Rami,Ignacio Jeraldino,57,0,0
+15353004,2026-04-04,Ñublense,962130.0,Fernando Ovelar,Manuel Rivera,76,0,0
+15353004,2026-04-04,Ñublense,973992.0,Diego Céspedes,Gabriel Graciani,86,0,0
+15353005,2026-03-15,Cobresal,987924.0,Antonio Castillo,Benjamín Ramírez,46,-3,0
+15353005,2026-03-15,Cobresal,1411683.0,Renato Huerta,César Yanis,46,-3,0
+15353005,2026-03-15,Cobresal,962847.0,Esteban Valencia,Bryan Carvallo,46,-3,0
+15353005,2026-03-15,Cobresal,1086986.0,Franco Frías,Rodrigo Sandoval,46,-3,0
+15353005,2026-03-15,Cobresal,1973053.0,Benjamín Valenzuela,Guillermo Pacheco,46,-3,0
+15353005,2026-03-15,Deportes Limache,988084.0,Gonzalo Sosa,Marcos Arturia,65,3,0
+15353005,2026-03-15,Deportes Limache,818974.0,César Pinares,Vicente Álvarez,65,3,0
+15353005,2026-03-15,Deportes Limache,1644853.0,Flavio Moya,Misael Llantén,75,5,-2
+15353005,2026-03-15,Deportes Limache,986599.0,Joaquín Montecinos,Daniel Castro,75,5,-2
+15353005,2026-03-15,Deportes Limache,247073.0,César Fuentes,Jean Meneses,81,5,-2
+15353006,2026-04-05,Deportes Concepción,986529.0,Ethan Espinoza,Leonardo Valencia,60,0,-1
+15353006,2026-04-05,Deportes Concepción,1980392.0,Javier Rojas,Matías Cavalleri,61,0,-1
+15353006,2026-04-05,Deportes Concepción,1125898.0,Ángel Gillard,Diego Carrasco,76,-1,0
+15353006,2026-04-05,Deportes Concepción,819072.0,Jorge Henríquez,Aldrix Jara,81,-1,0
+15353006,2026-04-05,Deportes Concepción,312318.0,Brayan Véjar,Norman Rodríguez,81,-1,0
+15353006,2026-04-05,Colo-Colo,1601711.0,Leandro Hernández,Víctor Felipe Méndez,46,0,1
+15353006,2026-04-05,Colo-Colo,1482420.0,Francisco Marchant,Tomás Alarcón,70,1,0
+15353006,2026-04-05,Colo-Colo,924858.0,Javier Méndez,Claudio Aquino,85,1,0
+15353006,2026-04-05,Colo-Colo,1997136.0,Yastin Cuevas,Maximiliano Romero,89,1,0
+15353006,2026-04-05,Colo-Colo,2537211.0,Rodrigo Catalán,Arturo Vidal,89,1,0
+15353007,2026-04-03,Coquimbo Unido,1125880.0,Benjamín Chandía,Alejandro Azócar,63,1,0
+15353007,2026-04-03,Coquimbo Unido,1834686.0,Martín Mundaca,Pablo Rodríguez,63,1,0
+15353007,2026-04-03,Coquimbo Unido,829288.0,Salvador Cordero,Cristián Zavala,78,1,0
+15353007,2026-04-03,Coquimbo Unido,39244.0,Lucas Pratto,Nicolás Johansen,78,1,0
+15353007,2026-04-03,Coquimbo Unido,981333.0,Dylan Glaby,Alejandro Camargo,78,1,0
+15353007,2026-04-03,Cobresal,1973053.0,Benjamín Valenzuela,Guillermo Pacheco,46,-1,0
+15353007,2026-04-03,Cobresal,1835777.0,Benjamin Moreno,Juan Fuentes,78,-1,0
+15353007,2026-04-03,Cobresal,1014802.0,Rodrigo Sandoval,Antonio Castillo,78,-1,0
+15353008,2026-04-11,Deportes La Serena,582220.0,Nicolás Stefanelli,Matías Marín,59,1,0
+15353008,2026-04-11,Deportes La Serena,844271.0,Sebastián Díaz,Joaquín Gutiérrez,75,1,0
+15353008,2026-04-11,Deportes La Serena,1807803.0,Joan Orellana,Felipe Chamorro,90,1,0
+15353008,2026-04-11,Deportes La Serena,165511.0,Ángelo Henríquez,Diego Rubio,90,1,0
+15353008,2026-04-11,Everton de Viña del Mar,1508614.0,Santiago Londoño,Nicolás Montiel,46,-1,0
+15353008,2026-04-11,Everton de Viña del Mar,956838.0,Julián Alfaro,Emiliano Ramos,46,-1,0
+15353008,2026-04-11,Everton de Viña del Mar,846140.0,Felipe Villagrán,Braian Martínez,75,-1,0
+15353008,2026-04-11,Everton de Viña del Mar,1199238.0,Cristóbal Chadwick,Lucas Soto,88,-1,0
+15353009,2026-03-16,Unión La Calera,1017169.0,Javier Saldías,Christopher Díaz,46,-2,2
+15353009,2026-03-16,Unión La Calera,951277.0,Bayron Oyarzo,Martín Hiriart,46,-2,2
+15353009,2026-03-16,Unión La Calera,1190022.0,Joaquín Soto,Yerko Leiva,70,-3,3
+15353009,2026-03-16,Unión La Calera,924528.0,Matías Campos López,Cristián Gutiérrez,82,-2,2
+15353009,2026-03-16,O'Higgins,923802.0,Thiago Vecino,Arnaldo Castillo,66,3,-3
+15353009,2026-03-16,O'Higgins,942415.0,Bastián Yáñez,Francisco González,66,3,-3
+15353009,2026-03-16,O'Higgins,2038202.0,Rodrigo Godoy,Martín Sarrafiore,70,3,-3
+15353009,2026-03-16,O'Higgins,1409341.0,Esteban Calderón,Joaquín Tapia,81,2,-2
+15353010,2026-04-02,Universidad Católica,117430.0,Eugenio Mena,Agustín Farías,30,0,5
+15353010,2026-04-02,Universidad Católica,588796.0,Jimmy Martínez,Justo Giani,69,3,2
+15353010,2026-04-02,Universidad Católica,284729.0,Fernando Zuqui,Matías Palavecino,69,3,2
+15353010,2026-04-02,Universidad Católica,2121648.0,Martín Gómez,Clemente Montes,75,4,1
+15353010,2026-04-02,Universidad Católica,1473023.0,Diego Corral,Branco Ampuero,76,4,1
+15353010,2026-04-02,Palestino,819017.0,Jonathan Benítez,Martín Araya,46,-1,-4
+15353010,2026-04-02,Palestino,230054.0,Bryan Carrasco,Francisco Montes,63,-1,-4
+15353010,2026-04-02,Palestino,1017320.0,Jason León,Ian Garguez,64,-2,-3
+15353010,2026-04-02,Palestino,1064150.0,Nicolás Meza,César Munder,72,-3,-2
+15353010,2026-04-02,Palestino,805150.0,Ronnie Fernández,Nelson Da Silva,73,-4,-1
+15353011,2026-04-12,Palestino,1017320.0,Jason León,Martín Araya,70,1,0
+15353011,2026-04-12,Palestino,805150.0,Ronnie Fernández,Sebastián Gallegos,70,1,0
+15353011,2026-04-12,Palestino,1386875.0,Dilan Salgado,César Munder,90,1,0
+15353011,2026-04-12,Deportes Limache,871813.0,Marcos Arturia,César Pinares,69,-1,0
+15353011,2026-04-12,Deportes Limache,1125514.0,Carlos Morales,Axel Alfonzo,69,-1,0
+15353011,2026-04-12,Deportes Limache,1801194.0,Vicente Álvarez,Joaquín Montecinos,69,-1,0
+15353011,2026-04-12,Deportes Limache,863124.0,Misael Llantén,Yerko González,89,-1,0
+15353012,2026-04-12,Ñublense,1125913.0,Diego Sanhueza,Gabriel Graciani,46,0,1
+15353012,2026-04-12,Ñublense,1518443.0,Franco Rami,Ignacio Jeraldino,57,0,1
+15353012,2026-04-12,Ñublense,1118269.0,Ignacio Tapia,Giovanny Avalos,67,0,1
+15353012,2026-04-12,Ñublense,973992.0,Diego Céspedes,Manuel Rivera,84,0,1
+15353012,2026-04-12,Ñublense,962130.0,Fernando Ovelar,Matías Plaza,84,0,1
+15353012,2026-04-12,Universidad de Chile,1388813.0,Agustín Arce,Israel Poblete,65,0,-1
+15353012,2026-04-12,Universidad de Chile,1482412.0,Ignacio Vásquez,Lucas Assadi,65,0,-1
+15353012,2026-04-12,Universidad de Chile,26480.0,Marcelo Díaz,Maximiliano Guerrero,73,0,-1
+15353012,2026-04-12,Universidad de Chile,359024.0,Juan Martín Lucero,Eduardo Vargas,73,0,-1
+15353012,2026-04-12,Universidad de Chile,1138070.0,Felipe Salomoni,Marcelo Morales,88,0,-1
+15353013,2026-04-07,Huachipato,851968.0,Cris Martínez,Harold Antiñirre,46,0,4
+15353013,2026-04-07,Huachipato,323439.0,Lionel Altamirano,Juan Figueroa,63,0,4
+15353013,2026-04-07,Huachipato,845174.0,Mario Briceño,Ezequiel Cañete,63,0,4
+15353013,2026-04-07,Huachipato,1108721.0,Maicol León,Maximiliano Rodríguez,80,3,1
+15353013,2026-04-07,Huachipato,2523858.0,Martín Torrejón,Claudio Sepúlveda,86,4,0
+15353013,2026-04-07,Universidad de Concepción,906108.0,Antonio Díaz,Agustín Urzi,46,0,-4
+15353013,2026-04-07,Universidad de Concepción,965719.0,Ariel Uribe,Cristhofer Mesías,69,-1,-3
+15353013,2026-04-07,Universidad de Concepción,1982599.0,Martín Ramírez,Jeison Fuentealba,82,-3,-1
+15353014,2026-04-13,Universidad de Concepción,965775.0,Agustín Urzi,Pablo Parra,57,1,0
+15353014,2026-04-13,Universidad de Concepción,2455393.0,Francisco Herrera,Cristhofer Mesías,63,1,0
+15353014,2026-04-13,Universidad de Concepción,2199269.0,Benjamín Sáez,Jorge Espejo,63,1,0
+15353014,2026-04-13,Universidad de Concepción,965719.0,Ariel Uribe,Jeison Fuentealba,78,1,0
+15353014,2026-04-13,Universidad de Concepción,906108.0,Antonio Díaz,Bryan Ogaz,78,1,0
+15353014,2026-04-13,Cobresal,1021117.0,César Yanis,Benjamin Moreno,46,-1,0
+15353014,2026-04-13,Cobresal,1086986.0,Franco Frías,Aaron Astudillo,63,-1,0
+15353015,2026-02-22,Universidad de Chile,906105.0,Maximiliano Guerrero,Lucas Assadi,46,0,0
+15353015,2026-02-22,Universidad de Chile,589542.0,Israel Poblete,Felipe Salomoni,71,1,-1
+15353015,2026-02-22,Universidad de Chile,1482412.0,Ignacio Vásquez,Fabián Hormazábal,89,0,0
+15353015,2026-02-22,Deportes Limache,1125514.0,Carlos Morales,Joaquín Montecinos,72,-1,1
+15353015,2026-02-22,Deportes Limache,871813.0,Marcos Arturia,Gonzalo Sosa,72,-1,1
+15353015,2026-02-22,Deportes Limache,863124.0,Misael Llantén,César Pinares,80,-1,1
+15353015,2026-02-22,Deportes Limache,1199394.0,Axel Alfonzo,Marcelo Flores,87,0,0
+15353016,2026-04-03,O'Higgins,1798259.0,Gabriel Pinto,Martín Maturana,62,1,0
+15353016,2026-04-03,O'Higgins,1798260.0,Joaquín Tapia,Martín Sarrafiore,76,1,0
+15353016,2026-04-03,O'Higgins,2038201.0,José Movillo,Miguel Brizuela,81,1,0
+15353016,2026-04-03,O'Higgins,975291.0,Leandro Díaz,Juan Leiva,82,1,0
+15353016,2026-04-03,O'Higgins,942415.0,Bastián Yáñez,Francisco González,82,1,0
+15353016,2026-04-03,Audax Italiano,912067.0,Michael Vadulli,Nicolás Aedo,61,-1,0
+15353016,2026-04-03,Audax Italiano,875274.0,Diego Coelho,Franco Troyansky,73,-1,0
+15353016,2026-04-03,Audax Italiano,997539.0,Rodrigo Cabral,Giovani Chiaverano,73,-1,0
+15353016,2026-04-03,Audax Italiano,1440662.0,Favian Loyola,Federico Mateos,83,-1,0
+15353016,2026-04-03,Audax Italiano,1114520.0,Paolo Guajardo,Raimundo Rebolledo,83,-1,0
+15353017,2026-04-11,O'Higgins,339699.0,Luis Pavez Munoz,Leandro Díaz,46,-1,-1
+15353017,2026-04-11,O'Higgins,923802.0,Thiago Vecino,Arnaldo Castillo,64,-1,-1
+15353017,2026-04-11,O'Higgins,1798260.0,Joaquín Tapia,Bryan Rabello,64,-1,-1
+15353017,2026-04-11,O'Higgins,789677.0,Martín Sarrafiore,Bastián Yáñez,77,-1,-1
+15353017,2026-04-11,O'Higgins,1411686.0,Martín Maturana,Juan Leiva,77,-1,-1
+15353017,2026-04-11,Huachipato,845174.0,Mario Briceño,Cris Martínez,46,1,1
+15353017,2026-04-11,Huachipato,1108721.0,Maicol León,Juan Figueroa,75,1,1
+15353017,2026-04-11,Huachipato,1177673.0,Kevin Altez,Maximiliano Rodríguez,84,1,1
+15353017,2026-04-11,Huachipato,988146.0,Cristian Toro,Lionel Altamirano,84,1,1
+15353018,2026-05-03,Colo-Colo,340455.0,Claudio Aquino,Arturo Vidal,63,0,2
+15353018,2026-05-03,Colo-Colo,1482420.0,Francisco Marchant,Álvaro Madrid,79,0,2
+15353018,2026-05-03,Colo-Colo,1997136.0,Yastin Cuevas,Maximiliano Romero,79,0,2
+15353018,2026-05-03,Colo-Colo,924858.0,Javier Méndez,Javier Correa,90,2,0
+15353018,2026-05-03,Coquimbo Unido,973986.0,Cristián Zavala,Benjamín Chandía,65,0,-2
+15353018,2026-05-03,Coquimbo Unido,1643443.0,Nicolás Johansen,Lucas Pratto,65,0,-2
+15353018,2026-05-03,Coquimbo Unido,2048673.0,Pablo Rodríguez,Guido Vadalá,72,0,-2
+15353018,2026-05-03,Coquimbo Unido,1108027.0,Alejandro Azócar,Luis Riveros,72,0,-2
+15353018,2026-05-03,Coquimbo Unido,974009.0,Sebastián Galani,Dylan Glaby,81,0,-2
+15353019,2026-04-14,Unión La Calera,1523685.0,Francisco Jose Pozzo,Matías Campos López,66,1,0
+15353019,2026-04-14,Unión La Calera,1650043.0,Martín Hiriart,Joaquín Soto,78,1,0
+15353019,2026-04-14,Unión La Calera,819005.0,Cristián Gutiérrez,Bayron Oyarzo,78,1,0
+15353019,2026-04-14,Unión La Calera,822449.0,Camilo Moya,Christopher Díaz,90,1,0
+15353019,2026-04-14,Deportes Concepción,1125898.0,Ángel Gillard,Aldrix Jara,58,-1,0
+15353019,2026-04-14,Deportes Concepción,819072.0,Jorge Henríquez,Nelson Sepúlveda,58,-1,0
+15353019,2026-04-14,Deportes Concepción,906106.0,Ignacio Mesías,Leonardo Valencia,58,-1,0
+15353019,2026-04-14,Deportes Concepción,986529.0,Ethan Espinoza,Matías Cavalleri,75,-1,0
+15353019,2026-04-14,Deportes Concepción,1482371.0,Bastián Escobar,Joaquín Larrivey,88,-1,0
+15353020,2026-04-18,Everton de Viña del Mar,1199239.0,Emiliano Ramos,Braian Martínez,46,0,0
+15353020,2026-04-18,Everton de Viña del Mar,1119679.0,Lucas Soto,Julián Alfaro,56,0,0
+15353020,2026-04-18,Everton de Viña del Mar,129209.0,Cristian Palacios,Nicolás Montiel,56,0,0
+15353020,2026-04-18,Universidad de Chile,2057322.0,Vicente Ramírez,Juan Martín Lucero,62,0,0
+15353020,2026-04-18,Universidad de Chile,1482412.0,Ignacio Vásquez,Lucas Assadi,62,0,0
+15353020,2026-04-18,Universidad de Chile,2184978.0,Lucas Barrera,Agustín Arce,71,0,0
+15353020,2026-04-18,Universidad de Chile,1138070.0,Felipe Salomoni,Diego Vargas,71,0,0
+15353020,2026-04-18,Universidad de Chile,889500.0,Nicolás Fernández,Fabián Hormazábal,88,0,0
+15353021,2026-04-19,Deportes Concepción,819072.0,Jorge Henríquez,Bastián Escobar,46,-1,1
+15353021,2026-04-19,Deportes Concepción,312318.0,Brayan Véjar,Fausto Grillo,46,-1,1
+15353021,2026-04-19,Deportes Concepción,991004.0,Mario Sandoval,Yonathan Rodríguez,46,-1,1
+15353021,2026-04-19,Deportes Concepción,790010.0,Leonardo Valencia,Cristián Suárez,55,-1,1
+15353021,2026-04-19,Deportes Concepción,1482455.0,Leenhan Romero,Ignacio Mesías,76,0,0
+15353021,2026-04-19,Deportes La Serena,874589.0,Matías Marín,Sebastián Díaz,70,0,0
+15353021,2026-04-19,Deportes La Serena,147570.0,Diego Rubio,Nicolás Stefanelli,75,0,0
+15353021,2026-04-19,Deportes La Serena,1502658.0,Fernando Dinamarca,Jeisson Vargas,90,0,0
+15353021,2026-04-19,Deportes La Serena,1875021.0,Bastián Contreras,Joaquín Gutiérrez,90,0,0
+15353022,2026-04-21,Universidad Católica,1409361.0,Juan Francisco Rossel,Matías Palavecino,81,0,-1
+15353022,2026-04-21,Universidad Católica,588796.0,Jimmy Martínez,Fernando Zampedri,81,0,-1
+15353022,2026-04-21,Universidad Católica,2121648.0,Martín Gómez,Justo Giani,90,-1,0
+15353022,2026-04-21,Universidad Católica,1016766.0,Alfred Canales,Fernando Zuqui,90,-1,0
+15353022,2026-04-21,Unión La Calera,1523685.0,Francisco Jose Pozzo,Matías Campos López,64,0,1
+15353022,2026-04-21,Unión La Calera,819005.0,Cristián Gutiérrez,Joaquín Soto,72,0,1
+15353022,2026-04-21,Unión La Calera,822449.0,Camilo Moya,Bayron Oyarzo,88,1,0
+15353023,2026-04-20,Huachipato,845174.0,Mario Briceño,Juan Figueroa,53,-1,2
+15353023,2026-04-20,Huachipato,1017455.0,Ezequiel Cañete,Claudio Sepúlveda,53,-1,2
+15353023,2026-04-20,Huachipato,988078.0,Harold Antiñirre,Lucas Velásquez,81,0,1
+15353023,2026-04-20,Huachipato,1108721.0,Maicol León,Maximiliano Rodríguez,81,0,1
+15353023,2026-04-20,Huachipato,1177673.0,Kevin Altez,Nelson Guillermo Guaiquil,85,0,1
+15353023,2026-04-20,Audax Italiano,997539.0,Rodrigo Cabral,Franco Troyansky,77,0,-1
+15353023,2026-04-20,Audax Italiano,1114520.0,Paolo Guajardo,Giovani Chiaverano,77,0,-1
+15353023,2026-04-20,Audax Italiano,875274.0,Diego Coelho,Michael Vadulli,85,0,-1
+15353023,2026-04-20,Audax Italiano,2456836.0,Joel Ahumada,Vicente Zenteno,85,0,-1
+15353023,2026-04-20,Audax Italiano,1473443.0,Diego Monreal,Raimundo Rebolledo,90,-1,0
+15353024,2026-04-19,Colo-Colo,340455.0,Claudio Aquino,Leandro Hernández,46,-1,0
+15353024,2026-04-19,Colo-Colo,581780.0,Javier Correa,Maximiliano Romero,46,-1,0
+15353024,2026-04-19,Colo-Colo,1482420.0,Francisco Marchant,Arturo Vidal,63,-1,0
+15353024,2026-04-19,Colo-Colo,1980388.0,Gabriel Maureira,Fernando de Paul,70,-1,0
+15353024,2026-04-19,Colo-Colo,973993.0,Erick Wiemberg,Joaquín Sosa,70,-1,0
+15353024,2026-04-19,Palestino,1386875.0,Dilan Salgado,César Munder,69,1,0
+15353024,2026-04-19,Palestino,1125923.0,Gonzalo Tapia,Ronnie Fernández,69,1,0
+15353024,2026-04-19,Palestino,1464930.0,Martín Araya,Jason León,69,1,0
+15353024,2026-04-19,Palestino,33943.0,Fernando Meza,Enzo Roco,83,1,0
+15353024,2026-04-19,Palestino,334027.0,Julián Fernández,Nicolás Meza,85,1,0
+15353025,2026-04-19,Cobresal,962847.0,Esteban Valencia,Juan Fuentes,46,1,-2
+15353025,2026-04-19,Cobresal,986622.0,José Tiznado,Franco Bechtholdt,46,1,-2
+15353025,2026-04-19,Cobresal,1411683.0,Renato Huerta,César Yanis,46,1,-2
+15353025,2026-04-19,O'Higgins,923802.0,Thiago Vecino,Bryan Rabello,70,-1,2
+15353025,2026-04-19,O'Higgins,1411686.0,Martín Maturana,Martín Sarrafiore,70,-1,2
+15353025,2026-04-19,O'Higgins,1482396.0,Cristian Morales,Francisco González,85,1,0
+15353025,2026-04-19,O'Higgins,985004.0,Benjamín Rojas,Leandro Díaz,90,1,0
+15353026,2026-04-19,Coquimbo Unido,39244.0,Lucas Pratto,Nicolás Johansen,59,1,-1
+15353026,2026-04-19,Coquimbo Unido,1125880.0,Benjamín Chandía,Guido Vadalá,60,1,-1
+15353026,2026-04-19,Coquimbo Unido,1108027.0,Alejandro Azócar,Martín Mundaca,60,1,-1
+15353026,2026-04-19,Coquimbo Unido,981333.0,Dylan Glaby,Luis Riveros,72,0,0
+15353026,2026-04-19,Coquimbo Unido,973986.0,Cristián Zavala,Sebastián Cabrera,82,0,0
+15353026,2026-04-19,Ñublense,1518443.0,Franco Rami,Giovanny Avalos,46,-1,1
+15353026,2026-04-19,Ñublense,1118269.0,Ignacio Tapia,Matías Plaza,64,-1,1
+15353026,2026-04-19,Ñublense,962130.0,Fernando Ovelar,Ignacio Jeraldino,64,-1,1
+15353026,2026-04-19,Ñublense,973992.0,Diego Céspedes,Manuel Rivera,64,-1,1
+15353026,2026-04-19,Ñublense,1197415.0,Alex Valdés,Diego Sanhueza,82,0,0
+15353027,2026-04-18,Deportes Limache,247073.0,César Fuentes,Vicente Álvarez,46,1,2
+15353027,2026-04-18,Deportes Limache,871813.0,Marcos Arturia,Gonzalo Sosa,74,2,1
+15353027,2026-04-18,Deportes Limache,1644853.0,Flavio Moya,Misael Llantén,74,2,1
+15353027,2026-04-18,Deportes Limache,986599.0,Joaquín Montecinos,Daniel Castro,87,3,0
+15353027,2026-04-18,Deportes Limache,2116602.0,Facundo Marín,Jean Meneses,87,3,0
+15353027,2026-04-18,Universidad de Concepción,986462.0,Bryan Ogaz,Cristhofer Mesías,77,-2,-1
+15353027,2026-04-18,Universidad de Concepción,1125882.0,Harol Salgado,Agustín Urzi,77,-2,-1
+15353027,2026-04-18,Universidad de Concepción,965719.0,Ariel Uribe,Benjamín Sáez,77,-2,-1
+15353027,2026-04-18,Universidad de Concepción,906108.0,Antonio Díaz,Jeison Fuentealba,77,-2,-1
+15353028,2026-04-26,Universidad de Concepción,1106822.0,Bastián Ubal,Bryan Ogaz,69,-1,0
+15353028,2026-04-26,Universidad de Concepción,1836929.0,Luca Kmet,Agustín Urzi,69,-1,0
+15353028,2026-04-26,Universidad de Concepción,883483.0,Moisés González,Antonio Díaz,88,0,-1
+15353028,2026-04-26,Universidad de Concepción,965719.0,Ariel Uribe,Jeison Fuentealba,90,0,-1
+15353028,2026-04-26,Colo-Colo,581780.0,Javier Correa,Maximiliano Romero,73,1,0
+15353028,2026-04-26,Colo-Colo,1601711.0,Leandro Hernández,Francisco Marchant,73,1,0
+15353028,2026-04-26,Colo-Colo,805170.0,Matías Fernández,Jonathan Villagra,81,0,1
+15353028,2026-04-26,Colo-Colo,1997136.0,Yastin Cuevas,Tomás Alarcón,87,0,1
+15353028,2026-04-26,Colo-Colo,340455.0,Claudio Aquino,Lautaro Pastrán,87,0,1
+15353029,2026-04-25,Universidad de Chile,18304.0,Charles Aránguiz,Agustín Arce,72,1,0
+15353029,2026-04-25,Universidad de Chile,981341.0,Franco Calderón,Lucas Barrera,81,1,0
+15353029,2026-04-25,Universidad de Chile,1002939.0,Lucas Assadi,Ignacio Vásquez,81,1,0
+15353029,2026-04-25,Universidad de Chile,925337.0,Javier Altamirano,Juan Martín Lucero,89,1,0
+15353029,2026-04-25,Universidad Católica,284729.0,Fernando Zuqui,Eugenio Mena,46,-1,0
+15353029,2026-04-25,Universidad Católica,2058867.0,Sebastián Arancibia,Daniel González,46,-1,0
+15353029,2026-04-25,Universidad Católica,1016766.0,Alfred Canales,Matías Palavecino,68,-1,0
+15353029,2026-04-25,Universidad Católica,1409361.0,Juan Francisco Rossel,Jhojan Valencia,79,-1,0
+15353030,2026-04-24,Unión La Calera,1523685.0,Francisco Jose Pozzo,Matías Campos López,62,0,-1
+15353030,2026-04-24,Unión La Calera,819005.0,Cristián Gutiérrez,Nicolás Palma,74,-1,0
+15353030,2026-04-24,Unión La Calera,2456453.0,Maximiliano Fernandez,Bayron Oyarzo,74,-1,0
+15353030,2026-04-24,Unión La Calera,1002941.0,Joan Cruz,Joaquín Soto,74,-1,0
+15353030,2026-04-24,Coquimbo Unido,981333.0,Dylan Glaby,Alejandro Camargo,61,0,1
+15353030,2026-04-24,Coquimbo Unido,2048673.0,Pablo Rodríguez,Benjamín Chandía,61,0,1
+15353030,2026-04-24,Coquimbo Unido,852143.0,Luis Riveros,Alejandro Azócar,61,0,1
+15353030,2026-04-24,Coquimbo Unido,39244.0,Lucas Pratto,Nicolás Johansen,71,1,0
+15353030,2026-04-24,Coquimbo Unido,829288.0,Salvador Cordero,Sebastián Galani,77,1,0
+15353031,2026-04-25,Audax Italiano,906112.0,Oliver Rojas,Raimundo Rebolledo,46,0,0
+15353031,2026-04-25,Audax Italiano,997539.0,Rodrigo Cabral,Franco Troyansky,54,0,0
+15353031,2026-04-25,Audax Italiano,1920586.0,Mario Sandoval,Michael Vadulli,66,0,0
+15353031,2026-04-25,Audax Italiano,1473443.0,Diego Monreal,Vicente Zenteno,82,0,0
+15353031,2026-04-25,Audax Italiano,1083863.0,Nicolás Aedo,Oliver Rojas,82,0,0
+15353031,2026-04-25,Audax Italiano,,?,Nicolás Aedo,90,0,0
+15353031,2026-04-25,Deportes Limache,986599.0,Joaquín Montecinos,Vicente Álvarez,46,0,0
+15353031,2026-04-25,Deportes Limache,247073.0,César Fuentes,Misael Llantén,46,0,0
+15353031,2026-04-25,Deportes Limache,1125514.0,Carlos Morales,Marcelo Flores,59,-1,1
+15353031,2026-04-25,Deportes Limache,871813.0,Marcos Arturia,Alfonso Parot,66,0,0
+15353031,2026-04-25,Deportes Limache,1644853.0,Flavio Moya,Gonzalo Sosa,77,0,0
+15353032,2026-04-26,Everton de Viña del Mar,1119679.0,Lucas Soto,Julián Alfaro,64,1,1
+15353032,2026-04-26,Everton de Viña del Mar,947963.0,Vicente Fernández,Nicolás Baeza,72,1,1
+15353032,2026-04-26,Everton de Viña del Mar,1864232.0,Nicolás Montiel,Cristian Palacios,72,1,1
+15353032,2026-04-26,Everton de Viña del Mar,1199239.0,Emiliano Ramos,Braian Martínez,72,1,1
+15353032,2026-04-26,Everton de Viña del Mar,988143.0,Cristopher Barrera,Alan Medina,87,2,0
+15353032,2026-04-26,Cobresal,385990.0,Juan Fuentes,Guillermo Pacheco,46,-1,-1
+15353032,2026-04-26,Cobresal,1835777.0,Benjamin Moreno,Benjamín Ramírez,46,-1,-1
+15353032,2026-04-26,Cobresal,962847.0,Esteban Valencia,Benjamín Valenzuela,64,-1,-1
+15353032,2026-04-26,Cobresal,1086986.0,Franco Frías,Bryan Carvallo,83,-2,0
+15353033,2026-04-25,Ñublense,973992.0,Diego Céspedes,Lucas Molina,46,-2,0
+15353033,2026-04-25,Ñublense,1118269.0,Ignacio Tapia,Diego Sanhueza,46,-2,0
+15353033,2026-04-25,Ñublense,962130.0,Fernando Ovelar,Felipe Campos,65,-2,0
+15353033,2026-04-25,Ñublense,1518443.0,Franco Rami,Ignacio Jeraldino,65,-2,0
+15353033,2026-04-25,Ñublense,2038473.0,Joaquín González,Gabriel Graciani,75,-2,0
+15353033,2026-04-25,O'Higgins,849177.0,Arnaldo Castillo,Thiago Vecino,70,2,0
+15353033,2026-04-25,O'Higgins,1798259.0,Gabriel Pinto,Bryan Rabello,71,2,0
+15353033,2026-04-25,O'Higgins,985004.0,Benjamín Rojas,Martín Maturana,71,2,0
+15353033,2026-04-25,O'Higgins,1485083.0,Benjamin Schamine,Juan Leiva,82,2,0
+15353033,2026-04-25,O'Higgins,1482396.0,Cristian Morales,Leandro Díaz,87,2,0
+15353034,2026-04-26,Deportes La Serena,924505.0,Eryin Sanhueza,Federico Lanzillotta,34,0,0
+15353034,2026-04-26,Deportes La Serena,986598.0,Joaquín Gutiérrez,Bruno Gutiérrez,46,0,0
+15353034,2026-04-26,Deportes La Serena,844271.0,Sebastián Díaz,Jeisson Vargas,69,0,0
+15353034,2026-04-26,Deportes La Serena,872138.0,Andrés Zanini,Nicolás Stefanelli,69,0,0
+15353034,2026-04-26,Deportes La Serena,165511.0,Ángelo Henríquez,Diego Rubio,83,0,0
+15353034,2026-04-26,Huachipato,988078.0,Harold Antiñirre,Juan Figueroa,62,0,0
+15353034,2026-04-26,Huachipato,845174.0,Mario Briceño,Lucas Velásquez,62,0,0
+15353034,2026-04-26,Huachipato,1017455.0,Ezequiel Cañete,Maximiliano Rodríguez,83,0,0
+15353034,2026-04-26,Huachipato,1108721.0,Maicol León,Claudio Sepúlveda,83,0,0
+15353034,2026-04-26,Huachipato,1177673.0,Kevin Altez,Nelson Guillermo Guaiquil,87,0,0
+15353035,2026-04-24,Palestino,1386875.0,Dilan Salgado,Martín Araya,46,-1,0
+15353035,2026-04-24,Palestino,883928.0,Nelson Da Silva,César Munder,60,-1,0
+15353035,2026-04-24,Palestino,1125923.0,Gonzalo Tapia,Sebastián Gallegos,61,-1,0
+15353035,2026-04-24,Palestino,1116992.0,Antonio Ceza,Ian Garguez,61,-1,0
+15353035,2026-04-24,Palestino,230054.0,Bryan Carrasco,Francisco Montes,79,-1,0
+15353035,2026-04-24,Deportes Concepción,1197454.0,Yonathan Rodríguez,Matías Cavalleri,61,1,0
+15353035,2026-04-24,Deportes Concepción,1980392.0,Javier Rojas,Norman Rodríguez,66,1,0
+15353035,2026-04-24,Deportes Concepción,2076826.0,Mateo González Peña,Jorge Henríquez,66,1,0
+15353035,2026-04-24,Deportes Concepción,1125898.0,Ángel Gillard,Aldrix Jara,78,1,0
+15353035,2026-04-24,Deportes Concepción,790010.0,Leonardo Valencia,Joaquín Larrivey,78,1,0
+15353074,2026-02-02,O'Higgins,942415.0,Bastián Yáñez,Martín Sarrafiore,75,1,0
+15353074,2026-02-02,O'Higgins,1485083.0,Benjamin Schamine,Juan Leiva,75,1,0
+15353074,2026-02-02,O'Higgins,923802.0,Thiago Vecino,Arnaldo Castillo,83,1,0
+15353074,2026-02-02,O'Higgins,2038202.0,Rodrigo Godoy,Francisco González,88,2,-1
+15353074,2026-02-02,O'Higgins,985004.0,Benjamín Rojas,Felipe Faúndez,88,2,-1
+15353074,2026-02-02,Deportes Concepción,312318.0,Brayan Véjar,Ariel Cáceres,66,-1,0
+15353074,2026-02-02,Deportes Concepción,1482455.0,Leenhan Romero,Aldrix Jara,77,-1,0
+15353074,2026-02-02,Deportes Concepción,589548.0,Nelson Sepúlveda,Mario Sandoval,77,-1,0
+15353074,2026-02-02,Deportes Concepción,1125898.0,Ángel Gillard,Ethan Espinoza,77,-1,0
+15353074,2026-02-02,Deportes Concepción,906106.0,Ignacio Mesías,Mauricio Vera,87,-2,1

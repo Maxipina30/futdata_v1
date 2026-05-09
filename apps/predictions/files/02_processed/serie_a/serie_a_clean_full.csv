@@ -1,0 +1,761 @@
+date,time,round,day,venue,result,gf,ga,opponent,poss,captain,formation,opp_formation,referee,match_report,equipo,sh,sot,sot_pct,g_per_sh,g_per_sot,pk,pkatt,sh_allowed,sot_allowed,sot_allowed_pct,g_per_sh_allowed,g_per_sot_allowed,pk_allowed,pkatt_allowed,round_num
+2025-08-24,20:45 (15:45),Matchweek 1,Sun,Home,D,1.0,1.0,Pisa,66.0,Marten de Roon,3-4-3,3-4-3,Alberto Arena,Match Report,Atalanta,21.0,6.0,28.6,0.05,0.17,0.0,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,1
+2025-08-30,18:30 (13:30),Matchweek 2,Sat,Away,D,1.0,1.0,Parma,54.0,Marten de Roon,3-4-3,3-4-3,Maurizio Mariani,Match Report,Atalanta,11.0,3.0,27.3,0.09,0.33,0.0,0.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,2
+2025-09-14,15:00 (10:00),Matchweek 3,Sun,Home,W,4.0,1.0,Lecce,57.0,Marten de Roon,3-4-3,4-3-3,Gianluca Manganiello,Match Report,Atalanta,19.0,8.0,42.1,0.21,0.5,0.0,0.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,3
+2025-09-21,15:00 (10:00),Matchweek 4,Sun,Away,W,3.0,0.0,Torino,61.0,Marten de Roon,3-4-3,3-4-3,Andrea Colombo,Match Report,Atalanta,9.0,5.0,55.6,0.33,0.6,0.0,0.0,11.0,5.0,45.5,0.0,0.0,0.0,1.0,4
+2025-09-27,18:00 (13:00),Matchweek 5,Sat,Away,D,1.0,1.0,Juventus,33.0,Marten de Roon,3-4-3,3-4-3,Simone Sozza,Match Report,Atalanta,12.0,2.0,16.7,0.08,0.5,0.0,0.0,24.0,10.0,41.7,0.04,0.1,0.0,0.0,5
+2025-10-04,20:45 (15:45),Matchweek 6,Sat,Home,D,1.0,1.0,Como,51.0,Mario Pašalić,3-4-3,4-2-3-1,Luca Zufferli,Match Report,Atalanta,16.0,4.0,25.0,0.06,0.25,0.0,0.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,6
+2025-10-19,18:00 (13:00),Matchweek 7,Sun,Home,D,0.0,0.0,Lazio,58.0,Mario Pašalić,3-4-3,4-3-3,Giuseppe Collu,Match Report,Atalanta,16.0,6.0,37.5,0.0,0.0,0.0,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,7
+2025-10-25,20:45 (15:45),Matchweek 8,Sat,Away,D,1.0,1.0,Cremonese,65.0,Marten de Roon,4-3-3,3-1-4-2,Alberto Arena,Match Report,Atalanta,20.0,6.0,30.0,0.05,0.17,0.0,0.0,9.0,5.0,55.6,0.11,0.2,0.0,0.0,8
+2025-10-28,20:45 (16:45),Matchweek 9,Tue,Home,D,1.0,1.0,Milan,56.0,Marten de Roon,3-4-1-2,3-5-2,Daniele Doveri,Match Report,Atalanta,17.0,3.0,17.6,0.06,0.33,0.0,0.0,6.0,1.0,16.7,0.17,1.0,0.0,0.0,9
+2025-11-01,15:00 (11:00),Matchweek 10,Sat,Away,L,0.0,1.0,Udinese,60.0,Mario Pašalić,3-4-3,3-5-2,Michael Fabbri,Match Report,Atalanta,5.0,0.0,0.0,0.0,,0.0,0.0,11.0,5.0,45.5,0.09,0.2,0.0,0.0,10
+2025-11-09,12:30 (08:30),Matchweek 11,Sun,Home,L,0.0,3.0,Sassuolo,67.0,Mario Pašalić,3-4-3,4-3-3,Valerio Crezzini,Match Report,Atalanta,14.0,2.0,14.3,0.0,0.0,0.0,0.0,8.0,4.0,50.0,0.25,0.5,1.0,1.0,11
+2025-11-22,20:45 (16:45),Matchweek 12,Sat,Away,L,1.0,3.0,Napoli,55.0,Marten de Roon,3-4-1-2,3-4-3,Marco Di Bello,Match Report,Atalanta,14.0,3.0,21.4,0.07,0.33,0.0,0.0,11.0,6.0,54.5,0.27,0.5,0.0,0.0,12
+2025-11-30,18:00 (14:00),Matchweek 13,Sun,Home,W,2.0,0.0,Fiorentina,48.0,Marten de Roon,3-4-3,3-1-4-2,Matteo Marcenaro,Match Report,Atalanta,21.0,9.0,42.9,0.1,0.22,0.0,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,13
+2025-12-06,20:45 (16:45),Matchweek 14,Sat,Away,L,1.0,3.0,Hellas Verona,64.0,Marten de Roon,3-4-3,3-5-2,Maurizio Mariani,Match Report,Atalanta,12.0,5.0,41.7,0.0,0.0,1.0,1.0,12.0,7.0,58.3,0.25,0.43,0.0,0.0,14
+2025-12-13,20:45 (16:45),Matchweek 15,Sat,Home,W,2.0,1.0,Cagliari,58.0,Marten de Roon,3-4-3,3-5-2,Davide Di Marco,Match Report,Atalanta,17.0,8.0,47.1,0.12,0.25,0.0,0.0,8.0,1.0,12.5,0.13,1.0,0.0,0.0,15
+2025-12-21,20:45 (16:45),Matchweek 16,Sun,Away,W,1.0,0.0,Genoa,71.0,Marten de Roon,3-4-3,3-5-2,Rosario Abisso,Match Report,Atalanta,16.0,4.0,25.0,0.06,0.25,0.0,0.0,6.0,3.0,50.0,0.0,0.0,0.0,0.0,16
+2025-12-28,20:45 (16:45),Matchweek 17,Sun,Home,L,0.0,1.0,Inter,45.0,Marten de Roon,3-4-3,3-5-2,Federico La Penna,Match Report,Atalanta,7.0,0.0,0.0,0.0,,0.0,0.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,17
+2026-01-03,20:45 (16:45),Matchweek 18,Sat,Home,W,1.0,0.0,Roma,45.0,Marten de Roon,3-4-3,3-4-3,Michael Fabbri,Match Report,Atalanta,13.0,2.0,15.4,0.08,0.5,0.0,0.0,10.0,4.0,40.0,0.0,0.0,0.0,0.0,18
+2026-01-07,18:30 (14:30),Matchweek 19,Wed,Away,W,2.0,0.0,Bologna,47.0,Marten de Roon,3-4-3,4-2-3-1,Marco Di Bello,Match Report,Atalanta,11.0,5.0,45.5,0.18,0.4,0.0,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,19
+2026-01-10,20:45 (16:45),Matchweek 20,Sat,Home,W,2.0,0.0,Torino,57.0,Marten de Roon,3-4-3,3-5-2,Francesco Fourneau,Match Report,Atalanta,18.0,5.0,27.8,0.11,0.4,0.0,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,20
+2026-01-16,20:45 (16:45),Matchweek 21,Fri,Away,D,1.0,1.0,Pisa,57.0,Marten de Roon,3-4-3,3-4-3,Matteo Marchetti,Match Report,Atalanta,9.0,4.0,44.4,0.11,0.25,0.0,0.0,14.0,6.0,42.9,0.07,0.17,0.0,0.0,21
+2026-01-25,15:00 (11:00),Matchweek 22,Sun,Home,W,4.0,0.0,Parma,48.0,Marten de Roon,3-4-3,3-4-3,Juan Luca Sacchi,Match Report,Atalanta,21.0,9.0,42.9,0.14,0.33,1.0,1.0,15.0,2.0,13.3,0.0,0.0,0.0,0.0,22
+2026-02-01,15:00 (11:00),Matchweek 23,Sun,Away,D,0.0,0.0,Como,21.0,Marten de Roon,3-4-3,4-2-3-1,Luca Pairetto,Match Report,Atalanta,6.0,2.0,33.3,0.0,0.0,0.0,0.0,28.0,9.0,32.1,0.0,0.0,0.0,1.0,23
+2026-02-09,18:30 (14:30),Matchweek 24,Mon,Home,W,2.0,1.0,Cremonese,56.0,Mario Pašalić,3-4-3,3-5-2,Marco Piccinini,Match Report,Atalanta,29.0,9.0,31.0,0.07,0.22,0.0,0.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,24
+2026-02-14,18:00 (14:00),Matchweek 25,Sat,Away,W,2.0,0.0,Lazio,50.0,Marten de Roon,3-4-3,4-3-3,Juan Luca Sacchi,Match Report,Atalanta,12.0,5.0,41.7,0.08,0.2,1.0,1.0,18.0,5.0,27.8,0.0,0.0,0.0,0.0,25
+2026-02-22,15:00 (11:00),Matchweek 26,Sun,Home,W,2.0,1.0,Napoli,56.0,Marten de Roon,3-4-3,3-4-3,Daniele Chiffi,Match Report,Atalanta,10.0,7.0,70.0,0.2,0.29,0.0,0.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,26
+2026-03-01,15:00 (11:00),Matchweek 27,Sun,Away,L,1.0,2.0,Sassuolo,76.0,Marten de Roon,3-4-3,4-3-3,Matteo Marchetti,Match Report,Atalanta,26.0,7.0,26.9,0.04,0.14,0.0,0.0,7.0,5.0,71.4,0.29,0.4,0.0,0.0,27
+2026-03-07,18:00 (14:00),Matchweek 28,Sat,Home,D,2.0,2.0,Udinese,68.0,Mario Pašalić,3-4-3,3-5-2,Antonio Rapuano,Match Report,Atalanta,22.0,4.0,18.2,0.09,0.5,0.0,0.0,8.0,2.0,25.0,0.25,1.0,0.0,0.0,28
+2026-03-14,15:00 (11:00),Matchweek 29,Sat,Away,D,1.0,1.0,Inter,43.0,Marten de Roon,3-4-3,3-5-2,Gianluca Manganiello,Match Report,Atalanta,8.0,3.0,37.5,0.13,0.33,0.0,0.0,16.0,3.0,18.8,0.06,0.33,0.0,0.0,29
+2026-03-22,15:00 (11:00),Matchweek 30,Sun,Home,W,1.0,0.0,Hellas Verona,60.0,Marten de Roon,3-4-3,3-5-2,Giovanni Ayroldi,Match Report,Atalanta,12.0,3.0,25.0,0.08,0.33,0.0,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,30
+2026-04-06,15:00 (10:00),Matchweek 31,Mon,Away,W,3.0,0.0,Lecce,58.0,Marten de Roon,3-4-3,4-2-3-1,Federico La Penna,Match Report,Atalanta,16.0,6.0,37.5,0.19,0.5,0.0,0.0,11.0,0.0,0.0,0.0,,0.0,0.0,31
+2026-04-11,20:45 (15:45),Matchweek 32,Sat,Home,L,0.0,1.0,Juventus,55.0,Marten de Roon,3-4-3,3-4-3,Fabio Maresca,Match Report,Atalanta,22.0,3.0,13.6,0.0,0.0,0.0,0.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,32
+2026-04-18,20:45 (15:45),Matchweek 33,Sat,Away,D,1.0,1.0,Roma,48.0,Marten de Roon,3-4-3,3-4-3,Matteo Marcenaro,Match Report,Atalanta,8.0,2.0,25.0,0.13,0.5,0.0,0.0,19.0,9.0,47.4,0.05,0.11,0.0,0.0,33
+2026-04-27,18:30 (13:30),Matchweek 34,Mon,Away,,,,Cagliari,,,,,,Head-to-Head,Atalanta,,,,,,,,,,,,,,,34
+2026-05-02,20:45 (15:45),Matchweek 35,Sat,Home,,,,Genoa,,,,,,Head-to-Head,Atalanta,,,,,,,,,,,,,,,35
+2026-05-10,20:45 (15:45),Matchweek 36,Sun,Away,,,,Milan,,,,,,Head-to-Head,Atalanta,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Home,,,,Bologna,,,,,,Head-to-Head,Atalanta,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Away,,,,Fiorentina,,,,,,Head-to-Head,Atalanta,,,,,,,,,,,,,,,38
+2025-08-23,20:45 (15:45),Matchweek 1,Sat,Away,L,0.0,1.0,Roma,49.0,Lorenzo De Silvestri,4-2-3-1,3-4-3,Luca Zufferli,Match Report,Bologna,10.0,2.0,20.0,0.0,0.0,0.0,0.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,1
+2025-08-30,18:30 (13:30),Matchweek 2,Sat,Home,W,1.0,0.0,Como,36.0,Remo Freuler,4-2-3-1,4-2-3-1,Daniele Doveri,Match Report,Bologna,15.0,2.0,13.3,0.07,0.5,0.0,0.0,13.0,2.0,15.4,0.0,0.0,0.0,0.0,2
+2025-09-14,20:45 (15:45),Matchweek 3,Sun,Away,L,0.0,1.0,Milan,61.0,Lewis Ferguson,4-3-3,3-4-3,Matteo Marcenaro,Match Report,Bologna,5.0,0.0,0.0,0.0,,0.0,0.0,14.0,3.0,21.4,0.07,0.33,0.0,0.0,3
+2025-09-20,15:00 (10:00),Matchweek 4,Sat,Home,W,2.0,1.0,Genoa,59.0,Lorenzo De Silvestri,4-2-3-1,4-2-3-1,Giuseppe Collu,Match Report,Bologna,14.0,6.0,42.9,0.07,0.17,1.0,1.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,4
+2025-09-28,18:00 (13:00),Matchweek 5,Sun,Away,D,2.0,2.0,Lecce,67.0,Lewis Ferguson,4-2-3-1,4-3-3,Francesco Fourneau,Match Report,Bologna,14.0,5.0,35.7,0.07,0.2,1.0,1.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,5
+2025-10-05,15:00 (10:00),Matchweek 6,Sun,Home,W,4.0,0.0,Pisa,72.0,Remo Freuler,4-2-3-1,3-5-2,Rosario Abisso,Match Report,Bologna,24.0,7.0,29.2,0.17,0.57,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,6
+2025-10-19,15:00 (10:00),Matchweek 7,Sun,Away,W,2.0,0.0,Cagliari,58.0,Lewis Ferguson,4-2-3-1,4-5-1,Matteo Marchetti,Match Report,Bologna,10.0,7.0,70.0,0.2,0.29,0.0,0.0,4.0,3.0,75.0,0.0,0.0,0.0,0.0,7
+2025-10-26,18:00 (14:00),Matchweek 8,Sun,Away,D,2.0,2.0,Fiorentina,50.0,Lewis Ferguson,4-2-3-1,3-5-2,Federico La Penna,Match Report,Bologna,6.0,3.0,50.0,0.33,0.67,0.0,0.0,19.0,7.0,36.8,0.0,0.0,2.0,2.0,8
+2025-10-29,20:45 (16:45),Matchweek 9,Wed,Home,D,0.0,0.0,Torino,71.0,Lewis Ferguson,4-2-3-1,5-3-2,Giovanni Ayroldi,Match Report,Bologna,11.0,2.0,18.2,0.0,0.0,0.0,0.0,8.0,2.0,25.0,0.0,0.0,0.0,0.0,9
+2025-11-02,18:00 (14:00),Matchweek 10,Sun,Away,W,3.0,1.0,Parma,65.0,Remo Freuler,4-2-3-1,4-2-2-2,Kevin Bonacina,Match Report,Bologna,22.0,6.0,27.3,0.14,0.5,0.0,0.0,7.0,1.0,14.3,0.14,1.0,0.0,0.0,10
+2025-11-09,15:00 (11:00),Matchweek 11,Sun,Home,W,2.0,0.0,Napoli,41.0,Lewis Ferguson,4-2-3-1,4-3-3,Daniele Chiffi,Match Report,Bologna,11.0,4.0,36.4,0.18,0.5,0.0,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,11
+2025-11-22,15:00 (11:00),Matchweek 12,Sat,Away,W,3.0,0.0,Udinese,53.0,Lorenzo De Silvestri,4-2-3-1,3-5-1-1,Juan Luca Sacchi,Match Report,Bologna,10.0,5.0,50.0,0.3,0.6,0.0,1.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,12
+2025-12-01,20:45 (16:45),Matchweek 13,Mon,Home,L,1.0,3.0,Cremonese,66.0,Riccardo Orsolini,4-2-3-1,3-1-4-2,Ermanno Feliciani,Match Report,Bologna,29.0,7.0,24.1,0.0,0.0,1.0,1.0,10.0,5.0,50.0,0.3,0.6,0.0,0.0,13
+2025-12-07,18:00 (14:00),Matchweek 14,Sun,Away,D,1.0,1.0,Lazio,53.0,Riccardo Orsolini,4-2-3-1,4-3-3,Michael Fabbri,Match Report,Bologna,13.0,6.0,46.2,0.08,0.17,0.0,0.0,16.0,9.0,56.3,0.06,0.11,0.0,0.0,14
+2025-12-14,20:45 (16:45),Matchweek 15,Sun,Home,L,0.0,1.0,Juventus,51.0,Lewis Ferguson,4-2-3-1,3-4-3,Davide Massa,Match Report,Bologna,12.0,4.0,33.3,0.0,0.0,0.0,0.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,15
+2025-12-28,18:00 (14:00),Matchweek 17,Sun,Home,D,1.0,1.0,Sassuolo,58.0,Riccardo Orsolini,4-2-3-1,4-3-3,Juan Luca Sacchi,Match Report,Bologna,16.0,6.0,37.5,0.06,0.17,0.0,0.0,8.0,5.0,62.5,0.13,0.2,0.0,0.0,17
+2026-01-04,20:45 (16:45),Matchweek 18,Sun,Away,L,1.0,3.0,Inter,42.0,Lewis Ferguson,4-2-3-1,3-5-2,Marco Guida,Match Report,Bologna,6.0,2.0,33.3,0.17,0.5,0.0,0.0,19.0,10.0,52.6,0.16,0.3,0.0,0.0,18
+2026-01-07,18:30 (14:30),Matchweek 19,Wed,Home,L,0.0,2.0,Atalanta,53.0,Lewis Ferguson,4-2-3-1,3-4-3,Marco Di Bello,Match Report,Bologna,11.0,2.0,18.2,0.0,0.0,0.0,0.0,11.0,5.0,45.5,0.18,0.4,0.0,0.0,19
+2026-01-10,15:00 (11:00),Matchweek 20,Sat,Away,D,1.0,1.0,Como,41.0,Remo Freuler,4-2-3-1,4-2-3-1,Rosario Abisso,Match Report,Bologna,7.0,2.0,28.6,0.14,0.5,0.0,0.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,20
+2026-01-15,18:30 (14:30),Matchweek 16,Thu,Away,W,3.0,2.0,Hellas Verona,61.0,Remo Freuler,4-2-3-1,3-5-2,Maurizio Mariani,Match Report,Bologna,14.0,5.0,35.7,0.21,0.6,0.0,0.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,16
+2026-01-18,15:00 (11:00),Matchweek 21,Sun,Home,L,1.0,2.0,Fiorentina,61.0,Remo Freuler,4-2-3-1,4-3-3,Daniele Doveri,Match Report,Bologna,18.0,3.0,16.7,0.06,0.33,0.0,0.0,11.0,4.0,36.4,0.18,0.5,0.0,0.0,21
+2026-01-25,15:00 (11:00),Matchweek 22,Sun,Away,L,2.0,3.0,Genoa,52.0,Lewis Ferguson,4-2-3-1,3-5-2,Fabio Maresca,Match Report,Bologna,13.0,3.0,23.1,0.08,0.33,0.0,0.0,8.0,6.0,75.0,0.38,0.5,0.0,0.0,22
+2026-02-03,20:45 (16:45),Matchweek 23,Tue,Home,L,0.0,3.0,Milan,54.0,Lewis Ferguson,4-2-3-1,3-5-2,Gianluca Manganiello,Match Report,Bologna,13.0,2.0,15.4,0.0,0.0,0.0,0.0,10.0,7.0,70.0,0.2,0.29,1.0,1.0,23
+2026-02-08,12:30 (08:30),Matchweek 24,Sun,Home,L,0.0,1.0,Parma,51.0,Lewis Ferguson,4-3-3,3-5-2,Giuseppe Collu,Match Report,Bologna,16.0,2.0,12.5,0.0,0.0,0.0,0.0,5.0,1.0,20.0,0.2,1.0,0.0,0.0,24
+2026-02-15,18:00 (14:00),Matchweek 25,Sun,Away,W,2.0,1.0,Torino,53.0,Remo Freuler,4-2-3-1,3-5-2,Francesco Fourneau,Match Report,Bologna,14.0,6.0,42.9,0.14,0.33,0.0,0.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,25
+2026-02-23,20:45 (16:45),Matchweek 26,Mon,Home,W,1.0,0.0,Udinese,46.0,Remo Freuler,4-3-3,3-5-2,Matteo Marcenaro,Match Report,Bologna,11.0,6.0,54.5,0.0,0.0,1.0,1.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,26
+2026-03-02,18:30 (14:30),Matchweek 27,Mon,Away,W,1.0,0.0,Pisa,60.0,Remo Freuler,4-3-3,3-5-2,Ermanno Feliciani,Match Report,Bologna,8.0,1.0,12.5,0.13,1.0,0.0,0.0,6.0,3.0,50.0,0.0,0.0,0.0,0.0,27
+2026-03-08,15:00 (11:00),Matchweek 28,Sun,Home,L,1.0,2.0,Hellas Verona,68.0,Lewis Ferguson,4-1-4-1,5-3-2,Giuseppe Mucera,Match Report,Bologna,19.0,2.0,10.5,0.05,0.5,0.0,0.0,15.0,5.0,33.3,0.13,0.4,0.0,0.0,28
+2026-03-15,15:00 (11:00),Matchweek 29,Sun,Away,W,1.0,0.0,Sassuolo,46.0,Lorenzo De Silvestri,4-2-3-1,4-3-3,Kevin Bonacina,Match Report,Bologna,16.0,3.0,18.8,0.06,0.33,0.0,0.0,9.0,4.0,44.4,0.0,0.0,0.0,0.0,29
+2026-03-22,15:00 (11:00),Matchweek 30,Sun,Home,L,0.0,2.0,Lazio,54.0,Riccardo Orsolini,4-2-3-1,4-3-3,Ermanno Feliciani,Match Report,Bologna,15.0,4.0,26.7,0.0,0.0,0.0,1.0,9.0,5.0,55.6,0.22,0.4,0.0,0.0,30
+2026-04-05,15:00 (10:00),Matchweek 31,Sun,Away,W,2.0,1.0,Cremonese,63.0,Remo Freuler,4-1-4-1,4-1-3-2,Rosario Abisso,Match Report,Bologna,14.0,7.0,50.0,0.14,0.29,0.0,0.0,9.0,3.0,33.3,0.0,0.0,1.0,1.0,31
+2026-04-12,18:00 (13:00),Matchweek 32,Sun,Home,W,2.0,0.0,Lecce,64.0,Remo Freuler,4-2-3-1,4-2-3-1,Andrea Colombo,Match Report,Bologna,12.0,4.0,33.3,0.17,0.5,0.0,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,32
+2026-04-19,20:45 (15:45),Matchweek 33,Sun,Away,L,0.0,2.0,Juventus,45.0,Remo Freuler,4-3-3,3-4-3,Maurizio Mariani,Match Report,Bologna,7.0,0.0,0.0,0.0,,0.0,0.0,14.0,4.0,28.6,0.14,0.5,0.0,0.0,33
+2026-04-25,18:00 (13:00),Matchweek 34,Sat,Home,L,0.0,2.0,Roma,60.0,Lewis Ferguson,3-4-3,3-4-3,Marco Di Bello,Match Report,Bologna,10.0,2.0,20.0,0.0,0.0,0.0,0.0,7.0,2.0,28.6,0.29,1.0,0.0,0.0,34
+2026-05-03,12:30 (07:30),Matchweek 35,Sun,Home,,,,Cagliari,,,,,,Head-to-Head,Bologna,,,,,,,,,,,,,,,35
+2026-05-11,20:45 (15:45),Matchweek 36,Mon,Away,,,,Napoli,,,,,,Head-to-Head,Bologna,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Away,,,,Atalanta,,,,,,Head-to-Head,Bologna,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Home,,,,Inter,,,,,,Head-to-Head,Bologna,,,,,,,,,,,,,,,38
+2025-08-24,18:30 (13:30),Matchweek 1,Sun,Home,D,1.0,1.0,Fiorentina,45.0,Alessandro Deiola,4-3-1-2,3-4-3,Simone Sozza,Match Report,Cagliari,14.0,6.0,42.9,0.07,0.17,0.0,0.0,4.0,1.0,25.0,0.25,1.0,0.0,0.0,1
+2025-08-30,20:45 (15:45),Matchweek 2,Sat,Away,L,0.0,1.0,Napoli,33.0,Alessandro Deiola,3-5-1-1,4-1-4-1,Kevin Bonacina,Match Report,Cagliari,10.0,1.0,10.0,0.0,0.0,0.0,0.0,20.0,6.0,30.0,0.05,0.17,0.0,0.0,2
+2025-09-13,15:00 (10:00),Matchweek 3,Sat,Home,W,2.0,0.0,Parma,51.0,Gabriele Zappa,4-3-2-1,3-5-2,Francesco Fourneau,Match Report,Cagliari,12.0,5.0,41.7,0.17,0.4,0.0,0.0,17.0,5.0,29.4,0.0,0.0,0.0,0.0,3
+2025-09-19,20:45 (15:45),Matchweek 4,Fri,Away,W,2.0,1.0,Lecce,48.0,Alessandro Deiola,3-5-2,4-3-3,Luca Zufferli,Match Report,Cagliari,15.0,6.0,40.0,0.07,0.17,1.0,1.0,11.0,5.0,45.5,0.09,0.2,0.0,0.0,4
+2025-09-27,20:45 (15:45),Matchweek 5,Sat,Home,L,0.0,2.0,Inter,42.0,Alessandro Deiola,3-5-2,3-5-2,Marco Piccinini,Match Report,Cagliari,6.0,0.0,0.0,0.0,,0.0,0.0,20.0,5.0,25.0,0.1,0.4,0.0,0.0,5
+2025-10-05,12:30 (07:30),Matchweek 6,Sun,Away,D,1.0,1.0,Udinese,40.0,Alessandro Deiola,3-5-2,3-5-2,Alberto Arena,Match Report,Cagliari,8.0,2.0,25.0,0.13,0.5,0.0,0.0,23.0,4.0,17.4,0.04,0.25,0.0,0.0,6
+2025-10-19,15:00 (10:00),Matchweek 7,Sun,Home,L,0.0,2.0,Bologna,42.0,Gabriele Zappa,4-5-1,4-2-3-1,Matteo Marchetti,Match Report,Cagliari,4.0,3.0,75.0,0.0,0.0,0.0,0.0,10.0,7.0,70.0,0.2,0.29,0.0,0.0,7
+2025-10-26,15:00 (11:00),Matchweek 8,Sun,Away,D,2.0,2.0,Hellas Verona,63.0,Gabriele Zappa,3-5-2,3-5-2,Federico Dionisi,Match Report,Cagliari,7.0,3.0,42.9,0.29,0.67,0.0,0.0,10.0,6.0,60.0,0.2,0.33,0.0,0.0,8
+2025-10-30,18:30 (14:30),Matchweek 9,Thu,Home,L,1.0,2.0,Sassuolo,46.0,Gabriele Zappa,3-5-2,4-3-3,Luca Pairetto,Match Report,Cagliari,8.0,1.0,12.5,0.13,1.0,0.0,0.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,9
+2025-11-03,20:45 (16:45),Matchweek 10,Mon,Away,L,0.0,2.0,Lazio,49.0,Gabriele Zappa,4-4-2◆,4-3-3,Juan Luca Sacchi,Match Report,Cagliari,17.0,5.0,29.4,0.0,0.0,0.0,0.0,8.0,3.0,37.5,0.25,0.67,0.0,0.0,10
+2025-11-08,15:00 (11:00),Matchweek 11,Sat,Away,D,0.0,0.0,Como,25.0,Gabriele Zappa,4-5-1,4-2-3-1,Ivan Pezzuto,Match Report,Cagliari,4.0,2.0,50.0,0.0,0.0,0.0,0.0,10.0,6.0,60.0,0.0,0.0,0.0,0.0,11
+2025-11-22,15:00 (11:00),Matchweek 12,Sat,Home,D,3.0,3.0,Genoa,49.0,Alessandro Deiola,3-5-2,3-5-2,Federico La Penna,Match Report,Cagliari,11.0,5.0,45.5,0.27,0.6,0.0,0.0,13.0,8.0,61.5,0.23,0.38,0.0,0.0,12
+2025-11-29,18:00 (14:00),Matchweek 13,Sat,Away,L,1.0,2.0,Juventus,43.0,Alessandro Deiola,3-5-2,3-4-3,Valerio Crezzini,Match Report,Cagliari,5.0,3.0,60.0,0.2,0.33,0.0,0.0,14.0,6.0,42.9,0.14,0.33,0.0,0.0,13
+2025-12-07,15:00 (11:00),Matchweek 14,Sun,Home,W,1.0,0.0,Roma,47.0,Alessandro Deiola,3-5-2,3-4-3,Luca Zufferli,Match Report,Cagliari,15.0,8.0,53.3,0.07,0.13,0.0,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,14
+2025-12-13,20:45 (16:45),Matchweek 15,Sat,Away,L,1.0,2.0,Atalanta,42.0,Alessandro Deiola,3-5-2,3-4-3,Davide Di Marco,Match Report,Cagliari,8.0,1.0,12.5,0.13,1.0,0.0,0.0,17.0,8.0,47.1,0.12,0.25,0.0,0.0,15
+2025-12-21,12:30 (08:30),Matchweek 16,Sun,Home,D,2.0,2.0,Pisa,59.0,Alessandro Deiola,4-3-2-1,3-5-2,Francesco Fourneau,Match Report,Cagliari,14.0,5.0,35.7,0.14,0.4,0.0,0.0,15.0,3.0,20.0,0.07,0.33,1.0,1.0,16
+2025-12-27,15:00 (11:00),Matchweek 17,Sat,Away,W,2.0,1.0,Torino,44.0,Alessandro Deiola,3-5-1-1,3-4-1-2,Daniele Doveri,Match Report,Cagliari,9.0,4.0,44.4,0.22,0.5,0.0,0.0,19.0,10.0,52.6,0.05,0.1,0.0,0.0,17
+2026-01-02,20:45 (16:45),Matchweek 18,Fri,Home,L,0.0,1.0,Milan,46.0,Gabriele Zappa,3-5-2,3-5-2,Rosario Abisso,Match Report,Cagliari,6.0,1.0,16.7,0.0,0.0,0.0,0.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,18
+2026-01-08,18:30 (14:30),Matchweek 19,Thu,Away,D,2.0,2.0,Cremonese,56.0,Gabriele Zappa,3-4-3,3-5-2,Kevin Bonacina,Match Report,Cagliari,21.0,5.0,23.8,0.1,0.4,0.0,0.0,12.0,5.0,41.7,0.17,0.4,0.0,0.0,19
+2026-01-12,18:30 (14:30),Matchweek 20,Mon,Away,L,0.0,3.0,Genoa,56.0,Elia Caprile,4-3-3,3-5-2,Federico La Penna,Match Report,Cagliari,15.0,3.0,20.0,0.0,0.0,0.0,0.0,11.0,7.0,63.6,0.27,0.43,0.0,0.0,20
+2026-01-17,20:45 (16:45),Matchweek 21,Sat,Home,W,1.0,0.0,Juventus,22.0,Yerry Mina,3-5-2,4-2-3-1,Davide Massa,Match Report,Cagliari,3.0,1.0,33.3,0.33,1.0,0.0,0.0,21.0,5.0,23.8,0.0,0.0,0.0,0.0,21
+2026-01-24,18:00 (14:00),Matchweek 22,Sat,Away,W,2.0,1.0,Fiorentina,30.0,Yerry Mina,3-5-1-1,4-3-3,Marco Guida,Match Report,Cagliari,10.0,6.0,60.0,0.2,0.33,0.0,0.0,15.0,3.0,20.0,0.07,0.33,0.0,0.0,22
+2026-01-31,20:45 (16:45),Matchweek 23,Sat,Home,W,4.0,0.0,Hellas Verona,62.0,Yerry Mina,3-5-2,3-5-2,Kevin Bonacina,Match Report,Cagliari,13.0,7.0,53.8,0.31,0.57,0.0,0.0,8.0,3.0,37.5,0.0,0.0,0.0,0.0,23
+2026-02-09,20:45 (16:45),Matchweek 24,Mon,Away,L,0.0,2.0,Roma,48.0,Elia Caprile,3-5-2,3-4-3,Matteo Marcenaro,Match Report,Cagliari,3.0,1.0,33.3,0.0,0.0,0.0,0.0,15.0,5.0,33.3,0.13,0.4,0.0,0.0,24
+2026-02-16,20:45 (16:45),Matchweek 25,Mon,Home,L,0.0,2.0,Lecce,59.0,Leonardo Pavoletti,5-4-1,4-3-3,Ermanno Feliciani,Match Report,Cagliari,11.0,0.0,0.0,0.0,,0.0,0.0,13.0,4.0,30.8,0.15,0.5,0.0,0.0,25
+2026-02-21,20:45 (16:45),Matchweek 26,Sat,Home,D,0.0,0.0,Lazio,42.0,Yerry Mina,4-4-2,4-3-3,Antonio Rapuano,Match Report,Cagliari,11.0,2.0,18.2,0.0,0.0,0.0,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,26
+2026-02-27,20:45 (16:45),Matchweek 27,Fri,Away,D,1.0,1.0,Parma,44.0,Elia Caprile,3-5-2,3-1-4-2,Luca Massimi,Match Report,Cagliari,11.0,5.0,45.5,0.09,0.2,0.0,0.0,18.0,4.0,22.2,0.06,0.25,0.0,0.0,27
+2026-03-07,15:00 (11:00),Matchweek 28,Sat,Home,L,1.0,2.0,Como,43.0,Elia Caprile,4-3-3,4-2-3-1,Livio Marinelli,Match Report,Cagliari,8.0,3.0,37.5,0.13,0.33,0.0,0.0,8.0,2.0,25.0,0.25,1.0,0.0,0.0,28
+2026-03-15,15:00 (11:00),Matchweek 29,Sun,Away,L,1.0,3.0,Pisa,72.0,Yerry Mina,4-4-2,3-4-3,Federico La Penna,Match Report,Cagliari,14.0,4.0,28.6,0.07,0.25,0.0,0.0,10.0,6.0,60.0,0.2,0.33,1.0,1.0,29
+2026-03-20,18:30 (14:30),Matchweek 30,Fri,Home,L,0.0,1.0,Napoli,33.0,Yerry Mina,3-5-2,3-4-3,Maurizio Mariani,Match Report,Cagliari,7.0,0.0,0.0,0.0,,0.0,0.0,17.0,5.0,29.4,0.06,0.2,0.0,0.0,30
+2026-04-04,15:00 (10:00),Matchweek 31,Sat,Away,L,1.0,2.0,Sassuolo,50.0,Alessandro Deiola,3-5-2,4-2-3-1,Daniele Chiffi,Match Report,Cagliari,11.0,3.0,27.3,0.0,0.0,1.0,1.0,9.0,2.0,22.2,0.22,1.0,0.0,0.0,31
+2026-04-11,15:00 (10:00),Matchweek 32,Sat,Home,W,1.0,0.0,Cremonese,35.0,Alessandro Deiola,4-2-3-1,4-4-2,Daniele Doveri,Match Report,Cagliari,17.0,5.0,29.4,0.06,0.2,0.0,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,32
+2026-04-17,20:45 (15:45),Matchweek 33,Fri,Away,L,0.0,3.0,Inter,45.0,Yerry Mina,3-5-2,3-5-2,Matteo Marchetti,Match Report,Cagliari,10.0,1.0,10.0,0.0,0.0,0.0,0.0,18.0,5.0,27.8,0.17,0.6,0.0,0.0,33
+2026-04-27,18:30 (13:30),Matchweek 34,Mon,Home,,,,Atalanta,,,,,,Head-to-Head,Cagliari,,,,,,,,,,,,,,,34
+2026-05-03,12:30 (07:30),Matchweek 35,Sun,Away,,,,Bologna,,,,,,Head-to-Head,Cagliari,,,,,,,,,,,,,,,35
+2026-05-09,15:00 (10:00),Matchweek 36,Sat,Home,,,,Udinese,,,,,,Head-to-Head,Cagliari,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Home,,,,Torino,,,,,,Head-to-Head,Cagliari,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Away,,,,Milan,,,,,,Head-to-Head,Cagliari,,,,,,,,,,,,,,,38
+2025-08-24,18:30 (13:30),Matchweek 1,Sun,Home,W,2.0,0.0,Lazio,64.0,Lucas Da Cunha,4-2-3-1,4-3-3,Gianluca Manganiello,Match Report,Como,19.0,6.0,31.6,0.11,0.33,0.0,0.0,5.0,1.0,20.0,0.0,0.0,0.0,0.0,1
+2025-08-30,18:30 (13:30),Matchweek 2,Sat,Away,L,0.0,1.0,Bologna,64.0,Lucas Da Cunha,4-2-3-1,4-2-3-1,Daniele Doveri,Match Report,Como,13.0,2.0,15.4,0.0,0.0,0.0,0.0,15.0,2.0,13.3,0.07,0.5,0.0,0.0,2
+2025-09-15,20:45 (15:45),Matchweek 3,Mon,Home,D,1.0,1.0,Genoa,53.0,Lucas Da Cunha,4-2-3-1,4-2-3-1,Marco Piccinini,Match Report,Como,13.0,4.0,30.8,0.08,0.25,0.0,0.0,12.0,6.0,50.0,0.08,0.17,0.0,0.0,3
+2025-09-21,18:00 (13:00),Matchweek 4,Sun,Away,W,2.0,1.0,Fiorentina,61.0,Sergi Roberto,4-2-3-1,4-4-2,Kevin Bonacina,Match Report,Como,19.0,7.0,36.8,0.11,0.29,0.0,0.0,8.0,1.0,12.5,0.13,1.0,0.0,0.0,4
+2025-09-27,15:00 (10:00),Matchweek 5,Sat,Home,D,1.0,1.0,Cremonese,58.0,Sergi Roberto,4-2-3-1,3-5-2,Marco Di Bello,Match Report,Como,14.0,6.0,42.9,0.07,0.17,0.0,0.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,5
+2025-10-04,20:45 (15:45),Matchweek 6,Sat,Away,D,1.0,1.0,Atalanta,49.0,Lucas Da Cunha,4-2-3-1,3-4-3,Luca Zufferli,Match Report,Como,12.0,4.0,33.3,0.08,0.25,0.0,0.0,16.0,4.0,25.0,0.06,0.25,0.0,0.0,6
+2025-10-19,12:30 (07:30),Matchweek 7,Sun,Home,W,2.0,0.0,Juventus,45.0,Lucas Da Cunha,4-2-3-1,4-3-3,Giovanni Ayroldi,Match Report,Como,12.0,6.0,50.0,0.17,0.33,0.0,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,7
+2025-10-25,15:00 (10:00),Matchweek 8,Sat,Away,D,0.0,0.0,Parma,71.0,Lucas Da Cunha,4-2-3-1,3-5-2,Daniele Chiffi,Match Report,Como,6.0,2.0,33.3,0.0,0.0,0.0,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,8
+2025-10-29,18:30 (14:30),Matchweek 9,Wed,Home,W,3.0,1.0,Hellas Verona,71.0,Lucas Da Cunha,4-2-3-1,3-5-2,Matteo Marcenaro,Match Report,Como,15.0,5.0,33.3,0.2,0.6,0.0,0.0,13.0,9.0,69.2,0.08,0.11,0.0,0.0,9
+2025-11-01,18:00 (14:00),Matchweek 10,Sat,Away,D,0.0,0.0,Napoli,55.0,Álvaro Morata,4-2-3-1,4-3-3,Luca Zufferli,Match Report,Como,14.0,2.0,14.3,0.0,0.0,0.0,1.0,13.0,8.0,61.5,0.0,0.0,0.0,0.0,10
+2025-11-08,15:00 (11:00),Matchweek 11,Sat,Home,D,0.0,0.0,Cagliari,75.0,Álvaro Morata,4-2-3-1,4-5-1,Ivan Pezzuto,Match Report,Como,10.0,6.0,60.0,0.0,0.0,0.0,0.0,4.0,2.0,50.0,0.0,0.0,0.0,0.0,11
+2025-11-24,18:30 (14:30),Matchweek 12,Mon,Away,W,5.0,1.0,Torino,65.0,Lucas Da Cunha,4-2-3-1,3-5-2,Kevin Bonacina,Match Report,Como,15.0,7.0,46.7,0.33,0.71,0.0,0.0,10.0,2.0,20.0,0.0,0.0,1.0,1.0,12
+2025-11-28,20:45 (16:45),Matchweek 13,Fri,Home,W,2.0,0.0,Sassuolo,63.0,Mërgim Vojvoda,4-2-3-1,4-3-3,Matteo Marchetti,Match Report,Como,18.0,13.0,72.2,0.11,0.15,0.0,0.0,12.0,5.0,41.7,0.0,0.0,0.0,0.0,13
+2025-12-06,18:00 (14:00),Matchweek 14,Sat,Away,L,0.0,4.0,Inter,58.0,Lucas Da Cunha,4-2-3-1,3-5-2,Marco Di Bello,Match Report,Como,15.0,3.0,20.0,0.0,0.0,0.0,0.0,11.0,7.0,63.6,0.36,0.57,0.0,0.0,14
+2025-12-15,20:45 (16:45),Matchweek 15,Mon,Away,L,0.0,1.0,Roma,47.0,Lucas Da Cunha,4-2-3-1,3-4-3,Ermanno Feliciani,Match Report,Como,13.0,1.0,7.7,0.0,0.0,0.0,0.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,15
+2025-12-27,15:00 (11:00),Matchweek 17,Sat,Away,W,3.0,0.0,Lecce,62.0,Lucas Da Cunha,4-2-3-1,4-1-4-1,Matteo Marchetti,Match Report,Como,12.0,6.0,50.0,0.25,0.5,0.0,0.0,11.0,5.0,45.5,0.0,0.0,0.0,0.0,17
+2026-01-03,12:30 (08:30),Matchweek 18,Sat,Home,W,1.0,0.0,Udinese,62.0,Lucas Da Cunha,4-3-3,3-5-2,Alberto Arena,Match Report,Como,15.0,3.0,20.0,0.0,0.0,1.0,1.0,3.0,0.0,0.0,0.0,,0.0,0.0,18
+2026-01-06,15:00 (11:00),Matchweek 19,Tue,Away,W,3.0,0.0,Pisa,73.0,Lucas Da Cunha,4-2-3-1,3-5-2,Luca Pairetto,Match Report,Como,15.0,7.0,46.7,0.13,0.29,1.0,1.0,10.0,4.0,40.0,0.0,0.0,0.0,1.0,19
+2026-01-10,15:00 (11:00),Matchweek 20,Sat,Home,D,1.0,1.0,Bologna,59.0,Lucas Da Cunha,4-2-3-1,4-2-3-1,Rosario Abisso,Match Report,Como,12.0,3.0,25.0,0.08,0.33,0.0,0.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,20
+2026-01-15,20:45 (16:45),Matchweek 16,Thu,Home,L,1.0,3.0,Milan,68.0,Lucas Da Cunha,4-2-3-1,3-5-2,Marco Guida,Match Report,Como,18.0,8.0,44.4,0.06,0.13,0.0,0.0,7.0,4.0,57.1,0.29,0.5,1.0,1.0,16
+2026-01-19,20:45 (16:45),Matchweek 21,Mon,Away,W,3.0,0.0,Lazio,66.0,Lucas Da Cunha,4-3-2-1,4-3-3,Michael Fabbri,Match Report,Como,11.0,6.0,54.5,0.27,0.5,0.0,1.0,8.0,4.0,50.0,0.0,0.0,0.0,0.0,21
+2026-01-24,15:00 (11:00),Matchweek 22,Sat,Home,W,6.0,0.0,Torino,59.0,Lucas Da Cunha,4-2-3-1,3-1-4-2,Ermanno Feliciani,Match Report,Como,17.0,7.0,41.2,0.29,0.71,1.0,1.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,22
+2026-02-01,15:00 (11:00),Matchweek 23,Sun,Home,D,0.0,0.0,Atalanta,79.0,Lucas Da Cunha,4-2-3-1,3-4-3,Luca Pairetto,Match Report,Como,28.0,9.0,32.1,0.0,0.0,0.0,1.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,23
+2026-02-14,15:00 (11:00),Matchweek 25,Sat,Home,L,1.0,2.0,Fiorentina,67.0,Lucas Da Cunha,4-2-3-1,4-3-3,Matteo Marchetti,Match Report,Como,16.0,3.0,18.8,0.0,0.0,0.0,0.0,7.0,3.0,42.9,0.14,0.33,1.0,1.0,25
+2026-02-18,20:45 (16:45),Matchweek 24,Wed,Away,D,1.0,1.0,Milan,46.0,Sergi Roberto,3-4-3,3-5-2,Maurizio Mariani,Match Report,Como,10.0,4.0,40.0,0.1,0.25,0.0,0.0,6.0,4.0,66.7,0.17,0.25,0.0,0.0,24
+2026-02-21,15:00 (11:00),Matchweek 26,Sat,Away,W,2.0,0.0,Juventus,48.0,Lucas Da Cunha,4-2-3-1,3-4-3,Daniele Doveri,Match Report,Como,11.0,2.0,18.2,0.18,1.0,0.0,0.0,11.0,3.0,27.3,0.0,0.0,0.0,0.0,26
+2026-02-28,15:00 (11:00),Matchweek 27,Sat,Home,W,3.0,1.0,Lecce,69.0,Lucas Da Cunha,4-2-3-1,3-5-1-1,Francesco Fourneau,Match Report,Como,12.0,7.0,58.3,0.25,0.43,0.0,0.0,5.0,2.0,40.0,0.2,0.5,0.0,0.0,27
+2026-03-07,15:00 (11:00),Matchweek 28,Sat,Away,W,2.0,1.0,Cagliari,57.0,Lucas Da Cunha,4-2-3-1,4-3-3,Livio Marinelli,Match Report,Como,8.0,2.0,25.0,0.25,1.0,0.0,0.0,8.0,3.0,37.5,0.13,0.33,0.0,0.0,28
+2026-03-15,18:00 (14:00),Matchweek 29,Sun,Home,W,2.0,1.0,Roma,66.0,Lucas Da Cunha,3-4-3,3-4-3,Davide Massa,Match Report,Como,22.0,7.0,31.8,0.09,0.29,0.0,0.0,3.0,1.0,33.3,0.0,0.0,1.0,1.0,29
+2026-03-22,12:30 (08:30),Matchweek 30,Sun,Home,W,5.0,0.0,Pisa,73.0,Lucas Da Cunha,4-2-3-1,3-5-2,Luca Pairetto,Match Report,Como,14.0,7.0,50.0,0.36,0.71,0.0,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,30
+2026-04-06,12:30 (07:30),Matchweek 31,Mon,Away,D,0.0,0.0,Udinese,51.0,Lucas Da Cunha,4-2-3-1,3-4-3,Fabio Maresca,Match Report,Como,12.0,4.0,33.3,0.0,0.0,0.0,0.0,14.0,4.0,28.6,0.0,0.0,0.0,0.0,31
+2026-04-12,20:45 (15:45),Matchweek 32,Sun,Home,L,3.0,4.0,Inter,60.0,Sergi Roberto,4-2-3-1,3-5-2,Davide Massa,Match Report,Como,24.0,8.0,33.3,0.08,0.25,1.0,1.0,7.0,5.0,71.4,0.57,0.8,0.0,0.0,32
+2026-04-17,18:30 (13:30),Matchweek 33,Fri,Away,L,1.0,2.0,Sassuolo,70.0,Lucas Da Cunha,4-2-3-1,4-3-3,Francesco Fourneau,Match Report,Como,12.0,3.0,25.0,0.08,0.33,0.0,0.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,33
+2026-04-26,15:00 (10:00),Matchweek 34,Sun,Away,W,2.0,0.0,Genoa,50.0,Lucas Da Cunha,4-2-3-1,3-5-2,Federico La Penna,Match Report,Como,8.0,2.0,25.0,0.25,1.0,0.0,0.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,34
+2026-05-02,18:00 (13:00),Matchweek 35,Sat,Home,,,,Napoli,,,,,,Head-to-Head,Como,,,,,,,,,,,,,,,35
+2026-05-10,12:30 (07:30),Matchweek 36,Sun,Away,,,,Hellas Verona,,,,,,Head-to-Head,Como,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Home,,,,Parma,,,,,,Head-to-Head,Como,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Away,,,,Cremonese,,,,,,Head-to-Head,Como,,,,,,,,,,,,,,,38
+2025-08-23,20:45 (15:45),Matchweek 1,Sat,Away,W,2.0,1.0,Milan,36.0,Matteo Bianchetti,3-5-2,3-5-2,Giuseppe Collu,Match Report,Cremonese,4.0,3.0,75.0,0.5,0.67,0.0,0.0,24.0,6.0,25.0,0.04,0.17,0.0,0.0,1
+2025-08-29,18:30 (13:30),Matchweek 2,Fri,Home,W,3.0,2.0,Sassuolo,42.0,Matteo Bianchetti,3-5-2,4-3-3,Marco Guida,Match Report,Cremonese,11.0,6.0,54.5,0.18,0.33,1.0,1.0,9.0,6.0,66.7,0.11,0.17,1.0,1.0,2
+2025-09-15,18:30 (13:30),Matchweek 3,Mon,Away,D,0.0,0.0,Hellas Verona,54.0,Matteo Bianchetti,3-5-2,3-1-4-2,Alberto Arena,Match Report,Cremonese,6.0,2.0,33.3,0.0,0.0,0.0,0.0,20.0,9.0,45.0,0.0,0.0,0.0,0.0,3
+2025-09-21,15:00 (10:00),Matchweek 4,Sun,Home,D,0.0,0.0,Parma,52.0,Matteo Bianchetti,3-5-2,3-5-2,Federico La Penna,Match Report,Cremonese,3.0,1.0,33.3,0.0,0.0,0.0,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,4
+2025-09-27,15:00 (10:00),Matchweek 5,Sat,Away,D,1.0,1.0,Como,42.0,Matteo Bianchetti,3-5-2,4-2-3-1,Marco Di Bello,Match Report,Cremonese,9.0,2.0,22.2,0.11,0.5,0.0,0.0,14.0,6.0,42.9,0.07,0.17,0.0,0.0,5
+2025-10-04,18:00 (13:00),Matchweek 6,Sat,Away,L,1.0,4.0,Inter,34.0,Matteo Bianchetti,5-3-2,3-5-2,Ermanno Feliciani,Match Report,Cremonese,3.0,2.0,66.7,0.33,0.5,0.0,0.0,27.0,9.0,33.3,0.15,0.44,0.0,0.0,6
+2025-10-20,20:45 (15:45),Matchweek 7,Mon,Home,D,1.0,1.0,Udinese,52.0,Matteo Bianchetti,3-5-2,3-5-2,Michael Fabbri,Match Report,Cremonese,11.0,4.0,36.4,0.09,0.25,0.0,0.0,8.0,1.0,12.5,0.13,1.0,0.0,0.0,7
+2025-10-25,20:45 (15:45),Matchweek 8,Sat,Home,D,1.0,1.0,Atalanta,35.0,Federico Baschirotto,3-1-4-2,4-3-3,Alberto Arena,Match Report,Cremonese,9.0,5.0,55.6,0.11,0.2,0.0,0.0,20.0,6.0,30.0,0.05,0.17,0.0,0.0,8
+2025-10-29,20:45 (16:45),Matchweek 9,Wed,Away,W,2.0,0.0,Genoa,46.0,Matteo Bianchetti,3-1-4-2,4-2-3-1,Rosario Abisso,Match Report,Cremonese,11.0,4.0,36.4,0.18,0.5,0.0,0.0,15.0,1.0,6.7,0.0,0.0,0.0,0.0,9
+2025-11-01,20:45 (16:45),Matchweek 10,Sat,Home,L,1.0,2.0,Juventus,51.0,Matteo Bianchetti,3-5-2,3-4-3,Daniele Chiffi,Match Report,Cremonese,9.0,2.0,22.2,0.11,0.5,0.0,0.0,15.0,5.0,33.3,0.13,0.4,0.0,0.0,10
+2025-11-07,20:45 (16:45),Matchweek 11,Fri,Away,L,0.0,1.0,Pisa,62.0,Matteo Bianchetti,3-1-4-2,3-5-2,Matteo Marcenaro,Match Report,Cremonese,13.0,3.0,23.1,0.0,0.0,0.0,0.0,13.0,6.0,46.2,0.08,0.17,0.0,0.0,11
+2025-11-23,15:00 (11:00),Matchweek 12,Sun,Home,L,1.0,3.0,Roma,50.0,Matteo Bianchetti,3-5-2,3-4-3,Giovanni Ayroldi,Match Report,Cremonese,9.0,4.0,44.4,0.11,0.25,0.0,0.0,12.0,6.0,50.0,0.25,0.5,0.0,0.0,12
+2025-12-01,20:45 (16:45),Matchweek 13,Mon,Away,W,3.0,1.0,Bologna,35.0,Matteo Bianchetti,3-1-4-2,4-2-3-1,Ermanno Feliciani,Match Report,Cremonese,10.0,5.0,50.0,0.3,0.6,0.0,0.0,29.0,7.0,24.1,0.0,0.0,1.0,1.0,13
+2025-12-07,12:30 (08:30),Matchweek 14,Sun,Home,W,2.0,0.0,Lecce,49.0,Matteo Bianchetti,3-5-2,4-2-3-1,Giuseppe Mucera,Match Report,Cremonese,11.0,4.0,36.4,0.09,0.25,1.0,1.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,14
+2025-12-13,15:00 (11:00),Matchweek 15,Sat,Away,L,0.0,1.0,Torino,54.0,Federico Baschirotto,3-5-2,3-4-1-2,Livio Marinelli,Match Report,Cremonese,10.0,3.0,30.0,0.0,0.0,0.0,0.0,18.0,6.0,33.3,0.06,0.17,0.0,0.0,15
+2025-12-20,18:00 (14:00),Matchweek 16,Sat,Away,D,0.0,0.0,Lazio,43.0,Federico Baschirotto,3-5-2,4-3-3,Luca Pairetto,Match Report,Cremonese,9.0,2.0,22.2,0.0,0.0,0.0,0.0,8.0,2.0,25.0,0.0,0.0,0.0,0.0,16
+2025-12-28,15:00 (11:00),Matchweek 17,Sun,Home,L,0.0,2.0,Napoli,48.0,Matteo Bianchetti,3-5-2,3-4-3,Maurizio Mariani,Match Report,Cremonese,6.0,2.0,33.3,0.0,0.0,0.0,0.0,22.0,8.0,36.4,0.09,0.25,0.0,0.0,17
+2026-01-04,15:00 (11:00),Matchweek 18,Sun,Away,L,0.0,1.0,Fiorentina,35.0,Federico Baschirotto,3-5-2,4-2-3-1,Federico La Penna,Match Report,Cremonese,6.0,2.0,33.3,0.0,0.0,0.0,0.0,22.0,8.0,36.4,0.05,0.13,0.0,0.0,18
+2026-01-08,18:30 (14:30),Matchweek 19,Thu,Home,D,2.0,2.0,Cagliari,44.0,Matteo Bianchetti,3-5-2,3-4-3,Kevin Bonacina,Match Report,Cremonese,12.0,5.0,41.7,0.17,0.4,0.0,0.0,21.0,5.0,23.8,0.1,0.4,0.0,0.0,19
+2026-01-12,20:45 (16:45),Matchweek 20,Mon,Away,L,0.0,5.0,Juventus,42.0,Matteo Bianchetti,3-5-2,4-2-3-1,Ermanno Feliciani,Match Report,Cremonese,9.0,2.0,22.2,0.0,0.0,0.0,0.0,18.0,11.0,61.1,0.22,0.36,0.0,1.0,20
+2026-01-19,18:30 (14:30),Matchweek 21,Mon,Home,D,0.0,0.0,Hellas Verona,56.0,Matteo Bianchetti,3-5-2,3-4-3,Alberto Arena,Match Report,Cremonese,7.0,1.0,14.3,0.0,0.0,0.0,0.0,11.0,4.0,36.4,0.0,0.0,0.0,0.0,21
+2026-01-25,12:30 (08:30),Matchweek 22,Sun,Away,L,0.0,1.0,Sassuolo,55.0,Matteo Bianchetti,3-5-2,4-3-3,Giuseppe Collu,Match Report,Cremonese,10.0,4.0,40.0,0.0,0.0,0.0,0.0,13.0,7.0,53.8,0.08,0.14,0.0,0.0,22
+2026-02-01,18:00 (14:00),Matchweek 23,Sun,Home,L,0.0,2.0,Inter,31.0,Federico Baschirotto,3-5-2,3-5-2,Davide Massa,Match Report,Cremonese,9.0,3.0,33.3,0.0,0.0,0.0,0.0,15.0,4.0,26.7,0.13,0.5,0.0,0.0,23
+2026-02-09,18:30 (14:30),Matchweek 24,Mon,Away,L,1.0,2.0,Atalanta,44.0,Federico Baschirotto,3-5-2,3-4-3,Marco Piccinini,Match Report,Cremonese,12.0,2.0,16.7,0.08,0.5,0.0,0.0,29.0,9.0,31.0,0.07,0.22,0.0,0.0,24
+2026-02-15,15:00 (11:00),Matchweek 25,Sun,Home,D,0.0,0.0,Genoa,35.0,Federico Baschirotto,3-5-2,3-4-3,Simone Sozza,Match Report,Cremonese,19.0,8.0,42.1,0.0,0.0,0.0,0.0,19.0,6.0,31.6,0.0,0.0,0.0,0.0,25
+2026-02-22,20:45 (16:45),Matchweek 26,Sun,Away,L,0.0,3.0,Roma,42.0,Federico Bonazzoli,3-5-2,3-4-3,Marco Di Bello,Match Report,Cremonese,2.0,0.0,0.0,0.0,,0.0,0.0,23.0,5.0,21.7,0.13,0.6,0.0,0.0,26
+2026-03-01,12:30 (08:30),Matchweek 27,Sun,Home,L,0.0,2.0,Milan,47.0,Matteo Bianchetti,3-5-2,3-5-2,Davide Massa,Match Report,Cremonese,15.0,3.0,20.0,0.0,0.0,0.0,0.0,20.0,6.0,30.0,0.1,0.33,0.0,0.0,27
+2026-03-08,12:30 (08:30),Matchweek 28,Sun,Away,L,1.0,2.0,Lecce,59.0,Matteo Bianchetti,3-5-2,4-2-3-1,Simone Sozza,Match Report,Cremonese,10.0,5.0,50.0,0.1,0.2,0.0,0.0,9.0,3.0,33.3,0.11,0.33,1.0,1.0,28
+2026-03-16,20:45 (16:45),Matchweek 29,Mon,Home,L,1.0,4.0,Fiorentina,48.0,Federico Bonazzoli,3-5-2,4-3-3,Marco Di Bello,Match Report,Cremonese,13.0,3.0,23.1,0.08,0.33,0.0,0.0,13.0,6.0,46.2,0.31,0.67,0.0,0.0,29
+2026-03-21,15:00 (11:00),Matchweek 30,Sat,Away,W,2.0,0.0,Parma,49.0,Matteo Bianchetti,4-4-2,3-4-3,Michael Fabbri,Match Report,Cremonese,7.0,4.0,57.1,0.29,0.5,0.0,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,30
+2026-04-05,15:00 (10:00),Matchweek 31,Sun,Home,L,1.0,2.0,Bologna,37.0,Matteo Bianchetti,4-1-3-2,4-1-4-1,Rosario Abisso,Match Report,Cremonese,9.0,3.0,33.3,0.0,0.0,1.0,1.0,14.0,7.0,50.0,0.14,0.29,0.0,0.0,31
+2026-04-11,15:00 (10:00),Matchweek 32,Sat,Away,L,0.0,1.0,Cagliari,65.0,Federico Baschirotto,4-4-2,4-2-3-1,Daniele Doveri,Match Report,Cremonese,5.0,2.0,40.0,0.0,0.0,0.0,0.0,17.0,5.0,29.4,0.06,0.2,0.0,0.0,32
+2026-04-19,12:30 (07:30),Matchweek 33,Sun,Home,D,0.0,0.0,Torino,65.0,Federico Baschirotto,4-4-2,3-4-1-2,Michael Fabbri,Match Report,Cremonese,14.0,4.0,28.6,0.0,0.0,0.0,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,33
+2026-04-24,20:45 (15:45),Matchweek 34,Fri,Away,L,0.0,4.0,Napoli,44.0,Federico Baschirotto,4-4-2,3-4-3,Daniele Doveri,Match Report,Cremonese,7.0,4.0,57.1,0.0,0.0,0.0,0.0,25.0,9.0,36.0,0.12,0.33,0.0,1.0,34
+2026-05-04,18:30 (13:30),Matchweek 35,Mon,Home,,,,Lazio,,,,,,Head-to-Head,Cremonese,,,,,,,,,,,,,,,35
+2026-05-10,15:00 (10:00),Matchweek 36,Sun,Home,,,,Pisa,,,,,,Head-to-Head,Cremonese,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Away,,,,Udinese,,,,,,Head-to-Head,Cremonese,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Home,,,,Como,,,,,,Head-to-Head,Cremonese,,,,,,,,,,,,,,,38
+2025-08-24,18:30 (13:30),Matchweek 1,Sun,Away,D,1.0,1.0,Cagliari,55.0,Luca Ranieri,3-4-3,4-3-1-2,Simone Sozza,Match Report,Fiorentina,4.0,1.0,25.0,0.25,1.0,0.0,0.0,14.0,6.0,42.9,0.07,0.17,0.0,0.0,1
+2025-08-31,18:30 (13:30),Matchweek 2,Sun,Away,D,0.0,0.0,Torino,55.0,Luca Ranieri,3-4-1-2,4-3-3,Rosario Abisso,Match Report,Fiorentina,16.0,4.0,25.0,0.0,0.0,0.0,0.0,7.0,4.0,57.1,0.0,0.0,0.0,0.0,2
+2025-09-13,20:45 (15:45),Matchweek 3,Sat,Home,L,1.0,3.0,Napoli,53.0,Luca Ranieri,3-5-2,4-1-4-1,Luca Zufferli,Match Report,Fiorentina,19.0,3.0,15.8,0.05,0.33,0.0,0.0,14.0,9.0,64.3,0.14,0.22,1.0,1.0,3
+2025-09-21,18:00 (13:00),Matchweek 4,Sun,Home,L,1.0,2.0,Como,39.0,Luca Ranieri,4-4-2,4-2-3-1,Kevin Bonacina,Match Report,Fiorentina,8.0,1.0,12.5,0.13,1.0,0.0,0.0,19.0,7.0,36.8,0.11,0.29,0.0,0.0,4
+2025-09-28,15:00 (10:00),Matchweek 5,Sun,Away,D,0.0,0.0,Pisa,61.0,Luca Ranieri,3-4-3,3-5-2,Gianluca Manganiello,Match Report,Fiorentina,14.0,2.0,14.3,0.0,0.0,0.0,0.0,11.0,1.0,9.1,0.0,0.0,0.0,0.0,5
+2025-10-05,15:00 (10:00),Matchweek 6,Sun,Home,L,1.0,2.0,Roma,45.0,Luca Ranieri,3-4-3,3-4-3,Andrea Colombo,Match Report,Fiorentina,11.0,3.0,27.3,0.09,0.33,0.0,0.0,8.0,3.0,37.5,0.25,0.67,0.0,0.0,6
+2025-10-19,20:45 (15:45),Matchweek 7,Sun,Away,L,1.0,2.0,Milan,44.0,Luca Ranieri,3-5-1-1,3-5-2,Livio Marinelli,Match Report,Fiorentina,5.0,1.0,20.0,0.2,1.0,0.0,0.0,14.0,4.0,28.6,0.07,0.25,1.0,1.0,7
+2025-10-26,18:00 (14:00),Matchweek 8,Sun,Home,D,2.0,2.0,Bologna,51.0,Luca Ranieri,3-5-2,4-2-3-1,Federico La Penna,Match Report,Fiorentina,19.0,7.0,36.8,0.0,0.0,2.0,2.0,6.0,3.0,50.0,0.33,0.67,0.0,0.0,8
+2025-10-29,20:45 (16:45),Matchweek 9,Wed,Away,L,0.0,3.0,Inter,36.0,Robin Gosens,3-5-1-1,3-5-2,Simone Sozza,Match Report,Fiorentina,10.0,2.0,20.0,0.0,0.0,0.0,0.0,22.0,8.0,36.4,0.09,0.25,1.0,1.0,9
+2025-11-02,15:00 (11:00),Matchweek 10,Sun,Home,L,0.0,1.0,Lecce,63.0,Luca Ranieri,3-5-2,4-2-3-1,Antonio Rapuano,Match Report,Fiorentina,15.0,4.0,26.7,0.0,0.0,0.0,0.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,10
+2025-11-09,15:00 (11:00),Matchweek 11,Sun,Away,D,2.0,2.0,Genoa,59.0,Luca Ranieri,3-5-2,3-5-2,Marco Guida,Match Report,Fiorentina,7.0,3.0,42.9,0.14,0.33,1.0,1.0,10.0,6.0,60.0,0.2,0.33,0.0,1.0,11
+2025-11-22,18:00 (14:00),Matchweek 12,Sat,Home,D,1.0,1.0,Juventus,41.0,Luca Ranieri,3-5-2,3-4-3,Daniele Doveri,Match Report,Fiorentina,11.0,2.0,18.2,0.09,0.5,0.0,0.0,17.0,4.0,23.5,0.06,0.25,0.0,0.0,12
+2025-11-30,18:00 (14:00),Matchweek 13,Sun,Away,L,0.0,2.0,Atalanta,52.0,Luca Ranieri,3-1-4-2,3-4-3,Matteo Marcenaro,Match Report,Fiorentina,15.0,3.0,20.0,0.0,0.0,0.0,0.0,21.0,9.0,42.9,0.1,0.22,0.0,0.0,13
+2025-12-06,15:00 (11:00),Matchweek 14,Sat,Away,L,1.0,3.0,Sassuolo,60.0,Luca Ranieri,3-5-2,4-3-3,Luca Pairetto,Match Report,Fiorentina,9.0,1.0,11.1,0.0,0.0,1.0,1.0,13.0,5.0,38.5,0.23,0.6,0.0,0.0,14
+2025-12-14,15:00 (11:00),Matchweek 15,Sun,Home,L,1.0,2.0,Hellas Verona,66.0,Luca Ranieri,3-5-2,3-5-2,Andrea Colombo,Match Report,Fiorentina,20.0,4.0,20.0,0.0,0.0,0.0,0.0,13.0,3.0,23.1,0.15,0.67,0.0,0.0,15
+2025-12-21,18:00 (14:00),Matchweek 16,Sun,Home,W,5.0,1.0,Udinese,63.0,David de Gea,4-4-2,3-4-3,Maurizio Mariani,Match Report,Fiorentina,20.0,7.0,35.0,0.25,0.71,0.0,0.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,16
+2025-12-27,12:30 (08:30),Matchweek 17,Sat,Away,L,0.0,1.0,Parma,58.0,David de Gea,3-5-2,4-3-3,Marco Guida,Match Report,Fiorentina,23.0,4.0,17.4,0.0,0.0,0.0,0.0,13.0,2.0,15.4,0.08,0.5,0.0,0.0,17
+2026-01-04,15:00 (11:00),Matchweek 18,Sun,Home,W,1.0,0.0,Cremonese,65.0,David de Gea,4-2-3-1,3-5-2,Federico La Penna,Match Report,Fiorentina,22.0,8.0,36.4,0.05,0.13,0.0,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,18
+2026-01-07,20:45 (16:45),Matchweek 19,Wed,Away,D,2.0,2.0,Lazio,51.0,David de Gea,4-3-3,4-3-3,Simone Sozza,Match Report,Fiorentina,8.0,5.0,62.5,0.13,0.2,1.0,1.0,17.0,9.0,52.9,0.06,0.11,1.0,1.0,19
+2026-01-11,15:00 (11:00),Matchweek 20,Sun,Home,D,1.0,1.0,Milan,52.0,David de Gea,4-3-3,3-5-2,Davide Massa,Match Report,Fiorentina,20.0,7.0,35.0,0.05,0.14,0.0,0.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,20
+2026-01-18,15:00 (11:00),Matchweek 21,Sun,Away,W,2.0,1.0,Bologna,39.0,David de Gea,4-3-3,4-2-3-1,Daniele Doveri,Match Report,Fiorentina,11.0,4.0,36.4,0.18,0.5,0.0,0.0,18.0,3.0,16.7,0.06,0.33,0.0,0.0,21
+2026-01-24,18:00 (14:00),Matchweek 22,Sat,Home,L,1.0,2.0,Cagliari,70.0,David de Gea,4-3-3,3-5-1-1,Marco Guida,Match Report,Fiorentina,15.0,3.0,20.0,0.07,0.33,0.0,0.0,10.0,6.0,60.0,0.2,0.33,0.0,0.0,22
+2026-01-31,18:00 (14:00),Matchweek 23,Sat,Away,L,1.0,2.0,Napoli,47.0,David de Gea,4-1-4-1,3-4-3,Federico La Penna,Match Report,Fiorentina,15.0,5.0,33.3,0.07,0.2,0.0,0.0,19.0,6.0,31.6,0.11,0.33,0.0,0.0,23
+2026-02-07,20:45 (16:45),Matchweek 24,Sat,Home,D,2.0,2.0,Torino,55.0,David de Gea,4-3-2-1,3-5-2,Andrea Colombo,Match Report,Fiorentina,21.0,5.0,23.8,0.1,0.4,0.0,0.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,24
+2026-02-14,15:00 (11:00),Matchweek 25,Sat,Away,W,2.0,1.0,Como,33.0,David de Gea,4-3-3,4-2-3-1,Matteo Marchetti,Match Report,Fiorentina,7.0,3.0,42.9,0.14,0.33,1.0,1.0,16.0,3.0,18.8,0.0,0.0,0.0,0.0,25
+2026-02-23,18:30 (14:30),Matchweek 26,Mon,Home,W,1.0,0.0,Pisa,56.0,David de Gea,4-3-3,3-4-3,Maurizio Mariani,Match Report,Fiorentina,15.0,5.0,33.3,0.07,0.2,0.0,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,26
+2026-03-02,20:45 (16:45),Matchweek 27,Mon,Away,L,0.0,3.0,Udinese,65.0,David de Gea,3-5-1-1,3-5-2,Luca Pairetto,Match Report,Fiorentina,10.0,0.0,0.0,0.0,,0.0,0.0,10.0,7.0,70.0,0.2,0.29,1.0,1.0,27
+2026-03-08,15:00 (11:00),Matchweek 28,Sun,Home,D,0.0,0.0,Parma,56.0,David de Gea,4-1-4-1,3-1-4-2,Luca Zufferli,Match Report,Fiorentina,12.0,1.0,8.3,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,,0.0,0.0,28
+2026-03-16,20:45 (16:45),Matchweek 29,Mon,Away,W,4.0,1.0,Cremonese,52.0,David de Gea,4-3-3,3-5-2,Marco Di Bello,Match Report,Fiorentina,13.0,6.0,46.2,0.31,0.67,0.0,0.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,29
+2026-03-22,20:45 (16:45),Matchweek 30,Sun,Home,D,1.0,1.0,Inter,40.0,David de Gea,4-1-4-1,3-5-2,Andrea Colombo,Match Report,Fiorentina,16.0,6.0,37.5,0.06,0.17,0.0,0.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,30
+2026-04-04,18:00 (13:00),Matchweek 31,Sat,Away,W,1.0,0.0,Hellas Verona,51.0,David de Gea,4-3-3,3-5-2,Marco Guida,Match Report,Fiorentina,5.0,1.0,20.0,0.2,1.0,0.0,0.0,21.0,8.0,38.1,0.0,0.0,0.0,0.0,31
+2026-04-13,20:45 (15:45),Matchweek 32,Mon,Home,W,1.0,0.0,Lazio,34.0,David de Gea,4-3-3,4-3-3,Michael Fabbri,Match Report,Fiorentina,8.0,2.0,25.0,0.13,0.5,0.0,0.0,13.0,6.0,46.2,0.0,0.0,0.0,0.0,32
+2026-04-20,20:45 (15:45),Matchweek 33,Mon,Away,D,1.0,1.0,Lecce,46.0,David de Gea,4-3-3,4-2-3-1,Fabio Maresca,Match Report,Fiorentina,5.0,3.0,60.0,0.2,0.33,0.0,0.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,33
+2026-04-26,12:30 (07:30),Matchweek 34,Sun,Home,D,0.0,0.0,Sassuolo,49.0,David de Gea,4-3-3,4-3-3,Livio Marinelli,Match Report,Fiorentina,22.0,5.0,22.7,0.0,0.0,0.0,0.0,11.0,1.0,9.1,0.0,0.0,0.0,0.0,34
+2026-05-04,20:45 (15:45),Matchweek 35,Mon,Away,,,,Roma,,,,,,Head-to-Head,Fiorentina,,,,,,,,,,,,,,,35
+2026-05-10,15:00 (10:00),Matchweek 36,Sun,Home,,,,Genoa,,,,,,Head-to-Head,Fiorentina,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Away,,,,Juventus,,,,,,Head-to-Head,Fiorentina,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Home,,,,Atalanta,,,,,,Head-to-Head,Fiorentina,,,,,,,,,,,,,,,38
+2025-08-23,18:30 (13:30),Matchweek 1,Sat,Home,D,0.0,0.0,Lecce,59.0,Johan Vásquez,4-2-3-1,4-3-3,Davide Massa,Match Report,Genoa,5.0,2.0,40.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,1
+2025-08-31,18:30 (13:30),Matchweek 2,Sun,Home,L,0.0,1.0,Juventus,44.0,Johan Vásquez,4-2-3-1,3-4-3,Daniele Chiffi,Match Report,Genoa,10.0,1.0,10.0,0.0,0.0,0.0,0.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,2
+2025-09-15,20:45 (15:45),Matchweek 3,Mon,Away,D,1.0,1.0,Como,47.0,Johan Vásquez,4-2-3-1,4-2-3-1,Marco Piccinini,Match Report,Genoa,12.0,6.0,50.0,0.08,0.17,0.0,0.0,13.0,4.0,30.8,0.08,0.25,0.0,0.0,3
+2025-09-20,15:00 (10:00),Matchweek 4,Sat,Away,L,1.0,2.0,Bologna,42.0,Johan Vásquez,4-2-3-1,4-2-3-1,Giuseppe Collu,Match Report,Genoa,7.0,4.0,57.1,0.14,0.25,0.0,0.0,14.0,6.0,42.9,0.07,0.17,1.0,1.0,4
+2025-09-29,20:45 (15:45),Matchweek 5,Mon,Home,L,0.0,3.0,Lazio,65.0,Johan Vásquez,4-2-3-1,4-2-3-1,Giovanni Ayroldi,Match Report,Genoa,17.0,5.0,29.4,0.0,0.0,0.0,0.0,9.0,6.0,66.7,0.33,0.5,0.0,0.0,5
+2025-10-05,18:00 (13:00),Matchweek 6,Sun,Away,L,1.0,2.0,Napoli,31.0,Johan Vásquez,4-2-3-1,4-1-4-1,Federico La Penna,Match Report,Genoa,6.0,1.0,16.7,0.17,1.0,0.0,0.0,12.0,5.0,41.7,0.17,0.4,0.0,0.0,6
+2025-10-19,15:00 (10:00),Matchweek 7,Sun,Home,D,0.0,0.0,Parma,69.0,Johan Vásquez,3-4-3,3-5-2,Simone Sozza,Match Report,Genoa,23.0,7.0,30.4,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,0.0,7
+2025-10-26,12:30 (08:30),Matchweek 8,Sun,Away,L,1.0,2.0,Torino,41.0,Johan Vásquez,3-4-3,3-4-1-2,Kevin Bonacina,Match Report,Genoa,11.0,3.0,27.3,0.09,0.33,0.0,0.0,13.0,6.0,46.2,0.08,0.17,0.0,0.0,8
+2025-10-29,20:45 (16:45),Matchweek 9,Wed,Home,L,0.0,2.0,Cremonese,54.0,Johan Vásquez,4-2-3-1,3-1-4-2,Rosario Abisso,Match Report,Genoa,15.0,1.0,6.7,0.0,0.0,0.0,0.0,11.0,4.0,36.4,0.18,0.5,0.0,0.0,9
+2025-11-03,18:30 (14:30),Matchweek 10,Mon,Away,W,2.0,1.0,Sassuolo,39.0,Johan Vásquez,3-5-2,4-3-3,Ermanno Feliciani,Match Report,Genoa,16.0,5.0,31.3,0.13,0.4,0.0,0.0,13.0,4.0,30.8,0.08,0.25,0.0,0.0,10
+2025-11-09,15:00 (11:00),Matchweek 11,Sun,Home,D,2.0,2.0,Fiorentina,41.0,Johan Vásquez,3-5-2,3-5-2,Marco Guida,Match Report,Genoa,10.0,6.0,60.0,0.2,0.33,0.0,1.0,7.0,3.0,42.9,0.14,0.33,1.0,1.0,11
+2025-11-22,15:00 (11:00),Matchweek 12,Sat,Away,D,3.0,3.0,Cagliari,51.0,Johan Vásquez,3-5-2,3-5-2,Federico La Penna,Match Report,Genoa,13.0,8.0,61.5,0.23,0.38,0.0,0.0,11.0,5.0,45.5,0.27,0.6,0.0,0.0,12
+2025-11-29,15:00 (11:00),Matchweek 13,Sat,Home,W,2.0,1.0,Hellas Verona,60.0,Johan Vásquez,3-5-2,3-5-2,Michael Fabbri,Match Report,Genoa,15.0,4.0,26.7,0.13,0.5,0.0,0.0,13.0,5.0,38.5,0.08,0.2,0.0,0.0,13
+2025-12-08,18:00 (14:00),Matchweek 14,Mon,Away,W,2.0,1.0,Udinese,42.0,Johan Vásquez,3-5-2,3-5-2,Fabio Maresca,Match Report,Genoa,12.0,6.0,50.0,0.08,0.17,1.0,1.0,23.0,6.0,26.1,0.04,0.17,0.0,0.0,14
+2025-12-14,18:00 (14:00),Matchweek 15,Sun,Home,L,1.0,2.0,Inter,36.0,Johan Vásquez,3-5-2,3-5-2,Daniele Doveri,Match Report,Genoa,5.0,3.0,60.0,0.2,0.33,0.0,0.0,18.0,8.0,44.4,0.11,0.25,0.0,0.0,15
+2025-12-21,20:45 (16:45),Matchweek 16,Sun,Home,L,0.0,1.0,Atalanta,29.0,Johan Vásquez,3-5-2,3-4-3,Rosario Abisso,Match Report,Genoa,6.0,3.0,50.0,0.0,0.0,0.0,0.0,16.0,4.0,25.0,0.06,0.25,0.0,0.0,16
+2025-12-29,20:45 (16:45),Matchweek 17,Mon,Away,L,1.0,3.0,Roma,39.0,Johan Vásquez,3-5-2,3-4-3,Marco Di Bello,Match Report,Genoa,10.0,2.0,20.0,0.1,0.5,0.0,0.0,16.0,8.0,50.0,0.19,0.38,0.0,0.0,17
+2026-01-03,15:00 (11:00),Matchweek 18,Sat,Home,D,1.0,1.0,Pisa,62.0,Johan Vásquez,3-5-2,3-5-2,Daniele Chiffi,Match Report,Genoa,12.0,4.0,33.3,0.08,0.25,0.0,0.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,18
+2026-01-08,20:45 (16:45),Matchweek 19,Thu,Away,D,1.0,1.0,Milan,39.0,Johan Vásquez,3-5-2,3-5-2,Maurizio Mariani,Match Report,Genoa,7.0,2.0,28.6,0.14,0.5,0.0,1.0,32.0,8.0,25.0,0.03,0.13,0.0,0.0,19
+2026-01-12,18:30 (14:30),Matchweek 20,Mon,Home,W,3.0,0.0,Cagliari,44.0,Johan Vásquez,3-5-2,4-3-3,Federico La Penna,Match Report,Genoa,11.0,7.0,63.6,0.27,0.43,0.0,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,20
+2026-01-18,12:30 (08:30),Matchweek 21,Sun,Away,D,0.0,0.0,Parma,49.0,Johan Vásquez,3-5-2,4-3-3,Luca Pairetto,Match Report,Genoa,11.0,3.0,27.3,0.0,0.0,0.0,0.0,14.0,2.0,14.3,0.0,0.0,0.0,0.0,21
+2026-01-25,15:00 (11:00),Matchweek 22,Sun,Home,W,3.0,2.0,Bologna,49.0,Johan Vásquez,3-5-2,4-2-3-1,Fabio Maresca,Match Report,Genoa,8.0,6.0,75.0,0.38,0.5,0.0,0.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,22
+2026-01-30,20:45 (16:45),Matchweek 23,Fri,Away,L,2.0,3.0,Lazio,45.0,Johan Vásquez,3-5-2,4-3-3,Luca Zufferli,Match Report,Genoa,16.0,4.0,25.0,0.06,0.25,1.0,1.0,14.0,4.0,28.6,0.07,0.25,2.0,2.0,23
+2026-02-07,18:00 (14:00),Matchweek 24,Sat,Home,L,2.0,3.0,Napoli,40.0,Johan Vásquez,3-5-2,3-4-3,Davide Massa,Match Report,Genoa,12.0,3.0,25.0,0.08,0.33,1.0,1.0,14.0,5.0,35.7,0.14,0.4,1.0,1.0,24
+2026-02-15,15:00 (11:00),Matchweek 25,Sun,Away,D,0.0,0.0,Cremonese,65.0,Johan Vásquez,3-4-3,3-5-2,Simone Sozza,Match Report,Genoa,19.0,6.0,31.6,0.0,0.0,0.0,0.0,19.0,8.0,42.1,0.0,0.0,0.0,0.0,25
+2026-02-22,12:30 (08:30),Matchweek 26,Sun,Home,W,3.0,0.0,Torino,62.0,Johan Vásquez,3-5-2,3-5-2,Marco Guida,Match Report,Genoa,16.0,5.0,31.3,0.19,0.6,0.0,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,26
+2026-02-28,20:45 (16:45),Matchweek 27,Sat,Away,L,0.0,2.0,Inter,44.0,Johan Vásquez,3-4-3,3-5-2,Michael Fabbri,Match Report,Genoa,6.0,2.0,33.3,0.0,0.0,0.0,0.0,14.0,6.0,42.9,0.07,0.17,1.0,1.0,27
+2026-03-08,18:00 (14:00),Matchweek 28,Sun,Home,W,2.0,1.0,Roma,36.0,Johan Vásquez,3-4-3,3-4-3,Andrea Colombo,Match Report,Genoa,11.0,5.0,45.5,0.09,0.2,1.0,1.0,8.0,1.0,12.5,0.13,1.0,0.0,0.0,28
+2026-03-15,12:30 (08:30),Matchweek 29,Sun,Away,W,2.0,0.0,Hellas Verona,58.0,Johan Vásquez,3-5-2,3-5-2,Matteo Marchetti,Match Report,Genoa,11.0,3.0,27.3,0.18,0.67,0.0,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,29
+2026-03-20,20:45 (16:45),Matchweek 30,Fri,Home,L,0.0,2.0,Udinese,62.0,Johan Vásquez,3-4-3,3-1-4-2,Giuseppe Collu,Match Report,Genoa,18.0,2.0,11.1,0.0,0.0,0.0,0.0,6.0,4.0,66.7,0.33,0.5,0.0,0.0,30
+2026-04-06,18:00 (13:00),Matchweek 31,Mon,Away,L,0.0,2.0,Juventus,38.0,Johan Vásquez,5-4-1,4-1-4-1,Davide Massa,Match Report,Genoa,12.0,3.0,25.0,0.0,0.0,0.0,1.0,16.0,5.0,31.3,0.13,0.4,0.0,0.0,31
+2026-04-12,12:30 (07:30),Matchweek 32,Sun,Home,W,2.0,1.0,Sassuolo,52.0,Johan Vásquez,3-4-3,4-3-3,Antonio Rapuano,Match Report,Genoa,14.0,7.0,50.0,0.14,0.29,0.0,0.0,15.0,6.0,40.0,0.07,0.17,0.0,0.0,32
+2026-04-19,18:00 (13:00),Matchweek 33,Sun,Away,W,2.0,1.0,Pisa,56.0,Johan Vásquez,3-4-1-2,3-4-3,Valerio Crezzini,Match Report,Genoa,13.0,5.0,38.5,0.08,0.2,1.0,1.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,33
+2026-04-26,15:00 (10:00),Matchweek 34,Sun,Home,L,0.0,2.0,Como,50.0,Johan Vásquez,3-5-2,4-2-3-1,Federico La Penna,Match Report,Genoa,9.0,1.0,11.1,0.0,0.0,0.0,0.0,8.0,2.0,25.0,0.25,1.0,0.0,0.0,34
+2026-05-02,20:45 (15:45),Matchweek 35,Sat,Away,,,,Atalanta,,,,,,Head-to-Head,Genoa,,,,,,,,,,,,,,,35
+2026-05-10,15:00 (10:00),Matchweek 36,Sun,Away,,,,Fiorentina,,,,,,Head-to-Head,Genoa,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Home,,,,Milan,,,,,,Head-to-Head,Genoa,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Away,,,,Lecce,,,,,,Head-to-Head,Genoa,,,,,,,,,,,,,,,38
+2025-08-25,18:30 (13:30),Matchweek 1,Mon,Away,D,1.0,1.0,Udinese,37.0,Suat Serdar,3-5-2,3-5-2,Paride Tremolada,Match Report,Hellas Verona,9.0,3.0,33.3,0.11,0.33,0.0,0.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,1
+2025-08-31,20:45 (15:45),Matchweek 2,Sun,Away,L,0.0,4.0,Lazio,30.0,Suat Serdar,3-5-2,4-3-3,Valerio Crezzini,Match Report,Hellas Verona,12.0,4.0,33.3,0.0,0.0,0.0,0.0,22.0,6.0,27.3,0.18,0.67,0.0,0.0,2
+2025-09-15,18:30 (13:30),Matchweek 3,Mon,Home,D,0.0,0.0,Cremonese,47.0,Suat Serdar,3-1-4-2,3-5-2,Alberto Arena,Match Report,Hellas Verona,20.0,9.0,45.0,0.0,0.0,0.0,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,3
+2025-09-20,18:00 (13:00),Matchweek 4,Sat,Home,D,1.0,1.0,Juventus,28.0,Suat Serdar,3-5-2,3-4-3,Antonio Rapuano,Match Report,Hellas Verona,14.0,4.0,28.6,0.0,0.0,1.0,1.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,4
+2025-09-28,15:00 (10:00),Matchweek 5,Sun,Away,L,0.0,2.0,Roma,43.0,Suat Serdar,3-5-2,3-4-3,Ermanno Feliciani,Match Report,Hellas Verona,12.0,3.0,25.0,0.0,0.0,0.0,0.0,10.0,5.0,50.0,0.2,0.4,0.0,0.0,5
+2025-10-03,20:45 (15:45),Matchweek 6,Fri,Home,L,0.0,1.0,Sassuolo,59.0,Suat Serdar,3-1-4-2,4-3-3,Francesco Fourneau,Match Report,Hellas Verona,17.0,9.0,52.9,0.0,0.0,0.0,0.0,11.0,3.0,27.3,0.09,0.33,0.0,1.0,6
+2025-10-18,15:00 (10:00),Matchweek 7,Sat,Away,D,0.0,0.0,Pisa,40.0,Suat Serdar,3-5-2,3-5-2,Marco Guida,Match Report,Hellas Verona,15.0,3.0,20.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,7
+2025-10-26,15:00 (11:00),Matchweek 8,Sun,Home,D,2.0,2.0,Cagliari,37.0,Suat Serdar,3-5-2,3-5-2,Federico Dionisi,Match Report,Hellas Verona,10.0,6.0,60.0,0.2,0.33,0.0,0.0,7.0,3.0,42.9,0.29,0.67,0.0,0.0,8
+2025-10-29,18:30 (14:30),Matchweek 9,Wed,Away,L,1.0,3.0,Como,29.0,Suat Serdar,3-5-2,4-2-3-1,Matteo Marcenaro,Match Report,Hellas Verona,13.0,9.0,69.2,0.08,0.11,0.0,0.0,15.0,5.0,33.3,0.2,0.6,0.0,0.0,9
+2025-11-02,12:30 (08:30),Matchweek 10,Sun,Home,L,1.0,2.0,Inter,27.0,Lorenzo Montipò,3-5-2,3-5-2,Daniele Doveri,Match Report,Hellas Verona,8.0,2.0,25.0,0.13,0.5,0.0,0.0,21.0,6.0,28.6,0.05,0.17,0.0,0.0,10
+2025-11-08,15:00 (11:00),Matchweek 11,Sat,Away,D,0.0,0.0,Lecce,41.0,Lorenzo Montipò,3-5-2,4-2-3-1,Rosario Abisso,Match Report,Hellas Verona,5.0,2.0,40.0,0.0,0.0,0.0,0.0,11.0,6.0,54.5,0.0,0.0,0.0,0.0,11
+2025-11-23,12:30 (08:30),Matchweek 12,Sun,Home,L,1.0,2.0,Parma,59.0,Lorenzo Montipò,3-5-2,3-5-2,Luca Pairetto,Match Report,Hellas Verona,10.0,2.0,20.0,0.1,0.5,0.0,0.0,15.0,7.0,46.7,0.13,0.29,0.0,0.0,12
+2025-11-29,15:00 (11:00),Matchweek 13,Sat,Away,L,1.0,2.0,Genoa,40.0,Lorenzo Montipò,3-5-2,3-5-2,Michael Fabbri,Match Report,Hellas Verona,13.0,5.0,38.5,0.08,0.2,0.0,0.0,15.0,4.0,26.7,0.13,0.5,0.0,0.0,13
+2025-12-06,20:45 (16:45),Matchweek 14,Sat,Home,W,3.0,1.0,Atalanta,36.0,Lorenzo Montipò,3-5-2,3-4-3,Maurizio Mariani,Match Report,Hellas Verona,12.0,7.0,58.3,0.25,0.43,0.0,0.0,12.0,5.0,41.7,0.0,0.0,1.0,1.0,14
+2025-12-14,15:00 (11:00),Matchweek 15,Sun,Away,W,2.0,1.0,Fiorentina,34.0,Lorenzo Montipò,3-5-2,3-5-2,Andrea Colombo,Match Report,Hellas Verona,13.0,3.0,23.1,0.15,0.67,0.0,0.0,20.0,4.0,20.0,0.0,0.0,0.0,0.0,15
+2025-12-28,12:30 (08:30),Matchweek 17,Sun,Away,L,0.0,3.0,Milan,48.0,Lorenzo Montipò,3-5-1-1,3-5-2,Michael Fabbri,Match Report,Hellas Verona,9.0,1.0,11.1,0.0,0.0,0.0,0.0,11.0,5.0,45.5,0.18,0.4,1.0,1.0,17
+2026-01-04,18:00 (14:00),Matchweek 18,Sun,Home,L,0.0,3.0,Torino,48.0,Suat Serdar,3-4-3,3-5-2,Antonio Rapuano,Match Report,Hellas Verona,7.0,3.0,42.9,0.0,0.0,0.0,0.0,21.0,5.0,23.8,0.14,0.6,0.0,0.0,18
+2026-01-07,18:30 (14:30),Matchweek 19,Wed,Away,D,2.0,2.0,Napoli,30.0,Lorenzo Montipò,3-5-2,3-4-3,Matteo Marchetti,Match Report,Hellas Verona,11.0,4.0,36.4,0.09,0.25,1.0,1.0,15.0,4.0,26.7,0.13,0.5,0.0,0.0,19
+2026-01-11,18:00 (14:00),Matchweek 20,Sun,Home,L,0.0,1.0,Lazio,36.0,Lorenzo Montipò,3-5-2,4-3-3,Marco Guida,Match Report,Hellas Verona,10.0,2.0,20.0,0.0,0.0,0.0,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,20
+2026-01-15,18:30 (14:30),Matchweek 16,Thu,Home,L,2.0,3.0,Bologna,39.0,Suat Serdar,3-5-2,4-2-3-1,Maurizio Mariani,Match Report,Hellas Verona,15.0,5.0,33.3,0.07,0.2,0.0,0.0,14.0,5.0,35.7,0.21,0.6,0.0,0.0,16
+2026-01-19,18:30 (14:30),Matchweek 21,Mon,Away,D,0.0,0.0,Cremonese,44.0,Roberto Gagliardini,3-4-3,3-5-2,Alberto Arena,Match Report,Hellas Verona,11.0,4.0,36.4,0.0,0.0,0.0,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,21
+2026-01-26,20:45 (16:45),Matchweek 22,Mon,Home,L,1.0,3.0,Udinese,53.0,Suat Serdar,3-4-3,3-4-3,Gianluca Manganiello,Match Report,Hellas Verona,7.0,4.0,57.1,0.14,0.25,0.0,0.0,20.0,7.0,35.0,0.15,0.43,0.0,0.0,22
+2026-01-31,20:45 (16:45),Matchweek 23,Sat,Away,L,0.0,4.0,Cagliari,38.0,Roberto Gagliardini,3-5-2,3-5-2,Kevin Bonacina,Match Report,Hellas Verona,8.0,3.0,37.5,0.0,0.0,0.0,0.0,13.0,7.0,53.8,0.31,0.57,0.0,0.0,23
+2026-02-06,20:45 (16:45),Matchweek 24,Fri,Home,D,0.0,0.0,Pisa,61.0,Lorenzo Montipò,3-5-2,3-4-3,Daniele Doveri,Match Report,Hellas Verona,3.0,0.0,0.0,0.0,,0.0,0.0,11.0,3.0,27.3,0.0,0.0,0.0,0.0,24
+2026-02-15,15:00 (11:00),Matchweek 25,Sun,Away,L,1.0,2.0,Parma,24.0,Lorenzo Montipò,3-5-2,3-5-2,Luca Pairetto,Match Report,Hellas Verona,4.0,1.0,25.0,0.0,0.0,1.0,1.0,27.0,8.0,29.6,0.07,0.25,0.0,0.0,25
+2026-02-20,20:45 (16:45),Matchweek 26,Fri,Away,L,0.0,3.0,Sassuolo,53.0,Lorenzo Montipò,3-5-2,4-3-3,Livio Marinelli,Match Report,Hellas Verona,12.0,1.0,8.3,0.0,0.0,0.0,0.0,8.0,4.0,50.0,0.38,0.75,0.0,1.0,26
+2026-02-28,18:00 (14:00),Matchweek 27,Sat,Home,L,1.0,2.0,Napoli,35.0,Lorenzo Montipò,3-5-2,3-4-3,Andrea Colombo,Match Report,Hellas Verona,8.0,2.0,25.0,0.13,0.5,0.0,0.0,8.0,5.0,62.5,0.25,0.4,0.0,0.0,27
+2026-03-08,15:00 (11:00),Matchweek 28,Sun,Away,W,2.0,1.0,Bologna,32.0,Lorenzo Montipò,5-3-2,4-1-4-1,Giuseppe Mucera,Match Report,Hellas Verona,15.0,5.0,33.3,0.13,0.4,0.0,0.0,19.0,2.0,10.5,0.05,0.5,0.0,0.0,28
+2026-03-15,12:30 (08:30),Matchweek 29,Sun,Home,L,0.0,2.0,Genoa,42.0,Lorenzo Montipò,3-5-2,3-5-2,Matteo Marchetti,Match Report,Hellas Verona,8.0,1.0,12.5,0.0,0.0,0.0,0.0,11.0,3.0,27.3,0.18,0.67,0.0,0.0,29
+2026-03-22,15:00 (11:00),Matchweek 30,Sun,Away,L,0.0,1.0,Atalanta,40.0,Lorenzo Montipò,3-5-2,3-4-3,Giovanni Ayroldi,Match Report,Hellas Verona,12.0,3.0,25.0,0.0,0.0,0.0,0.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,30
+2026-04-04,18:00 (13:00),Matchweek 31,Sat,Home,L,0.0,1.0,Fiorentina,50.0,Lorenzo Montipò,3-5-2,4-3-3,Marco Guida,Match Report,Hellas Verona,21.0,8.0,38.1,0.0,0.0,0.0,0.0,5.0,1.0,20.0,0.2,1.0,0.0,0.0,31
+2026-04-11,15:00 (10:00),Matchweek 32,Sat,Away,L,1.0,2.0,Torino,54.0,Lorenzo Montipò,3-5-2,3-5-2,Kevin Bonacina,Match Report,Hellas Verona,18.0,4.0,22.2,0.06,0.25,0.0,0.0,11.0,2.0,18.2,0.18,1.0,0.0,0.0,32
+2026-04-19,15:00 (10:00),Matchweek 33,Sun,Home,L,0.0,1.0,Milan,47.0,Lorenzo Montipò,3-4-3,3-5-2,Daniele Chiffi,Match Report,Hellas Verona,13.0,2.0,15.4,0.0,0.0,0.0,0.0,6.0,3.0,50.0,0.17,0.33,0.0,0.0,33
+2026-04-25,20:45 (15:45),Matchweek 34,Sat,Home,D,0.0,0.0,Lecce,47.0,Lorenzo Montipò,3-5-1-1,4-2-3-1,Davide Massa,Match Report,Hellas Verona,6.0,3.0,50.0,0.0,0.0,0.0,0.0,12.0,2.0,16.7,0.0,0.0,0.0,0.0,34
+2026-05-03,18:00 (13:00),Matchweek 35,Sun,Away,,,,Juventus,,,,,,Head-to-Head,Hellas Verona,,,,,,,,,,,,,,,35
+2026-05-10,12:30 (07:30),Matchweek 36,Sun,Home,,,,Como,,,,,,Head-to-Head,Hellas Verona,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Away,,,,Inter,,,,,,Head-to-Head,Hellas Verona,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Home,,,,Roma,,,,,,Head-to-Head,Hellas Verona,,,,,,,,,,,,,,,38
+2025-08-25,20:45 (15:45),Matchweek 1,Mon,Home,W,5.0,0.0,Torino,60.0,Lautaro Martínez,3-5-2,4-3-3,Federico La Penna,Match Report,Internazionale,20.0,9.0,45.0,0.25,0.56,0.0,0.0,12.0,4.0,33.3,0.0,0.0,0.0,0.0,1
+2025-08-31,20:45 (15:45),Matchweek 2,Sun,Home,L,1.0,2.0,Udinese,68.0,Lautaro Martínez,3-5-2,3-5-2,Matteo Marchetti,Match Report,Internazionale,16.0,4.0,25.0,0.06,0.25,0.0,0.0,10.0,5.0,50.0,0.1,0.2,1.0,1.0,2
+2025-09-13,18:00 (13:00),Matchweek 3,Sat,Away,L,3.0,4.0,Juventus,59.0,Lautaro Martínez,3-5-2,3-5-1-1,Andrea Colombo,Match Report,Internazionale,18.0,4.0,22.2,0.17,0.75,0.0,0.0,12.0,4.0,33.3,0.33,1.0,0.0,0.0,3
+2025-09-21,20:45 (15:45),Matchweek 4,Sun,Home,W,2.0,1.0,Sassuolo,61.0,Nicolò Barella,3-5-2,4-3-3,Livio Marinelli,Match Report,Internazionale,20.0,6.0,30.0,0.05,0.17,0.0,0.0,9.0,5.0,55.6,0.11,0.2,0.0,0.0,4
+2025-09-27,20:45 (15:45),Matchweek 5,Sat,Away,W,2.0,0.0,Cagliari,58.0,Lautaro Martínez,3-5-2,3-5-2,Marco Piccinini,Match Report,Internazionale,20.0,5.0,25.0,0.1,0.4,0.0,0.0,6.0,0.0,0.0,0.0,,0.0,0.0,5
+2025-10-04,18:00 (13:00),Matchweek 6,Sat,Home,W,4.0,1.0,Cremonese,66.0,Lautaro Martínez,3-5-2,5-3-2,Ermanno Feliciani,Match Report,Internazionale,27.0,9.0,33.3,0.15,0.44,0.0,0.0,3.0,2.0,66.7,0.33,0.5,0.0,0.0,6
+2025-10-18,20:45 (15:45),Matchweek 7,Sat,Away,W,1.0,0.0,Roma,43.0,Lautaro Martínez,3-5-2,3-4-3,Davide Massa,Match Report,Internazionale,12.0,3.0,25.0,0.08,0.33,0.0,0.0,15.0,5.0,33.3,0.0,0.0,0.0,0.0,7
+2025-10-25,18:00 (13:00),Matchweek 8,Sat,Away,L,1.0,3.0,Napoli,57.0,Lautaro Martínez,3-5-2,4-1-4-1,Maurizio Mariani,Match Report,Internazionale,15.0,3.0,20.0,0.0,0.0,1.0,1.0,7.0,3.0,42.9,0.29,0.67,1.0,1.0,8
+2025-10-29,20:45 (16:45),Matchweek 9,Wed,Home,W,3.0,0.0,Fiorentina,64.0,Lautaro Martínez,3-5-2,3-5-1-1,Simone Sozza,Match Report,Internazionale,22.0,8.0,36.4,0.09,0.25,1.0,1.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,9
+2025-11-02,12:30 (08:30),Matchweek 10,Sun,Away,W,2.0,1.0,Hellas Verona,73.0,Lautaro Martínez,3-5-2,3-5-2,Daniele Doveri,Match Report,Internazionale,21.0,6.0,28.6,0.05,0.17,0.0,0.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,10
+2025-11-09,20:45 (16:45),Matchweek 11,Sun,Home,W,2.0,0.0,Lazio,54.0,Lautaro Martínez,3-5-2,4-3-3,Gianluca Manganiello,Match Report,Internazionale,8.0,3.0,37.5,0.25,0.67,0.0,0.0,8.0,5.0,62.5,0.0,0.0,0.0,0.0,11
+2025-11-23,20:45 (16:45),Matchweek 12,Sun,Home,L,0.0,1.0,Milan,64.0,Lautaro Martínez,3-5-2,3-5-2,Simone Sozza,Match Report,Internazionale,20.0,6.0,30.0,0.0,0.0,0.0,1.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,12
+2025-11-30,15:00 (11:00),Matchweek 13,Sun,Away,W,2.0,0.0,Pisa,60.0,Lautaro Martínez,3-5-2,3-5-2,Marco Guida,Match Report,Internazionale,14.0,3.0,21.4,0.14,0.67,0.0,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,13
+2025-12-06,18:00 (14:00),Matchweek 14,Sat,Home,W,4.0,0.0,Como,42.0,Lautaro Martínez,3-5-2,4-2-3-1,Marco Di Bello,Match Report,Internazionale,11.0,7.0,63.6,0.36,0.57,0.0,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,14
+2025-12-14,18:00 (14:00),Matchweek 15,Sun,Away,W,2.0,1.0,Genoa,64.0,Lautaro Martínez,3-5-2,3-5-2,Daniele Doveri,Match Report,Internazionale,18.0,8.0,44.4,0.11,0.25,0.0,0.0,5.0,3.0,60.0,0.2,0.33,0.0,0.0,15
+2025-12-28,20:45 (16:45),Matchweek 17,Sun,Away,W,1.0,0.0,Atalanta,55.0,Lautaro Martínez,3-5-2,3-4-3,Federico La Penna,Match Report,Internazionale,15.0,4.0,26.7,0.07,0.25,0.0,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,17
+2026-01-04,20:45 (16:45),Matchweek 18,Sun,Home,W,3.0,1.0,Bologna,58.0,Lautaro Martínez,3-5-2,4-2-3-1,Marco Guida,Match Report,Internazionale,19.0,10.0,52.6,0.16,0.3,0.0,0.0,6.0,2.0,33.3,0.17,0.5,0.0,0.0,18
+2026-01-07,20:45 (16:45),Matchweek 19,Wed,Away,W,2.0,0.0,Parma,63.0,Lautaro Martínez,3-5-2,4-3-3,Andrea Colombo,Match Report,Internazionale,26.0,8.0,30.8,0.08,0.25,0.0,0.0,4.0,0.0,0.0,0.0,,0.0,0.0,19
+2026-01-11,20:45 (16:45),Matchweek 20,Sun,Home,D,2.0,2.0,Napoli,50.0,Lautaro Martínez,3-5-2,3-4-3,Daniele Doveri,Match Report,Internazionale,13.0,4.0,30.8,0.08,0.25,1.0,1.0,7.0,3.0,42.9,0.29,0.67,0.0,0.0,20
+2026-01-14,20:45 (16:45),Matchweek 16,Wed,Home,W,1.0,0.0,Lecce,68.0,Nicolò Barella,3-5-2,4-2-3-1,Fabio Maresca,Match Report,Internazionale,21.0,7.0,33.3,0.05,0.14,0.0,0.0,10.0,1.0,10.0,0.0,0.0,0.0,0.0,16
+2026-01-17,15:00 (11:00),Matchweek 21,Sat,Away,W,1.0,0.0,Udinese,63.0,Lautaro Martínez,3-5-2,3-4-3,Marco Di Bello,Match Report,Internazionale,14.0,5.0,35.7,0.07,0.2,0.0,0.0,5.0,1.0,20.0,0.0,0.0,0.0,0.0,21
+2026-01-23,20:45 (16:45),Matchweek 22,Fri,Home,W,6.0,2.0,Pisa,66.0,Lautaro Martínez,3-5-2,3-4-3,Matteo Marcenaro,Match Report,Internazionale,34.0,14.0,41.2,0.15,0.36,1.0,1.0,8.0,3.0,37.5,0.25,0.67,0.0,0.0,22
+2026-02-01,18:00 (14:00),Matchweek 23,Sun,Away,W,2.0,0.0,Cremonese,69.0,Lautaro Martínez,3-5-2,3-5-2,Davide Massa,Match Report,Internazionale,15.0,4.0,26.7,0.13,0.5,0.0,0.0,9.0,3.0,33.3,0.0,0.0,0.0,0.0,23
+2026-02-08,18:00 (14:00),Matchweek 24,Sun,Away,W,5.0,0.0,Sassuolo,62.0,Lautaro Martínez,3-5-2,4-3-3,Daniele Chiffi,Match Report,Internazionale,23.0,11.0,47.8,0.22,0.45,0.0,0.0,7.0,2.0,28.6,0.0,0.0,0.0,0.0,24
+2026-02-14,20:45 (16:45),Matchweek 25,Sat,Home,W,3.0,2.0,Juventus,60.0,Lautaro Martínez,3-5-2,4-3-3,Federico La Penna,Match Report,Internazionale,21.0,9.0,42.9,0.1,0.22,0.0,0.0,10.0,8.0,80.0,0.2,0.25,0.0,0.0,25
+2026-02-21,18:00 (14:00),Matchweek 26,Sat,Away,W,2.0,0.0,Lecce,68.0,Stefan de Vrij,3-5-2,4-3-3,Gianluca Manganiello,Match Report,Internazionale,24.0,9.0,37.5,0.08,0.22,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,26
+2026-02-28,20:45 (16:45),Matchweek 27,Sat,Home,W,2.0,0.0,Genoa,56.0,Nicolò Barella,3-5-2,3-4-3,Michael Fabbri,Match Report,Internazionale,14.0,6.0,42.9,0.07,0.17,1.0,1.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,27
+2026-03-08,20:45 (16:45),Matchweek 28,Sun,Away,L,0.0,1.0,Milan,63.0,Nicolò Barella,3-5-2,3-5-2,Daniele Doveri,Match Report,Internazionale,11.0,2.0,18.2,0.0,0.0,0.0,0.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,28
+2026-03-14,15:00 (11:00),Matchweek 29,Sat,Home,D,1.0,1.0,Atalanta,58.0,Nicolò Barella,3-5-2,3-4-3,Gianluca Manganiello,Match Report,Internazionale,16.0,3.0,18.8,0.06,0.33,0.0,0.0,8.0,3.0,37.5,0.13,0.33,0.0,0.0,29
+2026-03-22,20:45 (16:45),Matchweek 30,Sun,Away,D,1.0,1.0,Fiorentina,60.0,Nicolò Barella,3-5-2,4-1-4-1,Andrea Colombo,Match Report,Internazionale,12.0,4.0,33.3,0.08,0.25,0.0,0.0,16.0,6.0,37.5,0.06,0.17,0.0,0.0,30
+2026-04-05,20:45 (15:45),Matchweek 31,Sun,Home,W,5.0,2.0,Roma,56.0,Lautaro Martínez,3-5-2,3-4-3,Simone Sozza,Match Report,Internazionale,17.0,9.0,52.9,0.29,0.56,0.0,0.0,9.0,3.0,33.3,0.22,0.67,0.0,0.0,31
+2026-04-12,20:45 (15:45),Matchweek 32,Sun,Away,W,4.0,3.0,Como,40.0,Nicolò Barella,3-5-2,4-2-3-1,Davide Massa,Match Report,Internazionale,7.0,5.0,71.4,0.57,0.8,0.0,0.0,24.0,8.0,33.3,0.08,0.25,1.0,1.0,32
+2026-04-17,20:45 (15:45),Matchweek 33,Fri,Home,W,3.0,0.0,Cagliari,55.0,Nicolò Barella,3-5-2,3-5-2,Matteo Marchetti,Match Report,Internazionale,18.0,5.0,27.8,0.17,0.6,0.0,0.0,10.0,1.0,10.0,0.0,0.0,0.0,0.0,33
+2026-04-26,18:00 (13:00),Matchweek 34,Sun,Away,D,2.0,2.0,Torino,63.0,Nicolò Barella,3-5-2,3-4-3,Maurizio Mariani,Match Report,Internazionale,14.0,5.0,35.7,0.14,0.4,0.0,0.0,14.0,2.0,14.3,0.07,0.5,1.0,1.0,34
+2026-05-03,20:45 (15:45),Matchweek 35,Sun,Home,,,,Parma,,,,,,Head-to-Head,Internazionale,,,,,,,,,,,,,,,35
+2026-05-09,18:00 (13:00),Matchweek 36,Sat,Away,,,,Lazio,,,,,,Head-to-Head,Internazionale,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Home,,,,Hellas Verona,,,,,,Head-to-Head,Internazionale,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Away,,,,Bologna,,,,,,Head-to-Head,Internazionale,,,,,,,,,,,,,,,38
+2025-08-24,20:45 (15:45),Matchweek 1,Sun,Home,W,2.0,0.0,Parma,64.0,Manuel Locatelli,3-4-3,3-4-3,Matteo Marcenaro,Match Report,Juventus,25.0,8.0,32.0,0.08,0.25,0.0,0.0,8.0,2.0,25.0,0.0,0.0,0.0,0.0,1
+2025-08-31,18:30 (13:30),Matchweek 2,Sun,Away,W,1.0,0.0,Genoa,56.0,Manuel Locatelli,3-4-3,4-2-3-1,Daniele Chiffi,Match Report,Juventus,13.0,3.0,23.1,0.08,0.33,0.0,0.0,10.0,1.0,10.0,0.0,0.0,0.0,0.0,2
+2025-09-13,18:00 (13:00),Matchweek 3,Sat,Home,W,4.0,3.0,Inter,41.0,Manuel Locatelli,3-5-1-1,3-5-2,Andrea Colombo,Match Report,Juventus,12.0,4.0,33.3,0.33,1.0,0.0,0.0,18.0,4.0,22.2,0.17,0.75,0.0,0.0,3
+2025-09-20,18:00 (13:00),Matchweek 4,Sat,Away,D,1.0,1.0,Hellas Verona,72.0,Manuel Locatelli,3-4-3,3-5-2,Antonio Rapuano,Match Report,Juventus,10.0,4.0,40.0,0.1,0.25,0.0,0.0,14.0,4.0,28.6,0.0,0.0,1.0,1.0,4
+2025-09-27,18:00 (13:00),Matchweek 5,Sat,Home,D,1.0,1.0,Atalanta,67.0,Gleison Bremer,3-4-3,3-4-3,Simone Sozza,Match Report,Juventus,24.0,10.0,41.7,0.04,0.1,0.0,0.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,5
+2025-10-05,20:45 (15:45),Matchweek 6,Sun,Home,D,0.0,0.0,Milan,51.0,Manuel Locatelli,3-4-3,3-5-2,Marco Guida,Match Report,Juventus,12.0,3.0,25.0,0.0,0.0,0.0,0.0,13.0,4.0,30.8,0.0,0.0,0.0,1.0,6
+2025-10-19,12:30 (07:30),Matchweek 7,Sun,Away,L,0.0,2.0,Como,55.0,Manuel Locatelli,4-3-3,4-2-3-1,Giovanni Ayroldi,Match Report,Juventus,15.0,3.0,20.0,0.0,0.0,0.0,0.0,12.0,6.0,50.0,0.17,0.33,0.0,0.0,7
+2025-10-26,20:45 (16:45),Matchweek 8,Sun,Away,L,0.0,1.0,Lazio,60.0,Manuel Locatelli,3-5-2,4-3-3,Andrea Colombo,Match Report,Juventus,14.0,5.0,35.7,0.0,0.0,0.0,0.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,8
+2025-10-29,18:30 (14:30),Matchweek 9,Wed,Home,W,3.0,1.0,Udinese,57.0,Manuel Locatelli,3-1-4-2,3-5-2,Marco Di Bello,Match Report,Juventus,25.0,11.0,44.0,0.04,0.09,2.0,2.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,9
+2025-11-01,20:45 (16:45),Matchweek 10,Sat,Away,W,2.0,1.0,Cremonese,49.0,Manuel Locatelli,3-4-3,3-5-2,Daniele Chiffi,Match Report,Juventus,15.0,5.0,33.3,0.13,0.4,0.0,0.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,10
+2025-11-08,18:00 (14:00),Matchweek 11,Sat,Home,D,0.0,0.0,Torino,73.0,Manuel Locatelli,3-4-3,3-5-2,Luca Zufferli,Match Report,Juventus,22.0,6.0,27.3,0.0,0.0,0.0,0.0,8.0,3.0,37.5,0.0,0.0,0.0,0.0,11
+2025-11-22,18:00 (14:00),Matchweek 12,Sat,Away,D,1.0,1.0,Fiorentina,59.0,Manuel Locatelli,3-4-3,3-5-2,Daniele Doveri,Match Report,Juventus,17.0,4.0,23.5,0.06,0.25,0.0,0.0,11.0,2.0,18.2,0.09,0.5,0.0,0.0,12
+2025-11-29,18:00 (14:00),Matchweek 13,Sat,Home,W,2.0,1.0,Cagliari,57.0,Manuel Locatelli,3-4-3,3-5-2,Valerio Crezzini,Match Report,Juventus,14.0,6.0,42.9,0.14,0.33,0.0,0.0,5.0,3.0,60.0,0.2,0.33,0.0,0.0,13
+2025-12-07,20:45 (16:45),Matchweek 14,Sun,Away,L,1.0,2.0,Napoli,50.0,Manuel Locatelli,3-5-2,3-4-3,Federico La Penna,Match Report,Juventus,5.0,2.0,40.0,0.2,0.5,0.0,0.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,14
+2025-12-14,20:45 (16:45),Matchweek 15,Sun,Away,W,1.0,0.0,Bologna,49.0,Manuel Locatelli,3-4-3,4-2-3-1,Davide Massa,Match Report,Juventus,13.0,3.0,23.1,0.08,0.33,0.0,0.0,12.0,4.0,33.3,0.0,0.0,0.0,0.0,15
+2025-12-20,20:45 (16:45),Matchweek 16,Sat,Home,W,2.0,1.0,Roma,41.0,Manuel Locatelli,3-4-3,3-4-3,Simone Sozza,Match Report,Juventus,13.0,9.0,69.2,0.15,0.22,0.0,0.0,14.0,5.0,35.7,0.07,0.2,0.0,0.0,16
+2025-12-27,20:45 (16:45),Matchweek 17,Sat,Away,W,2.0,0.0,Pisa,59.0,Manuel Locatelli,3-4-3,3-5-2,Fabio Maresca,Match Report,Juventus,15.0,7.0,46.7,0.13,0.29,0.0,0.0,8.0,0.0,0.0,0.0,,0.0,0.0,17
+2026-01-03,18:00 (14:00),Matchweek 18,Sat,Home,D,1.0,1.0,Lecce,72.0,Manuel Locatelli,4-2-3-1,4-3-3,Giuseppe Collu,Match Report,Juventus,25.0,5.0,20.0,0.04,0.2,0.0,1.0,6.0,1.0,16.7,0.17,1.0,0.0,0.0,18
+2026-01-06,20:45 (16:45),Matchweek 19,Tue,Away,W,3.0,0.0,Sassuolo,56.0,Manuel Locatelli,3-4-3,4-3-3,Luca Zufferli,Match Report,Juventus,17.0,10.0,58.8,0.12,0.2,0.0,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,19
+2026-01-12,20:45 (16:45),Matchweek 20,Mon,Home,W,5.0,0.0,Cremonese,58.0,Manuel Locatelli,4-2-3-1,3-5-2,Ermanno Feliciani,Match Report,Juventus,18.0,11.0,61.1,0.22,0.36,0.0,1.0,9.0,2.0,22.2,0.0,0.0,0.0,0.0,20
+2026-01-17,20:45 (16:45),Matchweek 21,Sat,Away,L,0.0,1.0,Cagliari,78.0,Manuel Locatelli,4-2-3-1,3-5-2,Davide Massa,Match Report,Juventus,21.0,5.0,23.8,0.0,0.0,0.0,0.0,3.0,1.0,33.3,0.33,1.0,0.0,0.0,21
+2026-01-25,18:00 (14:00),Matchweek 22,Sun,Home,W,3.0,0.0,Napoli,42.0,Manuel Locatelli,3-4-3,3-4-3,Maurizio Mariani,Match Report,Juventus,12.0,6.0,50.0,0.25,0.5,0.0,0.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,22
+2026-02-01,20:45 (16:45),Matchweek 23,Sun,Away,W,4.0,1.0,Parma,61.0,Manuel Locatelli,4-2-3-1,4-3-2-1,Francesco Fourneau,Match Report,Juventus,15.0,8.0,53.3,0.27,0.5,0.0,0.0,10.0,4.0,40.0,0.0,0.0,0.0,0.0,23
+2026-02-08,20:45 (16:45),Matchweek 24,Sun,Home,D,2.0,2.0,Lazio,63.0,Manuel Locatelli,3-4-3,4-3-3,Marco Guida,Match Report,Juventus,34.0,8.0,23.5,0.06,0.25,0.0,0.0,9.0,2.0,22.2,0.22,1.0,0.0,0.0,24
+2026-02-14,20:45 (16:45),Matchweek 25,Sat,Away,L,2.0,3.0,Inter,40.0,Manuel Locatelli,4-3-3,3-5-2,Federico La Penna,Match Report,Juventus,10.0,8.0,80.0,0.2,0.25,0.0,0.0,21.0,9.0,42.9,0.1,0.22,0.0,0.0,25
+2026-02-21,15:00 (11:00),Matchweek 26,Sat,Home,L,0.0,2.0,Como,52.0,Manuel Locatelli,3-4-3,4-2-3-1,Daniele Doveri,Match Report,Juventus,11.0,3.0,27.3,0.0,0.0,0.0,0.0,11.0,2.0,18.2,0.18,1.0,0.0,0.0,26
+2026-03-01,20:45 (16:45),Matchweek 27,Sun,Away,D,3.0,3.0,Roma,53.0,Gleison Bremer,3-4-3,3-5-2,Simone Sozza,Match Report,Juventus,13.0,5.0,38.5,0.23,0.6,0.0,0.0,11.0,5.0,45.5,0.27,0.6,0.0,0.0,27
+2026-03-07,20:45 (16:45),Matchweek 28,Sat,Home,W,4.0,0.0,Pisa,60.0,Manuel Locatelli,3-4-3,3-5-2,Juan Luca Sacchi,Match Report,Juventus,25.0,7.0,28.0,0.16,0.57,0.0,0.0,7.0,2.0,28.6,0.0,0.0,0.0,0.0,28
+2026-03-14,20:45 (16:45),Matchweek 29,Sat,Away,W,1.0,0.0,Udinese,56.0,Manuel Locatelli,3-4-3,3-1-4-2,Maurizio Mariani,Match Report,Juventus,22.0,8.0,36.4,0.05,0.13,0.0,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,29
+2026-03-21,20:45 (16:45),Matchweek 30,Sat,Home,D,1.0,1.0,Sassuolo,65.0,Manuel Locatelli,4-1-4-1,4-4-2,Matteo Marchetti,Match Report,Juventus,18.0,8.0,44.4,0.06,0.13,0.0,1.0,7.0,1.0,14.3,0.14,1.0,0.0,0.0,30
+2026-04-06,18:00 (13:00),Matchweek 31,Mon,Home,W,2.0,0.0,Genoa,62.0,Manuel Locatelli,4-1-4-1,5-4-1,Davide Massa,Match Report,Juventus,16.0,5.0,31.3,0.13,0.4,0.0,0.0,12.0,3.0,25.0,0.0,0.0,0.0,1.0,31
+2026-04-11,20:45 (15:45),Matchweek 32,Sat,Away,W,1.0,0.0,Atalanta,45.0,Manuel Locatelli,3-4-3,3-4-3,Fabio Maresca,Match Report,Juventus,7.0,2.0,28.6,0.14,0.5,0.0,0.0,22.0,3.0,13.6,0.0,0.0,0.0,0.0,32
+2026-04-19,20:45 (15:45),Matchweek 33,Sun,Home,W,2.0,0.0,Bologna,55.0,Manuel Locatelli,3-4-3,4-3-3,Maurizio Mariani,Match Report,Juventus,14.0,4.0,28.6,0.14,0.5,0.0,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,33
+2026-04-26,20:45 (15:45),Matchweek 34,Sun,Away,D,0.0,0.0,Milan,53.0,Manuel Locatelli,3-4-3,3-5-2,Simone Sozza,Match Report,Juventus,10.0,5.0,50.0,0.0,0.0,0.0,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,34
+2026-05-03,18:00 (13:00),Matchweek 35,Sun,Home,,,,Hellas Verona,,,,,,Head-to-Head,Juventus,,,,,,,,,,,,,,,35
+2026-05-09,20:45 (15:45),Matchweek 36,Sat,Away,,,,Lecce,,,,,,Head-to-Head,Juventus,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Home,,,,Fiorentina,,,,,,Head-to-Head,Juventus,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Away,,,,Torino,,,,,,Head-to-Head,Juventus,,,,,,,,,,,,,,,38
+2025-08-24,18:30 (13:30),Matchweek 1,Sun,Away,L,0.0,2.0,Como,37.0,Mattia Zaccagni,4-3-3,4-2-3-1,Gianluca Manganiello,Match Report,Lazio,5.0,1.0,20.0,0.0,0.0,0.0,0.0,19.0,6.0,31.6,0.11,0.33,0.0,0.0,1
+2025-08-31,20:45 (15:45),Matchweek 2,Sun,Home,W,4.0,0.0,Hellas Verona,70.0,Mattia Zaccagni,4-3-3,3-5-2,Valerio Crezzini,Match Report,Lazio,22.0,6.0,27.3,0.18,0.67,0.0,0.0,12.0,4.0,33.3,0.0,0.0,0.0,0.0,2
+2025-09-14,18:00 (13:00),Matchweek 3,Sun,Away,L,0.0,1.0,Sassuolo,59.0,Mattia Zaccagni,4-3-3,4-3-3,Paride Tremolada,Match Report,Lazio,13.0,3.0,23.1,0.0,0.0,0.0,0.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,3
+2025-09-21,12:30 (07:30),Matchweek 4,Sun,Home,L,0.0,1.0,Roma,49.0,Mattia Zaccagni,4-3-3,3-4-1-2,Simone Sozza,Match Report,Lazio,10.0,2.0,20.0,0.0,0.0,0.0,0.0,13.0,6.0,46.2,0.08,0.17,0.0,0.0,4
+2025-09-29,20:45 (15:45),Matchweek 5,Mon,Away,W,3.0,0.0,Genoa,35.0,Mattia Zaccagni,4-2-3-1,4-2-3-1,Giovanni Ayroldi,Match Report,Lazio,9.0,6.0,66.7,0.33,0.5,0.0,0.0,17.0,5.0,29.4,0.0,0.0,0.0,0.0,5
+2025-10-04,15:00 (10:00),Matchweek 6,Sat,Home,D,3.0,3.0,Torino,49.0,Danilo Cataldi,4-2-3-1,3-5-2,Marco Piccinini,Match Report,Lazio,9.0,4.0,44.4,0.22,0.5,1.0,1.0,16.0,8.0,50.0,0.19,0.38,0.0,0.0,6
+2025-10-19,18:00 (13:00),Matchweek 7,Sun,Away,D,0.0,0.0,Atalanta,42.0,Mattia Zaccagni,4-3-3,3-4-3,Giuseppe Collu,Match Report,Lazio,4.0,1.0,25.0,0.0,0.0,0.0,0.0,16.0,6.0,37.5,0.0,0.0,0.0,0.0,7
+2025-10-26,20:45 (16:45),Matchweek 8,Sun,Home,W,1.0,0.0,Juventus,40.0,Mattia Zaccagni,4-3-3,3-5-2,Andrea Colombo,Match Report,Lazio,13.0,3.0,23.1,0.08,0.33,0.0,0.0,14.0,5.0,35.7,0.0,0.0,0.0,0.0,8
+2025-10-30,20:45 (16:45),Matchweek 9,Thu,Away,D,0.0,0.0,Pisa,61.0,Mattia Zaccagni,4-3-3,3-4-3,Davide Massa,Match Report,Lazio,11.0,6.0,54.5,0.0,0.0,0.0,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,9
+2025-11-03,20:45 (16:45),Matchweek 10,Mon,Home,W,2.0,0.0,Cagliari,51.0,Mattia Zaccagni,4-3-3,4-4-2,Juan Luca Sacchi,Match Report,Lazio,8.0,3.0,37.5,0.25,0.67,0.0,0.0,17.0,5.0,29.4,0.0,0.0,0.0,0.0,10
+2025-11-09,20:45 (16:45),Matchweek 11,Sun,Away,L,0.0,2.0,Inter,46.0,Mattia Zaccagni,4-3-3,3-5-2,Gianluca Manganiello,Match Report,Lazio,8.0,5.0,62.5,0.0,0.0,0.0,0.0,8.0,3.0,37.5,0.25,0.67,0.0,0.0,11
+2025-11-23,18:00 (14:00),Matchweek 12,Sun,Home,W,2.0,0.0,Lecce,68.0,Mattia Zaccagni,4-3-3,4-2-3-1,Alberto Arena,Match Report,Lazio,19.0,9.0,47.4,0.11,0.22,0.0,0.0,5.0,1.0,20.0,0.0,0.0,0.0,0.0,12
+2025-11-29,20:45 (16:45),Matchweek 13,Sat,Away,L,0.0,1.0,Milan,54.0,Mattia Zaccagni,4-3-3,3-5-2,Giuseppe Collu,Match Report,Lazio,9.0,4.0,44.4,0.0,0.0,0.0,0.0,16.0,4.0,25.0,0.06,0.25,0.0,0.0,13
+2025-12-07,18:00 (14:00),Matchweek 14,Sun,Home,D,1.0,1.0,Bologna,47.0,Mattia Zaccagni,4-3-3,4-2-3-1,Michael Fabbri,Match Report,Lazio,16.0,9.0,56.3,0.06,0.11,0.0,0.0,13.0,6.0,46.2,0.08,0.17,0.0,0.0,14
+2025-12-13,18:00 (14:00),Matchweek 15,Sat,Away,W,1.0,0.0,Parma,53.0,Mattia Zaccagni,4-3-3,4-4-2,Matteo Marchetti,Match Report,Lazio,15.0,5.0,33.3,0.07,0.2,0.0,0.0,19.0,5.0,26.3,0.0,0.0,0.0,0.0,15
+2025-12-20,18:00 (14:00),Matchweek 16,Sat,Home,D,0.0,0.0,Cremonese,57.0,Danilo Cataldi,4-3-3,3-5-2,Luca Pairetto,Match Report,Lazio,8.0,2.0,25.0,0.0,0.0,0.0,0.0,9.0,2.0,22.2,0.0,0.0,0.0,0.0,16
+2025-12-27,18:00 (14:00),Matchweek 17,Sat,Away,D,1.0,1.0,Udinese,54.0,Mattia Zaccagni,4-3-3,3-5-2,Andrea Colombo,Match Report,Lazio,14.0,2.0,14.3,0.0,0.0,0.0,0.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,17
+2026-01-04,12:30 (08:30),Matchweek 18,Sun,Home,L,0.0,2.0,Napoli,35.0,Mattia Zaccagni,4-3-3,3-4-3,Davide Massa,Match Report,Lazio,5.0,0.0,0.0,0.0,,0.0,0.0,14.0,3.0,21.4,0.14,0.67,0.0,0.0,18
+2026-01-07,20:45 (16:45),Matchweek 19,Wed,Home,D,2.0,2.0,Fiorentina,49.0,Mattia Zaccagni,4-3-3,4-3-3,Simone Sozza,Match Report,Lazio,17.0,9.0,52.9,0.06,0.11,1.0,1.0,8.0,5.0,62.5,0.13,0.2,1.0,1.0,19
+2026-01-11,18:00 (14:00),Matchweek 20,Sun,Away,W,1.0,0.0,Hellas Verona,64.0,Danilo Cataldi,4-3-3,3-5-2,Marco Guida,Match Report,Lazio,11.0,2.0,18.2,0.0,0.0,0.0,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,20
+2026-01-19,20:45 (16:45),Matchweek 21,Mon,Home,L,0.0,3.0,Como,34.0,Mattia Zaccagni,4-3-3,4-3-2-1,Michael Fabbri,Match Report,Lazio,8.0,4.0,50.0,0.0,0.0,0.0,0.0,11.0,6.0,54.5,0.27,0.5,0.0,1.0,21
+2026-01-24,20:45 (16:45),Matchweek 22,Sat,Away,D,0.0,0.0,Lecce,61.0,Mattia Zaccagni,4-3-3,4-2-3-1,Daniele Chiffi,Match Report,Lazio,6.0,1.0,16.7,0.0,0.0,0.0,0.0,15.0,2.0,13.3,0.0,0.0,0.0,0.0,22
+2026-01-30,20:45 (16:45),Matchweek 23,Fri,Home,W,3.0,2.0,Genoa,55.0,Danilo Cataldi,4-3-3,3-5-2,Luca Zufferli,Match Report,Lazio,14.0,4.0,28.6,0.07,0.25,2.0,2.0,16.0,4.0,25.0,0.06,0.25,1.0,1.0,23
+2026-02-08,20:45 (16:45),Matchweek 24,Sun,Away,D,2.0,2.0,Juventus,37.0,Danilo Cataldi,4-3-3,3-4-3,Marco Guida,Match Report,Lazio,9.0,2.0,22.2,0.22,1.0,0.0,0.0,34.0,8.0,23.5,0.06,0.25,0.0,0.0,24
+2026-02-14,18:00 (14:00),Matchweek 25,Sat,Home,L,0.0,2.0,Atalanta,50.0,Danilo Cataldi,4-3-3,3-4-3,Juan Luca Sacchi,Match Report,Lazio,18.0,5.0,27.8,0.0,0.0,0.0,0.0,12.0,5.0,41.7,0.08,0.2,1.0,1.0,25
+2026-02-21,20:45 (16:45),Matchweek 26,Sat,Away,D,0.0,0.0,Cagliari,58.0,Mattia Zaccagni,4-3-3,4-4-2,Antonio Rapuano,Match Report,Lazio,10.0,3.0,30.0,0.0,0.0,0.0,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,26
+2026-03-01,18:00 (14:00),Matchweek 27,Sun,Away,L,0.0,2.0,Torino,55.0,Mattia Zaccagni,4-3-3,3-4-1-2,Rosario Abisso,Match Report,Lazio,12.0,3.0,25.0,0.0,0.0,0.0,0.0,13.0,5.0,38.5,0.15,0.4,0.0,0.0,27
+2026-03-09,20:45 (16:45),Matchweek 28,Mon,Home,W,2.0,1.0,Sassuolo,50.0,Mattia Zaccagni,4-3-3,4-3-3,Alberto Arena,Match Report,Lazio,13.0,5.0,38.5,0.15,0.4,0.0,0.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,28
+2026-03-15,20:45 (16:45),Matchweek 29,Sun,Home,W,1.0,0.0,Milan,42.0,Mattia Zaccagni,4-3-3,3-5-2,Marco Guida,Match Report,Lazio,7.0,2.0,28.6,0.14,0.5,0.0,0.0,17.0,3.0,17.6,0.0,0.0,0.0,0.0,29
+2026-03-22,15:00 (11:00),Matchweek 30,Sun,Away,W,2.0,0.0,Bologna,46.0,Patric,4-3-3,4-2-3-1,Ermanno Feliciani,Match Report,Lazio,9.0,5.0,55.6,0.22,0.4,0.0,0.0,15.0,4.0,26.7,0.0,0.0,0.0,1.0,30
+2026-04-04,20:45 (15:45),Matchweek 31,Sat,Home,D,1.0,1.0,Parma,61.0,Danilo Cataldi,4-3-3,3-5-2,Matteo Marcenaro,Match Report,Lazio,7.0,3.0,42.9,0.14,0.33,0.0,0.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,31
+2026-04-13,20:45 (15:45),Matchweek 32,Mon,Away,L,0.0,1.0,Fiorentina,66.0,Mattia Zaccagni,4-3-3,4-3-3,Michael Fabbri,Match Report,Lazio,13.0,6.0,46.2,0.0,0.0,0.0,0.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,32
+2026-04-18,18:00 (13:00),Matchweek 33,Sat,Away,W,2.0,0.0,Napoli,33.0,Mattia Zaccagni,4-3-3,3-4-3,Luca Zufferli,Match Report,Lazio,14.0,7.0,50.0,0.14,0.29,0.0,1.0,12.0,0.0,0.0,0.0,,0.0,0.0,33
+2026-04-27,20:45 (15:45),Matchweek 34,Mon,Home,,,,Udinese,,,,,,Head-to-Head,Lazio,,,,,,,,,,,,,,,34
+2026-05-04,18:30 (13:30),Matchweek 35,Mon,Away,,,,Cremonese,,,,,,Head-to-Head,Lazio,,,,,,,,,,,,,,,35
+2026-05-09,18:00 (13:00),Matchweek 36,Sat,Home,,,,Inter,,,,,,Head-to-Head,Lazio,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Away,,,,Roma,,,,,,Head-to-Head,Lazio,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Home,,,,Pisa,,,,,,Head-to-Head,Lazio,,,,,,,,,,,,,,,38
+2025-08-23,18:30 (13:30),Matchweek 1,Sat,Away,D,0.0,0.0,Genoa,41.0,Wladimiro Falcone,4-3-3,4-2-3-1,Davide Massa,Match Report,Lecce,7.0,0.0,0.0,0.0,,0.0,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,1
+2025-08-29,20:45 (15:45),Matchweek 2,Fri,Home,L,0.0,2.0,Milan,45.0,Wladimiro Falcone,4-3-3,3-4-3,Livio Marinelli,Match Report,Lecce,7.0,2.0,28.6,0.0,0.0,0.0,0.0,14.0,6.0,42.9,0.14,0.33,0.0,0.0,2
+2025-09-14,15:00 (10:00),Matchweek 3,Sun,Away,L,1.0,4.0,Atalanta,44.0,Wladimiro Falcone,4-3-3,3-4-3,Gianluca Manganiello,Match Report,Lecce,12.0,3.0,25.0,0.08,0.33,0.0,0.0,19.0,8.0,42.1,0.21,0.5,0.0,0.0,3
+2025-09-19,20:45 (15:45),Matchweek 4,Fri,Home,L,1.0,2.0,Cagliari,52.0,Wladimiro Falcone,4-3-3,3-5-2,Luca Zufferli,Match Report,Lecce,11.0,5.0,45.5,0.09,0.2,0.0,0.0,15.0,6.0,40.0,0.07,0.17,1.0,1.0,4
+2025-09-28,18:00 (13:00),Matchweek 5,Sun,Home,D,2.0,2.0,Bologna,33.0,Wladimiro Falcone,4-3-3,4-2-3-1,Francesco Fourneau,Match Report,Lecce,12.0,4.0,33.3,0.17,0.5,0.0,0.0,14.0,5.0,35.7,0.07,0.2,1.0,1.0,5
+2025-10-04,15:00 (10:00),Matchweek 6,Sat,Away,W,1.0,0.0,Parma,37.0,Wladimiro Falcone,4-3-3,3-5-2,Daniele Doveri,Match Report,Lecce,7.0,3.0,42.9,0.14,0.33,0.0,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,6
+2025-10-18,15:00 (10:00),Matchweek 7,Sat,Home,D,0.0,0.0,Sassuolo,52.0,Wladimiro Falcone,4-3-3,4-3-3,Valerio Crezzini,Match Report,Lecce,11.0,2.0,18.2,0.0,0.0,0.0,0.0,9.0,2.0,22.2,0.0,0.0,0.0,0.0,7
+2025-10-25,15:00 (10:00),Matchweek 8,Sat,Away,L,2.0,3.0,Udinese,56.0,Wladimiro Falcone,4-2-3-1,3-5-2,Ermanno Feliciani,Match Report,Lecce,13.0,3.0,23.1,0.15,0.67,0.0,0.0,8.0,4.0,50.0,0.38,0.75,0.0,0.0,8
+2025-10-28,18:30 (14:30),Matchweek 9,Tue,Home,L,0.0,1.0,Napoli,41.0,Wladimiro Falcone,4-3-3,4-3-3,Giuseppe Collu,Match Report,Lecce,7.0,2.0,28.6,0.0,0.0,0.0,1.0,14.0,3.0,21.4,0.07,0.33,0.0,0.0,9
+2025-11-02,15:00 (11:00),Matchweek 10,Sun,Away,W,1.0,0.0,Fiorentina,37.0,Wladimiro Falcone,4-2-3-1,3-5-2,Antonio Rapuano,Match Report,Lecce,11.0,4.0,36.4,0.09,0.25,0.0,0.0,15.0,4.0,26.7,0.0,0.0,0.0,0.0,10
+2025-11-08,15:00 (11:00),Matchweek 11,Sat,Home,D,0.0,0.0,Hellas Verona,59.0,Wladimiro Falcone,4-2-3-1,3-5-2,Rosario Abisso,Match Report,Lecce,11.0,6.0,54.5,0.0,0.0,0.0,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,11
+2025-11-23,18:00 (14:00),Matchweek 12,Sun,Away,L,0.0,2.0,Lazio,32.0,Wladimiro Falcone,4-2-3-1,4-3-3,Alberto Arena,Match Report,Lecce,5.0,1.0,20.0,0.0,0.0,0.0,0.0,19.0,9.0,47.4,0.11,0.22,0.0,0.0,12
+2025-11-30,12:30 (08:30),Matchweek 13,Sun,Home,W,2.0,1.0,Torino,48.0,Wladimiro Falcone,4-2-3-1,3-5-2,Maurizio Mariani,Match Report,Lecce,10.0,2.0,20.0,0.2,1.0,0.0,0.0,15.0,6.0,40.0,0.07,0.17,0.0,1.0,13
+2025-12-07,12:30 (08:30),Matchweek 14,Sun,Away,L,0.0,2.0,Cremonese,52.0,Wladimiro Falcone,4-2-3-1,3-5-2,Giuseppe Mucera,Match Report,Lecce,9.0,1.0,11.1,0.0,0.0,0.0,0.0,11.0,4.0,36.4,0.09,0.25,1.0,1.0,14
+2025-12-12,20:45 (16:45),Matchweek 15,Fri,Home,W,1.0,0.0,Pisa,52.0,Wladimiro Falcone,4-1-4-1,3-5-2,Juan Luca Sacchi,Match Report,Lecce,21.0,3.0,14.3,0.05,0.33,0.0,0.0,5.0,0.0,0.0,0.0,,0.0,0.0,15
+2025-12-27,15:00 (11:00),Matchweek 17,Sat,Home,L,0.0,3.0,Como,38.0,Wladimiro Falcone,4-1-4-1,4-2-3-1,Matteo Marchetti,Match Report,Lecce,11.0,5.0,45.5,0.0,0.0,0.0,0.0,12.0,6.0,50.0,0.25,0.5,0.0,0.0,17
+2026-01-03,18:00 (14:00),Matchweek 18,Sat,Away,D,1.0,1.0,Juventus,28.0,Wladimiro Falcone,4-3-3,4-2-3-1,Giuseppe Collu,Match Report,Lecce,6.0,1.0,16.7,0.17,1.0,0.0,0.0,25.0,5.0,20.0,0.04,0.2,0.0,1.0,18
+2026-01-06,18:00 (14:00),Matchweek 19,Tue,Home,L,0.0,2.0,Roma,51.0,Wladimiro Falcone,4-3-3,3-4-1-2,Juan Luca Sacchi,Match Report,Lecce,6.0,1.0,16.7,0.0,0.0,0.0,0.0,10.0,3.0,30.0,0.2,0.67,0.0,0.0,19
+2026-01-11,12:30 (08:30),Matchweek 20,Sun,Home,L,1.0,2.0,Parma,41.0,Wladimiro Falcone,4-2-3-1,4-3-3,Livio Marinelli,Match Report,Lecce,10.0,1.0,10.0,0.1,1.0,0.0,0.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,20
+2026-01-14,20:45 (16:45),Matchweek 16,Wed,Away,L,0.0,1.0,Inter,33.0,Wladimiro Falcone,4-2-3-1,3-5-2,Fabio Maresca,Match Report,Lecce,10.0,1.0,10.0,0.0,0.0,0.0,0.0,21.0,7.0,33.3,0.05,0.14,0.0,0.0,16
+2026-01-18,20:45 (16:45),Matchweek 21,Sun,Away,L,0.0,1.0,Milan,32.0,Wladimiro Falcone,4-3-3,3-5-2,Luca Zufferli,Match Report,Lecce,3.0,0.0,0.0,0.0,,0.0,0.0,20.0,6.0,30.0,0.05,0.17,0.0,0.0,21
+2026-01-24,20:45 (16:45),Matchweek 22,Sat,Home,D,0.0,0.0,Lazio,39.0,Wladimiro Falcone,4-2-3-1,4-3-3,Daniele Chiffi,Match Report,Lecce,15.0,2.0,13.3,0.0,0.0,0.0,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,22
+2026-02-01,12:30 (08:30),Matchweek 23,Sun,Away,L,0.0,1.0,Torino,58.0,Wladimiro Falcone,4-2-3-1,3-5-2,Simone Sozza,Match Report,Lecce,14.0,2.0,14.3,0.0,0.0,0.0,0.0,17.0,5.0,29.4,0.06,0.2,0.0,0.0,23
+2026-02-08,15:00 (11:00),Matchweek 24,Sun,Home,W,2.0,1.0,Udinese,54.0,Wladimiro Falcone,4-2-3-1,3-4-3,Antonio Rapuano,Match Report,Lecce,16.0,5.0,31.3,0.13,0.4,0.0,0.0,6.0,1.0,16.7,0.0,0.0,1.0,1.0,24
+2026-02-16,20:45 (16:45),Matchweek 25,Mon,Away,W,2.0,0.0,Cagliari,41.0,Wladimiro Falcone,4-3-3,5-4-1,Ermanno Feliciani,Match Report,Lecce,13.0,4.0,30.8,0.15,0.5,0.0,0.0,11.0,0.0,0.0,0.0,,0.0,0.0,25
+2026-02-21,18:00 (14:00),Matchweek 26,Sat,Home,L,0.0,2.0,Inter,32.0,Wladimiro Falcone,4-3-3,3-5-2,Gianluca Manganiello,Match Report,Lecce,3.0,0.0,0.0,0.0,,0.0,0.0,24.0,9.0,37.5,0.08,0.22,0.0,0.0,26
+2026-02-28,15:00 (11:00),Matchweek 27,Sat,Away,L,1.0,3.0,Como,31.0,Wladimiro Falcone,3-5-1-1,4-2-3-1,Francesco Fourneau,Match Report,Lecce,5.0,2.0,40.0,0.2,0.5,0.0,0.0,12.0,7.0,58.3,0.25,0.43,0.0,0.0,27
+2026-03-08,12:30 (08:30),Matchweek 28,Sun,Home,W,2.0,1.0,Cremonese,41.0,Wladimiro Falcone,4-2-3-1,3-5-2,Simone Sozza,Match Report,Lecce,9.0,3.0,33.3,0.11,0.33,1.0,1.0,10.0,5.0,50.0,0.1,0.2,0.0,0.0,28
+2026-03-14,18:00 (14:00),Matchweek 29,Sat,Away,L,1.0,2.0,Napoli,30.0,Wladimiro Falcone,4-2-3-1,3-4-3,Rosario Abisso,Match Report,Lecce,12.0,2.0,16.7,0.08,0.5,0.0,0.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,29
+2026-03-22,18:00 (14:00),Matchweek 30,Sun,Away,L,0.0,1.0,Roma,33.0,Wladimiro Falcone,4-2-3-1,3-4-3,Juan Luca Sacchi,Match Report,Lecce,8.0,3.0,37.5,0.0,0.0,0.0,0.0,14.0,2.0,14.3,0.07,0.5,0.0,0.0,30
+2026-04-06,15:00 (10:00),Matchweek 31,Mon,Home,L,0.0,3.0,Atalanta,42.0,Wladimiro Falcone,4-2-3-1,3-4-3,Federico La Penna,Match Report,Lecce,11.0,0.0,0.0,0.0,,0.0,0.0,16.0,6.0,37.5,0.19,0.5,0.0,0.0,31
+2026-04-12,18:00 (13:00),Matchweek 32,Sun,Away,L,0.0,2.0,Bologna,36.0,Wladimiro Falcone,4-2-3-1,4-2-3-1,Andrea Colombo,Match Report,Lecce,6.0,1.0,16.7,0.0,0.0,0.0,0.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,32
+2026-04-20,20:45 (15:45),Matchweek 33,Mon,Home,D,1.0,1.0,Fiorentina,55.0,Wladimiro Falcone,4-2-3-1,4-3-3,Fabio Maresca,Match Report,Lecce,14.0,4.0,28.6,0.07,0.25,0.0,0.0,5.0,3.0,60.0,0.2,0.33,0.0,0.0,33
+2026-04-25,20:45 (15:45),Matchweek 34,Sat,Away,D,0.0,0.0,Hellas Verona,54.0,Wladimiro Falcone,4-2-3-1,3-5-1-1,Davide Massa,Match Report,Lecce,12.0,2.0,16.7,0.0,0.0,0.0,0.0,6.0,3.0,50.0,0.0,0.0,0.0,0.0,34
+2026-05-01,20:45 (15:45),Matchweek 35,Fri,Away,,,,Pisa,,,,,,Head-to-Head,Lecce,,,,,,,,,,,,,,,35
+2026-05-09,20:45 (15:45),Matchweek 36,Sat,Home,,,,Juventus,,,,,,Head-to-Head,Lecce,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Away,,,,Sassuolo,,,,,,Head-to-Head,Lecce,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Home,,,,Genoa,,,,,,Head-to-Head,Lecce,,,,,,,,,,,,,,,38
+2025-08-23,20:45 (15:45),Matchweek 1,Sat,Home,L,1.0,2.0,Cremonese,64.0,Mike Maignan,3-5-2,3-5-2,Giuseppe Collu,Match Report,Milan,24.0,6.0,25.0,0.04,0.17,0.0,0.0,4.0,3.0,75.0,0.5,0.67,0.0,0.0,1
+2025-08-29,20:45 (15:45),Matchweek 2,Fri,Away,W,2.0,0.0,Lecce,55.0,Mike Maignan,3-4-3,4-3-3,Livio Marinelli,Match Report,Milan,14.0,6.0,42.9,0.14,0.33,0.0,0.0,7.0,2.0,28.6,0.0,0.0,0.0,0.0,2
+2025-09-14,20:45 (15:45),Matchweek 3,Sun,Home,W,1.0,0.0,Bologna,39.0,Mike Maignan,3-4-3,4-3-3,Matteo Marcenaro,Match Report,Milan,14.0,3.0,21.4,0.07,0.33,0.0,0.0,5.0,0.0,0.0,0.0,,0.0,0.0,3
+2025-09-20,20:45 (15:45),Matchweek 4,Sat,Away,W,3.0,0.0,Udinese,60.0,Matteo Gabbia,3-5-2,4-4-2,Daniele Doveri,Match Report,Milan,13.0,6.0,46.2,0.23,0.5,0.0,0.0,10.0,4.0,40.0,0.0,0.0,0.0,0.0,4
+2025-09-28,20:45 (15:45),Matchweek 5,Sun,Home,W,2.0,1.0,Napoli,36.0,Mike Maignan,3-5-2,4-1-4-1,Daniele Chiffi,Match Report,Milan,6.0,3.0,50.0,0.33,0.67,0.0,0.0,19.0,7.0,36.8,0.0,0.0,1.0,1.0,5
+2025-10-05,20:45 (15:45),Matchweek 6,Sun,Away,D,0.0,0.0,Juventus,49.0,Mike Maignan,3-5-2,3-4-3,Marco Guida,Match Report,Milan,13.0,4.0,30.8,0.0,0.0,0.0,1.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,6
+2025-10-19,20:45 (15:45),Matchweek 7,Sun,Home,W,2.0,1.0,Fiorentina,56.0,Mike Maignan,3-5-2,3-5-1-1,Livio Marinelli,Match Report,Milan,14.0,4.0,28.6,0.07,0.25,1.0,1.0,5.0,1.0,20.0,0.2,1.0,0.0,0.0,7
+2025-10-24,20:45 (15:45),Matchweek 8,Fri,Home,D,2.0,2.0,Pisa,67.0,Mike Maignan,3-1-4-2,3-5-2,Luca Zufferli,Match Report,Milan,20.0,7.0,35.0,0.1,0.29,0.0,0.0,8.0,2.0,25.0,0.13,0.5,1.0,1.0,8
+2025-10-28,20:45 (16:45),Matchweek 9,Tue,Away,D,1.0,1.0,Atalanta,44.0,Mike Maignan,3-5-2,3-4-1-2,Daniele Doveri,Match Report,Milan,6.0,1.0,16.7,0.17,1.0,0.0,0.0,17.0,3.0,17.6,0.06,0.33,0.0,0.0,9
+2025-11-02,20:45 (16:45),Matchweek 10,Sun,Home,W,1.0,0.0,Roma,37.0,Mike Maignan,3-5-2,3-5-2,Marco Guida,Match Report,Milan,17.0,8.0,47.1,0.06,0.13,0.0,0.0,20.0,6.0,30.0,0.0,0.0,0.0,1.0,10
+2025-11-08,20:45 (16:45),Matchweek 11,Sat,Away,D,2.0,2.0,Parma,57.0,Mike Maignan,3-5-2,3-5-2,Marco Di Bello,Match Report,Milan,9.0,5.0,55.6,0.11,0.2,1.0,1.0,14.0,4.0,28.6,0.14,0.5,0.0,0.0,11
+2025-11-23,20:45 (16:45),Matchweek 12,Sun,Away,W,1.0,0.0,Inter,36.0,Mike Maignan,3-5-2,3-5-2,Simone Sozza,Match Report,Milan,7.0,3.0,42.9,0.14,0.33,0.0,0.0,20.0,6.0,30.0,0.0,0.0,0.0,1.0,12
+2025-11-29,20:45 (16:45),Matchweek 13,Sat,Home,W,1.0,0.0,Lazio,47.0,Mike Maignan,3-5-2,4-3-3,Giuseppe Collu,Match Report,Milan,16.0,4.0,25.0,0.06,0.25,0.0,0.0,9.0,4.0,44.4,0.0,0.0,0.0,0.0,13
+2025-12-08,20:45 (16:45),Matchweek 14,Mon,Away,W,3.0,2.0,Torino,64.0,Mike Maignan,3-5-2,3-5-2,Daniele Chiffi,Match Report,Milan,17.0,6.0,35.3,0.18,0.5,0.0,0.0,8.0,4.0,50.0,0.13,0.25,1.0,1.0,14
+2025-12-14,12:30 (08:30),Matchweek 15,Sun,Home,D,2.0,2.0,Sassuolo,59.0,Mike Maignan,3-5-2,4-3-3,Valerio Crezzini,Match Report,Milan,13.0,5.0,38.5,0.15,0.4,0.0,0.0,8.0,3.0,37.5,0.25,0.67,0.0,0.0,15
+2025-12-28,12:30 (08:30),Matchweek 17,Sun,Home,W,3.0,0.0,Hellas Verona,52.0,Mike Maignan,3-5-2,3-5-1-1,Michael Fabbri,Match Report,Milan,11.0,5.0,45.5,0.18,0.4,1.0,1.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,17
+2026-01-02,20:45 (16:45),Matchweek 18,Fri,Away,W,1.0,0.0,Cagliari,54.0,Mike Maignan,3-5-2,3-5-2,Rosario Abisso,Match Report,Milan,11.0,4.0,36.4,0.09,0.25,0.0,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,18
+2026-01-08,20:45 (16:45),Matchweek 19,Thu,Home,D,1.0,1.0,Genoa,61.0,Mike Maignan,3-5-2,3-5-2,Maurizio Mariani,Match Report,Milan,32.0,8.0,25.0,0.03,0.13,0.0,0.0,7.0,2.0,28.6,0.14,0.5,0.0,1.0,19
+2026-01-11,15:00 (11:00),Matchweek 20,Sun,Away,D,1.0,1.0,Fiorentina,48.0,Mike Maignan,3-5-2,4-3-3,Davide Massa,Match Report,Milan,13.0,3.0,23.1,0.08,0.33,0.0,0.0,20.0,7.0,35.0,0.05,0.14,0.0,0.0,20
+2026-01-15,20:45 (16:45),Matchweek 16,Thu,Away,W,3.0,1.0,Como,32.0,Mike Maignan,3-5-2,4-2-3-1,Marco Guida,Match Report,Milan,7.0,4.0,57.1,0.29,0.5,1.0,1.0,18.0,8.0,44.4,0.06,0.13,0.0,0.0,16
+2026-01-18,20:45 (16:45),Matchweek 21,Sun,Home,W,1.0,0.0,Lecce,69.0,Mike Maignan,3-5-2,4-3-3,Luca Zufferli,Match Report,Milan,20.0,6.0,30.0,0.05,0.17,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,21
+2026-01-25,20:45 (16:45),Matchweek 22,Sun,Away,D,1.0,1.0,Roma,42.0,Mike Maignan,3-5-2,3-4-3,Andrea Colombo,Match Report,Milan,5.0,2.0,40.0,0.2,0.5,0.0,0.0,15.0,7.0,46.7,0.0,0.0,1.0,1.0,22
+2026-02-03,20:45 (16:45),Matchweek 23,Tue,Away,W,3.0,0.0,Bologna,46.0,Mike Maignan,3-5-2,4-2-3-1,Gianluca Manganiello,Match Report,Milan,10.0,7.0,70.0,0.2,0.29,1.0,1.0,13.0,2.0,15.4,0.0,0.0,0.0,0.0,23
+2026-02-13,20:45 (16:45),Matchweek 25,Fri,Away,W,2.0,1.0,Pisa,66.0,Mike Maignan,3-5-2,3-4-3,Michael Fabbri,Match Report,Milan,7.0,2.0,28.6,0.29,1.0,0.0,1.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,25
+2026-02-18,20:45 (16:45),Matchweek 24,Wed,Home,D,1.0,1.0,Como,54.0,Mike Maignan,3-5-2,3-4-3,Maurizio Mariani,Match Report,Milan,6.0,4.0,66.7,0.17,0.25,0.0,0.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,24
+2026-02-22,18:00 (14:00),Matchweek 26,Sun,Home,L,0.0,1.0,Parma,67.0,Mike Maignan,3-5-2,3-5-2,Marco Piccinini,Match Report,Milan,25.0,6.0,24.0,0.0,0.0,0.0,0.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,26
+2026-03-01,12:30 (08:30),Matchweek 27,Sun,Away,W,2.0,0.0,Cremonese,53.0,Mike Maignan,3-5-2,3-5-2,Davide Massa,Match Report,Milan,20.0,6.0,30.0,0.1,0.33,0.0,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,27
+2026-03-08,20:45 (16:45),Matchweek 28,Sun,Home,W,1.0,0.0,Inter,37.0,Mike Maignan,3-5-2,3-5-2,Daniele Doveri,Match Report,Milan,9.0,2.0,22.2,0.11,0.5,0.0,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,28
+2026-03-15,20:45 (16:45),Matchweek 29,Sun,Away,L,0.0,1.0,Lazio,59.0,Mike Maignan,3-5-2,4-3-3,Marco Guida,Match Report,Milan,17.0,3.0,17.6,0.0,0.0,0.0,0.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,29
+2026-03-21,18:00 (14:00),Matchweek 30,Sat,Home,W,3.0,2.0,Torino,63.0,Mike Maignan,3-5-2,3-5-2,Francesco Fourneau,Match Report,Milan,15.0,6.0,40.0,0.2,0.5,0.0,0.0,18.0,7.0,38.9,0.06,0.14,1.0,1.0,30
+2026-04-06,20:45 (15:45),Matchweek 31,Mon,Away,L,0.0,1.0,Napoli,47.0,Mike Maignan,3-5-2,3-4-3,Daniele Doveri,Match Report,Milan,7.0,1.0,14.3,0.0,0.0,0.0,0.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,31
+2026-04-11,18:00 (13:00),Matchweek 32,Sat,Home,L,0.0,3.0,Udinese,63.0,Mike Maignan,4-3-3,5-4-1,Matteo Marchetti,Match Report,Milan,20.0,3.0,15.0,0.0,0.0,0.0,0.0,12.0,6.0,50.0,0.17,0.33,0.0,0.0,32
+2026-04-19,15:00 (10:00),Matchweek 33,Sun,Away,W,1.0,0.0,Hellas Verona,53.0,Mike Maignan,3-5-2,3-4-3,Daniele Chiffi,Match Report,Milan,6.0,3.0,50.0,0.17,0.33,0.0,0.0,13.0,2.0,15.4,0.0,0.0,0.0,0.0,33
+2026-04-26,20:45 (15:45),Matchweek 34,Sun,Home,D,0.0,0.0,Juventus,47.0,Mike Maignan,3-5-2,3-4-3,Simone Sozza,Match Report,Milan,8.0,1.0,12.5,0.0,0.0,0.0,0.0,10.0,5.0,50.0,0.0,0.0,0.0,0.0,34
+2026-05-03,15:00 (10:00),Matchweek 35,Sun,Away,,,,Sassuolo,,,,,,Head-to-Head,Milan,,,,,,,,,,,,,,,35
+2026-05-10,20:45 (15:45),Matchweek 36,Sun,Home,,,,Atalanta,,,,,,Head-to-Head,Milan,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Away,,,,Genoa,,,,,,Head-to-Head,Milan,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Home,,,,Cagliari,,,,,,Head-to-Head,Milan,,,,,,,,,,,,,,,38
+2025-08-23,18:30 (13:30),Matchweek 1,Sat,Away,W,2.0,0.0,Sassuolo,62.0,Giovanni Di Lorenzo,4-1-4-1,4-3-3,Giovanni Ayroldi,Match Report,Napoli,13.0,4.0,30.8,0.15,0.5,0.0,0.0,7.0,2.0,28.6,0.0,0.0,0.0,0.0,1
+2025-08-30,20:45 (15:45),Matchweek 2,Sat,Home,W,1.0,0.0,Cagliari,67.0,Giovanni Di Lorenzo,4-1-4-1,3-5-1-1,Kevin Bonacina,Match Report,Napoli,20.0,6.0,30.0,0.05,0.17,0.0,0.0,10.0,1.0,10.0,0.0,0.0,0.0,0.0,2
+2025-09-13,20:45 (15:45),Matchweek 3,Sat,Away,W,3.0,1.0,Fiorentina,47.0,Giovanni Di Lorenzo,4-1-4-1,3-5-2,Luca Zufferli,Match Report,Napoli,14.0,9.0,64.3,0.14,0.22,1.0,1.0,19.0,3.0,15.8,0.05,0.33,0.0,0.0,3
+2025-09-22,20:45 (15:45),Matchweek 4,Mon,Home,W,3.0,2.0,Pisa,64.0,Giovanni Di Lorenzo,4-1-4-1,3-5-2,Valerio Crezzini,Match Report,Napoli,18.0,6.0,33.3,0.17,0.5,0.0,0.0,15.0,6.0,40.0,0.07,0.17,1.0,1.0,4
+2025-09-28,20:45 (15:45),Matchweek 5,Sun,Away,L,1.0,2.0,Milan,64.0,Giovanni Di Lorenzo,4-1-4-1,3-5-2,Daniele Chiffi,Match Report,Napoli,19.0,7.0,36.8,0.0,0.0,1.0,1.0,6.0,3.0,50.0,0.33,0.67,0.0,0.0,5
+2025-10-05,18:00 (13:00),Matchweek 6,Sun,Home,W,2.0,1.0,Genoa,69.0,Giovanni Di Lorenzo,4-1-4-1,4-2-3-1,Federico La Penna,Match Report,Napoli,12.0,5.0,41.7,0.17,0.4,0.0,0.0,6.0,1.0,16.7,0.17,1.0,0.0,0.0,6
+2025-10-18,18:00 (13:00),Matchweek 7,Sat,Away,L,0.0,1.0,Torino,69.0,Giovanni Di Lorenzo,4-1-4-1,5-3-2,Matteo Marcenaro,Match Report,Napoli,22.0,5.0,22.7,0.0,0.0,0.0,0.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,7
+2025-10-25,18:00 (13:00),Matchweek 8,Sat,Home,W,3.0,1.0,Inter,44.0,Giovanni Di Lorenzo,4-1-4-1,3-5-2,Maurizio Mariani,Match Report,Napoli,7.0,3.0,42.9,0.29,0.67,1.0,1.0,15.0,3.0,20.0,0.0,0.0,1.0,1.0,8
+2025-10-28,18:30 (14:30),Matchweek 9,Tue,Away,W,1.0,0.0,Lecce,59.0,Giovanni Di Lorenzo,4-3-3,4-3-3,Giuseppe Collu,Match Report,Napoli,14.0,3.0,21.4,0.07,0.33,0.0,0.0,7.0,2.0,28.6,0.0,0.0,0.0,1.0,9
+2025-11-01,18:00 (14:00),Matchweek 10,Sat,Home,D,0.0,0.0,Como,45.0,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Luca Zufferli,Match Report,Napoli,13.0,8.0,61.5,0.0,0.0,0.0,0.0,14.0,2.0,14.3,0.0,0.0,0.0,1.0,10
+2025-11-09,15:00 (11:00),Matchweek 11,Sun,Away,L,0.0,2.0,Bologna,59.0,Giovanni Di Lorenzo,4-3-3,4-2-3-1,Daniele Chiffi,Match Report,Napoli,4.0,1.0,25.0,0.0,0.0,0.0,0.0,11.0,4.0,36.4,0.18,0.5,0.0,0.0,11
+2025-11-22,20:45 (16:45),Matchweek 12,Sat,Home,W,3.0,1.0,Atalanta,45.0,Giovanni Di Lorenzo,3-4-3,3-4-1-2,Marco Di Bello,Match Report,Napoli,11.0,6.0,54.5,0.27,0.5,0.0,0.0,14.0,3.0,21.4,0.07,0.33,0.0,0.0,12
+2025-11-30,20:45 (16:45),Matchweek 13,Sun,Away,W,1.0,0.0,Roma,44.0,Giovanni Di Lorenzo,3-4-3,3-4-3,Davide Massa,Match Report,Napoli,7.0,5.0,71.4,0.14,0.2,0.0,0.0,8.0,2.0,25.0,0.0,0.0,0.0,0.0,13
+2025-12-07,20:45 (16:45),Matchweek 14,Sun,Home,W,2.0,1.0,Juventus,50.0,Giovanni Di Lorenzo,3-4-3,3-5-2,Federico La Penna,Match Report,Napoli,9.0,4.0,44.4,0.22,0.5,0.0,0.0,5.0,2.0,40.0,0.2,0.5,0.0,0.0,14
+2025-12-14,15:00 (11:00),Matchweek 15,Sun,Away,L,0.0,1.0,Udinese,62.0,Giovanni Di Lorenzo,3-4-3,3-5-2,Simone Sozza,Match Report,Napoli,7.0,0.0,0.0,0.0,,0.0,0.0,18.0,5.0,27.8,0.06,0.2,0.0,0.0,15
+2025-12-28,15:00 (11:00),Matchweek 17,Sun,Away,W,2.0,0.0,Cremonese,53.0,Giovanni Di Lorenzo,3-4-3,3-5-2,Maurizio Mariani,Match Report,Napoli,22.0,8.0,36.4,0.09,0.25,0.0,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,17
+2026-01-04,12:30 (08:30),Matchweek 18,Sun,Away,W,2.0,0.0,Lazio,65.0,Giovanni Di Lorenzo,3-4-3,4-3-3,Davide Massa,Match Report,Napoli,14.0,3.0,21.4,0.14,0.67,0.0,0.0,5.0,0.0,0.0,0.0,,0.0,0.0,18
+2026-01-07,18:30 (14:30),Matchweek 19,Wed,Home,D,2.0,2.0,Hellas Verona,70.0,Giovanni Di Lorenzo,3-4-3,3-5-2,Matteo Marchetti,Match Report,Napoli,15.0,4.0,26.7,0.13,0.5,0.0,0.0,11.0,4.0,36.4,0.09,0.25,1.0,1.0,19
+2026-01-11,20:45 (16:45),Matchweek 20,Sun,Away,D,2.0,2.0,Inter,50.0,Giovanni Di Lorenzo,3-4-3,3-5-2,Daniele Doveri,Match Report,Napoli,7.0,3.0,42.9,0.29,0.67,0.0,0.0,13.0,4.0,30.8,0.08,0.25,1.0,1.0,20
+2026-01-14,18:30 (14:30),Matchweek 16,Wed,Home,D,0.0,0.0,Parma,69.0,Giovanni Di Lorenzo,3-4-3,3-5-2,Michael Fabbri,Match Report,Napoli,16.0,4.0,25.0,0.0,0.0,0.0,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,16
+2026-01-17,18:00 (14:00),Matchweek 21,Sat,Home,W,1.0,0.0,Sassuolo,53.0,Giovanni Di Lorenzo,3-4-3,4-3-3,Francesco Fourneau,Match Report,Napoli,11.0,4.0,36.4,0.09,0.25,0.0,0.0,21.0,4.0,19.0,0.0,0.0,0.0,0.0,21
+2026-01-25,18:00 (14:00),Matchweek 22,Sun,Away,L,0.0,3.0,Juventus,58.0,Giovanni Di Lorenzo,3-4-3,3-4-3,Maurizio Mariani,Match Report,Napoli,9.0,1.0,11.1,0.0,0.0,0.0,0.0,12.0,6.0,50.0,0.25,0.5,0.0,0.0,22
+2026-01-31,18:00 (14:00),Matchweek 23,Sat,Home,W,2.0,1.0,Fiorentina,53.0,Giovanni Di Lorenzo,3-4-3,4-1-4-1,Federico La Penna,Match Report,Napoli,19.0,6.0,31.6,0.11,0.33,0.0,0.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,23
+2026-02-07,18:00 (14:00),Matchweek 24,Sat,Away,W,3.0,2.0,Genoa,60.0,Stanislav Lobotka,3-4-3,3-5-2,Davide Massa,Match Report,Napoli,14.0,5.0,35.7,0.14,0.4,1.0,1.0,12.0,3.0,25.0,0.08,0.33,1.0,1.0,24
+2026-02-15,20:45 (16:45),Matchweek 25,Sun,Home,D,2.0,2.0,Roma,61.0,Matteo Politano,3-4-3,3-4-3,Andrea Colombo,Match Report,Napoli,11.0,7.0,63.6,0.18,0.29,0.0,0.0,9.0,2.0,22.2,0.11,0.5,1.0,1.0,25
+2026-02-22,15:00 (11:00),Matchweek 26,Sun,Away,L,1.0,2.0,Atalanta,44.0,Stanislav Lobotka,3-4-3,3-4-3,Daniele Chiffi,Match Report,Napoli,10.0,4.0,40.0,0.1,0.25,0.0,0.0,10.0,7.0,70.0,0.2,0.29,0.0,0.0,26
+2026-02-28,18:00 (14:00),Matchweek 27,Sat,Away,W,2.0,1.0,Hellas Verona,65.0,Matteo Politano,3-4-3,3-5-2,Andrea Colombo,Match Report,Napoli,8.0,5.0,62.5,0.25,0.4,0.0,0.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,27
+2026-03-06,20:45 (16:45),Matchweek 28,Fri,Home,W,2.0,1.0,Torino,64.0,Matteo Politano,3-4-3,3-4-1-2,Michael Fabbri,Match Report,Napoli,14.0,9.0,64.3,0.14,0.22,0.0,0.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,28
+2026-03-14,18:00 (14:00),Matchweek 29,Sat,Home,W,2.0,1.0,Lecce,70.0,Matteo Politano,3-4-3,4-2-3-1,Rosario Abisso,Match Report,Napoli,12.0,4.0,33.3,0.17,0.5,0.0,0.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,29
+2026-03-20,18:30 (14:30),Matchweek 30,Fri,Away,W,1.0,0.0,Cagliari,67.0,Matteo Politano,3-4-3,3-5-2,Maurizio Mariani,Match Report,Napoli,17.0,5.0,29.4,0.06,0.2,0.0,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,30
+2026-04-06,20:45 (15:45),Matchweek 31,Mon,Home,W,1.0,0.0,Milan,53.0,Stanislav Lobotka,3-4-3,3-5-2,Daniele Doveri,Match Report,Napoli,10.0,3.0,30.0,0.1,0.33,0.0,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,31
+2026-04-12,15:00 (10:00),Matchweek 32,Sun,Away,D,1.0,1.0,Parma,75.0,Matteo Politano,3-4-3,3-5-2,Marco Di Bello,Match Report,Napoli,20.0,6.0,30.0,0.05,0.17,0.0,0.0,3.0,2.0,66.7,0.33,0.5,0.0,0.0,32
+2026-04-18,18:00 (13:00),Matchweek 33,Sat,Home,L,0.0,2.0,Lazio,67.0,Matteo Politano,3-4-3,4-3-3,Luca Zufferli,Match Report,Napoli,12.0,0.0,0.0,0.0,,0.0,0.0,14.0,7.0,50.0,0.14,0.29,0.0,1.0,33
+2026-04-24,20:45 (15:45),Matchweek 34,Fri,Home,W,4.0,0.0,Cremonese,56.0,Matteo Politano,3-4-3,4-4-2,Daniele Doveri,Match Report,Napoli,25.0,9.0,36.0,0.12,0.33,0.0,1.0,7.0,4.0,57.1,0.0,0.0,0.0,0.0,34
+2026-05-02,18:00 (13:00),Matchweek 35,Sat,Away,,,,Como,,,,,,Head-to-Head,Napoli,,,,,,,,,,,,,,,35
+2026-05-11,20:45 (15:45),Matchweek 36,Mon,Home,,,,Bologna,,,,,,Head-to-Head,Napoli,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Away,,,,Pisa,,,,,,Head-to-Head,Napoli,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Home,,,,Udinese,,,,,,Head-to-Head,Napoli,,,,,,,,,,,,,,,38
+2025-08-24,20:45 (15:45),Matchweek 1,Sun,Away,L,0.0,2.0,Juventus,36.0,Enrico Del Prato,3-4-3,3-4-3,Matteo Marcenaro,Match Report,Parma,8.0,2.0,25.0,0.0,0.0,0.0,0.0,25.0,8.0,32.0,0.08,0.25,0.0,0.0,1
+2025-08-30,18:30 (13:30),Matchweek 2,Sat,Home,D,1.0,1.0,Atalanta,46.0,Enrico Del Prato,3-4-3,3-4-3,Maurizio Mariani,Match Report,Parma,7.0,3.0,42.9,0.14,0.33,0.0,0.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,2
+2025-09-13,15:00 (10:00),Matchweek 3,Sat,Away,L,0.0,2.0,Cagliari,49.0,Enrico Del Prato,3-5-2,4-3-2-1,Francesco Fourneau,Match Report,Parma,17.0,5.0,29.4,0.0,0.0,0.0,0.0,12.0,5.0,41.7,0.17,0.4,0.0,0.0,3
+2025-09-21,15:00 (10:00),Matchweek 4,Sun,Away,D,0.0,0.0,Cremonese,48.0,Enrico Del Prato,3-5-2,3-5-2,Federico La Penna,Match Report,Parma,15.0,3.0,20.0,0.0,0.0,0.0,0.0,3.0,1.0,33.3,0.0,0.0,0.0,0.0,4
+2025-09-29,18:30 (13:30),Matchweek 5,Mon,Home,W,2.0,1.0,Torino,37.0,Enrico Del Prato,3-4-1-2,3-4-3,Giuseppe Collu,Match Report,Parma,13.0,2.0,15.4,0.08,0.5,1.0,1.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,5
+2025-10-04,15:00 (10:00),Matchweek 6,Sat,Home,L,0.0,1.0,Lecce,63.0,Enrico Del Prato,3-5-2,4-3-3,Daniele Doveri,Match Report,Parma,10.0,2.0,20.0,0.0,0.0,0.0,0.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,6
+2025-10-19,15:00 (10:00),Matchweek 7,Sun,Away,D,0.0,0.0,Genoa,32.0,Enrico Del Prato,3-5-2,3-4-3,Simone Sozza,Match Report,Parma,1.0,0.0,0.0,0.0,,0.0,0.0,23.0,7.0,30.4,0.0,0.0,0.0,1.0,7
+2025-10-25,15:00 (10:00),Matchweek 8,Sat,Home,D,0.0,0.0,Como,29.0,Enrico Del Prato,3-5-2,4-2-3-1,Daniele Chiffi,Match Report,Parma,10.0,3.0,30.0,0.0,0.0,0.0,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,8
+2025-10-29,18:30 (14:30),Matchweek 9,Wed,Away,L,1.0,2.0,Roma,40.0,Enrico Del Prato,4-4-2,3-4-3,Valerio Crezzini,Match Report,Parma,8.0,5.0,62.5,0.13,0.2,0.0,0.0,18.0,6.0,33.3,0.11,0.33,0.0,0.0,9
+2025-11-02,18:00 (14:00),Matchweek 10,Sun,Home,L,1.0,3.0,Bologna,35.0,Enrico Del Prato,4-2-2-2,4-2-3-1,Kevin Bonacina,Match Report,Parma,7.0,1.0,14.3,0.14,1.0,0.0,0.0,22.0,6.0,27.3,0.14,0.5,0.0,0.0,10
+2025-11-08,20:45 (16:45),Matchweek 11,Sat,Home,D,2.0,2.0,Milan,43.0,Enrico Del Prato,3-5-2,3-5-2,Marco Di Bello,Match Report,Parma,14.0,4.0,28.6,0.14,0.5,0.0,0.0,9.0,5.0,55.6,0.11,0.2,1.0,1.0,11
+2025-11-23,12:30 (08:30),Matchweek 12,Sun,Away,W,2.0,1.0,Hellas Verona,41.0,Enrico Del Prato,3-5-2,3-5-2,Luca Pairetto,Match Report,Parma,15.0,7.0,46.7,0.13,0.29,0.0,0.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,12
+2025-11-29,15:00 (11:00),Matchweek 13,Sat,Home,L,0.0,2.0,Udinese,51.0,Enrico Del Prato,3-5-2,3-5-2,Marco Piccinini,Match Report,Parma,17.0,2.0,11.8,0.0,0.0,0.0,0.0,14.0,5.0,35.7,0.07,0.2,1.0,1.0,13
+2025-12-08,15:00 (11:00),Matchweek 14,Mon,Away,W,1.0,0.0,Pisa,40.0,Enrico Del Prato,4-3-3,3-5-2,Daniele Doveri,Match Report,Parma,9.0,2.0,22.2,0.0,0.0,1.0,1.0,14.0,2.0,14.3,0.0,0.0,0.0,0.0,14
+2025-12-13,18:00 (14:00),Matchweek 15,Sat,Home,L,0.0,1.0,Lazio,47.0,Enrico Del Prato,4-4-2,4-3-3,Matteo Marchetti,Match Report,Parma,19.0,5.0,26.3,0.0,0.0,0.0,0.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,15
+2025-12-27,12:30 (08:30),Matchweek 17,Sat,Home,W,1.0,0.0,Fiorentina,42.0,Alessandro Circati,4-3-3,3-5-2,Marco Guida,Match Report,Parma,13.0,2.0,15.4,0.08,0.5,0.0,0.0,23.0,4.0,17.4,0.0,0.0,0.0,0.0,17
+2026-01-03,15:00 (11:00),Matchweek 18,Sat,Away,D,1.0,1.0,Sassuolo,48.0,Enrico Del Prato,4-3-3,4-3-3,Ermanno Feliciani,Match Report,Parma,16.0,5.0,31.3,0.06,0.2,0.0,0.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,18
+2026-01-07,20:45 (16:45),Matchweek 19,Wed,Home,L,0.0,2.0,Inter,37.0,Enrico Del Prato,4-3-3,3-5-2,Andrea Colombo,Match Report,Parma,4.0,0.0,0.0,0.0,,0.0,0.0,26.0,8.0,30.8,0.08,0.25,0.0,0.0,19
+2026-01-11,12:30 (08:30),Matchweek 20,Sun,Away,W,2.0,1.0,Lecce,59.0,Enrico Del Prato,4-3-3,4-2-3-1,Livio Marinelli,Match Report,Parma,12.0,2.0,16.7,0.08,0.5,0.0,0.0,10.0,1.0,10.0,0.1,1.0,0.0,0.0,20
+2026-01-14,18:30 (14:30),Matchweek 16,Wed,Away,D,0.0,0.0,Napoli,31.0,Alessandro Circati,3-5-2,3-4-3,Michael Fabbri,Match Report,Parma,4.0,1.0,25.0,0.0,0.0,0.0,0.0,16.0,4.0,25.0,0.0,0.0,0.0,0.0,16
+2026-01-18,12:30 (08:30),Matchweek 21,Sun,Home,D,0.0,0.0,Genoa,51.0,Enrico Del Prato,4-3-3,3-5-2,Luca Pairetto,Match Report,Parma,14.0,2.0,14.3,0.0,0.0,0.0,0.0,11.0,3.0,27.3,0.0,0.0,0.0,0.0,21
+2026-01-25,15:00 (11:00),Matchweek 22,Sun,Away,L,0.0,4.0,Atalanta,52.0,Enrico Del Prato,3-4-3,3-4-3,Juan Luca Sacchi,Match Report,Parma,15.0,2.0,13.3,0.0,0.0,0.0,0.0,21.0,9.0,42.9,0.14,0.33,1.0,1.0,22
+2026-02-01,20:45 (16:45),Matchweek 23,Sun,Home,L,1.0,4.0,Juventus,39.0,Enrico Del Prato,4-3-2-1,4-2-3-1,Francesco Fourneau,Match Report,Parma,10.0,4.0,40.0,0.0,0.0,0.0,0.0,15.0,8.0,53.3,0.27,0.5,0.0,0.0,23
+2026-02-08,12:30 (08:30),Matchweek 24,Sun,Away,W,1.0,0.0,Bologna,49.0,Enrico Del Prato,3-5-2,4-3-3,Giuseppe Collu,Match Report,Parma,5.0,1.0,20.0,0.2,1.0,0.0,0.0,16.0,2.0,12.5,0.0,0.0,0.0,0.0,24
+2026-02-15,15:00 (11:00),Matchweek 25,Sun,Home,W,2.0,1.0,Hellas Verona,76.0,Enrico Del Prato,3-5-2,3-5-2,Luca Pairetto,Match Report,Parma,27.0,8.0,29.6,0.07,0.25,0.0,0.0,4.0,1.0,25.0,0.0,0.0,1.0,1.0,25
+2026-02-22,18:00 (14:00),Matchweek 26,Sun,Away,W,1.0,0.0,Milan,34.0,Enrico Del Prato,3-5-2,3-5-2,Marco Piccinini,Match Report,Parma,9.0,3.0,33.3,0.11,0.33,0.0,0.0,25.0,6.0,24.0,0.0,0.0,0.0,0.0,26
+2026-02-27,20:45 (16:45),Matchweek 27,Fri,Home,D,1.0,1.0,Cagliari,56.0,Enrico Del Prato,3-1-4-2,3-5-2,Luca Massimi,Match Report,Parma,18.0,4.0,22.2,0.06,0.25,0.0,0.0,11.0,5.0,45.5,0.09,0.2,0.0,0.0,27
+2026-03-08,15:00 (11:00),Matchweek 28,Sun,Away,D,0.0,0.0,Fiorentina,44.0,Enrico Del Prato,3-1-4-2,4-1-4-1,Luca Zufferli,Match Report,Parma,8.0,0.0,0.0,0.0,,0.0,0.0,12.0,1.0,8.3,0.0,0.0,0.0,0.0,28
+2026-03-13,20:45 (16:45),Matchweek 29,Fri,Away,L,1.0,4.0,Torino,50.0,Enrico Del Prato,3-1-4-2,3-4-1-2,Fabio Maresca,Match Report,Parma,6.0,3.0,50.0,0.17,0.33,0.0,0.0,15.0,6.0,40.0,0.2,0.5,0.0,0.0,29
+2026-03-21,15:00 (11:00),Matchweek 30,Sat,Home,L,0.0,2.0,Cremonese,52.0,Alessandro Circati,3-4-3,4-4-2,Michael Fabbri,Match Report,Parma,8.0,1.0,12.5,0.0,0.0,0.0,0.0,7.0,4.0,57.1,0.29,0.5,0.0,0.0,30
+2026-04-04,20:45 (15:45),Matchweek 31,Sat,Away,D,1.0,1.0,Lazio,39.0,Enrico Del Prato,3-5-2,4-3-3,Matteo Marcenaro,Match Report,Parma,7.0,4.0,57.1,0.14,0.25,0.0,0.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,31
+2026-04-12,15:00 (10:00),Matchweek 32,Sun,Home,D,1.0,1.0,Napoli,26.0,Enrico Del Prato,3-5-2,3-4-3,Marco Di Bello,Match Report,Parma,3.0,2.0,66.7,0.33,0.5,0.0,0.0,20.0,6.0,30.0,0.05,0.17,0.0,0.0,32
+2026-04-18,15:00 (10:00),Matchweek 33,Sat,Away,W,1.0,0.0,Udinese,44.0,Enrico Del Prato,3-4-3,3-4-1-2,Davide Di Marco,Match Report,Parma,10.0,1.0,10.0,0.1,1.0,0.0,0.0,16.0,3.0,18.8,0.0,0.0,0.0,0.0,33
+2026-04-25,15:00 (10:00),Matchweek 34,Sat,Home,W,1.0,0.0,Pisa,51.0,Enrico Del Prato,3-5-2,3-5-2,Andrea Calzavara,Match Report,Parma,15.0,5.0,33.3,0.07,0.2,0.0,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,34
+2026-05-03,20:45 (15:45),Matchweek 35,Sun,Away,,,,Inter,,,,,,Head-to-Head,Parma,,,,,,,,,,,,,,,35
+2026-05-10,18:00 (13:00),Matchweek 36,Sun,Home,,,,Roma,,,,,,Head-to-Head,Parma,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Away,,,,Como,,,,,,Head-to-Head,Parma,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Home,,,,Sassuolo,,,,,,Head-to-Head,Parma,,,,,,,,,,,,,,,38
+2025-08-24,20:45 (15:45),Matchweek 1,Sun,Away,D,1.0,1.0,Atalanta,34.0,Antonio Caracciolo,3-4-3,3-4-3,Alberto Arena,Match Report,Pisa,11.0,2.0,18.2,0.0,0.0,0.0,0.0,21.0,6.0,28.6,0.05,0.17,0.0,0.0,1
+2025-08-30,20:45 (15:45),Matchweek 2,Sat,Home,L,0.0,1.0,Roma,31.0,Antonio Caracciolo,3-5-2,3-4-3,Giuseppe Collu,Match Report,Pisa,7.0,3.0,42.9,0.0,0.0,0.0,0.0,10.0,5.0,50.0,0.1,0.2,0.0,0.0,2
+2025-09-14,15:00 (10:00),Matchweek 3,Sun,Home,L,0.0,1.0,Udinese,51.0,Antonio Caracciolo,3-4-3,3-5-2,Davide Massa,Match Report,Pisa,12.0,2.0,16.7,0.0,0.0,0.0,0.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,3
+2025-09-22,20:45 (15:45),Matchweek 4,Mon,Away,L,2.0,3.0,Napoli,36.0,Antonio Caracciolo,3-5-2,4-1-4-1,Valerio Crezzini,Match Report,Pisa,15.0,6.0,40.0,0.07,0.17,1.0,1.0,18.0,6.0,33.3,0.17,0.5,0.0,0.0,4
+2025-09-28,15:00 (10:00),Matchweek 5,Sun,Home,D,0.0,0.0,Fiorentina,39.0,Antonio Caracciolo,3-5-2,3-4-3,Gianluca Manganiello,Match Report,Pisa,11.0,1.0,9.1,0.0,0.0,0.0,0.0,14.0,2.0,14.3,0.0,0.0,0.0,0.0,5
+2025-10-05,15:00 (10:00),Matchweek 6,Sun,Away,L,0.0,4.0,Bologna,28.0,Antonio Caracciolo,3-5-2,4-2-3-1,Rosario Abisso,Match Report,Pisa,2.0,0.0,0.0,0.0,,0.0,0.0,24.0,7.0,29.2,0.17,0.57,0.0,0.0,6
+2025-10-18,15:00 (10:00),Matchweek 7,Sat,Home,D,0.0,0.0,Hellas Verona,60.0,Antonio Caracciolo,3-5-2,3-5-2,Marco Guida,Match Report,Pisa,7.0,0.0,0.0,0.0,,0.0,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,7
+2025-10-24,20:45 (15:45),Matchweek 8,Fri,Away,D,2.0,2.0,Milan,33.0,Antonio Caracciolo,3-5-2,3-1-4-2,Luca Zufferli,Match Report,Pisa,8.0,2.0,25.0,0.13,0.5,1.0,1.0,20.0,7.0,35.0,0.1,0.29,0.0,0.0,8
+2025-10-30,20:45 (16:45),Matchweek 9,Thu,Home,D,0.0,0.0,Lazio,39.0,Antonio Caracciolo,3-4-3,4-3-3,Davide Massa,Match Report,Pisa,10.0,2.0,20.0,0.0,0.0,0.0,0.0,11.0,6.0,54.5,0.0,0.0,0.0,0.0,9
+2025-11-02,15:00 (11:00),Matchweek 10,Sun,Away,D,2.0,2.0,Torino,36.0,Antonio Caracciolo,5-3-2,3-5-2,Alberto Arena,Match Report,Pisa,11.0,3.0,27.3,0.09,0.33,1.0,1.0,15.0,3.0,20.0,0.13,0.67,0.0,0.0,10
+2025-11-07,20:45 (16:45),Matchweek 11,Fri,Home,W,1.0,0.0,Cremonese,38.0,Antonio Caracciolo,3-5-2,3-1-4-2,Matteo Marcenaro,Match Report,Pisa,13.0,6.0,46.2,0.08,0.17,0.0,0.0,13.0,3.0,23.1,0.0,0.0,0.0,0.0,11
+2025-11-24,20:45 (16:45),Matchweek 12,Mon,Away,D,2.0,2.0,Sassuolo,37.0,Antonio Caracciolo,4-4-2,4-3-3,Davide Di Marco,Match Report,Pisa,10.0,3.0,30.0,0.1,0.33,1.0,1.0,22.0,7.0,31.8,0.09,0.29,0.0,0.0,12
+2025-11-30,15:00 (11:00),Matchweek 13,Sun,Home,L,0.0,2.0,Inter,40.0,Antonio Caracciolo,3-5-2,3-5-2,Marco Guida,Match Report,Pisa,10.0,2.0,20.0,0.0,0.0,0.0,0.0,14.0,3.0,21.4,0.14,0.67,0.0,0.0,13
+2025-12-08,15:00 (11:00),Matchweek 14,Mon,Home,L,0.0,1.0,Parma,60.0,Antonio Caracciolo,3-5-2,4-3-3,Daniele Doveri,Match Report,Pisa,14.0,2.0,14.3,0.0,0.0,0.0,0.0,9.0,2.0,22.2,0.0,0.0,1.0,1.0,14
+2025-12-12,20:45 (16:45),Matchweek 15,Fri,Away,L,0.0,1.0,Lecce,48.0,Antonio Caracciolo,3-5-2,4-1-4-1,Juan Luca Sacchi,Match Report,Pisa,5.0,0.0,0.0,0.0,,0.0,0.0,21.0,3.0,14.3,0.05,0.33,0.0,0.0,15
+2025-12-21,12:30 (08:30),Matchweek 16,Sun,Away,D,2.0,2.0,Cagliari,41.0,Antonio Caracciolo,3-5-2,4-3-2-1,Francesco Fourneau,Match Report,Pisa,15.0,3.0,20.0,0.07,0.33,1.0,1.0,14.0,5.0,35.7,0.14,0.4,0.0,0.0,16
+2025-12-27,20:45 (16:45),Matchweek 17,Sat,Home,L,0.0,2.0,Juventus,41.0,Antonio Caracciolo,3-5-2,3-4-3,Fabio Maresca,Match Report,Pisa,8.0,0.0,0.0,0.0,,0.0,0.0,15.0,7.0,46.7,0.13,0.29,0.0,0.0,17
+2026-01-03,15:00 (11:00),Matchweek 18,Sat,Away,D,1.0,1.0,Genoa,38.0,Stefano Moreo,3-5-2,3-5-2,Daniele Chiffi,Match Report,Pisa,10.0,2.0,20.0,0.1,0.5,0.0,0.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,18
+2026-01-06,15:00 (11:00),Matchweek 19,Tue,Home,L,0.0,3.0,Como,27.0,Antonio Caracciolo,3-5-2,4-2-3-1,Luca Pairetto,Match Report,Pisa,10.0,4.0,40.0,0.0,0.0,0.0,1.0,15.0,7.0,46.7,0.13,0.29,1.0,1.0,19
+2026-01-10,15:00 (11:00),Matchweek 20,Sat,Away,D,2.0,2.0,Udinese,46.0,Antonio Caracciolo,3-4-1-2,4-4-2,Giovanni Ayroldi,Match Report,Pisa,14.0,7.0,50.0,0.14,0.29,0.0,0.0,11.0,2.0,18.2,0.09,0.5,1.0,1.0,20
+2026-01-16,20:45 (16:45),Matchweek 21,Fri,Home,D,1.0,1.0,Atalanta,43.0,Marius Marin,3-4-3,3-4-3,Matteo Marchetti,Match Report,Pisa,14.0,6.0,42.9,0.07,0.17,0.0,0.0,9.0,4.0,44.4,0.11,0.25,0.0,0.0,21
+2026-01-23,20:45 (16:45),Matchweek 22,Fri,Away,L,2.0,6.0,Inter,34.0,Marius Marin,3-4-3,3-5-2,Matteo Marcenaro,Match Report,Pisa,8.0,3.0,37.5,0.25,0.67,0.0,0.0,34.0,14.0,41.2,0.15,0.36,1.0,1.0,22
+2026-01-31,15:00 (11:00),Matchweek 23,Sat,Home,L,1.0,3.0,Sassuolo,54.0,Antonio Caracciolo,3-4-3,4-3-3,Alberto Arena,Match Report,Pisa,15.0,6.0,40.0,0.07,0.17,0.0,0.0,21.0,5.0,23.8,0.1,0.4,0.0,0.0,23
+2026-02-06,20:45 (16:45),Matchweek 24,Fri,Away,D,0.0,0.0,Hellas Verona,39.0,Antonio Caracciolo,3-4-3,3-5-2,Daniele Doveri,Match Report,Pisa,11.0,3.0,27.3,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,24
+2026-02-13,20:45 (16:45),Matchweek 25,Fri,Home,L,1.0,2.0,Milan,34.0,Antonio Caracciolo,3-4-3,3-5-2,Michael Fabbri,Match Report,Pisa,7.0,2.0,28.6,0.14,0.5,0.0,0.0,7.0,2.0,28.6,0.29,1.0,0.0,1.0,25
+2026-02-23,18:30 (14:30),Matchweek 26,Mon,Away,L,0.0,1.0,Fiorentina,44.0,Antonio Caracciolo,3-4-3,4-3-3,Maurizio Mariani,Match Report,Pisa,7.0,1.0,14.3,0.0,0.0,0.0,0.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,26
+2026-03-02,18:30 (14:30),Matchweek 27,Mon,Home,L,0.0,1.0,Bologna,41.0,Antonio Caracciolo,3-5-2,4-3-3,Ermanno Feliciani,Match Report,Pisa,6.0,3.0,50.0,0.0,0.0,0.0,0.0,8.0,1.0,12.5,0.13,1.0,0.0,0.0,27
+2026-03-07,20:45 (16:45),Matchweek 28,Sat,Away,L,0.0,4.0,Juventus,41.0,Antonio Caracciolo,3-5-2,3-4-3,Juan Luca Sacchi,Match Report,Pisa,7.0,2.0,28.6,0.0,0.0,0.0,0.0,25.0,7.0,28.0,0.16,0.57,0.0,0.0,28
+2026-03-15,15:00 (11:00),Matchweek 29,Sun,Home,W,3.0,1.0,Cagliari,28.0,Antonio Caracciolo,3-4-3,4-4-2,Federico La Penna,Match Report,Pisa,10.0,6.0,60.0,0.2,0.33,1.0,1.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,29
+2026-03-22,12:30 (08:30),Matchweek 30,Sun,Away,L,0.0,5.0,Como,27.0,Antonio Caracciolo,3-5-2,4-2-3-1,Luca Pairetto,Match Report,Pisa,7.0,0.0,0.0,0.0,,0.0,0.0,14.0,7.0,50.0,0.36,0.71,0.0,0.0,30
+2026-04-05,18:00 (13:00),Matchweek 31,Sun,Home,L,0.0,1.0,Torino,50.0,Antonio Caracciolo,3-5-2,3-4-1-2,Luca Zufferli,Match Report,Pisa,7.0,1.0,14.3,0.0,0.0,0.0,0.0,13.0,2.0,15.4,0.08,0.5,0.0,0.0,31
+2026-04-10,20:45 (15:45),Matchweek 32,Fri,Away,L,0.0,3.0,Roma,41.0,Antonio Caracciolo,3-4-3,3-4-3,Ermanno Feliciani,Match Report,Pisa,9.0,5.0,55.6,0.0,0.0,0.0,0.0,8.0,3.0,37.5,0.38,1.0,0.0,0.0,32
+2026-04-19,18:00 (13:00),Matchweek 33,Sun,Home,L,1.0,2.0,Genoa,44.0,Antonio Caracciolo,3-4-3,3-4-1-2,Valerio Crezzini,Match Report,Pisa,12.0,4.0,33.3,0.08,0.25,0.0,0.0,13.0,5.0,38.5,0.08,0.2,1.0,1.0,33
+2026-04-25,15:00 (10:00),Matchweek 34,Sat,Away,L,0.0,1.0,Parma,49.0,Antonio Caracciolo,3-5-2,3-5-2,Andrea Calzavara,Match Report,Pisa,12.0,3.0,25.0,0.0,0.0,0.0,0.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,34
+2026-05-01,20:45 (15:45),Matchweek 35,Fri,Home,,,,Lecce,,,,,,Head-to-Head,Pisa,,,,,,,,,,,,,,,35
+2026-05-10,15:00 (10:00),Matchweek 36,Sun,Away,,,,Cremonese,,,,,,Head-to-Head,Pisa,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Home,,,,Napoli,,,,,,Head-to-Head,Pisa,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Away,,,,Lazio,,,,,,Head-to-Head,Pisa,,,,,,,,,,,,,,,38
+2025-08-23,20:45 (15:45),Matchweek 1,Sat,Home,W,1.0,0.0,Bologna,51.0,Stephan El Shaarawy,3-4-3,4-2-3-1,Luca Zufferli,Match Report,Roma,14.0,4.0,28.6,0.07,0.25,0.0,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,1
+2025-08-30,20:45 (15:45),Matchweek 2,Sat,Away,W,1.0,0.0,Pisa,69.0,Stephan El Shaarawy,3-4-3,3-5-2,Giuseppe Collu,Match Report,Roma,10.0,5.0,50.0,0.1,0.2,0.0,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,2
+2025-09-14,12:30 (07:30),Matchweek 3,Sun,Home,L,0.0,1.0,Torino,73.0,Bryan Cristante,3-4-1-2,3-4-3,Giovanni Ayroldi,Match Report,Roma,22.0,5.0,22.7,0.0,0.0,0.0,0.0,8.0,4.0,50.0,0.13,0.25,0.0,0.0,3
+2025-09-21,12:30 (07:30),Matchweek 4,Sun,Away,W,1.0,0.0,Lazio,51.0,Bryan Cristante,3-4-1-2,4-3-3,Simone Sozza,Match Report,Roma,13.0,6.0,46.2,0.08,0.17,0.0,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,4
+2025-09-28,15:00 (10:00),Matchweek 5,Sun,Home,W,2.0,0.0,Hellas Verona,57.0,Bryan Cristante,3-4-3,3-5-2,Ermanno Feliciani,Match Report,Roma,10.0,5.0,50.0,0.2,0.4,0.0,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,5
+2025-10-05,15:00 (10:00),Matchweek 6,Sun,Away,W,2.0,1.0,Fiorentina,55.0,Bryan Cristante,3-4-3,3-4-3,Andrea Colombo,Match Report,Roma,8.0,3.0,37.5,0.25,0.67,0.0,0.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,6
+2025-10-18,20:45 (15:45),Matchweek 7,Sat,Home,L,0.0,1.0,Inter,57.0,Bryan Cristante,3-4-3,3-5-2,Davide Massa,Match Report,Roma,15.0,5.0,33.3,0.0,0.0,0.0,0.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,7
+2025-10-26,15:00 (11:00),Matchweek 8,Sun,Away,W,1.0,0.0,Sassuolo,59.0,Bryan Cristante,3-5-2,4-3-3,Gianluca Manganiello,Match Report,Roma,15.0,8.0,53.3,0.07,0.13,0.0,0.0,11.0,1.0,9.1,0.0,0.0,0.0,0.0,8
+2025-10-29,18:30 (14:30),Matchweek 9,Wed,Home,W,2.0,1.0,Parma,60.0,Bryan Cristante,3-4-3,4-4-2,Valerio Crezzini,Match Report,Roma,18.0,6.0,33.3,0.11,0.33,0.0,0.0,8.0,5.0,62.5,0.13,0.2,0.0,0.0,9
+2025-11-02,20:45 (16:45),Matchweek 10,Sun,Away,L,0.0,1.0,Milan,63.0,Bryan Cristante,3-5-2,3-5-2,Marco Guida,Match Report,Roma,20.0,6.0,30.0,0.0,0.0,0.0,1.0,17.0,8.0,47.1,0.06,0.13,0.0,0.0,10
+2025-11-09,18:00 (14:00),Matchweek 11,Sun,Home,W,2.0,0.0,Udinese,58.0,Bryan Cristante,3-4-3,3-5-2,Giuseppe Collu,Match Report,Roma,13.0,4.0,30.8,0.08,0.25,1.0,1.0,10.0,4.0,40.0,0.0,0.0,0.0,0.0,11
+2025-11-23,15:00 (11:00),Matchweek 12,Sun,Away,W,3.0,1.0,Cremonese,50.0,Bryan Cristante,3-4-3,3-5-2,Giovanni Ayroldi,Match Report,Roma,12.0,6.0,50.0,0.25,0.5,0.0,0.0,9.0,4.0,44.4,0.11,0.25,0.0,0.0,12
+2025-11-30,20:45 (16:45),Matchweek 13,Sun,Home,L,0.0,1.0,Napoli,56.0,Bryan Cristante,3-4-3,3-4-3,Davide Massa,Match Report,Roma,8.0,2.0,25.0,0.0,0.0,0.0,0.0,7.0,5.0,71.4,0.14,0.2,0.0,0.0,13
+2025-12-07,15:00 (11:00),Matchweek 14,Sun,Away,L,0.0,1.0,Cagliari,53.0,Bryan Cristante,3-4-3,3-5-2,Luca Zufferli,Match Report,Roma,6.0,2.0,33.3,0.0,0.0,0.0,0.0,15.0,8.0,53.3,0.07,0.13,0.0,0.0,14
+2025-12-15,20:45 (16:45),Matchweek 15,Mon,Home,W,1.0,0.0,Como,53.0,Bryan Cristante,3-4-3,4-2-3-1,Ermanno Feliciani,Match Report,Roma,14.0,4.0,28.6,0.07,0.25,0.0,0.0,13.0,1.0,7.7,0.0,0.0,0.0,0.0,15
+2025-12-20,20:45 (16:45),Matchweek 16,Sat,Away,L,1.0,2.0,Juventus,59.0,Bryan Cristante,3-4-3,3-4-3,Simone Sozza,Match Report,Roma,14.0,5.0,35.7,0.07,0.2,0.0,0.0,13.0,9.0,69.2,0.15,0.22,0.0,0.0,16
+2025-12-29,20:45 (16:45),Matchweek 17,Mon,Home,W,3.0,1.0,Genoa,61.0,Bryan Cristante,3-4-3,3-5-2,Marco Di Bello,Match Report,Roma,16.0,8.0,50.0,0.19,0.38,0.0,0.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,17
+2026-01-03,20:45 (16:45),Matchweek 18,Sat,Away,L,0.0,1.0,Atalanta,55.0,Bryan Cristante,3-4-3,3-4-3,Michael Fabbri,Match Report,Roma,10.0,4.0,40.0,0.0,0.0,0.0,0.0,13.0,2.0,15.4,0.08,0.5,0.0,0.0,18
+2026-01-06,18:00 (14:00),Matchweek 19,Tue,Away,W,2.0,0.0,Lecce,49.0,Bryan Cristante,3-4-1-2,4-3-3,Juan Luca Sacchi,Match Report,Roma,10.0,3.0,30.0,0.2,0.67,0.0,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,19
+2026-01-10,18:00 (14:00),Matchweek 20,Sat,Home,W,2.0,0.0,Sassuolo,65.0,Gianluca Mancini,3-4-1-2,4-3-3,Matteo Marcenaro,Match Report,Roma,26.0,6.0,23.1,0.08,0.33,0.0,0.0,5.0,3.0,60.0,0.0,0.0,0.0,0.0,20
+2026-01-18,18:00 (14:00),Matchweek 21,Sun,Away,W,2.0,0.0,Torino,63.0,Bryan Cristante,3-4-3,3-1-4-2,Daniele Chiffi,Match Report,Roma,14.0,5.0,35.7,0.14,0.4,0.0,0.0,8.0,4.0,50.0,0.0,0.0,0.0,0.0,21
+2026-01-25,20:45 (16:45),Matchweek 22,Sun,Home,D,1.0,1.0,Milan,58.0,Bryan Cristante,3-4-3,3-5-2,Andrea Colombo,Match Report,Roma,15.0,7.0,46.7,0.0,0.0,1.0,1.0,5.0,2.0,40.0,0.2,0.5,0.0,0.0,22
+2026-02-02,20:45 (16:45),Matchweek 23,Mon,Away,L,0.0,1.0,Udinese,64.0,Bryan Cristante,3-4-3,3-4-3,Juan Luca Sacchi,Match Report,Roma,10.0,3.0,30.0,0.0,0.0,0.0,0.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,23
+2026-02-09,20:45 (16:45),Matchweek 24,Mon,Home,W,2.0,0.0,Cagliari,53.0,Bryan Cristante,3-4-3,3-5-2,Matteo Marcenaro,Match Report,Roma,15.0,5.0,33.3,0.13,0.4,0.0,0.0,3.0,1.0,33.3,0.0,0.0,0.0,0.0,24
+2026-02-15,20:45 (16:45),Matchweek 25,Sun,Away,D,2.0,2.0,Napoli,39.0,Bryan Cristante,3-4-3,3-4-3,Andrea Colombo,Match Report,Roma,9.0,2.0,22.2,0.11,0.5,1.0,1.0,11.0,7.0,63.6,0.18,0.29,0.0,0.0,25
+2026-02-22,20:45 (16:45),Matchweek 26,Sun,Home,W,3.0,0.0,Cremonese,58.0,Bryan Cristante,3-4-3,3-5-2,Marco Di Bello,Match Report,Roma,23.0,5.0,21.7,0.13,0.6,0.0,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,26
+2026-03-01,20:45 (16:45),Matchweek 27,Sun,Home,D,3.0,3.0,Juventus,47.0,Bryan Cristante,3-5-2,3-4-3,Simone Sozza,Match Report,Roma,11.0,5.0,45.5,0.27,0.6,0.0,0.0,13.0,5.0,38.5,0.23,0.6,0.0,0.0,27
+2026-03-08,18:00 (14:00),Matchweek 28,Sun,Away,L,1.0,2.0,Genoa,65.0,Lorenzo Pellegrini,3-4-3,3-4-3,Andrea Colombo,Match Report,Roma,8.0,1.0,12.5,0.13,1.0,0.0,0.0,11.0,5.0,45.5,0.09,0.2,1.0,1.0,28
+2026-03-15,18:00 (14:00),Matchweek 29,Sun,Away,L,1.0,2.0,Como,34.0,Bryan Cristante,3-4-3,3-4-3,Davide Massa,Match Report,Roma,3.0,1.0,33.3,0.0,0.0,1.0,1.0,22.0,7.0,31.8,0.09,0.29,0.0,0.0,29
+2026-03-22,18:00 (14:00),Matchweek 30,Sun,Home,W,1.0,0.0,Lecce,67.0,Bryan Cristante,3-4-3,4-2-3-1,Juan Luca Sacchi,Match Report,Roma,14.0,2.0,14.3,0.07,0.5,0.0,0.0,8.0,3.0,37.5,0.0,0.0,0.0,0.0,30
+2026-04-05,20:45 (15:45),Matchweek 31,Sun,Away,L,2.0,5.0,Inter,44.0,Bryan Cristante,3-4-3,3-5-2,Simone Sozza,Match Report,Roma,9.0,3.0,33.3,0.22,0.67,0.0,0.0,17.0,9.0,52.9,0.29,0.56,0.0,0.0,31
+2026-04-10,20:45 (15:45),Matchweek 32,Fri,Home,W,3.0,0.0,Pisa,59.0,Bryan Cristante,3-4-3,3-4-3,Ermanno Feliciani,Match Report,Roma,8.0,3.0,37.5,0.38,1.0,0.0,0.0,9.0,5.0,55.6,0.0,0.0,0.0,0.0,32
+2026-04-18,20:45 (15:45),Matchweek 33,Sat,Home,D,1.0,1.0,Atalanta,53.0,Bryan Cristante,3-4-3,3-4-3,Matteo Marcenaro,Match Report,Roma,19.0,9.0,47.4,0.05,0.11,0.0,0.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,33
+2026-04-25,18:00 (13:00),Matchweek 34,Sat,Away,W,2.0,0.0,Bologna,40.0,Gianluca Mancini,3-4-3,3-4-3,Marco Di Bello,Match Report,Roma,7.0,2.0,28.6,0.29,1.0,0.0,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,34
+2026-05-04,20:45 (15:45),Matchweek 35,Mon,Home,,,,Fiorentina,,,,,,Head-to-Head,Roma,,,,,,,,,,,,,,,35
+2026-05-10,18:00 (13:00),Matchweek 36,Sun,Away,,,,Parma,,,,,,Head-to-Head,Roma,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Home,,,,Lazio,,,,,,Head-to-Head,Roma,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Away,,,,Hellas Verona,,,,,,Head-to-Head,Roma,,,,,,,,,,,,,,,38
+2025-08-23,18:30 (13:30),Matchweek 1,Sat,Home,L,0.0,2.0,Napoli,38.0,Filippo Romagna,4-3-3,4-1-4-1,Giovanni Ayroldi,Match Report,Sassuolo,7.0,2.0,28.6,0.0,0.0,0.0,0.0,13.0,4.0,30.8,0.15,0.5,0.0,0.0,1
+2025-08-29,18:30 (13:30),Matchweek 2,Fri,Away,L,2.0,3.0,Cremonese,58.0,Domenico Berardi,4-3-3,3-5-2,Marco Guida,Match Report,Sassuolo,9.0,6.0,66.7,0.11,0.17,1.0,1.0,11.0,6.0,54.5,0.18,0.33,1.0,1.0,2
+2025-09-14,18:00 (13:00),Matchweek 3,Sun,Home,W,1.0,0.0,Lazio,41.0,Domenico Berardi,4-3-3,4-3-3,Paride Tremolada,Match Report,Sassuolo,10.0,3.0,30.0,0.1,0.33,0.0,0.0,13.0,3.0,23.1,0.0,0.0,0.0,0.0,3
+2025-09-21,20:45 (15:45),Matchweek 4,Sun,Away,L,1.0,2.0,Inter,39.0,Domenico Berardi,4-3-3,3-5-2,Livio Marinelli,Match Report,Sassuolo,9.0,5.0,55.6,0.11,0.2,0.0,0.0,20.0,6.0,30.0,0.05,0.17,0.0,0.0,4
+2025-09-28,12:30 (07:30),Matchweek 5,Sun,Home,W,3.0,1.0,Udinese,44.0,Domenico Berardi,4-3-3,3-5-2,Daniele Perenzoni,Match Report,Sassuolo,11.0,5.0,45.5,0.27,0.6,0.0,0.0,12.0,5.0,41.7,0.08,0.2,0.0,0.0,5
+2025-10-03,20:45 (15:45),Matchweek 6,Fri,Away,W,1.0,0.0,Hellas Verona,41.0,Nemanja Matić,4-3-3,3-1-4-2,Francesco Fourneau,Match Report,Sassuolo,11.0,3.0,27.3,0.09,0.33,0.0,1.0,17.0,9.0,52.9,0.0,0.0,0.0,0.0,6
+2025-10-18,15:00 (10:00),Matchweek 7,Sat,Away,D,0.0,0.0,Lecce,49.0,Filippo Romagna,4-3-3,4-3-3,Valerio Crezzini,Match Report,Sassuolo,9.0,2.0,22.2,0.0,0.0,0.0,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,7
+2025-10-26,15:00 (11:00),Matchweek 8,Sun,Home,L,0.0,1.0,Roma,41.0,Filippo Romagna,4-3-3,3-5-2,Gianluca Manganiello,Match Report,Sassuolo,11.0,1.0,9.1,0.0,0.0,0.0,0.0,15.0,8.0,53.3,0.07,0.13,0.0,0.0,8
+2025-10-30,18:30 (14:30),Matchweek 9,Thu,Away,W,2.0,1.0,Cagliari,55.0,Nemanja Matić,4-3-3,3-5-2,Luca Pairetto,Match Report,Sassuolo,12.0,4.0,33.3,0.17,0.5,0.0,0.0,8.0,1.0,12.5,0.13,1.0,0.0,0.0,9
+2025-11-03,18:30 (14:30),Matchweek 10,Mon,Home,L,1.0,2.0,Genoa,61.0,Domenico Berardi,4-3-3,3-5-2,Ermanno Feliciani,Match Report,Sassuolo,13.0,4.0,30.8,0.08,0.25,0.0,0.0,16.0,5.0,31.3,0.13,0.4,0.0,0.0,10
+2025-11-09,12:30 (08:30),Matchweek 11,Sun,Away,W,3.0,0.0,Atalanta,33.0,Domenico Berardi,4-3-3,3-4-3,Valerio Crezzini,Match Report,Sassuolo,8.0,4.0,50.0,0.25,0.5,1.0,1.0,14.0,2.0,14.3,0.0,0.0,0.0,0.0,11
+2025-11-24,20:45 (16:45),Matchweek 12,Mon,Home,D,2.0,2.0,Pisa,63.0,Domenico Berardi,4-3-3,4-4-2,Davide Di Marco,Match Report,Sassuolo,22.0,7.0,31.8,0.09,0.29,0.0,0.0,10.0,3.0,30.0,0.1,0.33,1.0,1.0,12
+2025-11-28,20:45 (16:45),Matchweek 13,Fri,Away,L,0.0,2.0,Como,37.0,Domenico Berardi,4-3-3,4-2-3-1,Matteo Marchetti,Match Report,Sassuolo,12.0,5.0,41.7,0.0,0.0,0.0,0.0,18.0,13.0,72.2,0.11,0.15,0.0,0.0,13
+2025-12-06,15:00 (11:00),Matchweek 14,Sat,Home,W,3.0,1.0,Fiorentina,40.0,Nemanja Matić,4-3-3,3-5-2,Luca Pairetto,Match Report,Sassuolo,13.0,5.0,38.5,0.23,0.6,0.0,0.0,9.0,1.0,11.1,0.0,0.0,1.0,1.0,14
+2025-12-14,12:30 (08:30),Matchweek 15,Sun,Away,D,2.0,2.0,Milan,41.0,Nemanja Matić,4-3-3,3-5-2,Valerio Crezzini,Match Report,Sassuolo,8.0,3.0,37.5,0.25,0.67,0.0,0.0,13.0,5.0,38.5,0.15,0.4,0.0,0.0,15
+2025-12-21,15:00 (11:00),Matchweek 16,Sun,Home,L,0.0,1.0,Torino,53.0,Nemanja Matić,4-3-3,3-5-2,Andrea Calzavara,Match Report,Sassuolo,7.0,1.0,14.3,0.0,0.0,0.0,0.0,10.0,5.0,50.0,0.0,0.0,1.0,1.0,16
+2025-12-28,18:00 (14:00),Matchweek 17,Sun,Away,D,1.0,1.0,Bologna,42.0,Nemanja Matić,4-3-3,4-2-3-1,Juan Luca Sacchi,Match Report,Sassuolo,8.0,5.0,62.5,0.13,0.2,0.0,0.0,16.0,6.0,37.5,0.06,0.17,0.0,0.0,17
+2026-01-03,15:00 (11:00),Matchweek 18,Sat,Home,D,1.0,1.0,Parma,53.0,Nemanja Matić,4-3-3,4-3-3,Ermanno Feliciani,Match Report,Sassuolo,11.0,3.0,27.3,0.09,0.33,0.0,0.0,16.0,5.0,31.3,0.06,0.2,0.0,0.0,18
+2026-01-06,20:45 (16:45),Matchweek 19,Tue,Home,L,0.0,3.0,Juventus,44.0,Nemanja Matić,4-3-3,3-4-3,Luca Zufferli,Match Report,Sassuolo,6.0,2.0,33.3,0.0,0.0,0.0,0.0,17.0,10.0,58.8,0.12,0.2,0.0,0.0,19
+2026-01-10,18:00 (14:00),Matchweek 20,Sat,Away,L,0.0,2.0,Roma,36.0,Nemanja Matić,4-3-3,3-4-1-2,Matteo Marcenaro,Match Report,Sassuolo,5.0,3.0,60.0,0.0,0.0,0.0,0.0,26.0,6.0,23.1,0.08,0.33,0.0,0.0,20
+2026-01-17,18:00 (14:00),Matchweek 21,Sat,Away,L,0.0,1.0,Napoli,47.0,Nemanja Matić,4-3-3,3-4-3,Francesco Fourneau,Match Report,Sassuolo,21.0,4.0,19.0,0.0,0.0,0.0,0.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,21
+2026-01-25,12:30 (08:30),Matchweek 22,Sun,Home,W,1.0,0.0,Cremonese,45.0,Nemanja Matić,4-3-3,3-5-2,Giuseppe Collu,Match Report,Sassuolo,13.0,7.0,53.8,0.08,0.14,0.0,0.0,10.0,4.0,40.0,0.0,0.0,0.0,0.0,22
+2026-01-31,15:00 (11:00),Matchweek 23,Sat,Away,W,3.0,1.0,Pisa,46.0,Domenico Berardi,4-3-3,3-4-3,Alberto Arena,Match Report,Sassuolo,21.0,5.0,23.8,0.1,0.4,0.0,0.0,15.0,6.0,40.0,0.07,0.17,0.0,0.0,23
+2026-02-08,18:00 (14:00),Matchweek 24,Sun,Home,L,0.0,5.0,Inter,38.0,Domenico Berardi,4-3-3,3-5-2,Daniele Chiffi,Match Report,Sassuolo,7.0,2.0,28.6,0.0,0.0,0.0,0.0,23.0,11.0,47.8,0.22,0.45,0.0,0.0,24
+2026-02-15,12:30 (08:30),Matchweek 25,Sun,Away,W,2.0,1.0,Udinese,49.0,Domenico Berardi,4-3-3,4-4-1-1,Maria Sole Ferrieri Caputi,Match Report,Sassuolo,10.0,3.0,30.0,0.2,0.67,0.0,0.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,25
+2026-02-20,20:45 (16:45),Matchweek 26,Fri,Home,W,3.0,0.0,Hellas Verona,47.0,Domenico Berardi,4-3-3,3-5-2,Livio Marinelli,Match Report,Sassuolo,8.0,4.0,50.0,0.38,0.75,0.0,1.0,12.0,1.0,8.3,0.0,0.0,0.0,0.0,26
+2026-03-01,15:00 (11:00),Matchweek 27,Sun,Home,W,2.0,1.0,Atalanta,24.0,Domenico Berardi,4-3-3,3-4-3,Matteo Marchetti,Match Report,Sassuolo,7.0,5.0,71.4,0.29,0.4,0.0,0.0,26.0,7.0,26.9,0.04,0.14,0.0,0.0,27
+2026-03-09,20:45 (16:45),Matchweek 28,Mon,Away,L,1.0,2.0,Lazio,50.0,Domenico Berardi,4-3-3,4-3-3,Alberto Arena,Match Report,Sassuolo,7.0,4.0,57.1,0.14,0.25,0.0,0.0,13.0,5.0,38.5,0.15,0.4,0.0,0.0,28
+2026-03-15,15:00 (11:00),Matchweek 29,Sun,Home,L,0.0,1.0,Bologna,54.0,Domenico Berardi,4-3-3,4-2-3-1,Kevin Bonacina,Match Report,Sassuolo,9.0,4.0,44.4,0.0,0.0,0.0,0.0,16.0,3.0,18.8,0.06,0.33,0.0,0.0,29
+2026-03-21,20:45 (16:45),Matchweek 30,Sat,Away,D,1.0,1.0,Juventus,35.0,Domenico Berardi,4-4-2,4-1-4-1,Matteo Marchetti,Match Report,Sassuolo,7.0,1.0,14.3,0.14,1.0,0.0,0.0,18.0,8.0,44.4,0.06,0.13,0.0,1.0,30
+2026-04-04,15:00 (10:00),Matchweek 31,Sat,Home,W,2.0,1.0,Cagliari,50.0,Domenico Berardi,4-2-3-1,3-5-2,Daniele Chiffi,Match Report,Sassuolo,9.0,2.0,22.2,0.22,1.0,0.0,0.0,11.0,3.0,27.3,0.0,0.0,1.0,1.0,31
+2026-04-12,12:30 (07:30),Matchweek 32,Sun,Away,L,1.0,2.0,Genoa,48.0,Domenico Berardi,4-3-3,3-4-3,Antonio Rapuano,Match Report,Sassuolo,15.0,6.0,40.0,0.07,0.17,0.0,0.0,14.0,7.0,50.0,0.14,0.29,0.0,0.0,32
+2026-04-17,18:30 (13:30),Matchweek 33,Fri,Home,W,2.0,1.0,Como,30.0,Nemanja Matić,4-3-3,4-2-3-1,Francesco Fourneau,Match Report,Sassuolo,12.0,4.0,33.3,0.17,0.5,0.0,0.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,33
+2026-04-26,12:30 (07:30),Matchweek 34,Sun,Away,D,0.0,0.0,Fiorentina,51.0,Nemanja Matić,4-3-3,4-3-3,Livio Marinelli,Match Report,Sassuolo,11.0,1.0,9.1,0.0,0.0,0.0,0.0,22.0,5.0,22.7,0.0,0.0,0.0,0.0,34
+2026-05-03,15:00 (10:00),Matchweek 35,Sun,Home,,,,Milan,,,,,,Head-to-Head,Sassuolo,,,,,,,,,,,,,,,35
+2026-05-08,20:45 (15:45),Matchweek 36,Fri,Away,,,,Torino,,,,,,Head-to-Head,Sassuolo,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Home,,,,Lecce,,,,,,Head-to-Head,Sassuolo,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Away,,,,Parma,,,,,,Head-to-Head,Sassuolo,,,,,,,,,,,,,,,38
+2025-08-25,20:45 (15:45),Matchweek 1,Mon,Away,L,0.0,5.0,Inter,40.0,Nikola Vlašić,4-3-3,3-5-2,Federico La Penna,Match Report,Torino,12.0,4.0,33.3,0.0,0.0,0.0,0.0,20.0,9.0,45.0,0.25,0.56,0.0,0.0,1
+2025-08-31,18:30 (13:30),Matchweek 2,Sun,Home,D,0.0,0.0,Fiorentina,45.0,Nikola Vlašić,4-3-3,3-4-1-2,Rosario Abisso,Match Report,Torino,7.0,4.0,57.1,0.0,0.0,0.0,0.0,16.0,4.0,25.0,0.0,0.0,0.0,0.0,2
+2025-09-14,12:30 (07:30),Matchweek 3,Sun,Away,W,1.0,0.0,Roma,27.0,Nikola Vlašić,3-4-3,3-4-1-2,Giovanni Ayroldi,Match Report,Torino,8.0,4.0,50.0,0.13,0.25,0.0,0.0,22.0,5.0,22.7,0.0,0.0,0.0,0.0,3
+2025-09-21,15:00 (10:00),Matchweek 4,Sun,Home,L,0.0,3.0,Atalanta,39.0,Nikola Vlašić,3-4-3,3-4-3,Andrea Colombo,Match Report,Torino,11.0,5.0,45.5,0.0,0.0,0.0,1.0,9.0,5.0,55.6,0.33,0.6,0.0,0.0,4
+2025-09-29,18:30 (13:30),Matchweek 5,Mon,Away,L,1.0,2.0,Parma,63.0,Nikola Vlašić,3-4-3,3-4-1-2,Giuseppe Collu,Match Report,Torino,15.0,4.0,26.7,0.07,0.25,0.0,0.0,13.0,2.0,15.4,0.08,0.5,1.0,1.0,5
+2025-10-04,15:00 (10:00),Matchweek 6,Sat,Away,D,3.0,3.0,Lazio,51.0,Nikola Vlašić,3-5-2,4-2-3-1,Marco Piccinini,Match Report,Torino,16.0,8.0,50.0,0.19,0.38,0.0,0.0,9.0,4.0,44.4,0.22,0.5,1.0,1.0,6
+2025-10-18,18:00 (13:00),Matchweek 7,Sat,Home,W,1.0,0.0,Napoli,31.0,Nikola Vlašić,5-3-2,4-1-4-1,Matteo Marcenaro,Match Report,Torino,12.0,2.0,16.7,0.08,0.5,0.0,0.0,22.0,5.0,22.7,0.0,0.0,0.0,0.0,7
+2025-10-26,12:30 (08:30),Matchweek 8,Sun,Home,W,2.0,1.0,Genoa,59.0,Nikola Vlašić,3-4-1-2,3-4-3,Kevin Bonacina,Match Report,Torino,13.0,6.0,46.2,0.08,0.17,0.0,0.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,8
+2025-10-29,20:45 (16:45),Matchweek 9,Wed,Away,D,0.0,0.0,Bologna,29.0,Guillermo Maripán,5-3-2,4-2-3-1,Giovanni Ayroldi,Match Report,Torino,8.0,2.0,25.0,0.0,0.0,0.0,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,9
+2025-11-02,15:00 (11:00),Matchweek 10,Sun,Home,D,2.0,2.0,Pisa,64.0,Nikola Vlašić,3-5-2,5-3-2,Alberto Arena,Match Report,Torino,15.0,3.0,20.0,0.13,0.67,0.0,0.0,11.0,3.0,27.3,0.09,0.33,1.0,1.0,10
+2025-11-08,18:00 (14:00),Matchweek 11,Sat,Away,D,0.0,0.0,Juventus,27.0,Nikola Vlašić,3-5-2,3-4-3,Luca Zufferli,Match Report,Torino,8.0,3.0,37.5,0.0,0.0,0.0,0.0,22.0,6.0,27.3,0.0,0.0,0.0,0.0,11
+2025-11-24,18:30 (14:30),Matchweek 12,Mon,Home,L,1.0,5.0,Como,35.0,Duván Zapata,3-5-2,4-2-3-1,Kevin Bonacina,Match Report,Torino,10.0,2.0,20.0,0.0,0.0,1.0,1.0,15.0,7.0,46.7,0.33,0.71,0.0,0.0,12
+2025-11-30,12:30 (08:30),Matchweek 13,Sun,Away,L,1.0,2.0,Lecce,52.0,Nikola Vlašić,3-5-2,4-2-3-1,Maurizio Mariani,Match Report,Torino,15.0,6.0,40.0,0.07,0.17,0.0,1.0,10.0,2.0,20.0,0.2,1.0,0.0,0.0,13
+2025-12-08,20:45 (16:45),Matchweek 14,Mon,Home,L,2.0,3.0,Milan,36.0,Duván Zapata,3-5-2,3-5-2,Daniele Chiffi,Match Report,Torino,8.0,4.0,50.0,0.13,0.25,1.0,1.0,17.0,6.0,35.3,0.18,0.5,0.0,0.0,14
+2025-12-13,15:00 (11:00),Matchweek 15,Sat,Home,W,1.0,0.0,Cremonese,46.0,Duván Zapata,3-4-1-2,3-5-2,Livio Marinelli,Match Report,Torino,18.0,6.0,33.3,0.06,0.17,0.0,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,15
+2025-12-21,15:00 (11:00),Matchweek 16,Sun,Away,W,1.0,0.0,Sassuolo,47.0,Duván Zapata,3-5-2,4-3-3,Andrea Calzavara,Match Report,Torino,10.0,5.0,50.0,0.0,0.0,1.0,1.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,16
+2025-12-27,15:00 (11:00),Matchweek 17,Sat,Home,L,1.0,2.0,Cagliari,56.0,Nikola Vlašić,3-4-1-2,3-5-1-1,Daniele Doveri,Match Report,Torino,19.0,10.0,52.6,0.05,0.1,0.0,0.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,17
+2026-01-04,18:00 (14:00),Matchweek 18,Sun,Away,W,3.0,0.0,Hellas Verona,52.0,Nikola Vlašić,3-5-2,3-4-3,Antonio Rapuano,Match Report,Torino,21.0,5.0,23.8,0.14,0.6,0.0,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,18
+2026-01-07,20:45 (16:45),Matchweek 19,Wed,Home,L,1.0,2.0,Udinese,54.0,Nikola Vlašić,3-5-2,4-4-2,Fabio Maresca,Match Report,Torino,10.0,4.0,40.0,0.1,0.25,0.0,0.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,19
+2026-01-10,20:45 (16:45),Matchweek 20,Sat,Away,L,0.0,2.0,Atalanta,44.0,Duván Zapata,3-5-2,3-4-3,Francesco Fourneau,Match Report,Torino,10.0,3.0,30.0,0.0,0.0,0.0,0.0,18.0,5.0,27.8,0.11,0.4,0.0,0.0,20
+2026-01-18,18:00 (14:00),Matchweek 21,Sun,Home,L,0.0,2.0,Roma,37.0,Nikola Vlašić,3-1-4-2,3-4-3,Daniele Chiffi,Match Report,Torino,8.0,4.0,50.0,0.0,0.0,0.0,0.0,14.0,5.0,35.7,0.14,0.4,0.0,0.0,21
+2026-01-24,15:00 (11:00),Matchweek 22,Sat,Away,L,0.0,6.0,Como,41.0,Nikola Vlašić,3-1-4-2,4-2-3-1,Ermanno Feliciani,Match Report,Torino,7.0,1.0,14.3,0.0,0.0,0.0,0.0,17.0,7.0,41.2,0.29,0.71,1.0,1.0,22
+2026-02-01,12:30 (08:30),Matchweek 23,Sun,Home,W,1.0,0.0,Lecce,42.0,Duván Zapata,3-5-2,4-2-3-1,Simone Sozza,Match Report,Torino,17.0,5.0,29.4,0.06,0.2,0.0,0.0,14.0,2.0,14.3,0.0,0.0,0.0,0.0,23
+2026-02-07,20:45 (16:45),Matchweek 24,Sat,Away,D,2.0,2.0,Fiorentina,45.0,Guillermo Maripán,3-5-2,4-3-2-1,Andrea Colombo,Match Report,Torino,12.0,4.0,33.3,0.17,0.5,0.0,0.0,21.0,5.0,23.8,0.1,0.4,0.0,0.0,24
+2026-02-15,18:00 (14:00),Matchweek 25,Sun,Home,L,1.0,2.0,Bologna,47.0,Nikola Vlašić,3-5-2,4-2-3-1,Francesco Fourneau,Match Report,Torino,7.0,2.0,28.6,0.14,0.5,0.0,0.0,14.0,6.0,42.9,0.14,0.33,0.0,0.0,25
+2026-02-22,12:30 (08:30),Matchweek 26,Sun,Away,L,0.0,3.0,Genoa,38.0,Nikola Vlašić,3-5-2,3-5-2,Marco Guida,Match Report,Torino,7.0,3.0,42.9,0.0,0.0,0.0,0.0,16.0,5.0,31.3,0.19,0.6,0.0,0.0,26
+2026-03-01,18:00 (14:00),Matchweek 27,Sun,Home,W,2.0,0.0,Lazio,45.0,Duván Zapata,3-4-1-2,4-3-3,Rosario Abisso,Match Report,Torino,13.0,5.0,38.5,0.15,0.4,0.0,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,27
+2026-03-06,20:45 (16:45),Matchweek 28,Fri,Away,L,1.0,2.0,Napoli,36.0,Duván Zapata,3-4-1-2,3-4-3,Michael Fabbri,Match Report,Torino,7.0,4.0,57.1,0.14,0.25,0.0,0.0,14.0,9.0,64.3,0.14,0.22,0.0,0.0,28
+2026-03-13,20:45 (16:45),Matchweek 29,Fri,Home,W,4.0,1.0,Parma,50.0,Nikola Vlašić,3-4-1-2,3-1-4-2,Fabio Maresca,Match Report,Torino,15.0,6.0,40.0,0.2,0.5,0.0,0.0,6.0,3.0,50.0,0.17,0.33,0.0,0.0,29
+2026-03-21,18:00 (14:00),Matchweek 30,Sat,Away,L,2.0,3.0,Milan,37.0,Duván Zapata,3-5-2,3-5-2,Francesco Fourneau,Match Report,Torino,18.0,7.0,38.9,0.06,0.14,1.0,1.0,15.0,6.0,40.0,0.2,0.5,0.0,0.0,30
+2026-04-05,18:00 (13:00),Matchweek 31,Sun,Away,W,1.0,0.0,Pisa,50.0,Nikola Vlašić,3-4-1-2,3-5-2,Luca Zufferli,Match Report,Torino,13.0,2.0,15.4,0.08,0.5,0.0,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,31
+2026-04-11,15:00 (10:00),Matchweek 32,Sat,Home,W,2.0,1.0,Hellas Verona,46.0,Nikola Vlašić,3-5-2,3-5-2,Kevin Bonacina,Match Report,Torino,11.0,2.0,18.2,0.18,1.0,0.0,0.0,18.0,4.0,22.2,0.06,0.25,0.0,0.0,32
+2026-04-19,12:30 (07:30),Matchweek 33,Sun,Away,D,0.0,0.0,Cremonese,35.0,Nikola Vlašić,3-4-1-2,4-4-2,Michael Fabbri,Match Report,Torino,4.0,1.0,25.0,0.0,0.0,0.0,0.0,14.0,4.0,28.6,0.0,0.0,0.0,0.0,33
+2026-04-26,18:00 (13:00),Matchweek 34,Sun,Home,D,2.0,2.0,Inter,37.0,Nikola Vlašić,3-4-3,3-5-2,Maurizio Mariani,Match Report,Torino,14.0,2.0,14.3,0.07,0.5,1.0,1.0,14.0,5.0,35.7,0.14,0.4,0.0,0.0,34
+2026-05-02,15:00 (10:00),Matchweek 35,Sat,Away,,,,Udinese,,,,,,Head-to-Head,Torino,,,,,,,,,,,,,,,35
+2026-05-08,20:45 (15:45),Matchweek 36,Fri,Home,,,,Sassuolo,,,,,,Head-to-Head,Torino,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Away,,,,Cagliari,,,,,,Head-to-Head,Torino,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Home,,,,Juventus,,,,,,Head-to-Head,Torino,,,,,,,,,,,,,,,38
+2025-08-25,18:30 (13:30),Matchweek 1,Mon,Home,D,1.0,1.0,Hellas Verona,63.0,Jesper Karlström,3-5-2,3-5-2,Paride Tremolada,Match Report,Udinese,14.0,4.0,28.6,0.07,0.25,0.0,0.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,1
+2025-08-31,20:45 (15:45),Matchweek 2,Sun,Away,W,2.0,1.0,Inter,32.0,Jesper Karlström,3-5-2,3-5-2,Matteo Marchetti,Match Report,Udinese,10.0,5.0,50.0,0.1,0.2,1.0,1.0,16.0,4.0,25.0,0.06,0.25,0.0,0.0,2
+2025-09-14,15:00 (10:00),Matchweek 3,Sun,Away,W,1.0,0.0,Pisa,49.0,Jesper Karlström,3-5-2,3-4-3,Davide Massa,Match Report,Udinese,13.0,3.0,23.1,0.08,0.33,0.0,0.0,12.0,2.0,16.7,0.0,0.0,0.0,0.0,3
+2025-09-20,20:45 (15:45),Matchweek 4,Sat,Home,L,0.0,3.0,Milan,40.0,Jesper Karlström,4-4-2,3-5-2,Daniele Doveri,Match Report,Udinese,10.0,4.0,40.0,0.0,0.0,0.0,0.0,13.0,6.0,46.2,0.23,0.5,0.0,0.0,4
+2025-09-28,12:30 (07:30),Matchweek 5,Sun,Away,L,1.0,3.0,Sassuolo,56.0,Jesper Karlström,3-5-2,4-3-3,Daniele Perenzoni,Match Report,Udinese,12.0,5.0,41.7,0.08,0.2,0.0,0.0,11.0,5.0,45.5,0.27,0.6,0.0,0.0,5
+2025-10-05,12:30 (07:30),Matchweek 6,Sun,Home,D,1.0,1.0,Cagliari,60.0,Jesper Karlström,3-5-2,3-5-2,Alberto Arena,Match Report,Udinese,23.0,4.0,17.4,0.04,0.25,0.0,0.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,6
+2025-10-20,20:45 (15:45),Matchweek 7,Mon,Away,D,1.0,1.0,Cremonese,48.0,Jesper Karlström,3-5-2,3-5-2,Michael Fabbri,Match Report,Udinese,8.0,1.0,12.5,0.13,1.0,0.0,0.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,7
+2025-10-25,15:00 (10:00),Matchweek 8,Sat,Home,W,3.0,2.0,Lecce,44.0,Jesper Karlström,3-5-2,4-2-3-1,Ermanno Feliciani,Match Report,Udinese,8.0,4.0,50.0,0.38,0.75,0.0,0.0,13.0,3.0,23.1,0.15,0.67,0.0,0.0,8
+2025-10-29,18:30 (14:30),Matchweek 9,Wed,Away,L,1.0,3.0,Juventus,43.0,Jesper Karlström,3-5-2,3-1-4-2,Marco Di Bello,Match Report,Udinese,8.0,2.0,25.0,0.13,0.5,0.0,0.0,25.0,11.0,44.0,0.04,0.09,2.0,2.0,9
+2025-11-01,15:00 (11:00),Matchweek 10,Sat,Home,W,1.0,0.0,Atalanta,40.0,Jesper Karlström,3-5-2,3-4-3,Michael Fabbri,Match Report,Udinese,11.0,5.0,45.5,0.09,0.2,0.0,0.0,5.0,0.0,0.0,0.0,,0.0,0.0,10
+2025-11-09,18:00 (14:00),Matchweek 11,Sun,Away,L,0.0,2.0,Roma,42.0,Jesper Karlström,3-5-2,3-4-3,Giuseppe Collu,Match Report,Udinese,10.0,4.0,40.0,0.0,0.0,0.0,0.0,13.0,4.0,30.8,0.08,0.25,1.0,1.0,11
+2025-11-22,15:00 (11:00),Matchweek 12,Sat,Home,L,0.0,3.0,Bologna,47.0,Jesper Karlström,3-5-1-1,4-2-3-1,Juan Luca Sacchi,Match Report,Udinese,12.0,3.0,25.0,0.0,0.0,0.0,0.0,10.0,5.0,50.0,0.3,0.6,0.0,1.0,12
+2025-11-29,15:00 (11:00),Matchweek 13,Sat,Away,W,2.0,0.0,Parma,49.0,Jesper Karlström,3-5-2,3-5-2,Marco Piccinini,Match Report,Udinese,14.0,5.0,35.7,0.07,0.2,1.0,1.0,17.0,2.0,11.8,0.0,0.0,0.0,0.0,13
+2025-12-08,18:00 (14:00),Matchweek 14,Mon,Home,L,1.0,2.0,Genoa,58.0,Jesper Karlström,3-5-2,3-5-2,Fabio Maresca,Match Report,Udinese,23.0,6.0,26.1,0.04,0.17,0.0,0.0,12.0,6.0,50.0,0.08,0.17,1.0,1.0,14
+2025-12-14,15:00 (11:00),Matchweek 15,Sun,Home,W,1.0,0.0,Napoli,38.0,Jesper Karlström,3-5-2,3-4-3,Simone Sozza,Match Report,Udinese,18.0,5.0,27.8,0.06,0.2,0.0,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,15
+2025-12-21,18:00 (14:00),Matchweek 16,Sun,Away,L,1.0,5.0,Fiorentina,37.0,Jesper Karlström,3-4-3,4-4-2,Maurizio Mariani,Match Report,Udinese,11.0,4.0,36.4,0.09,0.25,0.0,0.0,20.0,7.0,35.0,0.25,0.71,0.0,0.0,16
+2025-12-27,18:00 (14:00),Matchweek 17,Sat,Home,D,1.0,1.0,Lazio,46.0,Jesper Karlström,3-5-2,4-3-3,Andrea Colombo,Match Report,Udinese,15.0,4.0,26.7,0.07,0.25,0.0,0.0,14.0,2.0,14.3,0.0,0.0,0.0,0.0,17
+2026-01-03,12:30 (08:30),Matchweek 18,Sat,Away,L,0.0,1.0,Como,38.0,Jesper Karlström,3-5-2,4-3-3,Alberto Arena,Match Report,Udinese,3.0,0.0,0.0,0.0,,0.0,0.0,15.0,3.0,20.0,0.0,0.0,1.0,1.0,18
+2026-01-07,20:45 (16:45),Matchweek 19,Wed,Away,W,2.0,1.0,Torino,46.0,Jesper Karlström,4-4-2,3-5-2,Fabio Maresca,Match Report,Udinese,9.0,4.0,44.4,0.22,0.5,0.0,0.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,19
+2026-01-10,15:00 (11:00),Matchweek 20,Sat,Home,D,2.0,2.0,Pisa,54.0,Jesper Karlström,4-4-2,3-4-1-2,Giovanni Ayroldi,Match Report,Udinese,11.0,2.0,18.2,0.09,0.5,1.0,1.0,14.0,7.0,50.0,0.14,0.29,0.0,0.0,20
+2026-01-17,15:00 (11:00),Matchweek 21,Sat,Home,L,0.0,1.0,Inter,37.0,Jesper Karlström,3-4-3,3-5-2,Marco Di Bello,Match Report,Udinese,5.0,1.0,20.0,0.0,0.0,0.0,0.0,14.0,5.0,35.7,0.07,0.2,0.0,0.0,21
+2026-01-26,20:45 (16:45),Matchweek 22,Mon,Away,W,3.0,1.0,Hellas Verona,47.0,Jesper Karlström,3-4-3,3-4-3,Gianluca Manganiello,Match Report,Udinese,20.0,7.0,35.0,0.15,0.43,0.0,0.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,22
+2026-02-02,20:45 (16:45),Matchweek 23,Mon,Home,W,1.0,0.0,Roma,36.0,Jesper Karlström,3-4-3,3-4-3,Juan Luca Sacchi,Match Report,Udinese,7.0,4.0,57.1,0.14,0.25,0.0,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,23
+2026-02-08,15:00 (11:00),Matchweek 24,Sun,Away,L,1.0,2.0,Lecce,47.0,Jesper Karlström,3-4-3,4-2-3-1,Antonio Rapuano,Match Report,Udinese,6.0,1.0,16.7,0.0,0.0,1.0,1.0,16.0,5.0,31.3,0.13,0.4,0.0,0.0,24
+2026-02-15,12:30 (08:30),Matchweek 25,Sun,Home,L,1.0,2.0,Sassuolo,51.0,Jesper Karlström,4-4-1-1,4-3-3,Maria Sole Ferrieri Caputi,Match Report,Udinese,8.0,2.0,25.0,0.13,0.5,0.0,0.0,10.0,3.0,30.0,0.2,0.67,0.0,0.0,25
+2026-02-23,20:45 (16:45),Matchweek 26,Mon,Away,L,0.0,1.0,Bologna,54.0,Jesper Karlström,3-5-2,4-3-3,Matteo Marcenaro,Match Report,Udinese,10.0,3.0,30.0,0.0,0.0,0.0,0.0,11.0,6.0,54.5,0.0,0.0,1.0,1.0,26
+2026-03-02,20:45 (16:45),Matchweek 27,Mon,Home,W,3.0,0.0,Fiorentina,35.0,Jesper Karlström,3-5-2,3-5-1-1,Luca Pairetto,Match Report,Udinese,10.0,7.0,70.0,0.2,0.29,1.0,1.0,10.0,0.0,0.0,0.0,,0.0,0.0,27
+2026-03-07,18:00 (14:00),Matchweek 28,Sat,Away,D,2.0,2.0,Atalanta,32.0,Jesper Karlström,3-5-2,3-4-3,Antonio Rapuano,Match Report,Udinese,8.0,2.0,25.0,0.25,1.0,0.0,0.0,22.0,4.0,18.2,0.09,0.5,0.0,0.0,28
+2026-03-14,20:45 (16:45),Matchweek 29,Sat,Home,L,0.0,1.0,Juventus,45.0,Jesper Karlström,3-1-4-2,3-4-3,Maurizio Mariani,Match Report,Udinese,10.0,2.0,20.0,0.0,0.0,0.0,0.0,22.0,8.0,36.4,0.05,0.13,0.0,0.0,29
+2026-03-20,20:45 (16:45),Matchweek 30,Fri,Away,W,2.0,0.0,Genoa,38.0,Jesper Karlström,3-1-4-2,3-4-3,Giuseppe Collu,Match Report,Udinese,6.0,4.0,66.7,0.33,0.5,0.0,0.0,18.0,2.0,11.1,0.0,0.0,0.0,0.0,30
+2026-04-06,12:30 (07:30),Matchweek 31,Mon,Home,D,0.0,0.0,Como,49.0,Jesper Karlström,3-4-3,4-2-3-1,Fabio Maresca,Match Report,Udinese,14.0,4.0,28.6,0.0,0.0,0.0,0.0,12.0,4.0,33.3,0.0,0.0,0.0,0.0,31
+2026-04-11,18:00 (13:00),Matchweek 32,Sat,Away,W,3.0,0.0,Milan,37.0,Jesper Karlström,5-4-1,4-3-3,Matteo Marchetti,Match Report,Udinese,12.0,6.0,50.0,0.17,0.33,0.0,0.0,20.0,3.0,15.0,0.0,0.0,0.0,0.0,32
+2026-04-18,15:00 (10:00),Matchweek 33,Sat,Home,L,0.0,1.0,Parma,57.0,Jesper Karlström,3-4-1-2,3-4-3,Davide Di Marco,Match Report,Udinese,16.0,3.0,18.8,0.0,0.0,0.0,0.0,10.0,1.0,10.0,0.1,1.0,0.0,0.0,33
+2026-04-27,20:45 (15:45),Matchweek 34,Mon,Away,,,,Lazio,,,,,,Head-to-Head,Udinese,,,,,,,,,,,,,,,34
+2026-05-02,15:00 (10:00),Matchweek 35,Sat,Home,,,,Torino,,,,,,Head-to-Head,Udinese,,,,,,,,,,,,,,,35
+2026-05-09,15:00 (10:00),Matchweek 36,Sat,Away,,,,Cagliari,,,,,,Head-to-Head,Udinese,,,,,,,,,,,,,,,36
+2026-05-17,,Matchweek 37,Sun,Home,,,,Cremonese,,,,,,Head-to-Head,Udinese,,,,,,,,,,,,,,,37
+2026-05-24,,Matchweek 38,Sun,Away,,,,Napoli,,,,,,Head-to-Head,Udinese,,,,,,,,,,,,,,,38

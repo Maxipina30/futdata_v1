@@ -1,0 +1,679 @@
+date,time,round,day,venue,result,gf,ga,opponent,gls,sh,sot,sotpct,g_per_sh,g_per_sot,pk,pkatt,unnamed__17_level_0_match_report,team,table_side
+2025-08-16,21:30 (16:30),Matchweek 1,Sat,Home,W,2.0,1.0,Levante,2.0,15.0,4.0,26.7,0.13,0.5,0.0,0.0,,Alavés,for
+2025-08-22,21:30 (16:30),Matchweek 2,Fri,Away,L,0.0,1.0,Real Betis,0.0,11.0,5.0,45.5,0.0,0.0,0.0,0.0,,Alavés,for
+2025-08-30,17:00 (12:00),Matchweek 3,Sat,Home,D,1.0,1.0,Atlético Madrid,1.0,5.0,2.0,40.0,0.0,0.0,1.0,1.0,,Alavés,for
+2025-09-13,18:30 (13:30),Matchweek 4,Sat,Away,W,1.0,0.0,Athletic Club,0.0,4.0,2.0,50.0,0.0,0.0,0.0,0.0,,Alavés,for
+2025-09-20,18:30 (13:30),Matchweek 5,Sat,Home,L,1.0,2.0,Sevilla,1.0,8.0,5.0,62.5,0.0,0.0,1.0,1.0,,Alavés,for
+2025-09-24,19:00 (14:00),Matchweek 6,Wed,Away,D,1.0,1.0,Getafe,1.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,,Alavés,for
+2025-09-27,18:30 (13:30),Matchweek 7,Sat,Away,L,0.0,1.0,Mallorca,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,,Alavés,for
+2025-10-05,14:00 (09:00),Matchweek 8,Sun,Home,W,3.0,1.0,Elche,3.0,25.0,5.0,20.0,0.08,0.4,1.0,1.0,,Alavés,for
+2025-10-20,21:00 (16:00),Matchweek 9,Mon,Home,D,0.0,0.0,Valencia,0.0,13.0,3.0,23.1,0.0,0.0,0.0,0.0,,Alavés,for
+2025-10-26,21:00 (17:00),Matchweek 10,Sun,Away,L,0.0,1.0,Rayo Vallecano,0.0,12.0,2.0,16.7,0.0,0.0,0.0,0.0,,Alavés,for
+2025-11-02,16:15 (12:15),Matchweek 11,Sun,Home,W,2.0,1.0,Espanyol,2.0,13.0,4.0,30.8,0.15,0.5,0.0,0.0,,Alavés,for
+2025-11-08,14:00 (10:00),Matchweek 12,Sat,Away,L,0.0,1.0,Girona,0.0,14.0,5.0,35.7,0.0,0.0,0.0,0.0,,Alavés,for
+2025-11-22,14:00 (10:00),Matchweek 13,Sat,Home,L,0.0,1.0,Celta Vigo,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,,Alavés,for
+2025-11-29,16:15 (12:15),Matchweek 14,Sat,Away,L,1.0,3.0,Barcelona,1.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,,Alavés,for
+2025-12-06,16:15 (12:15),Matchweek 15,Sat,Home,W,1.0,0.0,Real Sociedad,1.0,14.0,3.0,21.4,0.0,0.0,1.0,1.0,,Alavés,for
+2025-12-14,21:00 (17:00),Matchweek 16,Sun,Home,L,1.0,2.0,Real Madrid,1.0,6.0,2.0,33.3,0.17,0.5,0.0,0.0,,Alavés,for
+2025-12-20,18:30 (14:30),Matchweek 17,Sat,Away,L,0.0,3.0,Osasuna,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,,Alavés,for
+2026-01-04,18:30 (14:30),Matchweek 18,Sun,Home,D,1.0,1.0,Oviedo,1.0,18.0,7.0,38.9,0.06,0.14,0.0,0.0,,Alavés,for
+2026-01-10,16:15 (12:15),Matchweek 19,Sat,Away,L,1.0,3.0,Villarreal,1.0,16.0,5.0,31.3,0.06,0.2,0.0,0.0,,Alavés,for
+2026-01-18,16:15 (12:15),Matchweek 20,Sun,Away,L,0.0,1.0,Atlético Madrid,0.0,8.0,0.0,0.0,0.0,,0.0,0.0,,Alavés,for
+2026-01-25,21:00 (17:00),Matchweek 21,Sun,Home,W,2.0,1.0,Real Betis,2.0,17.0,9.0,52.9,0.12,0.22,0.0,0.0,,Alavés,for
+2026-01-30,21:00 (17:00),Matchweek 22,Fri,Away,W,2.0,1.0,Espanyol,2.0,11.0,7.0,63.6,0.18,0.29,0.0,0.0,,Alavés,for
+2026-02-08,14:00 (10:00),Matchweek 23,Sun,Home,L,0.0,2.0,Getafe,0.0,13.0,5.0,38.5,0.0,0.0,0.0,0.0,,Alavés,for
+2026-02-14,18:30 (14:30),Matchweek 24,Sat,Away,D,1.0,1.0,Sevilla,1.0,12.0,1.0,8.3,0.08,1.0,0.0,0.0,,Alavés,for
+2026-02-23,21:00 (17:00),Matchweek 25,Mon,Home,D,2.0,2.0,Girona,2.0,17.0,6.0,35.3,0.12,0.33,0.0,0.0,,Alavés,for
+2026-02-27,21:00 (17:00),Matchweek 26,Fri,Away,L,0.0,2.0,Levante,0.0,17.0,7.0,41.2,0.0,0.0,0.0,0.0,,Alavés,for
+2026-03-08,21:00 (17:00),Matchweek 27,Sun,Away,L,2.0,3.0,Valencia,2.0,10.0,4.0,40.0,0.1,0.25,1.0,1.0,,Alavés,for
+2026-03-13,21:00 (17:00),Matchweek 28,Fri,Home,D,1.0,1.0,Villarreal,0.0,8.0,0.0,0.0,0.0,,0.0,0.0,,Alavés,for
+2026-03-22,16:15 (12:15),Matchweek 29,Sun,Away,W,4.0,3.0,Celta Vigo,4.0,14.0,6.0,42.9,0.29,0.67,0.0,0.0,,Alavés,for
+2026-04-05,21:00 (16:00),Matchweek 30,Sun,Home,D,2.0,2.0,Osasuna,2.0,18.0,6.0,33.3,0.06,0.17,1.0,1.0,,Alavés,for
+2026-04-11,14:00 (09:00),Matchweek 31,Sat,Away,D,3.0,3.0,Real Sociedad,2.0,12.0,2.0,16.7,0.17,1.0,0.0,0.0,,Alavés,for
+2026-04-21,21:30 (16:30),Matchweek 33,Tue,Away,L,1.0,2.0,Real Madrid,1.0,19.0,5.0,26.3,0.05,0.2,0.0,0.0,,Alavés,for
+2026-04-25,14:00 (09:00),Matchweek 32,Sat,Home,W,2.0,1.0,Mallorca,2.0,15.0,4.0,26.7,0.13,0.5,0.0,0.0,,Alavés,for
+For Alavés,For Alavés,For Alavés,For Alavés,For Alavés,For Alavés,,,For Alavés,,,,,,,,,,Alavés,for
+2025-08-17,19:30 (14:30),Matchweek 1,Sun,Home,W,3.0,2.0,Sevilla,3.0,14.0,3.0,21.4,0.14,0.67,1.0,1.0,,Athletic Club,for
+2025-08-25,19:30 (14:30),Matchweek 2,Mon,Home,W,1.0,0.0,Rayo Vallecano,1.0,11.0,4.0,36.4,0.0,0.0,1.0,1.0,,Athletic Club,for
+2025-08-31,19:00 (14:00),Matchweek 3,Sun,Away,W,2.0,1.0,Real Betis,1.0,15.0,6.0,40.0,0.07,0.17,0.0,0.0,,Athletic Club,for
+2025-09-13,18:30 (13:30),Matchweek 4,Sat,Home,L,0.0,1.0,Alavés,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,,Athletic Club,for
+2025-09-20,21:00 (16:00),Matchweek 5,Sat,Away,L,0.0,2.0,Valencia,0.0,11.0,5.0,45.5,0.0,0.0,0.0,0.0,,Athletic Club,for
+2025-09-23,19:00 (14:00),Matchweek 6,Tue,Home,D,1.0,1.0,Girona,1.0,17.0,5.0,29.4,0.06,0.2,0.0,0.0,,Athletic Club,for
+2025-09-27,21:00 (16:00),Matchweek 7,Sat,Away,L,0.0,1.0,Villarreal,0.0,16.0,4.0,25.0,0.0,0.0,0.0,0.0,,Athletic Club,for
+2025-10-04,18:30 (13:30),Matchweek 8,Sat,Home,W,2.0,1.0,Mallorca,2.0,18.0,5.0,27.8,0.06,0.2,1.0,1.0,,Athletic Club,for
+2025-10-19,14:00 (09:00),Matchweek 9,Sun,Away,D,0.0,0.0,Elche,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,,Athletic Club,for
+2025-10-25,18:30 (13:30),Matchweek 10,Sat,Home,L,0.0,1.0,Getafe,0.0,7.0,4.0,57.1,0.0,0.0,0.0,0.0,,Athletic Club,for
+2025-11-01,18:30 (14:30),Matchweek 11,Sat,Away,L,2.0,3.0,Real Sociedad,2.0,11.0,4.0,36.4,0.18,0.5,0.0,0.0,,Athletic Club,for
+2025-11-09,14:00 (10:00),Matchweek 12,Sun,Home,W,1.0,0.0,Oviedo,1.0,21.0,7.0,33.3,0.05,0.14,0.0,0.0,,Athletic Club,for
+2025-11-22,16:15 (12:15),Matchweek 13,Sat,Away,L,0.0,4.0,Barcelona,0.0,13.0,2.0,15.4,0.0,0.0,0.0,0.0,,Athletic Club,for
+2025-11-29,18:30 (14:30),Matchweek 14,Sat,Away,W,2.0,0.0,Levante,2.0,14.0,4.0,28.6,0.14,0.5,0.0,0.0,,Athletic Club,for
+2025-12-03,19:00 (15:00),Matchweek 19,Wed,Home,L,0.0,3.0,Real Madrid,0.0,9.0,4.0,44.4,0.0,0.0,0.0,0.0,,Athletic Club,for
+2025-12-06,21:00 (17:00),Matchweek 15,Sat,Home,W,1.0,0.0,Atlético Madrid,1.0,14.0,3.0,21.4,0.07,0.33,0.0,0.0,,Athletic Club,for
+2025-12-14,16:15 (12:15),Matchweek 16,Sun,Away,L,0.0,2.0,Celta Vigo,0.0,14.0,2.0,14.3,0.0,0.0,0.0,1.0,,Athletic Club,for
+2025-12-22,21:00 (17:00),Matchweek 17,Mon,Home,L,1.0,2.0,Espanyol,1.0,17.0,7.0,41.2,0.06,0.14,0.0,0.0,,Athletic Club,for
+2026-01-03,16:15 (12:15),Matchweek 18,Sat,Away,D,1.0,1.0,Osasuna,1.0,16.0,6.0,37.5,0.06,0.17,0.0,0.0,,Athletic Club,for
+2026-01-17,16:15 (12:15),Matchweek 20,Sat,Away,L,2.0,3.0,Mallorca,2.0,21.0,11.0,52.4,0.1,0.18,0.0,0.0,,Athletic Club,for
+2026-01-24,18:30 (14:30),Matchweek 21,Sat,Away,L,1.0,2.0,Sevilla,1.0,15.0,3.0,20.0,0.07,0.33,0.0,0.0,,Athletic Club,for
+2026-02-01,21:00 (17:00),Matchweek 22,Sun,Home,D,1.0,1.0,Real Sociedad,1.0,19.0,4.0,21.1,0.05,0.25,0.0,0.0,,Athletic Club,for
+2026-02-08,16:15 (12:15),Matchweek 23,Sun,Home,W,4.0,2.0,Levante,4.0,22.0,7.0,31.8,0.18,0.57,0.0,0.0,,Athletic Club,for
+2026-02-15,14:00 (10:00),Matchweek 24,Sun,Away,W,2.0,1.0,Oviedo,2.0,13.0,4.0,30.8,0.08,0.25,1.0,1.0,,Athletic Club,for
+2026-02-20,21:00 (17:00),Matchweek 25,Fri,Home,W,2.0,1.0,Elche,2.0,18.0,8.0,44.4,0.06,0.13,1.0,1.0,,Athletic Club,for
+2026-02-28,14:00 (10:00),Matchweek 26,Sat,Away,D,1.0,1.0,Rayo Vallecano,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Athletic Club,for
+2026-03-07,21:00 (17:00),Matchweek 27,Sat,Home,L,0.0,1.0,Barcelona,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,,Athletic Club,for
+2026-03-14,14:00 (10:00),Matchweek 28,Sat,Away,L,0.0,3.0,Girona,0.0,20.0,9.0,45.0,0.0,0.0,0.0,0.0,,Athletic Club,for
+2026-03-22,18:30 (14:30),Matchweek 29,Sun,Home,W,2.0,1.0,Real Betis,2.0,11.0,6.0,54.5,0.18,0.33,0.0,0.0,,Athletic Club,for
+2026-04-05,14:00 (09:00),Matchweek 30,Sun,Away,L,0.0,2.0,Getafe,0.0,5.0,0.0,0.0,0.0,,0.0,0.0,,Athletic Club,for
+2026-04-12,21:00 (16:00),Matchweek 31,Sun,Home,L,1.0,2.0,Villarreal,1.0,18.0,6.0,33.3,0.06,0.17,0.0,0.0,,Athletic Club,for
+2026-04-21,19:00 (14:00),Matchweek 33,Tue,Home,W,1.0,0.0,Osasuna,1.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,,Athletic Club,for
+2026-04-25,21:00 (16:00),Matchweek 32,Sat,Away,L,2.0,3.0,Atlético Madrid,2.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,,Athletic Club,for
+For Athletic Club,For Athletic Club,For Athletic Club,For Athletic Club,For Athletic Club,For Athletic Club,,,For Athletic Club,,,,,,,,,,Athletic Club,for
+2025-08-17,21:30 (16:30),Matchweek 1,Sun,Away,L,1.0,2.0,Espanyol,1.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,,Atlético Madrid,for
+2025-08-23,19:30 (14:30),Matchweek 2,Sat,Home,D,1.0,1.0,Elche,1.0,13.0,6.0,46.2,0.08,0.17,0.0,0.0,,Atlético Madrid,for
+2025-08-30,17:00 (12:00),Matchweek 3,Sat,Away,D,1.0,1.0,Alavés,1.0,15.0,6.0,40.0,0.07,0.17,0.0,0.0,,Atlético Madrid,for
+2025-09-13,21:00 (16:00),Matchweek 4,Sat,Home,W,2.0,0.0,Villarreal,2.0,8.0,3.0,37.5,0.25,0.67,0.0,0.0,,Atlético Madrid,for
+2025-09-21,16:15 (11:15),Matchweek 5,Sun,Away,D,1.0,1.0,Mallorca,1.0,12.0,7.0,58.3,0.08,0.14,0.0,1.0,,Atlético Madrid,for
+2025-09-24,21:30 (16:30),Matchweek 6,Wed,Home,W,3.0,2.0,Rayo Vallecano,3.0,20.0,8.0,40.0,0.15,0.38,0.0,0.0,,Atlético Madrid,for
+2025-09-27,16:15 (11:15),Matchweek 7,Sat,Home,W,5.0,2.0,Real Madrid,5.0,13.0,7.0,53.8,0.31,0.57,1.0,1.0,,Atlético Madrid,for
+2025-10-05,21:00 (16:00),Matchweek 8,Sun,Away,D,1.0,1.0,Celta Vigo,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,,Atlético Madrid,for
+2025-10-18,21:00 (16:00),Matchweek 9,Sat,Home,W,1.0,0.0,Osasuna,1.0,18.0,9.0,50.0,0.06,0.11,0.0,0.0,,Atlético Madrid,for
+2025-10-27,21:00 (17:00),Matchweek 10,Mon,Away,W,2.0,0.0,Real Betis,2.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,,Atlético Madrid,for
+2025-11-01,16:15 (12:15),Matchweek 11,Sat,Home,W,3.0,0.0,Sevilla,3.0,15.0,6.0,40.0,0.13,0.33,1.0,1.0,,Atlético Madrid,for
+2025-11-08,18:30 (14:30),Matchweek 12,Sat,Home,W,3.0,1.0,Levante,2.0,25.0,10.0,40.0,0.08,0.2,0.0,0.0,,Atlético Madrid,for
+2025-11-23,18:30 (14:30),Matchweek 13,Sun,Away,W,1.0,0.0,Getafe,0.0,13.0,6.0,46.2,0.0,0.0,0.0,0.0,,Atlético Madrid,for
+2025-11-29,21:00 (17:00),Matchweek 14,Sat,Home,W,2.0,0.0,Oviedo,2.0,14.0,8.0,57.1,0.14,0.25,0.0,0.0,,Atlético Madrid,for
+2025-12-02,21:00 (17:00),Matchweek 19,Tue,Away,L,1.0,3.0,Barcelona,1.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,,Atlético Madrid,for
+2025-12-06,21:00 (17:00),Matchweek 15,Sat,Away,L,0.0,1.0,Athletic Club,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,,Atlético Madrid,for
+2025-12-13,14:00 (10:00),Matchweek 16,Sat,Home,W,2.0,1.0,Valencia,2.0,10.0,6.0,60.0,0.2,0.33,0.0,0.0,,Atlético Madrid,for
+2025-12-21,14:00 (10:00),Matchweek 17,Sun,Away,W,3.0,0.0,Girona,3.0,14.0,6.0,42.9,0.21,0.5,0.0,0.0,,Atlético Madrid,for
+2026-01-04,21:00 (17:00),Matchweek 18,Sun,Away,D,1.0,1.0,Real Sociedad,1.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,,Atlético Madrid,for
+2026-01-18,16:15 (12:15),Matchweek 20,Sun,Home,W,1.0,0.0,Alavés,1.0,23.0,6.0,26.1,0.04,0.17,0.0,0.0,,Atlético Madrid,for
+2026-01-25,14:00 (10:00),Matchweek 21,Sun,Home,W,3.0,0.0,Mallorca,2.0,17.0,8.0,47.1,0.12,0.25,0.0,0.0,,Atlético Madrid,for
+2026-01-31,18:30 (14:30),Matchweek 22,Sat,Away,D,0.0,0.0,Levante,0.0,10.0,4.0,40.0,0.0,0.0,0.0,0.0,,Atlético Madrid,for
+2026-02-08,18:30 (14:30),Matchweek 23,Sun,Home,L,0.0,1.0,Real Betis,0.0,10.0,5.0,50.0,0.0,0.0,0.0,0.0,,Atlético Madrid,for
+2026-02-15,16:15 (12:15),Matchweek 24,Sun,Away,L,0.0,3.0,Rayo Vallecano,0.0,9.0,4.0,44.4,0.0,0.0,0.0,0.0,,Atlético Madrid,for
+2026-02-21,21:00 (17:00),Matchweek 25,Sat,Home,W,4.0,2.0,Espanyol,4.0,18.0,9.0,50.0,0.22,0.44,0.0,0.0,,Atlético Madrid,for
+2026-02-28,21:00 (17:00),Matchweek 26,Sat,Away,W,1.0,0.0,Oviedo,1.0,12.0,1.0,8.3,0.08,1.0,0.0,0.0,,Atlético Madrid,for
+2026-03-07,18:30 (14:30),Matchweek 27,Sat,Home,W,3.0,2.0,Real Sociedad,3.0,24.0,9.0,37.5,0.13,0.33,0.0,0.0,,Atlético Madrid,for
+2026-03-14,16:15 (12:15),Matchweek 28,Sat,Home,W,1.0,0.0,Getafe,1.0,16.0,5.0,31.3,0.06,0.2,0.0,0.0,,Atlético Madrid,for
+2026-03-22,21:00 (17:00),Matchweek 29,Sun,Away,L,2.0,3.0,Real Madrid,2.0,13.0,7.0,53.8,0.15,0.29,0.0,0.0,,Atlético Madrid,for
+2026-04-04,21:00 (16:00),Matchweek 30,Sat,Home,L,1.0,2.0,Barcelona,1.0,6.0,2.0,33.3,0.17,0.5,0.0,0.0,,Atlético Madrid,for
+2026-04-11,21:00 (16:00),Matchweek 31,Sat,Away,L,1.0,2.0,Sevilla,1.0,13.0,2.0,15.4,0.08,0.5,0.0,0.0,,Atlético Madrid,for
+2026-04-22,19:00 (14:00),Matchweek 33,Wed,Away,L,2.0,3.0,Elche,2.0,6.0,3.0,50.0,0.33,0.67,0.0,0.0,,Atlético Madrid,for
+2026-04-25,21:00 (16:00),Matchweek 32,Sat,Home,W,3.0,2.0,Athletic Club,3.0,6.0,4.0,66.7,0.5,0.75,0.0,0.0,,Atlético Madrid,for
+For Atlético Madrid,For Atlético Madrid,For Atlético Madrid,For Atlético Madrid,For Atlético Madrid,For Atlético Madrid,,,For Atlético Madrid,,,,,,,,,,Atlético Madrid,for
+2025-08-16,19:30 (14:30),Matchweek 1,Sat,Away,W,3.0,0.0,Mallorca,3.0,24.0,8.0,33.3,0.13,0.38,0.0,0.0,,Barcelona,for
+2025-08-23,21:30 (16:30),Matchweek 2,Sat,Away,W,3.0,2.0,Levante,2.0,26.0,10.0,38.5,0.08,0.2,0.0,0.0,,Barcelona,for
+2025-08-31,21:30 (16:30),Matchweek 3,Sun,Away,D,1.0,1.0,Rayo Vallecano,1.0,12.0,3.0,25.0,0.0,0.0,1.0,1.0,,Barcelona,for
+2025-09-14,21:00 (16:00),Matchweek 4,Sun,Home,W,6.0,0.0,Valencia,6.0,24.0,10.0,41.7,0.25,0.6,0.0,0.0,,Barcelona,for
+2025-09-21,21:00 (16:00),Matchweek 5,Sun,Home,W,3.0,0.0,Getafe,3.0,16.0,7.0,43.8,0.19,0.43,0.0,0.0,,Barcelona,for
+2025-09-25,21:30 (16:30),Matchweek 6,Thu,Away,W,3.0,1.0,Oviedo,3.0,22.0,10.0,45.5,0.14,0.3,0.0,0.0,,Barcelona,for
+2025-09-28,18:30 (13:30),Matchweek 7,Sun,Home,W,2.0,1.0,Real Sociedad,2.0,22.0,12.0,54.5,0.09,0.17,0.0,0.0,,Barcelona,for
+2025-10-05,16:15 (11:15),Matchweek 8,Sun,Away,L,1.0,4.0,Sevilla,1.0,17.0,8.0,47.1,0.06,0.13,0.0,1.0,,Barcelona,for
+2025-10-18,16:15 (11:15),Matchweek 9,Sat,Home,W,2.0,1.0,Girona,2.0,27.0,9.0,33.3,0.07,0.22,0.0,0.0,,Barcelona,for
+2025-10-26,16:15 (12:15),Matchweek 10,Sun,Away,L,1.0,2.0,Real Madrid,1.0,15.0,6.0,40.0,0.07,0.17,0.0,0.0,,Barcelona,for
+2025-11-02,18:30 (14:30),Matchweek 11,Sun,Home,W,3.0,1.0,Elche,3.0,17.0,5.0,29.4,0.18,0.6,0.0,0.0,,Barcelona,for
+2025-11-09,21:00 (17:00),Matchweek 12,Sun,Away,W,4.0,2.0,Celta Vigo,4.0,21.0,9.0,42.9,0.14,0.33,1.0,1.0,,Barcelona,for
+2025-11-22,16:15 (12:15),Matchweek 13,Sat,Home,W,4.0,0.0,Athletic Club,4.0,19.0,7.0,36.8,0.21,0.57,0.0,0.0,,Barcelona,for
+2025-11-29,16:15 (12:15),Matchweek 14,Sat,Home,W,3.0,1.0,Alavés,3.0,18.0,6.0,33.3,0.17,0.5,0.0,0.0,,Barcelona,for
+2025-12-02,21:00 (17:00),Matchweek 19,Tue,Home,W,3.0,1.0,Atlético Madrid,3.0,19.0,6.0,31.6,0.16,0.5,0.0,1.0,,Barcelona,for
+2025-12-06,18:30 (14:30),Matchweek 15,Sat,Away,W,5.0,3.0,Real Betis,5.0,16.0,8.0,50.0,0.25,0.5,1.0,1.0,,Barcelona,for
+2025-12-13,18:30 (14:30),Matchweek 16,Sat,Home,W,2.0,0.0,Osasuna,2.0,24.0,7.0,29.2,0.08,0.29,0.0,0.0,,Barcelona,for
+2025-12-21,16:15 (12:15),Matchweek 17,Sun,Away,W,2.0,0.0,Villarreal,2.0,19.0,5.0,26.3,0.05,0.2,1.0,1.0,,Barcelona,for
+2026-01-03,21:00 (17:00),Matchweek 18,Sat,Away,W,2.0,0.0,Espanyol,2.0,15.0,6.0,40.0,0.13,0.33,0.0,0.0,,Barcelona,for
+2026-01-18,21:00 (17:00),Matchweek 20,Sun,Away,L,1.0,2.0,Real Sociedad,1.0,25.0,9.0,36.0,0.04,0.11,0.0,0.0,,Barcelona,for
+2026-01-25,16:15 (12:15),Matchweek 21,Sun,Home,W,3.0,0.0,Oviedo,3.0,15.0,7.0,46.7,0.2,0.43,0.0,0.0,,Barcelona,for
+2026-01-31,21:00 (17:00),Matchweek 22,Sat,Away,W,3.0,1.0,Elche,3.0,30.0,8.0,26.7,0.1,0.38,0.0,0.0,,Barcelona,for
+2026-02-07,16:15 (12:15),Matchweek 23,Sat,Home,W,3.0,0.0,Mallorca,3.0,24.0,7.0,29.2,0.13,0.43,0.0,0.0,,Barcelona,for
+2026-02-16,21:00 (17:00),Matchweek 24,Mon,Away,L,1.0,2.0,Girona,1.0,27.0,4.0,14.8,0.04,0.25,0.0,1.0,,Barcelona,for
+2026-02-22,16:15 (12:15),Matchweek 25,Sun,Home,W,3.0,0.0,Levante,3.0,22.0,9.0,40.9,0.14,0.33,0.0,0.0,,Barcelona,for
+2026-02-28,16:15 (12:15),Matchweek 26,Sat,Home,W,4.0,1.0,Villarreal,4.0,19.0,8.0,42.1,0.21,0.5,0.0,0.0,,Barcelona,for
+2026-03-07,21:00 (17:00),Matchweek 27,Sat,Away,W,1.0,0.0,Athletic Club,1.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,,Barcelona,for
+2026-03-15,16:15 (12:15),Matchweek 28,Sun,Home,W,5.0,2.0,Sevilla,5.0,13.0,8.0,61.5,0.23,0.38,2.0,2.0,,Barcelona,for
+2026-03-22,14:00 (10:00),Matchweek 29,Sun,Home,W,1.0,0.0,Rayo Vallecano,1.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,,Barcelona,for
+2026-04-04,21:00 (16:00),Matchweek 30,Sat,Away,W,2.0,1.0,Atlético Madrid,2.0,22.0,8.0,36.4,0.09,0.25,0.0,0.0,,Barcelona,for
+2026-04-11,18:30 (13:30),Matchweek 31,Sat,Home,W,4.0,1.0,Espanyol,4.0,20.0,10.0,50.0,0.2,0.4,0.0,0.0,,Barcelona,for
+2026-04-22,21:30 (16:30),Matchweek 33,Wed,Home,W,1.0,0.0,Celta Vigo,1.0,10.0,3.0,30.0,0.0,0.0,1.0,1.0,,Barcelona,for
+2026-04-25,16:15 (11:15),Matchweek 32,Sat,Away,W,2.0,0.0,Getafe,2.0,13.0,4.0,30.8,0.15,0.5,0.0,0.0,,Barcelona,for
+For Barcelona,For Barcelona,For Barcelona,For Barcelona,For Barcelona,For Barcelona,,,For Barcelona,,,,,,,,,,Barcelona,for
+2025-08-17,17:00 (12:00),Matchweek 1,Sun,Home,L,0.0,2.0,Getafe,0.0,11.0,3.0,27.3,0.0,0.0,0.0,0.0,,Celta Vigo,for
+2025-08-23,17:00 (12:00),Matchweek 2,Sat,Away,D,1.0,1.0,Mallorca,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Celta Vigo,for
+2025-08-27,21:00 (16:00),Matchweek 6,Wed,Home,D,1.0,1.0,Real Betis,1.0,14.0,5.0,35.7,0.07,0.2,0.0,0.0,,Celta Vigo,for
+2025-08-31,17:00 (12:00),Matchweek 3,Sun,Home,D,1.0,1.0,Villarreal,1.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,,Celta Vigo,for
+2025-09-14,14:00 (09:00),Matchweek 4,Sun,Home,D,1.0,1.0,Girona,1.0,21.0,7.0,33.3,0.0,0.0,1.0,1.0,,Celta Vigo,for
+2025-09-21,14:00 (09:00),Matchweek 5,Sun,Away,D,1.0,1.0,Rayo Vallecano,1.0,9.0,5.0,55.6,0.11,0.2,0.0,0.0,,Celta Vigo,for
+2025-09-28,16:15 (11:15),Matchweek 7,Sun,Away,L,1.0,2.0,Elche,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Celta Vigo,for
+2025-10-05,21:00 (16:00),Matchweek 8,Sun,Home,D,1.0,1.0,Atlético Madrid,1.0,18.0,4.0,22.2,0.06,0.25,0.0,0.0,,Celta Vigo,for
+2025-10-19,16:15 (11:15),Matchweek 9,Sun,Home,D,1.0,1.0,Real Sociedad,1.0,4.0,1.0,25.0,0.25,1.0,0.0,0.0,,Celta Vigo,for
+2025-10-26,18:30 (14:30),Matchweek 10,Sun,Away,W,3.0,2.0,Osasuna,3.0,11.0,5.0,45.5,0.27,0.6,0.0,0.0,,Celta Vigo,for
+2025-11-02,14:00 (10:00),Matchweek 11,Sun,Away,W,2.0,1.0,Levante,2.0,20.0,6.0,30.0,0.1,0.33,0.0,0.0,,Celta Vigo,for
+2025-11-09,21:00 (17:00),Matchweek 12,Sun,Home,L,2.0,4.0,Barcelona,2.0,5.0,3.0,60.0,0.4,0.67,0.0,0.0,,Celta Vigo,for
+2025-11-22,14:00 (10:00),Matchweek 13,Sat,Away,W,1.0,0.0,Alavés,1.0,7.0,4.0,57.1,0.0,0.0,1.0,1.0,,Celta Vigo,for
+2025-11-30,18:30 (14:30),Matchweek 14,Sun,Home,L,0.0,1.0,Espanyol,0.0,11.0,4.0,36.4,0.0,0.0,0.0,0.0,,Celta Vigo,for
+2025-12-07,21:00 (17:00),Matchweek 15,Sun,Away,W,2.0,0.0,Real Madrid,2.0,7.0,5.0,71.4,0.29,0.4,0.0,0.0,,Celta Vigo,for
+2025-12-14,16:15 (12:15),Matchweek 16,Sun,Home,W,2.0,0.0,Athletic Club,2.0,5.0,2.0,40.0,0.4,1.0,0.0,0.0,,Celta Vigo,for
+2025-12-20,14:00 (10:00),Matchweek 17,Sat,Away,D,0.0,0.0,Oviedo,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,,Celta Vigo,for
+2026-01-03,14:00 (10:00),Matchweek 18,Sat,Home,W,4.0,1.0,Valencia,4.0,12.0,6.0,50.0,0.25,0.5,1.0,1.0,,Celta Vigo,for
+2026-01-12,21:00 (17:00),Matchweek 19,Mon,Away,W,1.0,0.0,Sevilla,1.0,9.0,7.0,77.8,0.0,0.0,1.0,1.0,,Celta Vigo,for
+2026-01-18,18:30 (14:30),Matchweek 20,Sun,Home,W,3.0,0.0,Rayo Vallecano,3.0,11.0,7.0,63.6,0.18,0.29,1.0,1.0,,Celta Vigo,for
+2026-01-25,18:30 (14:30),Matchweek 21,Sun,Away,L,1.0,3.0,Real Sociedad,1.0,17.0,4.0,23.5,0.06,0.25,0.0,0.0,,Celta Vigo,for
+2026-02-01,18:30 (14:30),Matchweek 22,Sun,Away,D,0.0,0.0,Getafe,0.0,5.0,1.0,20.0,0.0,0.0,0.0,0.0,,Celta Vigo,for
+2026-02-06,21:00 (17:00),Matchweek 23,Fri,Home,L,1.0,2.0,Osasuna,1.0,18.0,4.0,22.2,0.0,0.0,1.0,1.0,,Celta Vigo,for
+2026-02-14,14:00 (10:00),Matchweek 24,Sat,Away,D,2.0,2.0,Espanyol,2.0,14.0,5.0,35.7,0.14,0.4,0.0,0.0,,Celta Vigo,for
+2026-02-22,18:30 (14:30),Matchweek 25,Sun,Home,W,2.0,0.0,Mallorca,2.0,20.0,7.0,35.0,0.05,0.14,1.0,1.0,,Celta Vigo,for
+2026-03-01,21:00 (17:00),Matchweek 26,Sun,Away,W,2.0,1.0,Girona,1.0,6.0,5.0,83.3,0.17,0.2,0.0,0.0,,Celta Vigo,for
+2026-03-06,21:00 (17:00),Matchweek 27,Fri,Home,L,1.0,2.0,Real Madrid,1.0,8.0,4.0,50.0,0.13,0.25,0.0,0.0,,Celta Vigo,for
+2026-03-15,18:30 (14:30),Matchweek 28,Sun,Away,D,1.0,1.0,Real Betis,1.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,,Celta Vigo,for
+2026-03-22,16:15 (12:15),Matchweek 29,Sun,Home,L,3.0,4.0,Alavés,3.0,12.0,5.0,41.7,0.25,0.6,0.0,0.0,,Celta Vigo,for
+2026-04-05,16:15 (11:15),Matchweek 30,Sun,Away,W,3.0,2.0,Valencia,3.0,9.0,5.0,55.6,0.33,0.6,0.0,0.0,,Celta Vigo,for
+2026-04-12,18:30 (13:30),Matchweek 31,Sun,Home,L,0.0,3.0,Oviedo,0.0,9.0,6.0,66.7,0.0,0.0,0.0,0.0,,Celta Vigo,for
+2026-04-22,21:30 (16:30),Matchweek 33,Wed,Away,L,0.0,1.0,Barcelona,0.0,6.0,3.0,50.0,0.0,0.0,0.0,0.0,,Celta Vigo,for
+2026-04-26,21:00 (16:00),Matchweek 32,Sun,Away,L,1.0,2.0,Villarreal,1.0,9.0,3.0,33.3,0.0,0.0,1.0,1.0,,Celta Vigo,for
+For Celta Vigo,For Celta Vigo,For Celta Vigo,For Celta Vigo,For Celta Vigo,For Celta Vigo,,,For Celta Vigo,,,,,,,,,,Celta Vigo,for
+2025-08-18,21:00 (16:00),Matchweek 1,Mon,Home,D,1.0,1.0,Real Betis,1.0,6.0,2.0,33.3,0.17,0.5,0.0,0.0,,Elche,for
+2025-08-23,19:30 (14:30),Matchweek 2,Sat,Away,D,1.0,1.0,Atlético Madrid,1.0,6.0,2.0,33.3,0.17,0.5,0.0,0.0,,Elche,for
+2025-08-29,19:30 (14:30),Matchweek 3,Fri,Home,W,2.0,0.0,Levante,2.0,16.0,5.0,31.3,0.13,0.4,0.0,0.0,,Elche,for
+2025-09-12,21:00 (16:00),Matchweek 4,Fri,Away,D,2.0,2.0,Sevilla,2.0,5.0,2.0,40.0,0.4,1.0,0.0,0.0,,Elche,for
+2025-09-21,18:30 (13:30),Matchweek 5,Sun,Home,W,1.0,0.0,Oviedo,1.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,,Elche,for
+2025-09-25,19:30 (14:30),Matchweek 6,Thu,Away,D,1.0,1.0,Osasuna,1.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,,Elche,for
+2025-09-28,16:15 (11:15),Matchweek 7,Sun,Home,W,2.0,1.0,Celta Vigo,2.0,17.0,8.0,47.1,0.12,0.25,0.0,1.0,,Elche,for
+2025-10-05,14:00 (09:00),Matchweek 8,Sun,Away,L,1.0,3.0,Alavés,1.0,6.0,3.0,50.0,0.17,0.33,0.0,0.0,,Elche,for
+2025-10-19,14:00 (09:00),Matchweek 9,Sun,Home,D,0.0,0.0,Athletic Club,0.0,15.0,5.0,33.3,0.0,0.0,0.0,0.0,,Elche,for
+2025-10-25,16:15 (11:15),Matchweek 10,Sat,Away,L,0.0,1.0,Espanyol,0.0,13.0,4.0,30.8,0.0,0.0,0.0,0.0,,Elche,for
+2025-11-02,18:30 (14:30),Matchweek 11,Sun,Away,L,1.0,3.0,Barcelona,1.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,,Elche,for
+2025-11-07,21:00 (17:00),Matchweek 12,Fri,Home,D,1.0,1.0,Real Sociedad,1.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,,Elche,for
+2025-11-23,21:00 (17:00),Matchweek 13,Sun,Home,D,2.0,2.0,Real Madrid,2.0,15.0,6.0,40.0,0.13,0.33,0.0,0.0,,Elche,for
+2025-11-28,21:00 (17:00),Matchweek 14,Fri,Away,L,0.0,1.0,Getafe,0.0,9.0,4.0,44.4,0.0,0.0,0.0,0.0,,Elche,for
+2025-12-07,14:00 (10:00),Matchweek 15,Sun,Home,W,3.0,0.0,Girona,3.0,11.0,6.0,54.5,0.27,0.5,0.0,0.0,,Elche,for
+2025-12-13,16:15 (12:15),Matchweek 16,Sat,Away,L,1.0,3.0,Mallorca,0.0,9.0,0.0,0.0,0.0,,0.0,0.0,,Elche,for
+2025-12-21,18:30 (14:30),Matchweek 17,Sun,Home,W,4.0,0.0,Rayo Vallecano,4.0,18.0,6.0,33.3,0.22,0.67,0.0,0.0,,Elche,for
+2026-01-03,18:30 (14:30),Matchweek 18,Sat,Home,L,1.0,3.0,Villarreal,1.0,15.0,2.0,13.3,0.07,0.5,0.0,0.0,,Elche,for
+2026-01-10,21:00 (17:00),Matchweek 19,Sat,Away,D,1.0,1.0,Valencia,1.0,5.0,1.0,20.0,0.2,1.0,0.0,0.0,,Elche,for
+2026-01-19,21:00 (17:00),Matchweek 20,Mon,Home,D,2.0,2.0,Sevilla,2.0,10.0,5.0,50.0,0.2,0.4,0.0,0.0,,Elche,for
+2026-01-23,21:00 (17:00),Matchweek 21,Fri,Away,L,2.0,3.0,Levante,2.0,6.0,3.0,50.0,0.33,0.67,0.0,0.0,,Elche,for
+2026-01-31,21:00 (17:00),Matchweek 22,Sat,Home,L,1.0,3.0,Barcelona,1.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,,Elche,for
+2026-02-07,21:00 (17:00),Matchweek 23,Sat,Away,L,1.0,3.0,Real Sociedad,1.0,11.0,5.0,45.5,0.09,0.2,0.0,0.0,,Elche,for
+2026-02-13,21:00 (17:00),Matchweek 24,Fri,Home,D,0.0,0.0,Osasuna,0.0,17.0,5.0,29.4,0.0,0.0,0.0,0.0,,Elche,for
+2026-02-20,21:00 (17:00),Matchweek 25,Fri,Away,L,1.0,2.0,Athletic Club,1.0,2.0,2.0,100.0,0.0,0.0,1.0,1.0,,Elche,for
+2026-03-01,14:00 (10:00),Matchweek 26,Sun,Home,D,2.0,2.0,Espanyol,2.0,17.0,9.0,52.9,0.06,0.11,1.0,1.0,,Elche,for
+2026-03-08,14:00 (10:00),Matchweek 27,Sun,Away,L,1.0,2.0,Villarreal,1.0,13.0,6.0,46.2,0.08,0.17,0.0,0.0,,Elche,for
+2026-03-14,21:00 (17:00),Matchweek 28,Sat,Away,L,1.0,4.0,Real Madrid,0.0,11.0,1.0,9.1,0.0,0.0,0.0,0.0,,Elche,for
+2026-03-21,14:00 (10:00),Matchweek 29,Sat,Home,W,2.0,1.0,Mallorca,2.0,13.0,4.0,30.8,0.15,0.5,0.0,0.0,,Elche,for
+2026-04-03,21:00 (16:00),Matchweek 30,Fri,Away,L,0.0,1.0,Rayo Vallecano,0.0,9.0,4.0,44.4,0.0,0.0,0.0,0.0,,Elche,for
+2026-04-11,16:15 (11:15),Matchweek 31,Sat,Home,W,1.0,0.0,Valencia,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Elche,for
+2026-04-22,19:00 (14:00),Matchweek 33,Wed,Home,W,3.0,2.0,Atlético Madrid,3.0,14.0,6.0,42.9,0.14,0.33,1.0,1.0,,Elche,for
+2026-04-26,16:15 (11:15),Matchweek 32,Sun,Away,W,2.0,1.0,Oviedo,2.0,4.0,4.0,100.0,0.5,0.5,0.0,0.0,,Elche,for
+For Elche,For Elche,For Elche,For Elche,For Elche,For Elche,,,For Elche,,,,,,,,,,Elche,for
+2025-08-17,21:30 (16:30),Matchweek 1,Sun,Home,W,2.0,1.0,Atlético Madrid,2.0,9.0,5.0,55.6,0.22,0.4,0.0,0.0,,Espanyol,for
+2025-08-24,19:30 (14:30),Matchweek 2,Sun,Away,D,2.0,2.0,Real Sociedad,2.0,14.0,3.0,21.4,0.07,0.33,1.0,1.0,,Espanyol,for
+2025-08-31,19:30 (14:30),Matchweek 3,Sun,Home,W,1.0,0.0,Osasuna,1.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,,Espanyol,for
+2025-09-15,21:00 (16:00),Matchweek 4,Mon,Home,W,3.0,2.0,Mallorca,3.0,9.0,3.0,33.3,0.22,0.67,1.0,1.0,,Espanyol,for
+2025-09-20,16:15 (11:15),Matchweek 5,Sat,Away,L,0.0,2.0,Real Madrid,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,,Espanyol,for
+2025-09-23,19:00 (14:00),Matchweek 6,Tue,Home,D,2.0,2.0,Valencia,2.0,21.0,10.0,47.6,0.1,0.2,0.0,0.0,,Espanyol,for
+2025-09-26,21:00 (16:00),Matchweek 7,Fri,Away,D,0.0,0.0,Girona,0.0,20.0,5.0,25.0,0.0,0.0,0.0,0.0,,Espanyol,for
+2025-10-05,18:30 (13:30),Matchweek 8,Sun,Home,L,1.0,2.0,Real Betis,1.0,14.0,5.0,35.7,0.07,0.2,0.0,1.0,,Espanyol,for
+2025-10-17,21:00 (16:00),Matchweek 9,Fri,Away,W,2.0,0.0,Oviedo,2.0,19.0,10.0,52.6,0.11,0.2,0.0,0.0,,Espanyol,for
+2025-10-25,16:15 (11:15),Matchweek 10,Sat,Home,W,1.0,0.0,Elche,1.0,16.0,7.0,43.8,0.06,0.14,0.0,0.0,,Espanyol,for
+2025-11-02,16:15 (12:15),Matchweek 11,Sun,Away,L,1.0,2.0,Alavés,1.0,18.0,2.0,11.1,0.06,0.5,0.0,0.0,,Espanyol,for
+2025-11-08,21:00 (17:00),Matchweek 12,Sat,Home,L,0.0,2.0,Villarreal,0.0,14.0,3.0,21.4,0.0,0.0,0.0,0.0,,Espanyol,for
+2025-11-24,21:00 (17:00),Matchweek 13,Mon,Home,W,2.0,1.0,Sevilla,2.0,8.0,5.0,62.5,0.25,0.4,0.0,0.0,,Espanyol,for
+2025-11-30,18:30 (14:30),Matchweek 14,Sun,Away,W,1.0,0.0,Celta Vigo,1.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,,Espanyol,for
+2025-12-07,18:30 (14:30),Matchweek 15,Sun,Home,W,1.0,0.0,Rayo Vallecano,1.0,9.0,2.0,22.2,0.0,0.0,1.0,1.0,,Espanyol,for
+2025-12-13,21:00 (17:00),Matchweek 16,Sat,Away,W,1.0,0.0,Getafe,1.0,6.0,4.0,66.7,0.17,0.25,0.0,0.0,,Espanyol,for
+2025-12-22,21:00 (17:00),Matchweek 17,Mon,Away,W,2.0,1.0,Athletic Club,2.0,10.0,5.0,50.0,0.2,0.4,0.0,0.0,,Espanyol,for
+2026-01-03,21:00 (17:00),Matchweek 18,Sat,Home,L,0.0,2.0,Barcelona,0.0,14.0,7.0,50.0,0.0,0.0,0.0,0.0,,Espanyol,for
+2026-01-11,16:15 (12:15),Matchweek 19,Sun,Away,D,1.0,1.0,Levante,1.0,19.0,3.0,15.8,0.05,0.33,0.0,0.0,,Espanyol,for
+2026-01-16,21:00 (17:00),Matchweek 20,Fri,Home,L,0.0,2.0,Girona,0.0,14.0,2.0,14.3,0.0,0.0,0.0,0.0,,Espanyol,for
+2026-01-24,16:15 (12:15),Matchweek 21,Sat,Away,L,2.0,3.0,Valencia,1.0,16.0,6.0,37.5,0.06,0.17,0.0,0.0,,Espanyol,for
+2026-01-30,21:00 (17:00),Matchweek 22,Fri,Home,L,1.0,2.0,Alavés,1.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,,Espanyol,for
+2026-02-09,21:00 (17:00),Matchweek 23,Mon,Away,L,1.0,4.0,Villarreal,1.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,,Espanyol,for
+2026-02-14,14:00 (10:00),Matchweek 24,Sat,Home,D,2.0,2.0,Celta Vigo,2.0,9.0,3.0,33.3,0.22,0.67,0.0,0.0,,Espanyol,for
+2026-02-21,21:00 (17:00),Matchweek 25,Sat,Away,L,2.0,4.0,Atlético Madrid,2.0,8.0,2.0,25.0,0.25,1.0,0.0,0.0,,Espanyol,for
+2026-03-01,14:00 (10:00),Matchweek 26,Sun,Away,D,2.0,2.0,Elche,2.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,,Espanyol,for
+2026-03-09,21:00 (17:00),Matchweek 27,Mon,Home,D,1.0,1.0,Oviedo,1.0,28.0,9.0,32.1,0.04,0.11,0.0,0.0,,Espanyol,for
+2026-03-15,14:00 (10:00),Matchweek 28,Sun,Away,L,1.0,2.0,Mallorca,1.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,,Espanyol,for
+2026-03-21,16:15 (12:15),Matchweek 29,Sat,Home,L,1.0,2.0,Getafe,1.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,,Espanyol,for
+2026-04-04,18:30 (13:30),Matchweek 30,Sat,Away,D,0.0,0.0,Real Betis,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,,Espanyol,for
+2026-04-11,18:30 (13:30),Matchweek 31,Sat,Away,L,1.0,4.0,Barcelona,1.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,,Espanyol,for
+2026-04-23,20:00 (15:00),Matchweek 33,Thu,Away,L,0.0,1.0,Rayo Vallecano,0.0,15.0,4.0,26.7,0.0,0.0,0.0,1.0,,Espanyol,for
+For Espanyol,For Espanyol,For Espanyol,For Espanyol,For Espanyol,For Espanyol,,,For Espanyol,,,,,,,,,,Espanyol,for
+2025-08-17,17:00 (12:00),Matchweek 1,Sun,Away,W,2.0,0.0,Celta Vigo,2.0,10.0,3.0,30.0,0.2,0.67,0.0,0.0,,Getafe,for
+2025-08-25,21:30 (16:30),Matchweek 2,Mon,Away,W,2.0,1.0,Sevilla,2.0,8.0,6.0,75.0,0.25,0.33,0.0,0.0,,Getafe,for
+2025-08-29,21:30 (16:30),Matchweek 3,Fri,Away,L,0.0,3.0,Valencia,0.0,11.0,1.0,9.1,0.0,0.0,0.0,0.0,,Getafe,for
+2025-09-13,14:00 (09:00),Matchweek 4,Sat,Home,W,2.0,0.0,Oviedo,2.0,10.0,3.0,30.0,0.2,0.67,0.0,0.0,,Getafe,for
+2025-09-21,21:00 (16:00),Matchweek 5,Sun,Away,L,0.0,3.0,Barcelona,0.0,3.0,2.0,66.7,0.0,0.0,0.0,0.0,,Getafe,for
+2025-09-24,19:00 (14:00),Matchweek 6,Wed,Home,D,1.0,1.0,Alavés,1.0,7.0,1.0,14.3,0.14,1.0,0.0,0.0,,Getafe,for
+2025-09-27,14:00 (09:00),Matchweek 7,Sat,Home,D,1.0,1.0,Levante,1.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,,Getafe,for
+2025-10-03,21:00 (16:00),Matchweek 8,Fri,Away,L,1.0,2.0,Osasuna,1.0,6.0,2.0,33.3,0.17,0.5,0.0,0.0,,Getafe,for
+2025-10-19,21:00 (16:00),Matchweek 9,Sun,Home,L,0.0,1.0,Real Madrid,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,,Getafe,for
+2025-10-25,18:30 (13:30),Matchweek 10,Sat,Away,W,1.0,0.0,Athletic Club,1.0,8.0,3.0,37.5,0.13,0.33,0.0,0.0,,Getafe,for
+2025-10-31,21:00 (17:00),Matchweek 11,Fri,Home,W,2.0,1.0,Girona,2.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,,Getafe,for
+2025-11-09,18:30 (14:30),Matchweek 12,Sun,Away,L,0.0,1.0,Mallorca,0.0,14.0,3.0,21.4,0.0,0.0,0.0,0.0,,Getafe,for
+2025-11-23,18:30 (14:30),Matchweek 13,Sun,Home,L,0.0,1.0,Atlético Madrid,0.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,,Getafe,for
+2025-11-28,21:00 (17:00),Matchweek 14,Fri,Home,W,1.0,0.0,Elche,1.0,15.0,6.0,40.0,0.07,0.17,0.0,0.0,,Getafe,for
+2025-12-06,14:00 (10:00),Matchweek 15,Sat,Away,L,0.0,2.0,Villarreal,0.0,6.0,0.0,0.0,0.0,,0.0,0.0,,Getafe,for
+2025-12-13,21:00 (17:00),Matchweek 16,Sat,Home,L,0.0,1.0,Espanyol,0.0,11.0,1.0,9.1,0.0,0.0,0.0,0.0,,Getafe,for
+2025-12-21,21:00 (17:00),Matchweek 17,Sun,Away,L,0.0,4.0,Real Betis,0.0,15.0,3.0,20.0,0.0,0.0,0.0,1.0,,Getafe,for
+2026-01-02,21:00 (17:00),Matchweek 18,Fri,Away,D,1.0,1.0,Rayo Vallecano,1.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,,Getafe,for
+2026-01-09,21:00 (17:00),Matchweek 19,Fri,Home,L,1.0,2.0,Real Sociedad,1.0,6.0,3.0,50.0,0.17,0.33,0.0,0.0,,Getafe,for
+2026-01-18,14:00 (10:00),Matchweek 20,Sun,Home,L,0.0,1.0,Valencia,0.0,14.0,3.0,21.4,0.0,0.0,0.0,0.0,,Getafe,for
+2026-01-26,21:00 (17:00),Matchweek 21,Mon,Away,D,1.0,1.0,Girona,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Getafe,for
+2026-02-01,18:30 (14:30),Matchweek 22,Sun,Home,D,0.0,0.0,Celta Vigo,0.0,9.0,2.0,22.2,0.0,0.0,0.0,0.0,,Getafe,for
+2026-02-08,14:00 (10:00),Matchweek 23,Sun,Away,W,2.0,0.0,Alavés,2.0,17.0,5.0,29.4,0.06,0.2,1.0,1.0,,Getafe,for
+2026-02-14,16:15 (12:15),Matchweek 24,Sat,Home,W,2.0,1.0,Villarreal,2.0,5.0,2.0,40.0,0.2,0.5,1.0,1.0,,Getafe,for
+2026-02-22,14:00 (10:00),Matchweek 25,Sun,Home,L,0.0,1.0,Sevilla,0.0,6.0,3.0,50.0,0.0,0.0,0.0,0.0,,Getafe,for
+2026-03-02,21:00 (17:00),Matchweek 26,Mon,Away,W,1.0,0.0,Real Madrid,1.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,,Getafe,for
+2026-03-08,16:15 (12:15),Matchweek 27,Sun,Home,W,2.0,0.0,Real Betis,2.0,9.0,5.0,55.6,0.22,0.4,0.0,0.0,,Getafe,for
+2026-03-14,16:15 (12:15),Matchweek 28,Sat,Away,L,0.0,1.0,Atlético Madrid,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,,Getafe,for
+2026-03-21,16:15 (12:15),Matchweek 29,Sat,Away,W,2.0,1.0,Espanyol,2.0,10.0,5.0,50.0,0.2,0.4,0.0,0.0,,Getafe,for
+2026-04-05,14:00 (09:00),Matchweek 30,Sun,Home,W,2.0,0.0,Athletic Club,2.0,10.0,6.0,60.0,0.2,0.33,0.0,0.0,,Getafe,for
+2026-04-13,21:00 (16:00),Matchweek 31,Mon,Away,L,0.0,1.0,Levante,0.0,5.0,1.0,20.0,0.0,0.0,0.0,0.0,,Getafe,for
+2026-04-22,20:00 (15:00),Matchweek 33,Wed,Away,W,1.0,0.0,Real Sociedad,0.0,5.0,0.0,0.0,0.0,,0.0,0.0,,Getafe,for
+2026-04-25,16:15 (11:15),Matchweek 32,Sat,Home,L,0.0,2.0,Barcelona,0.0,4.0,0.0,0.0,0.0,,0.0,0.0,,Getafe,for
+For Getafe,For Getafe,For Getafe,For Getafe,For Getafe,For Getafe,,,For Getafe,,,,,,,,,,Getafe,for
+2025-08-15,19:00 (14:00),Matchweek 1,Fri,Home,L,1.0,3.0,Rayo Vallecano,1.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,,Girona,for
+2025-08-24,19:30 (14:30),Matchweek 2,Sun,Away,L,0.0,5.0,Villarreal,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,,Girona,for
+2025-08-30,19:30 (14:30),Matchweek 3,Sat,Home,L,0.0,2.0,Sevilla,0.0,20.0,5.0,25.0,0.0,0.0,0.0,0.0,,Girona,for
+2025-09-14,14:00 (09:00),Matchweek 4,Sun,Away,D,1.0,1.0,Celta Vigo,1.0,13.0,8.0,61.5,0.08,0.13,0.0,0.0,,Girona,for
+2025-09-20,14:00 (09:00),Matchweek 5,Sat,Home,L,0.0,4.0,Levante,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,,Girona,for
+2025-09-23,19:00 (14:00),Matchweek 6,Tue,Away,D,1.0,1.0,Athletic Club,1.0,6.0,3.0,50.0,0.17,0.33,0.0,0.0,,Girona,for
+2025-09-26,21:00 (16:00),Matchweek 7,Fri,Home,D,0.0,0.0,Espanyol,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,,Girona,for
+2025-10-04,16:15 (11:15),Matchweek 8,Sat,Home,W,2.0,1.0,Valencia,2.0,4.0,4.0,100.0,0.5,0.5,0.0,0.0,,Girona,for
+2025-10-18,16:15 (11:15),Matchweek 9,Sat,Away,L,1.0,2.0,Barcelona,1.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,,Girona,for
+2025-10-25,14:00 (09:00),Matchweek 10,Sat,Home,D,3.0,3.0,Oviedo,3.0,8.0,6.0,75.0,0.13,0.17,2.0,2.0,,Girona,for
+2025-10-31,21:00 (17:00),Matchweek 11,Fri,Away,L,1.0,2.0,Getafe,1.0,8.0,4.0,50.0,0.0,0.0,1.0,1.0,,Girona,for
+2025-11-08,14:00 (10:00),Matchweek 12,Sat,Home,W,1.0,0.0,Alavés,1.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,,Girona,for
+2025-11-23,16:15 (12:15),Matchweek 13,Sun,Away,D,1.0,1.0,Real Betis,1.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,,Girona,for
+2025-11-30,21:00 (17:00),Matchweek 14,Sun,Home,D,1.0,1.0,Real Madrid,1.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,,Girona,for
+2025-12-07,14:00 (10:00),Matchweek 15,Sun,Away,L,0.0,3.0,Elche,0.0,8.0,4.0,50.0,0.0,0.0,0.0,0.0,,Girona,for
+2025-12-12,21:00 (17:00),Matchweek 16,Fri,Away,W,2.0,1.0,Real Sociedad,2.0,14.0,3.0,21.4,0.14,0.67,0.0,0.0,,Girona,for
+2025-12-21,14:00 (10:00),Matchweek 17,Sun,Home,L,0.0,3.0,Atlético Madrid,0.0,9.0,2.0,22.2,0.0,0.0,0.0,0.0,,Girona,for
+2026-01-04,18:30 (14:30),Matchweek 18,Sun,Away,W,2.0,1.0,Mallorca,2.0,9.0,4.0,44.4,0.11,0.25,1.0,1.0,,Girona,for
+2026-01-10,18:30 (14:30),Matchweek 19,Sat,Home,W,1.0,0.0,Osasuna,1.0,8.0,4.0,50.0,0.13,0.25,0.0,0.0,,Girona,for
+2026-01-16,21:00 (17:00),Matchweek 20,Fri,Away,W,2.0,0.0,Espanyol,2.0,7.0,4.0,57.1,0.0,0.0,2.0,2.0,,Girona,for
+2026-01-26,21:00 (17:00),Matchweek 21,Mon,Home,D,1.0,1.0,Getafe,1.0,13.0,4.0,30.8,0.08,0.25,0.0,0.0,,Girona,for
+2026-01-31,14:00 (10:00),Matchweek 22,Sat,Away,L,0.0,1.0,Oviedo,0.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,,Girona,for
+2026-02-08,16:15 (12:15),Matchweek 23,Sun,Away,D,1.0,1.0,Sevilla,1.0,15.0,6.0,40.0,0.07,0.17,0.0,1.0,,Girona,for
+2026-02-16,21:00 (17:00),Matchweek 24,Mon,Home,W,2.0,1.0,Barcelona,2.0,13.0,9.0,69.2,0.15,0.22,0.0,0.0,,Girona,for
+2026-02-23,21:00 (17:00),Matchweek 25,Mon,Away,D,2.0,2.0,Alavés,2.0,10.0,5.0,50.0,0.2,0.4,0.0,0.0,,Girona,for
+2026-03-01,21:00 (17:00),Matchweek 26,Sun,Home,L,1.0,2.0,Celta Vigo,1.0,15.0,7.0,46.7,0.07,0.14,0.0,0.0,,Girona,for
+2026-03-07,16:15 (12:15),Matchweek 27,Sat,Away,D,1.0,1.0,Levante,1.0,22.0,5.0,22.7,0.05,0.2,0.0,0.0,,Girona,for
+2026-03-14,14:00 (10:00),Matchweek 28,Sat,Home,W,3.0,0.0,Athletic Club,3.0,14.0,6.0,42.9,0.21,0.5,0.0,0.0,,Girona,for
+2026-03-21,18:30 (14:30),Matchweek 29,Sat,Away,L,0.0,1.0,Osasuna,0.0,5.0,0.0,0.0,0.0,,0.0,0.0,,Girona,for
+2026-04-06,21:00 (16:00),Matchweek 30,Mon,Home,W,1.0,0.0,Villarreal,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,,Girona,for
+2026-04-10,21:00 (16:00),Matchweek 31,Fri,Away,D,1.0,1.0,Real Madrid,1.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,,Girona,for
+2026-04-21,21:30 (16:30),Matchweek 33,Tue,Home,L,2.0,3.0,Real Betis,2.0,9.0,2.0,22.2,0.11,0.5,1.0,1.0,,Girona,for
+2026-04-25,18:30 (13:30),Matchweek 32,Sat,Away,L,1.0,2.0,Valencia,1.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,,Girona,for
+For Girona,For Girona,For Girona,For Girona,For Girona,For Girona,,,For Girona,,,,,,,,,,Girona,for
+2025-08-16,21:30 (16:30),Matchweek 1,Sat,Away,L,1.0,2.0,Alavés,1.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,,Levante,for
+2025-08-23,21:30 (16:30),Matchweek 2,Sat,Home,L,2.0,3.0,Barcelona,2.0,8.0,5.0,62.5,0.13,0.2,1.0,1.0,,Levante,for
+2025-08-29,19:30 (14:30),Matchweek 3,Fri,Away,L,0.0,2.0,Elche,0.0,11.0,1.0,9.1,0.0,0.0,0.0,0.0,,Levante,for
+2025-09-14,16:15 (11:15),Matchweek 4,Sun,Home,D,2.0,2.0,Real Betis,2.0,5.0,2.0,40.0,0.4,1.0,0.0,0.0,,Levante,for
+2025-09-20,14:00 (09:00),Matchweek 5,Sat,Away,W,4.0,0.0,Girona,4.0,14.0,7.0,50.0,0.29,0.57,0.0,0.0,,Levante,for
+2025-09-23,21:30 (16:30),Matchweek 6,Tue,Home,L,1.0,4.0,Real Madrid,1.0,11.0,2.0,18.2,0.09,0.5,0.0,0.0,,Levante,for
+2025-09-27,14:00 (09:00),Matchweek 7,Sat,Away,D,1.0,1.0,Getafe,1.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,,Levante,for
+2025-10-04,14:00 (09:00),Matchweek 8,Sat,Away,W,2.0,0.0,Oviedo,2.0,14.0,5.0,35.7,0.14,0.4,0.0,0.0,,Levante,for
+2025-10-19,18:30 (13:30),Matchweek 9,Sun,Home,L,0.0,3.0,Rayo Vallecano,0.0,17.0,4.0,23.5,0.0,0.0,0.0,0.0,,Levante,for
+2025-10-26,14:00 (10:00),Matchweek 10,Sun,Away,D,1.0,1.0,Mallorca,1.0,13.0,5.0,38.5,0.08,0.2,0.0,0.0,,Levante,for
+2025-11-02,14:00 (10:00),Matchweek 11,Sun,Home,L,1.0,2.0,Celta Vigo,1.0,9.0,3.0,33.3,0.11,0.33,0.0,1.0,,Levante,for
+2025-11-08,18:30 (14:30),Matchweek 12,Sat,Away,L,1.0,3.0,Atlético Madrid,1.0,6.0,3.0,50.0,0.17,0.33,0.0,0.0,,Levante,for
+2025-11-21,21:00 (17:00),Matchweek 13,Fri,Away,L,0.0,1.0,Valencia,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,,Levante,for
+2025-11-29,18:30 (14:30),Matchweek 14,Sat,Home,L,0.0,2.0,Athletic Club,0.0,11.0,4.0,36.4,0.0,0.0,0.0,0.0,,Levante,for
+2025-12-08,21:00 (17:00),Matchweek 15,Mon,Away,L,0.0,2.0,Osasuna,0.0,11.0,5.0,45.5,0.0,0.0,0.0,0.0,,Levante,for
+2025-12-20,16:15 (12:15),Matchweek 17,Sat,Home,D,1.0,1.0,Real Sociedad,1.0,13.0,3.0,23.1,0.0,0.0,1.0,1.0,,Levante,for
+2026-01-04,14:00 (10:00),Matchweek 18,Sun,Away,W,3.0,0.0,Sevilla,3.0,6.0,4.0,66.7,0.5,0.75,0.0,0.0,,Levante,for
+2026-01-11,16:15 (12:15),Matchweek 19,Sun,Home,D,1.0,1.0,Espanyol,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Levante,for
+2026-01-17,14:00 (10:00),Matchweek 20,Sat,Away,L,0.0,2.0,Real Madrid,0.0,10.0,0.0,0.0,0.0,,0.0,0.0,,Levante,for
+2026-01-23,21:00 (17:00),Matchweek 21,Fri,Home,W,3.0,2.0,Elche,3.0,26.0,6.0,23.1,0.12,0.5,0.0,0.0,,Levante,for
+2026-01-31,18:30 (14:30),Matchweek 22,Sat,Home,D,0.0,0.0,Atlético Madrid,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,,Levante,for
+2026-02-08,16:15 (12:15),Matchweek 23,Sun,Away,L,2.0,4.0,Athletic Club,2.0,6.0,3.0,50.0,0.33,0.67,0.0,0.0,,Levante,for
+2026-02-15,18:30 (14:30),Matchweek 24,Sun,Home,L,0.0,2.0,Valencia,0.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,,Levante,for
+2026-02-18,20:00 (16:00),Matchweek 16,Wed,Home,L,0.0,1.0,Villarreal,0.0,16.0,4.0,25.0,0.0,0.0,0.0,0.0,,Levante,for
+2026-02-22,16:15 (12:15),Matchweek 25,Sun,Away,L,0.0,3.0,Barcelona,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,,Levante,for
+2026-02-27,21:00 (17:00),Matchweek 26,Fri,Home,W,2.0,0.0,Alavés,2.0,22.0,5.0,22.7,0.09,0.4,0.0,0.0,,Levante,for
+2026-03-07,16:15 (12:15),Matchweek 27,Sat,Home,D,1.0,1.0,Girona,1.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,,Levante,for
+2026-03-16,21:00 (17:00),Matchweek 28,Mon,Away,D,1.0,1.0,Rayo Vallecano,1.0,19.0,5.0,26.3,0.05,0.2,0.0,0.0,,Levante,for
+2026-03-21,18:30 (14:30),Matchweek 29,Sat,Home,W,4.0,2.0,Oviedo,4.0,20.0,8.0,40.0,0.2,0.5,0.0,0.0,,Levante,for
+2026-04-04,14:00 (09:00),Matchweek 30,Sat,Away,L,0.0,2.0,Real Sociedad,0.0,8.0,4.0,50.0,0.0,0.0,0.0,0.0,,Levante,for
+2026-04-13,21:00 (16:00),Matchweek 31,Mon,Home,W,1.0,0.0,Getafe,1.0,22.0,4.0,18.2,0.05,0.25,0.0,2.0,,Levante,for
+2026-04-23,19:00 (14:00),Matchweek 33,Thu,Home,W,2.0,0.0,Sevilla,2.0,8.0,3.0,37.5,0.25,0.67,0.0,0.0,,Levante,for
+For Levante,For Levante,For Levante,For Levante,For Levante,For Levante,,,For Levante,,,,,,,,,,Levante,for
+2025-08-16,19:30 (14:30),Matchweek 1,Sat,Home,L,0.0,3.0,Barcelona,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,,Mallorca,for
+2025-08-23,17:00 (12:00),Matchweek 2,Sat,Home,D,1.0,1.0,Celta Vigo,1.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,,Mallorca,for
+2025-08-30,21:30 (16:30),Matchweek 3,Sat,Away,L,1.0,2.0,Real Madrid,1.0,9.0,5.0,55.6,0.11,0.2,0.0,0.0,,Mallorca,for
+2025-09-15,21:00 (16:00),Matchweek 4,Mon,Away,L,2.0,3.0,Espanyol,2.0,24.0,10.0,41.7,0.04,0.1,1.0,1.0,,Mallorca,for
+2025-09-21,16:15 (11:15),Matchweek 5,Sun,Home,D,1.0,1.0,Atlético Madrid,1.0,8.0,3.0,37.5,0.13,0.33,0.0,0.0,,Mallorca,for
+2025-09-24,21:30 (16:30),Matchweek 6,Wed,Away,L,0.0,1.0,Real Sociedad,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,,Mallorca,for
+2025-09-27,18:30 (13:30),Matchweek 7,Sat,Home,W,1.0,0.0,Alavés,1.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,,Mallorca,for
+2025-10-04,18:30 (13:30),Matchweek 8,Sat,Away,L,1.0,2.0,Athletic Club,1.0,6.0,2.0,33.3,0.17,0.5,0.0,0.0,,Mallorca,for
+2025-10-18,14:00 (09:00),Matchweek 9,Sat,Away,W,3.0,1.0,Sevilla,3.0,7.0,6.0,85.7,0.43,0.5,0.0,0.0,,Mallorca,for
+2025-10-26,14:00 (10:00),Matchweek 10,Sun,Home,D,1.0,1.0,Levante,1.0,20.0,4.0,20.0,0.05,0.25,0.0,0.0,,Mallorca,for
+2025-11-02,21:00 (17:00),Matchweek 11,Sun,Away,L,0.0,3.0,Real Betis,0.0,14.0,1.0,7.1,0.0,0.0,0.0,0.0,,Mallorca,for
+2025-11-09,18:30 (14:30),Matchweek 12,Sun,Home,W,1.0,0.0,Getafe,1.0,6.0,4.0,66.7,0.17,0.25,0.0,0.0,,Mallorca,for
+2025-11-22,21:00 (17:00),Matchweek 13,Sat,Away,L,1.0,2.0,Villarreal,1.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,,Mallorca,for
+2025-11-29,14:00 (10:00),Matchweek 14,Sat,Home,D,2.0,2.0,Osasuna,2.0,7.0,4.0,57.1,0.14,0.25,1.0,1.0,,Mallorca,for
+2025-12-05,21:00 (17:00),Matchweek 15,Fri,Away,D,0.0,0.0,Oviedo,0.0,13.0,6.0,46.2,0.0,0.0,0.0,0.0,,Mallorca,for
+2025-12-13,16:15 (12:15),Matchweek 16,Sat,Home,W,3.0,1.0,Elche,3.0,15.0,8.0,53.3,0.2,0.38,0.0,0.0,,Mallorca,for
+2025-12-19,21:00 (17:00),Matchweek 17,Fri,Away,D,1.0,1.0,Valencia,1.0,4.0,2.0,50.0,0.25,0.5,0.0,0.0,,Mallorca,for
+2026-01-04,18:30 (14:30),Matchweek 18,Sun,Home,L,1.0,2.0,Girona,1.0,9.0,2.0,22.2,0.0,0.0,1.0,1.0,,Mallorca,for
+2026-01-11,14:00 (10:00),Matchweek 19,Sun,Away,L,1.0,2.0,Rayo Vallecano,1.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,,Mallorca,for
+2026-01-17,16:15 (12:15),Matchweek 20,Sat,Home,W,3.0,2.0,Athletic Club,3.0,17.0,9.0,52.9,0.12,0.22,1.0,2.0,,Mallorca,for
+2026-01-25,14:00 (10:00),Matchweek 21,Sun,Away,L,0.0,3.0,Atlético Madrid,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,,Mallorca,for
+2026-02-02,21:00 (17:00),Matchweek 22,Mon,Home,W,4.0,1.0,Sevilla,4.0,11.0,7.0,63.6,0.27,0.43,1.0,1.0,,Mallorca,for
+2026-02-07,16:15 (12:15),Matchweek 23,Sat,Away,L,0.0,3.0,Barcelona,0.0,9.0,4.0,44.4,0.0,0.0,0.0,0.0,,Mallorca,for
+2026-02-15,21:00 (17:00),Matchweek 24,Sun,Home,L,1.0,2.0,Real Betis,1.0,14.0,3.0,21.4,0.07,0.33,0.0,0.0,,Mallorca,for
+2026-02-22,18:30 (14:30),Matchweek 25,Sun,Away,L,0.0,2.0,Celta Vigo,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,Mallorca,for
+2026-02-28,18:30 (14:30),Matchweek 26,Sat,Home,L,0.0,1.0,Real Sociedad,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,,Mallorca,for
+2026-03-07,14:00 (10:00),Matchweek 27,Sat,Away,D,2.0,2.0,Osasuna,2.0,8.0,4.0,50.0,0.25,0.5,0.0,0.0,,Mallorca,for
+2026-03-15,14:00 (10:00),Matchweek 28,Sun,Home,W,2.0,1.0,Espanyol,2.0,26.0,12.0,46.2,0.08,0.17,0.0,0.0,,Mallorca,for
+2026-03-21,14:00 (10:00),Matchweek 29,Sat,Away,L,1.0,2.0,Elche,1.0,11.0,4.0,36.4,0.09,0.25,0.0,1.0,,Mallorca,for
+2026-04-04,16:15 (11:15),Matchweek 30,Sat,Home,W,2.0,1.0,Real Madrid,2.0,6.0,2.0,33.3,0.33,1.0,0.0,0.0,,Mallorca,for
+2026-04-12,16:15 (11:15),Matchweek 31,Sun,Home,W,3.0,0.0,Rayo Vallecano,3.0,12.0,4.0,33.3,0.25,0.75,0.0,0.0,,Mallorca,for
+2026-04-21,19:00 (14:00),Matchweek 33,Tue,Home,D,1.0,1.0,Valencia,1.0,20.0,8.0,40.0,0.05,0.13,0.0,0.0,,Mallorca,for
+2026-04-25,14:00 (09:00),Matchweek 32,Sat,Away,L,1.0,2.0,Alavés,1.0,4.0,2.0,50.0,0.25,0.5,0.0,0.0,,Mallorca,for
+For Mallorca,For Mallorca,For Mallorca,For Mallorca,For Mallorca,For Mallorca,,,For Mallorca,,,,,,,,,,Mallorca,for
+2025-08-19,21:00 (16:00),Matchweek 1,Tue,Away,L,0.0,1.0,Real Madrid,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,Osasuna,for
+2025-08-24,17:00 (12:00),Matchweek 2,Sun,Home,W,1.0,0.0,Valencia,1.0,16.0,4.0,25.0,0.06,0.25,0.0,0.0,,Osasuna,for
+2025-08-31,19:30 (14:30),Matchweek 3,Sun,Away,L,0.0,1.0,Espanyol,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,,Osasuna,for
+2025-09-14,18:30 (13:30),Matchweek 4,Sun,Home,W,2.0,0.0,Rayo Vallecano,2.0,9.0,7.0,77.8,0.22,0.29,0.0,0.0,,Osasuna,for
+2025-09-20,18:30 (13:30),Matchweek 5,Sat,Away,L,1.0,2.0,Villarreal,1.0,6.0,3.0,50.0,0.0,0.0,1.0,1.0,,Osasuna,for
+2025-09-25,19:30 (14:30),Matchweek 6,Thu,Home,D,1.0,1.0,Elche,1.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,,Osasuna,for
+2025-09-28,21:00 (16:00),Matchweek 7,Sun,Away,L,0.0,2.0,Real Betis,0.0,12.0,1.0,8.3,0.0,0.0,0.0,0.0,,Osasuna,for
+2025-10-03,21:00 (16:00),Matchweek 8,Fri,Home,W,2.0,1.0,Getafe,2.0,7.0,3.0,42.9,0.29,0.67,0.0,0.0,,Osasuna,for
+2025-10-18,21:00 (16:00),Matchweek 9,Sat,Away,L,0.0,1.0,Atlético Madrid,0.0,9.0,2.0,22.2,0.0,0.0,0.0,0.0,,Osasuna,for
+2025-10-26,18:30 (14:30),Matchweek 10,Sun,Home,L,2.0,3.0,Celta Vigo,2.0,17.0,7.0,41.2,0.06,0.14,1.0,2.0,,Osasuna,for
+2025-11-03,21:00 (17:00),Matchweek 11,Mon,Away,D,0.0,0.0,Oviedo,0.0,11.0,5.0,45.5,0.0,0.0,0.0,0.0,,Osasuna,for
+2025-11-08,16:15 (12:15),Matchweek 12,Sat,Away,L,0.0,1.0,Sevilla,0.0,9.0,3.0,33.3,0.0,0.0,0.0,0.0,,Osasuna,for
+2025-11-22,18:30 (14:30),Matchweek 13,Sat,Home,L,1.0,3.0,Real Sociedad,1.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,,Osasuna,for
+2025-11-29,14:00 (10:00),Matchweek 14,Sat,Away,D,2.0,2.0,Mallorca,2.0,14.0,2.0,14.3,0.14,1.0,0.0,0.0,,Osasuna,for
+2025-12-08,21:00 (17:00),Matchweek 15,Mon,Home,W,2.0,0.0,Levante,2.0,14.0,6.0,42.9,0.14,0.33,0.0,0.0,,Osasuna,for
+2025-12-13,18:30 (14:30),Matchweek 16,Sat,Away,L,0.0,2.0,Barcelona,0.0,3.0,2.0,66.7,0.0,0.0,0.0,0.0,,Osasuna,for
+2025-12-20,18:30 (14:30),Matchweek 17,Sat,Home,W,3.0,0.0,Alavés,3.0,16.0,7.0,43.8,0.13,0.29,1.0,1.0,,Osasuna,for
+2026-01-03,16:15 (12:15),Matchweek 18,Sat,Home,D,1.0,1.0,Athletic Club,1.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,,Osasuna,for
+2026-01-10,18:30 (14:30),Matchweek 19,Sat,Away,L,0.0,1.0,Girona,0.0,12.0,0.0,0.0,0.0,,0.0,0.0,,Osasuna,for
+2026-01-17,18:30 (14:30),Matchweek 20,Sat,Home,W,3.0,2.0,Oviedo,3.0,16.0,5.0,31.3,0.19,0.6,0.0,0.0,,Osasuna,for
+2026-01-24,14:00 (10:00),Matchweek 21,Sat,Away,W,3.0,1.0,Rayo Vallecano,2.0,14.0,5.0,35.7,0.14,0.4,0.0,0.0,,Osasuna,for
+2026-01-31,16:15 (12:15),Matchweek 22,Sat,Home,D,2.0,2.0,Villarreal,2.0,15.0,5.0,33.3,0.13,0.4,0.0,0.0,,Osasuna,for
+2026-02-06,21:00 (17:00),Matchweek 23,Fri,Away,W,2.0,1.0,Celta Vigo,2.0,8.0,2.0,25.0,0.25,1.0,0.0,0.0,,Osasuna,for
+2026-02-13,21:00 (17:00),Matchweek 24,Fri,Away,D,0.0,0.0,Elche,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,,Osasuna,for
+2026-02-21,18:30 (14:30),Matchweek 25,Sat,Home,W,2.0,1.0,Real Madrid,2.0,13.0,2.0,15.4,0.08,0.5,1.0,1.0,,Osasuna,for
+2026-03-01,16:15 (12:15),Matchweek 26,Sun,Away,L,0.0,1.0,Valencia,0.0,8.0,0.0,0.0,0.0,,0.0,0.0,,Osasuna,for
+2026-03-07,14:00 (10:00),Matchweek 27,Sat,Home,D,2.0,2.0,Mallorca,2.0,22.0,5.0,22.7,0.09,0.4,0.0,0.0,,Osasuna,for
+2026-03-15,21:00 (17:00),Matchweek 28,Sun,Away,L,1.0,3.0,Real Sociedad,1.0,13.0,5.0,38.5,0.08,0.2,0.0,0.0,,Osasuna,for
+2026-03-21,18:30 (14:30),Matchweek 29,Sat,Home,W,1.0,0.0,Girona,1.0,19.0,11.0,57.9,0.05,0.09,0.0,0.0,,Osasuna,for
+2026-04-05,21:00 (16:00),Matchweek 30,Sun,Away,D,2.0,2.0,Alavés,2.0,8.0,5.0,62.5,0.13,0.2,1.0,1.0,,Osasuna,for
+2026-04-12,14:00 (09:00),Matchweek 31,Sun,Home,D,1.0,1.0,Real Betis,1.0,12.0,4.0,33.3,0.0,0.0,1.0,1.0,,Osasuna,for
+2026-04-21,19:00 (14:00),Matchweek 33,Tue,Away,L,0.0,1.0,Athletic Club,0.0,8.0,3.0,37.5,0.0,0.0,0.0,1.0,,Osasuna,for
+2026-04-26,18:30 (13:30),Matchweek 32,Sun,Home,W,2.0,1.0,Sevilla,2.0,15.0,7.0,46.7,0.13,0.29,0.0,0.0,,Osasuna,for
+For Osasuna,For Osasuna,For Osasuna,For Osasuna,For Osasuna,For Osasuna,,,For Osasuna,,,,,,,,,,Osasuna,for
+2025-08-15,21:30 (16:30),Matchweek 1,Fri,Away,L,0.0,2.0,Villarreal,0.0,5.0,4.0,80.0,0.0,0.0,0.0,1.0,,Oviedo,for
+2025-08-24,21:30 (16:30),Matchweek 2,Sun,Home,L,0.0,3.0,Real Madrid,0.0,6.0,3.0,50.0,0.0,0.0,0.0,0.0,,Oviedo,for
+2025-08-30,19:00 (14:00),Matchweek 3,Sat,Home,W,1.0,0.0,Real Sociedad,1.0,8.0,1.0,12.5,0.13,1.0,0.0,0.0,,Oviedo,for
+2025-09-13,14:00 (09:00),Matchweek 4,Sat,Away,L,0.0,2.0,Getafe,0.0,5.0,1.0,20.0,0.0,0.0,0.0,0.0,,Oviedo,for
+2025-09-21,18:30 (13:30),Matchweek 5,Sun,Away,L,0.0,1.0,Elche,0.0,12.0,4.0,33.3,0.0,0.0,0.0,0.0,,Oviedo,for
+2025-09-25,21:30 (16:30),Matchweek 6,Thu,Home,L,1.0,3.0,Barcelona,1.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,,Oviedo,for
+2025-09-30,20:00 (15:00),Matchweek 7,Tue,Away,W,2.0,1.0,Valencia,2.0,10.0,4.0,40.0,0.2,0.5,0.0,0.0,,Oviedo,for
+2025-10-04,14:00 (09:00),Matchweek 8,Sat,Home,L,0.0,2.0,Levante,0.0,13.0,2.0,15.4,0.0,0.0,0.0,0.0,,Oviedo,for
+2025-10-17,21:00 (16:00),Matchweek 9,Fri,Home,L,0.0,2.0,Espanyol,0.0,13.0,4.0,30.8,0.0,0.0,0.0,0.0,,Oviedo,for
+2025-10-25,14:00 (09:00),Matchweek 10,Sat,Away,D,3.0,3.0,Girona,3.0,10.0,5.0,50.0,0.2,0.4,1.0,1.0,,Oviedo,for
+2025-11-03,21:00 (17:00),Matchweek 11,Mon,Home,D,0.0,0.0,Osasuna,0.0,8.0,2.0,25.0,0.0,0.0,0.0,0.0,,Oviedo,for
+2025-11-09,14:00 (10:00),Matchweek 12,Sun,Away,L,0.0,1.0,Athletic Club,0.0,4.0,2.0,50.0,0.0,0.0,0.0,0.0,,Oviedo,for
+2025-11-23,14:00 (10:00),Matchweek 13,Sun,Home,D,0.0,0.0,Rayo Vallecano,0.0,8.0,3.0,37.5,0.0,0.0,0.0,0.0,,Oviedo,for
+2025-11-29,21:00 (17:00),Matchweek 14,Sat,Away,L,0.0,2.0,Atlético Madrid,0.0,12.0,1.0,8.3,0.0,0.0,0.0,0.0,,Oviedo,for
+2025-12-05,21:00 (17:00),Matchweek 15,Fri,Home,D,0.0,0.0,Mallorca,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,,Oviedo,for
+2025-12-14,14:00 (10:00),Matchweek 16,Sun,Away,L,0.0,4.0,Sevilla,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,,Oviedo,for
+2025-12-20,14:00 (10:00),Matchweek 17,Sat,Home,D,0.0,0.0,Celta Vigo,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,,Oviedo,for
+2026-01-04,18:30 (14:30),Matchweek 18,Sun,Away,D,1.0,1.0,Alavés,1.0,18.0,6.0,33.3,0.06,0.17,0.0,0.0,,Oviedo,for
+2026-01-10,14:00 (10:00),Matchweek 19,Sat,Home,D,1.0,1.0,Real Betis,1.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,,Oviedo,for
+2026-01-17,18:30 (14:30),Matchweek 20,Sat,Away,L,2.0,3.0,Osasuna,2.0,13.0,5.0,38.5,0.15,0.4,0.0,0.0,,Oviedo,for
+2026-01-25,16:15 (12:15),Matchweek 21,Sun,Away,L,0.0,3.0,Barcelona,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,,Oviedo,for
+2026-01-31,14:00 (10:00),Matchweek 22,Sat,Home,W,1.0,0.0,Girona,1.0,8.0,4.0,50.0,0.13,0.25,0.0,0.0,,Oviedo,for
+2026-02-15,14:00 (10:00),Matchweek 24,Sun,Home,L,1.0,2.0,Athletic Club,1.0,7.0,1.0,14.3,0.14,1.0,0.0,0.0,,Oviedo,for
+2026-02-21,14:00 (10:00),Matchweek 25,Sat,Away,D,3.0,3.0,Real Sociedad,3.0,14.0,6.0,42.9,0.21,0.5,0.0,0.0,,Oviedo,for
+2026-02-28,21:00 (17:00),Matchweek 26,Sat,Home,L,0.0,1.0,Atlético Madrid,0.0,16.0,6.0,37.5,0.0,0.0,0.0,0.0,,Oviedo,for
+2026-03-04,19:00 (15:00),Matchweek 23,Wed,Away,L,0.0,3.0,Rayo Vallecano,0.0,8.0,2.0,25.0,0.0,0.0,0.0,0.0,,Oviedo,for
+2026-03-09,21:00 (17:00),Matchweek 27,Mon,Away,D,1.0,1.0,Espanyol,1.0,6.0,3.0,50.0,0.17,0.33,0.0,0.0,,Oviedo,for
+2026-03-14,18:30 (14:30),Matchweek 28,Sat,Home,W,1.0,0.0,Valencia,1.0,11.0,6.0,54.5,0.09,0.17,0.0,0.0,,Oviedo,for
+2026-03-21,18:30 (14:30),Matchweek 29,Sat,Away,L,2.0,4.0,Levante,2.0,10.0,2.0,20.0,0.1,0.5,1.0,1.0,,Oviedo,for
+2026-04-05,18:30 (13:30),Matchweek 30,Sun,Home,W,1.0,0.0,Sevilla,1.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,,Oviedo,for
+2026-04-12,18:30 (13:30),Matchweek 31,Sun,Away,W,3.0,0.0,Celta Vigo,3.0,8.0,5.0,62.5,0.38,0.6,0.0,0.0,,Oviedo,for
+2026-04-23,21:30 (16:30),Matchweek 33,Thu,Home,D,1.0,1.0,Villarreal,1.0,16.0,4.0,25.0,0.06,0.25,0.0,0.0,,Oviedo,for
+2026-04-26,16:15 (11:15),Matchweek 32,Sun,Home,L,1.0,2.0,Elche,1.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,,Oviedo,for
+For Oviedo,For Oviedo,For Oviedo,For Oviedo,For Oviedo,For Oviedo,,,For Oviedo,,,,,,,,,,Oviedo,for
+2025-08-15,19:00 (14:00),Matchweek 1,Fri,Away,W,3.0,1.0,Girona,3.0,16.0,5.0,31.3,0.13,0.4,1.0,1.0,,Rayo Vallecano,for
+2025-08-25,19:30 (14:30),Matchweek 2,Mon,Away,L,0.0,1.0,Athletic Club,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,,Rayo Vallecano,for
+2025-08-31,21:30 (16:30),Matchweek 3,Sun,Home,D,1.0,1.0,Barcelona,1.0,12.0,6.0,50.0,0.08,0.17,0.0,0.0,,Rayo Vallecano,for
+2025-09-14,18:30 (13:30),Matchweek 4,Sun,Away,L,0.0,2.0,Osasuna,0.0,19.0,6.0,31.6,0.0,0.0,0.0,0.0,,Rayo Vallecano,for
+2025-09-21,14:00 (09:00),Matchweek 5,Sun,Home,D,1.0,1.0,Celta Vigo,1.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,,Rayo Vallecano,for
+2025-09-24,21:30 (16:30),Matchweek 6,Wed,Away,L,2.0,3.0,Atlético Madrid,2.0,9.0,3.0,33.3,0.22,0.67,0.0,0.0,,Rayo Vallecano,for
+2025-09-28,14:00 (09:00),Matchweek 7,Sun,Home,L,0.0,1.0,Sevilla,0.0,18.0,6.0,33.3,0.0,0.0,0.0,0.0,,Rayo Vallecano,for
+2025-10-05,18:30 (13:30),Matchweek 8,Sun,Away,W,1.0,0.0,Real Sociedad,1.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,,Rayo Vallecano,for
+2025-10-19,18:30 (13:30),Matchweek 9,Sun,Away,W,3.0,0.0,Levante,3.0,10.0,5.0,50.0,0.3,0.6,0.0,0.0,,Rayo Vallecano,for
+2025-10-26,21:00 (17:00),Matchweek 10,Sun,Home,W,1.0,0.0,Alavés,1.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,,Rayo Vallecano,for
+2025-11-01,14:00 (10:00),Matchweek 11,Sat,Away,L,0.0,4.0,Villarreal,0.0,13.0,3.0,23.1,0.0,0.0,0.0,0.0,,Rayo Vallecano,for
+2025-11-09,16:15 (12:15),Matchweek 12,Sun,Home,D,0.0,0.0,Real Madrid,0.0,13.0,2.0,15.4,0.0,0.0,0.0,0.0,,Rayo Vallecano,for
+2025-11-23,14:00 (10:00),Matchweek 13,Sun,Away,D,0.0,0.0,Oviedo,0.0,11.0,3.0,27.3,0.0,0.0,0.0,1.0,,Rayo Vallecano,for
+2025-12-01,21:00 (17:00),Matchweek 14,Mon,Home,D,1.0,1.0,Valencia,1.0,19.0,7.0,36.8,0.05,0.14,0.0,0.0,,Rayo Vallecano,for
+2025-12-07,18:30 (14:30),Matchweek 15,Sun,Away,L,0.0,1.0,Espanyol,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,,Rayo Vallecano,for
+2025-12-15,21:00 (17:00),Matchweek 16,Mon,Home,D,0.0,0.0,Real Betis,0.0,23.0,7.0,30.4,0.0,0.0,0.0,0.0,,Rayo Vallecano,for
+2025-12-21,18:30 (14:30),Matchweek 17,Sun,Away,L,0.0,4.0,Elche,0.0,18.0,8.0,44.4,0.0,0.0,0.0,0.0,,Rayo Vallecano,for
+2026-01-02,21:00 (17:00),Matchweek 18,Fri,Home,D,1.0,1.0,Getafe,1.0,13.0,4.0,30.8,0.08,0.25,0.0,0.0,,Rayo Vallecano,for
+2026-01-11,14:00 (10:00),Matchweek 19,Sun,Home,W,2.0,1.0,Mallorca,2.0,14.0,5.0,35.7,0.07,0.2,1.0,1.0,,Rayo Vallecano,for
+2026-01-18,18:30 (14:30),Matchweek 20,Sun,Away,L,0.0,3.0,Celta Vigo,0.0,14.0,3.0,21.4,0.0,0.0,0.0,0.0,,Rayo Vallecano,for
+2026-01-24,14:00 (10:00),Matchweek 21,Sat,Home,L,1.0,3.0,Osasuna,1.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,,Rayo Vallecano,for
+2026-02-01,14:00 (10:00),Matchweek 22,Sun,Away,L,1.0,2.0,Real Madrid,1.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,,Rayo Vallecano,for
+2026-02-15,16:15 (12:15),Matchweek 24,Sun,Home,W,3.0,0.0,Atlético Madrid,3.0,13.0,9.0,69.2,0.23,0.33,0.0,0.0,,Rayo Vallecano,for
+2026-02-21,16:15 (12:15),Matchweek 25,Sat,Away,D,1.0,1.0,Real Betis,1.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,,Rayo Vallecano,for
+2026-02-28,14:00 (10:00),Matchweek 26,Sat,Home,D,1.0,1.0,Athletic Club,1.0,15.0,7.0,46.7,0.07,0.14,0.0,0.0,,Rayo Vallecano,for
+2026-03-04,19:00 (15:00),Matchweek 23,Wed,Home,W,3.0,0.0,Oviedo,3.0,19.0,7.0,36.8,0.11,0.29,1.0,1.0,,Rayo Vallecano,for
+2026-03-08,18:30 (14:30),Matchweek 27,Sun,Away,D,1.0,1.0,Sevilla,1.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,,Rayo Vallecano,for
+2026-03-16,21:00 (17:00),Matchweek 28,Mon,Home,D,1.0,1.0,Levante,1.0,18.0,4.0,22.2,0.06,0.25,0.0,0.0,,Rayo Vallecano,for
+2026-03-22,14:00 (10:00),Matchweek 29,Sun,Away,L,0.0,1.0,Barcelona,0.0,8.0,4.0,50.0,0.0,0.0,0.0,0.0,,Rayo Vallecano,for
+2026-04-03,21:00 (16:00),Matchweek 30,Fri,Home,W,1.0,0.0,Elche,1.0,21.0,5.0,23.8,0.05,0.2,0.0,0.0,,Rayo Vallecano,for
+2026-04-12,16:15 (11:15),Matchweek 31,Sun,Away,L,0.0,3.0,Mallorca,0.0,17.0,3.0,17.6,0.0,0.0,0.0,0.0,,Rayo Vallecano,for
+2026-04-23,20:00 (15:00),Matchweek 33,Thu,Home,W,1.0,0.0,Espanyol,1.0,17.0,6.0,35.3,0.06,0.17,0.0,0.0,,Rayo Vallecano,for
+2026-04-26,14:00 (09:00),Matchweek 32,Sun,Home,D,3.0,3.0,Real Sociedad,3.0,24.0,9.0,37.5,0.13,0.33,0.0,0.0,,Rayo Vallecano,for
+For Rayo Vallecano,For Rayo Vallecano,For Rayo Vallecano,For Rayo Vallecano,For Rayo Vallecano,For Rayo Vallecano,,,For Rayo Vallecano,,,,,,,,,,Rayo Vallecano,for
+2025-08-18,21:00 (16:00),Matchweek 1,Mon,Away,D,1.0,1.0,Elche,1.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,,Real Betis,for
+2025-08-22,21:30 (16:30),Matchweek 2,Fri,Home,W,1.0,0.0,Alavés,1.0,16.0,5.0,31.3,0.06,0.2,0.0,0.0,,Real Betis,for
+2025-08-27,21:00 (16:00),Matchweek 6,Wed,Away,D,1.0,1.0,Celta Vigo,1.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,,Real Betis,for
+2025-08-31,19:00 (14:00),Matchweek 3,Sun,Home,L,1.0,2.0,Athletic Club,1.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,,Real Betis,for
+2025-09-14,16:15 (11:15),Matchweek 4,Sun,Away,D,2.0,2.0,Levante,2.0,28.0,9.0,32.1,0.07,0.22,0.0,0.0,,Real Betis,for
+2025-09-19,21:00 (16:00),Matchweek 5,Fri,Home,W,3.0,1.0,Real Sociedad,2.0,21.0,6.0,28.6,0.1,0.33,0.0,0.0,,Real Betis,for
+2025-09-28,21:00 (16:00),Matchweek 7,Sun,Home,W,2.0,0.0,Osasuna,2.0,12.0,6.0,50.0,0.17,0.33,0.0,0.0,,Real Betis,for
+2025-10-05,18:30 (13:30),Matchweek 8,Sun,Away,W,2.0,1.0,Espanyol,2.0,12.0,3.0,25.0,0.17,0.67,0.0,0.0,,Real Betis,for
+2025-10-18,18:30 (13:30),Matchweek 9,Sat,Away,D,2.0,2.0,Villarreal,2.0,16.0,3.0,18.8,0.13,0.67,0.0,0.0,,Real Betis,for
+2025-10-27,21:00 (17:00),Matchweek 10,Mon,Home,L,0.0,2.0,Atlético Madrid,0.0,17.0,5.0,29.4,0.0,0.0,0.0,0.0,,Real Betis,for
+2025-11-02,21:00 (17:00),Matchweek 11,Sun,Home,W,3.0,0.0,Mallorca,3.0,15.0,8.0,53.3,0.2,0.38,0.0,0.0,,Real Betis,for
+2025-11-09,18:30 (14:30),Matchweek 12,Sun,Away,D,1.0,1.0,Valencia,1.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,,Real Betis,for
+2025-11-23,16:15 (12:15),Matchweek 13,Sun,Home,D,1.0,1.0,Girona,1.0,23.0,7.0,30.4,0.04,0.14,0.0,0.0,,Real Betis,for
+2025-11-30,16:15 (12:15),Matchweek 14,Sun,Away,W,2.0,0.0,Sevilla,2.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,,Real Betis,for
+2025-12-06,18:30 (14:30),Matchweek 15,Sat,Home,L,3.0,5.0,Barcelona,3.0,17.0,5.0,29.4,0.12,0.4,1.0,1.0,,Real Betis,for
+2025-12-15,21:00 (17:00),Matchweek 16,Mon,Away,D,0.0,0.0,Rayo Vallecano,0.0,13.0,6.0,46.2,0.0,0.0,0.0,0.0,,Real Betis,for
+2025-12-21,21:00 (17:00),Matchweek 17,Sun,Home,W,4.0,0.0,Getafe,4.0,19.0,8.0,42.1,0.21,0.5,0.0,0.0,,Real Betis,for
+2026-01-04,16:15 (12:15),Matchweek 18,Sun,Away,L,1.0,5.0,Real Madrid,1.0,13.0,5.0,38.5,0.08,0.2,0.0,0.0,,Real Betis,for
+2026-01-10,14:00 (10:00),Matchweek 19,Sat,Away,D,1.0,1.0,Oviedo,1.0,15.0,6.0,40.0,0.07,0.17,0.0,0.0,,Real Betis,for
+2026-01-17,21:00 (17:00),Matchweek 20,Sat,Home,W,2.0,0.0,Villarreal,2.0,15.0,6.0,40.0,0.13,0.33,0.0,0.0,,Real Betis,for
+2026-01-25,21:00 (17:00),Matchweek 21,Sun,Away,L,1.0,2.0,Alavés,1.0,18.0,4.0,22.2,0.06,0.25,0.0,0.0,,Real Betis,for
+2026-02-01,16:15 (12:15),Matchweek 22,Sun,Home,W,2.0,1.0,Valencia,2.0,14.0,2.0,14.3,0.07,0.5,1.0,1.0,,Real Betis,for
+2026-02-08,18:30 (14:30),Matchweek 23,Sun,Away,W,1.0,0.0,Atlético Madrid,1.0,8.0,4.0,50.0,0.13,0.25,0.0,0.0,,Real Betis,for
+2026-02-15,21:00 (17:00),Matchweek 24,Sun,Away,W,2.0,1.0,Mallorca,2.0,17.0,8.0,47.1,0.12,0.25,0.0,0.0,,Real Betis,for
+2026-02-21,16:15 (12:15),Matchweek 25,Sat,Home,D,1.0,1.0,Rayo Vallecano,1.0,14.0,3.0,21.4,0.07,0.33,0.0,0.0,,Real Betis,for
+2026-03-01,18:30 (14:30),Matchweek 26,Sun,Home,D,2.0,2.0,Sevilla,2.0,9.0,2.0,22.2,0.22,1.0,0.0,0.0,,Real Betis,for
+2026-03-08,16:15 (12:15),Matchweek 27,Sun,Away,L,0.0,2.0,Getafe,0.0,14.0,5.0,35.7,0.0,0.0,0.0,0.0,,Real Betis,for
+2026-03-15,18:30 (14:30),Matchweek 28,Sun,Home,D,1.0,1.0,Celta Vigo,1.0,19.0,6.0,31.6,0.05,0.17,0.0,0.0,,Real Betis,for
+2026-03-22,18:30 (14:30),Matchweek 29,Sun,Away,L,1.0,2.0,Athletic Club,1.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,,Real Betis,for
+2026-04-04,18:30 (13:30),Matchweek 30,Sat,Home,D,0.0,0.0,Espanyol,0.0,19.0,6.0,31.6,0.0,0.0,0.0,0.0,,Real Betis,for
+2026-04-12,14:00 (09:00),Matchweek 31,Sun,Away,D,1.0,1.0,Osasuna,1.0,8.0,3.0,37.5,0.13,0.33,0.0,0.0,,Real Betis,for
+2026-04-21,21:30 (16:30),Matchweek 33,Tue,Away,W,3.0,2.0,Girona,3.0,7.0,3.0,42.9,0.43,1.0,0.0,0.0,,Real Betis,for
+2026-04-24,21:00 (16:00),Matchweek 32,Fri,Home,D,1.0,1.0,Real Madrid,1.0,19.0,4.0,21.1,0.05,0.25,0.0,0.0,,Real Betis,for
+For Real Betis,For Real Betis,For Real Betis,For Real Betis,For Real Betis,For Real Betis,,,For Real Betis,,,,,,,,,,Real Betis,for
+2025-08-19,21:00 (16:00),Matchweek 1,Tue,Home,W,1.0,0.0,Osasuna,1.0,18.0,5.0,27.8,0.0,0.0,1.0,1.0,,Real Madrid,for
+2025-08-24,21:30 (16:30),Matchweek 2,Sun,Away,W,3.0,0.0,Oviedo,3.0,26.0,10.0,38.5,0.12,0.3,0.0,0.0,,Real Madrid,for
+2025-08-30,21:30 (16:30),Matchweek 3,Sat,Home,W,2.0,1.0,Mallorca,2.0,17.0,7.0,41.2,0.12,0.29,0.0,0.0,,Real Madrid,for
+2025-09-13,16:15 (11:15),Matchweek 4,Sat,Away,W,2.0,1.0,Real Sociedad,2.0,16.0,6.0,37.5,0.13,0.33,0.0,0.0,,Real Madrid,for
+2025-09-20,16:15 (11:15),Matchweek 5,Sat,Home,W,2.0,0.0,Espanyol,2.0,16.0,5.0,31.3,0.13,0.4,0.0,0.0,,Real Madrid,for
+2025-09-23,21:30 (16:30),Matchweek 6,Tue,Away,W,4.0,1.0,Levante,4.0,24.0,10.0,41.7,0.13,0.3,1.0,1.0,,Real Madrid,for
+2025-09-27,16:15 (11:15),Matchweek 7,Sat,Away,L,2.0,5.0,Atlético Madrid,2.0,6.0,2.0,33.3,0.33,1.0,0.0,0.0,,Real Madrid,for
+2025-10-04,21:00 (16:00),Matchweek 8,Sat,Home,W,3.0,1.0,Villarreal,3.0,26.0,7.0,26.9,0.08,0.29,1.0,1.0,,Real Madrid,for
+2025-10-19,21:00 (16:00),Matchweek 9,Sun,Away,W,1.0,0.0,Getafe,1.0,23.0,10.0,43.5,0.04,0.1,0.0,0.0,,Real Madrid,for
+2025-10-26,16:15 (12:15),Matchweek 10,Sun,Home,W,2.0,1.0,Barcelona,2.0,23.0,10.0,43.5,0.09,0.2,0.0,1.0,,Real Madrid,for
+2025-11-01,21:00 (17:00),Matchweek 11,Sat,Home,W,4.0,0.0,Valencia,4.0,21.0,11.0,52.4,0.14,0.27,1.0,2.0,,Real Madrid,for
+2025-11-09,16:15 (12:15),Matchweek 12,Sun,Away,D,0.0,0.0,Rayo Vallecano,0.0,21.0,5.0,23.8,0.0,0.0,0.0,0.0,,Real Madrid,for
+2025-11-23,21:00 (17:00),Matchweek 13,Sun,Away,D,2.0,2.0,Elche,2.0,20.0,7.0,35.0,0.1,0.29,0.0,0.0,,Real Madrid,for
+2025-11-30,21:00 (17:00),Matchweek 14,Sun,Away,D,1.0,1.0,Girona,1.0,25.0,4.0,16.0,0.0,0.0,1.0,1.0,,Real Madrid,for
+2025-12-03,19:00 (15:00),Matchweek 19,Wed,Away,W,3.0,0.0,Athletic Club,3.0,13.0,8.0,61.5,0.23,0.38,0.0,0.0,,Real Madrid,for
+2025-12-07,21:00 (17:00),Matchweek 15,Sun,Home,L,0.0,2.0,Celta Vigo,0.0,23.0,7.0,30.4,0.0,0.0,0.0,0.0,,Real Madrid,for
+2025-12-14,21:00 (17:00),Matchweek 16,Sun,Away,W,2.0,1.0,Alavés,2.0,13.0,6.0,46.2,0.15,0.33,0.0,0.0,,Real Madrid,for
+2025-12-20,21:00 (17:00),Matchweek 17,Sat,Home,W,2.0,0.0,Sevilla,2.0,18.0,8.0,44.4,0.06,0.13,1.0,1.0,,Real Madrid,for
+2026-01-04,16:15 (12:15),Matchweek 18,Sun,Home,W,5.0,1.0,Real Betis,5.0,19.0,9.0,47.4,0.26,0.56,0.0,0.0,,Real Madrid,for
+2026-01-17,14:00 (10:00),Matchweek 20,Sat,Home,W,2.0,0.0,Levante,2.0,26.0,11.0,42.3,0.04,0.09,1.0,1.0,,Real Madrid,for
+2026-01-24,21:00 (17:00),Matchweek 21,Sat,Away,W,2.0,0.0,Villarreal,2.0,14.0,4.0,28.6,0.07,0.25,1.0,1.0,,Real Madrid,for
+2026-02-01,14:00 (10:00),Matchweek 22,Sun,Home,W,2.0,1.0,Rayo Vallecano,2.0,16.0,6.0,37.5,0.06,0.17,1.0,1.0,,Real Madrid,for
+2026-02-08,21:00 (17:00),Matchweek 23,Sun,Away,W,2.0,0.0,Valencia,2.0,11.0,6.0,54.5,0.18,0.33,0.0,0.0,,Real Madrid,for
+2026-02-14,21:00 (17:00),Matchweek 24,Sat,Home,W,4.0,1.0,Real Sociedad,4.0,11.0,5.0,45.5,0.18,0.4,2.0,2.0,,Real Madrid,for
+2026-02-21,18:30 (14:30),Matchweek 25,Sat,Away,L,1.0,2.0,Osasuna,1.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,,Real Madrid,for
+2026-03-02,21:00 (17:00),Matchweek 26,Mon,Home,L,0.0,1.0,Getafe,0.0,18.0,7.0,38.9,0.0,0.0,0.0,0.0,,Real Madrid,for
+2026-03-06,21:00 (17:00),Matchweek 27,Fri,Away,W,2.0,1.0,Celta Vigo,2.0,14.0,3.0,21.4,0.14,0.67,0.0,0.0,,Real Madrid,for
+2026-03-14,21:00 (17:00),Matchweek 28,Sat,Home,W,4.0,1.0,Elche,4.0,14.0,6.0,42.9,0.29,0.67,0.0,0.0,,Real Madrid,for
+2026-03-22,21:00 (17:00),Matchweek 29,Sun,Home,W,3.0,2.0,Atlético Madrid,3.0,17.0,10.0,58.8,0.12,0.2,1.0,1.0,,Real Madrid,for
+2026-04-04,16:15 (11:15),Matchweek 30,Sat,Away,L,1.0,2.0,Mallorca,1.0,15.0,6.0,40.0,0.07,0.17,0.0,0.0,,Real Madrid,for
+2026-04-10,21:00 (16:00),Matchweek 31,Fri,Home,D,1.0,1.0,Girona,1.0,22.0,9.0,40.9,0.05,0.11,0.0,0.0,,Real Madrid,for
+2026-04-21,21:30 (16:30),Matchweek 33,Tue,Home,W,2.0,1.0,Alavés,2.0,24.0,8.0,33.3,0.08,0.25,0.0,0.0,,Real Madrid,for
+2026-04-24,21:00 (16:00),Matchweek 32,Fri,Away,D,1.0,1.0,Real Betis,1.0,12.0,8.0,66.7,0.08,0.13,0.0,0.0,,Real Madrid,for
+For Real Madrid,For Real Madrid,For Real Madrid,For Real Madrid,For Real Madrid,For Real Madrid,,,For Real Madrid,,,,,,,,,,Real Madrid,for
+2025-08-16,21:30 (16:30),Matchweek 1,Sat,Away,D,1.0,1.0,Valencia,1.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,,Real Sociedad,for
+2025-08-24,19:30 (14:30),Matchweek 2,Sun,Home,D,2.0,2.0,Espanyol,2.0,15.0,7.0,46.7,0.13,0.29,0.0,0.0,,Real Sociedad,for
+2025-08-30,19:00 (14:00),Matchweek 3,Sat,Away,L,0.0,1.0,Oviedo,0.0,18.0,6.0,33.3,0.0,0.0,0.0,0.0,,Real Sociedad,for
+2025-09-13,16:15 (11:15),Matchweek 4,Sat,Home,L,1.0,2.0,Real Madrid,1.0,23.0,4.0,17.4,0.0,0.0,1.0,1.0,,Real Sociedad,for
+2025-09-19,21:00 (16:00),Matchweek 5,Fri,Away,L,1.0,3.0,Real Betis,1.0,11.0,5.0,45.5,0.09,0.2,0.0,0.0,,Real Sociedad,for
+2025-09-24,21:30 (16:30),Matchweek 6,Wed,Home,W,1.0,0.0,Mallorca,1.0,17.0,4.0,23.5,0.06,0.25,0.0,0.0,,Real Sociedad,for
+2025-09-28,18:30 (13:30),Matchweek 7,Sun,Away,L,1.0,2.0,Barcelona,1.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,,Real Sociedad,for
+2025-10-05,18:30 (13:30),Matchweek 8,Sun,Home,L,0.0,1.0,Rayo Vallecano,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,,Real Sociedad,for
+2025-10-19,16:15 (11:15),Matchweek 9,Sun,Away,D,1.0,1.0,Celta Vigo,1.0,17.0,7.0,41.2,0.06,0.14,0.0,0.0,,Real Sociedad,for
+2025-10-24,21:00 (16:00),Matchweek 10,Fri,Home,W,2.0,1.0,Sevilla,2.0,5.0,3.0,60.0,0.2,0.33,1.0,1.0,,Real Sociedad,for
+2025-11-01,18:30 (14:30),Matchweek 11,Sat,Home,W,3.0,2.0,Athletic Club,3.0,9.0,5.0,55.6,0.33,0.6,0.0,0.0,,Real Sociedad,for
+2025-11-07,21:00 (17:00),Matchweek 12,Fri,Away,D,1.0,1.0,Elche,1.0,13.0,5.0,38.5,0.0,0.0,1.0,1.0,,Real Sociedad,for
+2025-11-22,18:30 (14:30),Matchweek 13,Sat,Away,W,3.0,1.0,Osasuna,3.0,19.0,9.0,47.4,0.16,0.33,0.0,0.0,,Real Sociedad,for
+2025-11-30,14:00 (10:00),Matchweek 14,Sun,Home,L,2.0,3.0,Villarreal,2.0,18.0,7.0,38.9,0.11,0.29,0.0,0.0,,Real Sociedad,for
+2025-12-06,16:15 (12:15),Matchweek 15,Sat,Away,L,0.0,1.0,Alavés,0.0,10.0,1.0,10.0,0.0,0.0,0.0,0.0,,Real Sociedad,for
+2025-12-12,21:00 (17:00),Matchweek 16,Fri,Home,L,1.0,2.0,Girona,1.0,9.0,4.0,44.4,0.11,0.25,0.0,0.0,,Real Sociedad,for
+2025-12-20,16:15 (12:15),Matchweek 17,Sat,Away,D,1.0,1.0,Levante,1.0,18.0,6.0,33.3,0.06,0.17,0.0,0.0,,Real Sociedad,for
+2026-01-04,21:00 (17:00),Matchweek 18,Sun,Home,D,1.0,1.0,Atlético Madrid,1.0,18.0,8.0,44.4,0.06,0.13,0.0,0.0,,Real Sociedad,for
+2026-01-09,21:00 (17:00),Matchweek 19,Fri,Away,W,2.0,1.0,Getafe,2.0,12.0,5.0,41.7,0.17,0.4,0.0,0.0,,Real Sociedad,for
+2026-01-18,21:00 (17:00),Matchweek 20,Sun,Home,W,2.0,1.0,Barcelona,2.0,7.0,6.0,85.7,0.29,0.33,0.0,0.0,,Real Sociedad,for
+2026-01-25,18:30 (14:30),Matchweek 21,Sun,Home,W,3.0,1.0,Celta Vigo,3.0,10.0,4.0,40.0,0.2,0.5,1.0,1.0,,Real Sociedad,for
+2026-02-01,21:00 (17:00),Matchweek 22,Sun,Away,D,1.0,1.0,Athletic Club,1.0,8.0,6.0,75.0,0.13,0.17,0.0,0.0,,Real Sociedad,for
+2026-02-07,21:00 (17:00),Matchweek 23,Sat,Home,W,3.0,1.0,Elche,3.0,11.0,3.0,27.3,0.27,1.0,0.0,0.0,,Real Sociedad,for
+2026-02-14,21:00 (17:00),Matchweek 24,Sat,Away,L,1.0,4.0,Real Madrid,1.0,13.0,3.0,23.1,0.0,0.0,1.0,1.0,,Real Sociedad,for
+2026-02-21,14:00 (10:00),Matchweek 25,Sat,Home,D,3.0,3.0,Oviedo,3.0,15.0,8.0,53.3,0.2,0.38,0.0,0.0,,Real Sociedad,for
+2026-02-28,18:30 (14:30),Matchweek 26,Sat,Away,W,1.0,0.0,Mallorca,1.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,,Real Sociedad,for
+2026-03-07,18:30 (14:30),Matchweek 27,Sat,Away,L,2.0,3.0,Atlético Madrid,2.0,7.0,3.0,42.9,0.29,0.67,0.0,0.0,,Real Sociedad,for
+2026-03-15,21:00 (17:00),Matchweek 28,Sun,Home,W,3.0,1.0,Osasuna,3.0,15.0,6.0,40.0,0.13,0.33,1.0,1.0,,Real Sociedad,for
+2026-03-20,21:00 (17:00),Matchweek 29,Fri,Away,L,1.0,3.0,Villarreal,1.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,,Real Sociedad,for
+2026-04-04,14:00 (09:00),Matchweek 30,Sat,Home,W,2.0,0.0,Levante,2.0,18.0,5.0,27.8,0.11,0.4,0.0,0.0,,Real Sociedad,for
+2026-04-11,14:00 (09:00),Matchweek 31,Sat,Home,D,3.0,3.0,Alavés,2.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,,Real Sociedad,for
+2026-04-22,20:00 (15:00),Matchweek 33,Wed,Home,L,0.0,1.0,Getafe,0.0,13.0,4.0,30.8,0.0,0.0,0.0,1.0,,Real Sociedad,for
+2026-04-26,14:00 (09:00),Matchweek 32,Sun,Away,D,3.0,3.0,Rayo Vallecano,3.0,13.0,8.0,61.5,0.15,0.25,1.0,1.0,,Real Sociedad,for
+For Real Sociedad,For Real Sociedad,For Real Sociedad,For Real Sociedad,For Real Sociedad,For Real Sociedad,,,For Real Sociedad,,,,,,,,,,Real Sociedad,for
+2025-08-17,19:30 (14:30),Matchweek 1,Sun,Away,L,2.0,3.0,Athletic Club,2.0,12.0,6.0,50.0,0.17,0.33,0.0,0.0,,Sevilla,for
+2025-08-25,21:30 (16:30),Matchweek 2,Mon,Home,L,1.0,2.0,Getafe,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,,Sevilla,for
+2025-08-30,19:30 (14:30),Matchweek 3,Sat,Away,W,2.0,0.0,Girona,2.0,13.0,4.0,30.8,0.15,0.5,0.0,0.0,,Sevilla,for
+2025-09-12,21:00 (16:00),Matchweek 4,Fri,Home,D,2.0,2.0,Elche,2.0,7.0,3.0,42.9,0.29,0.67,0.0,0.0,,Sevilla,for
+2025-09-20,18:30 (13:30),Matchweek 5,Sat,Away,W,2.0,1.0,Alavés,2.0,9.0,3.0,33.3,0.22,0.67,0.0,0.0,,Sevilla,for
+2025-09-23,21:30 (16:30),Matchweek 6,Tue,Home,L,1.0,2.0,Villarreal,1.0,16.0,2.0,12.5,0.06,0.5,0.0,0.0,,Sevilla,for
+2025-09-28,14:00 (09:00),Matchweek 7,Sun,Away,W,1.0,0.0,Rayo Vallecano,1.0,4.0,1.0,25.0,0.25,1.0,0.0,0.0,,Sevilla,for
+2025-10-05,16:15 (11:15),Matchweek 8,Sun,Home,W,4.0,1.0,Barcelona,4.0,13.0,5.0,38.5,0.23,0.6,1.0,1.0,,Sevilla,for
+2025-10-18,14:00 (09:00),Matchweek 9,Sat,Home,L,1.0,3.0,Mallorca,1.0,13.0,4.0,30.8,0.08,0.25,0.0,0.0,,Sevilla,for
+2025-10-24,21:00 (16:00),Matchweek 10,Fri,Away,L,1.0,2.0,Real Sociedad,1.0,6.0,1.0,16.7,0.17,1.0,0.0,0.0,,Sevilla,for
+2025-11-01,16:15 (12:15),Matchweek 11,Sat,Away,L,0.0,3.0,Atlético Madrid,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,,Sevilla,for
+2025-11-08,16:15 (12:15),Matchweek 12,Sat,Home,W,1.0,0.0,Osasuna,1.0,10.0,4.0,40.0,0.0,0.0,1.0,1.0,,Sevilla,for
+2025-11-24,21:00 (17:00),Matchweek 13,Mon,Away,L,1.0,2.0,Espanyol,1.0,22.0,6.0,27.3,0.05,0.17,0.0,0.0,,Sevilla,for
+2025-11-30,16:15 (12:15),Matchweek 14,Sun,Home,L,0.0,2.0,Real Betis,0.0,9.0,3.0,33.3,0.0,0.0,0.0,0.0,,Sevilla,for
+2025-12-07,16:15 (12:15),Matchweek 15,Sun,Away,D,1.0,1.0,Valencia,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,,Sevilla,for
+2025-12-14,14:00 (10:00),Matchweek 16,Sun,Home,W,4.0,0.0,Oviedo,4.0,13.0,7.0,53.8,0.31,0.57,0.0,0.0,,Sevilla,for
+2025-12-20,21:00 (17:00),Matchweek 17,Sat,Away,L,0.0,2.0,Real Madrid,0.0,14.0,5.0,35.7,0.0,0.0,0.0,0.0,,Sevilla,for
+2026-01-04,14:00 (10:00),Matchweek 18,Sun,Home,L,0.0,3.0,Levante,0.0,15.0,7.0,46.7,0.0,0.0,0.0,1.0,,Sevilla,for
+2026-01-12,21:00 (17:00),Matchweek 19,Mon,Home,L,0.0,1.0,Celta Vigo,0.0,7.0,2.0,28.6,0.0,0.0,0.0,0.0,,Sevilla,for
+2026-01-19,21:00 (17:00),Matchweek 20,Mon,Away,D,2.0,2.0,Elche,2.0,25.0,8.0,32.0,0.04,0.13,1.0,1.0,,Sevilla,for
+2026-01-24,18:30 (14:30),Matchweek 21,Sat,Home,W,2.0,1.0,Athletic Club,2.0,10.0,7.0,70.0,0.1,0.14,1.0,1.0,,Sevilla,for
+2026-02-02,21:00 (17:00),Matchweek 22,Mon,Away,L,1.0,4.0,Mallorca,1.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,,Sevilla,for
+2026-02-08,16:15 (12:15),Matchweek 23,Sun,Home,D,1.0,1.0,Girona,1.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,,Sevilla,for
+2026-02-14,18:30 (14:30),Matchweek 24,Sat,Home,D,1.0,1.0,Alavés,1.0,4.0,2.0,50.0,0.25,0.5,0.0,0.0,,Sevilla,for
+2026-02-22,14:00 (10:00),Matchweek 25,Sun,Away,W,1.0,0.0,Getafe,1.0,6.0,1.0,16.7,0.17,1.0,0.0,0.0,,Sevilla,for
+2026-03-01,18:30 (14:30),Matchweek 26,Sun,Away,D,2.0,2.0,Real Betis,2.0,14.0,6.0,42.9,0.14,0.33,0.0,0.0,,Sevilla,for
+2026-03-08,18:30 (14:30),Matchweek 27,Sun,Home,D,1.0,1.0,Rayo Vallecano,1.0,11.0,2.0,18.2,0.09,0.5,0.0,0.0,,Sevilla,for
+2026-03-15,16:15 (12:15),Matchweek 28,Sun,Away,L,2.0,5.0,Barcelona,2.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,,Sevilla,for
+2026-03-21,21:00 (17:00),Matchweek 29,Sat,Home,L,0.0,2.0,Valencia,0.0,13.0,2.0,15.4,0.0,0.0,0.0,0.0,,Sevilla,for
+2026-04-05,18:30 (13:30),Matchweek 30,Sun,Away,L,0.0,1.0,Oviedo,0.0,9.0,0.0,0.0,0.0,,0.0,0.0,,Sevilla,for
+2026-04-11,21:00 (16:00),Matchweek 31,Sat,Home,W,2.0,1.0,Atlético Madrid,2.0,11.0,2.0,18.2,0.09,0.5,1.0,1.0,,Sevilla,for
+2026-04-23,19:00 (14:00),Matchweek 33,Thu,Away,L,0.0,2.0,Levante,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,,Sevilla,for
+2026-04-26,18:30 (13:30),Matchweek 32,Sun,Away,L,1.0,2.0,Osasuna,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Sevilla,for
+For Sevilla,For Sevilla,For Sevilla,For Sevilla,For Sevilla,For Sevilla,,,For Sevilla,,,,,,,,,,Sevilla,for
+2025-08-16,21:30 (16:30),Matchweek 1,Sat,Home,D,1.0,1.0,Real Sociedad,1.0,18.0,2.0,11.1,0.06,0.5,0.0,0.0,,Valencia,for
+2025-08-24,17:00 (12:00),Matchweek 2,Sun,Away,L,0.0,1.0,Osasuna,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,,Valencia,for
+2025-08-29,21:30 (16:30),Matchweek 3,Fri,Home,W,3.0,0.0,Getafe,3.0,7.0,4.0,57.1,0.43,0.75,0.0,0.0,,Valencia,for
+2025-09-14,21:00 (16:00),Matchweek 4,Sun,Away,L,0.0,6.0,Barcelona,0.0,2.0,1.0,50.0,0.0,0.0,0.0,0.0,,Valencia,for
+2025-09-20,21:00 (16:00),Matchweek 5,Sat,Home,W,2.0,0.0,Athletic Club,2.0,13.0,5.0,38.5,0.15,0.4,0.0,0.0,,Valencia,for
+2025-09-23,19:00 (14:00),Matchweek 6,Tue,Away,D,2.0,2.0,Espanyol,2.0,5.0,2.0,40.0,0.4,1.0,0.0,0.0,,Valencia,for
+2025-09-30,20:00 (15:00),Matchweek 7,Tue,Home,L,1.0,2.0,Oviedo,1.0,16.0,5.0,31.3,0.06,0.2,0.0,1.0,,Valencia,for
+2025-10-04,16:15 (11:15),Matchweek 8,Sat,Away,L,1.0,2.0,Girona,1.0,19.0,6.0,31.6,0.05,0.17,0.0,0.0,,Valencia,for
+2025-10-20,21:00 (16:00),Matchweek 9,Mon,Away,D,0.0,0.0,Alavés,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,,Valencia,for
+2025-10-25,21:00 (16:00),Matchweek 10,Sat,Home,L,0.0,2.0,Villarreal,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,,Valencia,for
+2025-11-01,21:00 (17:00),Matchweek 11,Sat,Away,L,0.0,4.0,Real Madrid,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,,Valencia,for
+2025-11-09,18:30 (14:30),Matchweek 12,Sun,Home,D,1.0,1.0,Real Betis,1.0,17.0,4.0,23.5,0.06,0.25,0.0,0.0,,Valencia,for
+2025-11-21,21:00 (17:00),Matchweek 13,Fri,Home,W,1.0,0.0,Levante,1.0,14.0,3.0,21.4,0.07,0.33,0.0,0.0,,Valencia,for
+2025-12-01,21:00 (17:00),Matchweek 14,Mon,Away,D,1.0,1.0,Rayo Vallecano,1.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,,Valencia,for
+2025-12-07,16:15 (12:15),Matchweek 15,Sun,Home,D,1.0,1.0,Sevilla,1.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,,Valencia,for
+2025-12-13,14:00 (10:00),Matchweek 16,Sat,Away,L,1.0,2.0,Atlético Madrid,1.0,13.0,2.0,15.4,0.08,0.5,0.0,0.0,,Valencia,for
+2025-12-19,21:00 (17:00),Matchweek 17,Fri,Home,D,1.0,1.0,Mallorca,1.0,17.0,2.0,11.8,0.06,0.5,0.0,0.0,,Valencia,for
+2026-01-03,14:00 (10:00),Matchweek 18,Sat,Away,L,1.0,4.0,Celta Vigo,1.0,16.0,5.0,31.3,0.06,0.2,0.0,1.0,,Valencia,for
+2026-01-10,21:00 (17:00),Matchweek 19,Sat,Home,D,1.0,1.0,Elche,1.0,16.0,4.0,25.0,0.0,0.0,1.0,1.0,,Valencia,for
+2026-01-18,14:00 (10:00),Matchweek 20,Sun,Away,W,1.0,0.0,Getafe,1.0,7.0,1.0,14.3,0.14,1.0,0.0,0.0,,Valencia,for
+2026-01-24,16:15 (12:15),Matchweek 21,Sat,Home,W,3.0,2.0,Espanyol,3.0,10.0,5.0,50.0,0.2,0.4,1.0,1.0,,Valencia,for
+2026-02-01,16:15 (12:15),Matchweek 22,Sun,Away,L,1.0,2.0,Real Betis,1.0,15.0,4.0,26.7,0.07,0.25,0.0,1.0,,Valencia,for
+2026-02-08,21:00 (17:00),Matchweek 23,Sun,Home,L,0.0,2.0,Real Madrid,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,,Valencia,for
+2026-02-15,18:30 (14:30),Matchweek 24,Sun,Away,W,2.0,0.0,Levante,2.0,5.0,2.0,40.0,0.4,1.0,0.0,0.0,,Valencia,for
+2026-02-22,21:00 (17:00),Matchweek 25,Sun,Away,L,1.0,2.0,Villarreal,1.0,8.0,3.0,37.5,0.0,0.0,1.0,1.0,,Valencia,for
+2026-03-01,16:15 (12:15),Matchweek 26,Sun,Home,W,1.0,0.0,Osasuna,1.0,14.0,1.0,7.1,0.0,0.0,1.0,1.0,,Valencia,for
+2026-03-08,21:00 (17:00),Matchweek 27,Sun,Home,W,3.0,2.0,Alavés,3.0,19.0,8.0,42.1,0.11,0.25,1.0,1.0,,Valencia,for
+2026-03-14,18:30 (14:30),Matchweek 28,Sat,Away,L,0.0,1.0,Oviedo,0.0,13.0,2.0,15.4,0.0,0.0,0.0,0.0,,Valencia,for
+2026-03-21,21:00 (17:00),Matchweek 29,Sat,Away,W,2.0,0.0,Sevilla,2.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,,Valencia,for
+2026-04-05,16:15 (11:15),Matchweek 30,Sun,Home,L,2.0,3.0,Celta Vigo,2.0,13.0,4.0,30.8,0.15,0.5,0.0,0.0,,Valencia,for
+2026-04-11,16:15 (11:15),Matchweek 31,Sat,Away,L,0.0,1.0,Elche,0.0,22.0,8.0,36.4,0.0,0.0,0.0,0.0,,Valencia,for
+2026-04-21,19:00 (14:00),Matchweek 33,Tue,Away,D,1.0,1.0,Mallorca,1.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,,Valencia,for
+2026-04-25,18:30 (13:30),Matchweek 32,Sat,Home,W,2.0,1.0,Girona,2.0,12.0,3.0,25.0,0.17,0.67,0.0,0.0,,Valencia,for
+For Valencia,For Valencia,For Valencia,For Valencia,For Valencia,For Valencia,,,For Valencia,,,,,,,,,,Valencia,for
+2025-08-15,21:30 (16:30),Matchweek 1,Fri,Home,W,2.0,0.0,Oviedo,2.0,25.0,10.0,40.0,0.08,0.2,0.0,0.0,,Villarreal,for
+2025-08-24,19:30 (14:30),Matchweek 2,Sun,Home,W,5.0,0.0,Girona,5.0,19.0,7.0,36.8,0.26,0.71,0.0,0.0,,Villarreal,for
+2025-08-31,17:00 (12:00),Matchweek 3,Sun,Away,D,1.0,1.0,Celta Vigo,1.0,8.0,3.0,37.5,0.13,0.33,0.0,0.0,,Villarreal,for
+2025-09-13,21:00 (16:00),Matchweek 4,Sat,Away,L,0.0,2.0,Atlético Madrid,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,,Villarreal,for
+2025-09-20,18:30 (13:30),Matchweek 5,Sat,Home,W,2.0,1.0,Osasuna,2.0,26.0,8.0,30.8,0.08,0.25,0.0,0.0,,Villarreal,for
+2025-09-23,21:30 (16:30),Matchweek 6,Tue,Away,W,2.0,1.0,Sevilla,2.0,12.0,5.0,41.7,0.17,0.4,0.0,0.0,,Villarreal,for
+2025-09-27,21:00 (16:00),Matchweek 7,Sat,Home,W,1.0,0.0,Athletic Club,1.0,14.0,5.0,35.7,0.07,0.2,0.0,0.0,,Villarreal,for
+2025-10-04,21:00 (16:00),Matchweek 8,Sat,Away,L,1.0,3.0,Real Madrid,1.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,,Villarreal,for
+2025-10-18,18:30 (13:30),Matchweek 9,Sat,Home,D,2.0,2.0,Real Betis,2.0,7.0,3.0,42.9,0.29,0.67,0.0,0.0,,Villarreal,for
+2025-10-25,21:00 (16:00),Matchweek 10,Sat,Away,W,2.0,0.0,Valencia,2.0,12.0,5.0,41.7,0.08,0.2,1.0,1.0,,Villarreal,for
+2025-11-01,14:00 (10:00),Matchweek 11,Sat,Home,W,4.0,0.0,Rayo Vallecano,4.0,16.0,7.0,43.8,0.25,0.57,0.0,0.0,,Villarreal,for
+2025-11-08,21:00 (17:00),Matchweek 12,Sat,Away,W,2.0,0.0,Espanyol,2.0,9.0,3.0,33.3,0.22,0.67,0.0,0.0,,Villarreal,for
+2025-11-22,21:00 (17:00),Matchweek 13,Sat,Home,W,2.0,1.0,Mallorca,2.0,14.0,7.0,50.0,0.14,0.29,0.0,0.0,,Villarreal,for
+2025-11-30,14:00 (10:00),Matchweek 14,Sun,Away,W,3.0,2.0,Real Sociedad,3.0,10.0,5.0,50.0,0.3,0.6,0.0,0.0,,Villarreal,for
+2025-12-06,14:00 (10:00),Matchweek 15,Sat,Home,W,2.0,0.0,Getafe,2.0,10.0,5.0,50.0,0.2,0.4,0.0,0.0,,Villarreal,for
+2025-12-21,16:15 (12:15),Matchweek 17,Sun,Home,L,0.0,2.0,Barcelona,0.0,14.0,5.0,35.7,0.0,0.0,0.0,0.0,,Villarreal,for
+2026-01-03,18:30 (14:30),Matchweek 18,Sat,Away,W,3.0,1.0,Elche,3.0,12.0,4.0,33.3,0.25,0.75,0.0,0.0,,Villarreal,for
+2026-01-10,16:15 (12:15),Matchweek 19,Sat,Home,W,3.0,1.0,Alavés,3.0,11.0,4.0,36.4,0.27,0.75,0.0,0.0,,Villarreal,for
+2026-01-17,21:00 (17:00),Matchweek 20,Sat,Away,L,0.0,2.0,Real Betis,0.0,9.0,3.0,33.3,0.0,0.0,0.0,0.0,,Villarreal,for
+2026-01-24,21:00 (17:00),Matchweek 21,Sat,Home,L,0.0,2.0,Real Madrid,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,,Villarreal,for
+2026-01-31,16:15 (12:15),Matchweek 22,Sat,Away,D,2.0,2.0,Osasuna,2.0,5.0,4.0,80.0,0.2,0.25,1.0,1.0,,Villarreal,for
+2026-02-09,21:00 (17:00),Matchweek 23,Mon,Home,W,4.0,1.0,Espanyol,3.0,10.0,3.0,30.0,0.3,1.0,0.0,0.0,,Villarreal,for
+2026-02-14,16:15 (12:15),Matchweek 24,Sat,Away,L,1.0,2.0,Getafe,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Villarreal,for
+2026-02-18,20:00 (16:00),Matchweek 16,Wed,Away,W,1.0,0.0,Levante,1.0,15.0,6.0,40.0,0.07,0.17,0.0,0.0,,Villarreal,for
+2026-02-22,21:00 (17:00),Matchweek 25,Sun,Home,W,2.0,1.0,Valencia,2.0,12.0,5.0,41.7,0.08,0.2,1.0,1.0,,Villarreal,for
+2026-02-28,16:15 (12:15),Matchweek 26,Sat,Away,L,1.0,4.0,Barcelona,1.0,6.0,1.0,16.7,0.17,1.0,0.0,0.0,,Villarreal,for
+2026-03-08,14:00 (10:00),Matchweek 27,Sun,Home,W,2.0,1.0,Elche,2.0,16.0,7.0,43.8,0.13,0.29,0.0,0.0,,Villarreal,for
+2026-03-13,21:00 (17:00),Matchweek 28,Fri,Away,D,1.0,1.0,Alavés,1.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,,Villarreal,for
+2026-03-20,21:00 (17:00),Matchweek 29,Fri,Home,W,3.0,1.0,Real Sociedad,3.0,21.0,10.0,47.6,0.14,0.3,0.0,0.0,,Villarreal,for
+2026-04-06,21:00 (16:00),Matchweek 30,Mon,Away,L,0.0,1.0,Girona,0.0,9.0,0.0,0.0,0.0,,0.0,0.0,,Villarreal,for
+2026-04-12,21:00 (16:00),Matchweek 31,Sun,Away,W,2.0,1.0,Athletic Club,2.0,12.0,6.0,50.0,0.17,0.33,0.0,0.0,,Villarreal,for
+2026-04-23,21:30 (16:30),Matchweek 33,Thu,Away,D,1.0,1.0,Oviedo,1.0,7.0,3.0,42.9,0.0,0.0,1.0,1.0,,Villarreal,for
+2026-04-26,21:00 (16:00),Matchweek 32,Sun,Home,W,2.0,1.0,Celta Vigo,2.0,13.0,4.0,30.8,0.08,0.25,1.0,1.0,,Villarreal,for
+For Villarreal,For Villarreal,For Villarreal,For Villarreal,For Villarreal,For Villarreal,,,For Villarreal,,,,,,,,,,Villarreal,for

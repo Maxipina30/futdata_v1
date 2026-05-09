@@ -1,0 +1,433 @@
+player_id,player,team,position,pos_label,partidos
+986464,Bryan Soto,Audax Italiano,M,Mediocampo,1
+1177235,Daniel Piña,Audax Italiano,D,Defensa,11
+875274,Diego Coelho,Audax Italiano,F,Delantera,11
+1473443,Diego Monreal,Audax Italiano,D,Defensa,11
+981010,Enzo Ferrario,Audax Italiano,D,Defensa,8
+1177236,Esteban Matus,Audax Italiano,M,Mediocampo,11
+1440662,Favian Loyola,Audax Italiano,M,Mediocampo,10
+986532,Federico Mateos,Audax Italiano,M,Mediocampo,10
+859990,Franco Troyansky,Audax Italiano,F,Delantera,11
+1485094,Giovani Chiaverano,Audax Italiano,F,Delantera,11
+1177430,Ignacio Fuenzalida,Audax Italiano,F,Delantera,1
+2456836,Joel Ahumada,Audax Italiano,F,Delantera,1
+895340,Marcelo Ortíz,Audax Italiano,D,Defensa,11
+942156,Marco Collao,Audax Italiano,M,Mediocampo,9
+1920586,Mario Sandoval,Audax Italiano,M,Mediocampo,8
+1997135,Martín Jiménez,Audax Italiano,D,Defensa,7
+1879799,Martín Valdés,Audax Italiano,M,Mediocampo,4
+912067,Michael Vadulli,Audax Italiano,M,Mediocampo,7
+1083863,Nicolás Aedo,Audax Italiano,M,Mediocampo,10
+906112,Oliver Rojas,Audax Italiano,M,Mediocampo,8
+1114520,Paolo Guajardo,Audax Italiano,M,Mediocampo,10
+1106832,Pedro Garrido,Audax Italiano,G,Arquero,11
+804983,Raimundo Rebolledo,Audax Italiano,D,Defensa,7
+997539,Rodrigo Cabral,Audax Italiano,F,Delantera,11
+975882,Tomás Ahumada,Audax Italiano,G,Arquero,11
+2409605,Tomás Leyton,Audax Italiano,M,Mediocampo,4
+2456839,Vicente Zenteno,Audax Italiano,M,Mediocampo,5
+1016643,Aaron Astudillo,Cobresal,D,Defensa,9
+873620,Agustin Nadruz,Cobresal,M,Mediocampo,8
+995285,Alejandro Santander,Cobresal,G,Arquero,11
+987924,Antonio Castillo,Cobresal,D,Defensa,5
+1835777,Benjamin Moreno,Cobresal,F,Delantera,7
+1835778,Benjamín Ramírez,Cobresal,M,Mediocampo,5
+1973053,Benjamín Valenzuela,Cobresal,M,Mediocampo,11
+2411247,Benjamín Villarroel,Cobresal,D,Defensa,3
+790000,Bryan Carvallo,Cobresal,M,Mediocampo,11
+832663,Christian Moreno,Cobresal,D,Defensa,11
+1021117,César Yanis,Cobresal,M,Mediocampo,9
+2488762,Dennis Leyton,Cobresal,M,Mediocampo,2
+962847,Esteban Valencia,Cobresal,M,Mediocampo,11
+889519,Franco Bechtholdt,Cobresal,D,Defensa,10
+1086986,Franco Frías,Cobresal,F,Delantera,7
+818865,Guillermo Pacheco,Cobresal,D,Defensa,11
+925598,Jorge Pinos,Cobresal,G,Arquero,11
+986622,José Tiznado,Cobresal,D,Defensa,8
+385990,Juan Fuentes,Cobresal,M,Mediocampo,10
+974736,Julián Brea,Cobresal,F,Delantera,10
+1835784,Matias Sepulveda,Cobresal,F,Delantera,3
+1802312,Milan Roki,Cobresal,M,Mediocampo,6
+1482384,Oliver Ramis,Cobresal,M,Mediocampo,6
+1411683,Renato Huerta,Cobresal,F,Delantera,10
+1014802,Rodrigo Sandoval,Cobresal,D,Defensa,9
+1872533,Sergio Carrasco,Cobresal,F,Delantera,1
+937101,Steffan Pino,Cobresal,F,Delantera,11
+2148979,Vicente Belmar,Cobresal,M,Mediocampo,2
+18342,Arturo Vidal,Colo-Colo,M,Mediocampo,10
+1997146,Bruno Torres,Colo-Colo,D,Defensa,1
+340455,Claudio Aquino,Colo-Colo,M,Mediocampo,10
+1002936,Cristian Riquelme,Colo-Colo,D,Defensa,3
+1176822,Diego Ulloa,Colo-Colo,D,Defensa,11
+1167082,Eduardo Villanueva,Colo-Colo,G,Arquero,4
+973993,Erick Wiemberg,Colo-Colo,D,Defensa,11
+818874,Fernando de Paul,Colo-Colo,G,Arquero,9
+1482420,Francisco Marchant,Colo-Colo,M,Mediocampo,11
+1980388,Gabriel Maureira,Colo-Colo,G,Arquero,9
+581780,Javier Correa,Colo-Colo,F,Delantera,8
+924858,Javier Méndez,Colo-Colo,D,Defensa,8
+2433951,Jerall Astudillo Garcia,Colo-Colo,F,Delantera,1
+1022259,Jeyson Rojas,Colo-Colo,D,Defensa,11
+1015274,Joaquín Sosa,Colo-Colo,D,Defensa,11
+1014795,Jonathan Villagra,Colo-Colo,D,Defensa,11
+1199243,Lautaro Pastrán,Colo-Colo,F,Delantera,8
+1601711,Leandro Hernández,Colo-Colo,F,Delantera,11
+805170,Matías Fernández,Colo-Colo,D,Defensa,10
+1980587,Matías Moya,Colo-Colo,D,Defensa,2
+792585,Maximiliano Romero,Colo-Colo,F,Delantera,11
+2537211,Rodrigo Catalán,Colo-Colo,F,Delantera,2
+844224,Tomás Alarcón,Colo-Colo,M,Mediocampo,11
+1997139,Vicente Martínez,Colo-Colo,F,Delantera,4
+870020,Víctor Felipe Méndez,Colo-Colo,M,Mediocampo,11
+1997136,Yastin Cuevas,Colo-Colo,F,Delantera,11
+889502,Álvaro Madrid,Colo-Colo,M,Mediocampo,10
+1108027,Alejandro Azócar,Coquimbo Unido,F,Delantera,9
+805408,Alejandro Camargo,Coquimbo Unido,M,Mediocampo,11
+1125880,Benjamín Chandía,Coquimbo Unido,F,Delantera,11
+986451,Benjamín Gazzolo,Coquimbo Unido,D,Defensa,10
+973986,Cristián Zavala,Coquimbo Unido,F,Delantera,6
+386218,Diego Sánchez,Coquimbo Unido,G,Arquero,10
+1836149,Dixon Pereira,Coquimbo Unido,F,Delantera,2
+986513,Dylan Escobar,Coquimbo Unido,D,Defensa,11
+981333,Dylan Glaby,Coquimbo Unido,M,Mediocampo,11
+1019924,Elvis Hernández,Coquimbo Unido,D,Defensa,7
+986548,Francisco Salinas,Coquimbo Unido,D,Defensa,10
+1119737,Gonzalo Flores,Coquimbo Unido,G,Arquero,10
+376740,Guido Vadalá,Coquimbo Unido,M,Mediocampo,10
+1096735,Juan Cornejo,Coquimbo Unido,D,Defensa,8
+39244,Lucas Pratto,Coquimbo Unido,F,Delantera,11
+852143,Luis Riveros,Coquimbo Unido,M,Mediocampo,10
+986647,Lukas Soza,Coquimbo Unido,D,Defensa,6
+889498,Manuel Fernández,Coquimbo Unido,D,Defensa,9
+1834686,Martín Mundaca,Coquimbo Unido,F,Delantera,9
+1643443,Nicolás Johansen,Coquimbo Unido,F,Delantera,11
+2048673,Pablo Rodríguez,Coquimbo Unido,M,Mediocampo,5
+889043,Rodrigo Holgado,Coquimbo Unido,F,Delantera,3
+829288,Salvador Cordero,Coquimbo Unido,M,Mediocampo,10
+974008,Sebastián Cabrera,Coquimbo Unido,D,Defensa,9
+974009,Sebastián Galani,Coquimbo Unido,M,Mediocampo,9
+1981736,Vicente Villegas,Coquimbo Unido,G,Arquero,2
+986422,Aldrix Jara,Deportes Concepción,M,Mediocampo,11
+939938,Ariel Cáceres,Deportes Concepción,D,Defensa,8
+1482371,Bastián Escobar,Deportes Concepción,F,Delantera,3
+312318,Brayan Véjar,Deportes Concepción,M,Mediocampo,9
+247079,Carlos Escobar,Deportes Concepción,F,Delantera,7
+22973,Cristián Suárez,Deportes Concepción,D,Defensa,11
+158269,César Dutra,Deportes Concepción,G,Arquero,7
+973523,Diego Carrasco,Deportes Concepción,D,Defensa,9
+1836788,Dilan Varas,Deportes Concepción,D,Defensa,1
+986529,Ethan Espinoza,Deportes Concepción,M,Mediocampo,10
+553508,Fausto Grillo,Deportes Concepción,D,Defensa,7
+906106,Ignacio Mesías,Deportes Concepción,F,Delantera,9
+1980392,Javier Rojas,Deportes Concepción,D,Defensa,8
+28242,Joaquín Larrivey,Deportes Concepción,F,Delantera,9
+819072,Jorge Henríquez,Deportes Concepción,M,Mediocampo,8
+1482455,Leenhan Romero,Deportes Concepción,M,Mediocampo,5
+790010,Leonardo Valencia,Deportes Concepción,M,Mediocampo,11
+991004,Mario Sandoval,Deportes Concepción,M,Mediocampo,11
+1874662,Martin Ramirez,Deportes Concepción,F,Delantera,1
+2076826,Mateo González Peña,Deportes Concepción,D,Defensa,3
+924468,Matías Cavalleri,Deportes Concepción,F,Delantera,9
+1022801,Mauricio Vera,Deportes Concepción,M,Mediocampo,2
+177813,Misael Dávila,Deportes Concepción,M,Mediocampo,11
+589548,Nelson Sepúlveda,Deportes Concepción,M,Mediocampo,9
+76268,Nery Veloso,Deportes Concepción,G,Arquero,4
+830940,Nicolás Araya,Deportes Concepción,G,Arquero,11
+988763,Norman Rodríguez,Deportes Concepción,D,Defensa,8
+819078,Sebastián Silva,Deportes Concepción,D,Defensa,1
+1197454,Yonathan Rodríguez,Deportes Concepción,M,Mediocampo,6
+1125898,Ángel Gillard,Deportes Concepción,F,Delantera,11
+872138,Andrés Zanini,Deportes La Serena,D,Defensa,9
+1875021,Bastián Contreras,Deportes La Serena,F,Delantera,10
+2455976,Bastián Sandoval,Deportes La Serena,F,Delantera,6
+1002931,Bruno Gutiérrez,Deportes La Serena,D,Defensa,11
+2046426,Cristóbal Sepúlveda,Deportes La Serena,M,Mediocampo,5
+1906001,Daniel Cordero,Deportes La Serena,F,Delantera,3
+147570,Diego Rubio,Deportes La Serena,F,Delantera,11
+924505,Eryin Sanhueza,Deportes La Serena,G,Arquero,11
+789923,Federico Lanzillotta,Deportes La Serena,G,Arquero,11
+1063335,Felipe Chamorro,Deportes La Serena,M,Mediocampo,11
+1502658,Fernando Dinamarca,Deportes La Serena,D,Defensa,9
+1089454,Francis Mac Allister,Deportes La Serena,M,Mediocampo,10
+316170,Gonzalo Escalante,Deportes La Serena,M,Mediocampo,9
+805095,Jeisson Vargas,Deportes La Serena,M,Mediocampo,11
+1807803,Joan Orellana,Deportes La Serena,M,Mediocampo,11
+986598,Joaquín Gutiérrez,Deportes La Serena,M,Mediocampo,10
+906100,Lucas Alarcón,Deportes La Serena,D,Defensa,11
+874589,Matías Marín,Deportes La Serena,M,Mediocampo,11
+1155908,Matías Pinto,Deportes La Serena,D,Defensa,3
+1980426,Milovan Velásquez,Deportes La Serena,M,Mediocampo,6
+582220,Nicolás Stefanelli,Deportes La Serena,F,Delantera,8
+799653,Rafael Delgado,Deportes La Serena,D,Defensa,11
+844271,Sebastián Díaz,Deportes La Serena,M,Mediocampo,7
+1384819,Yahir Salazar,Deportes La Serena,D,Defensa,8
+2455975,Ángel Carvajal,Deportes La Serena,F,Delantera,4
+165511,Ángelo Henríquez,Deportes La Serena,F,Delantera,3
+33829,Alfonso Parot,Deportes Limache,D,Defensa,7
+875564,Augusto Aguirre,Deportes Limache,D,Defensa,11
+1199394,Axel Alfonzo,Deportes Limache,D,Defensa,8
+1482374,Bejamín Molina,Deportes Limache,D,Defensa,6
+1125514,Carlos Morales,Deportes Limache,D,Defensa,9
+924180,Claudio González,Deportes Limache,G,Arquero,11
+247073,César Fuentes,Deportes Limache,M,Mediocampo,11
+818974,César Pinares,Deportes Limache,M,Mediocampo,8
+925992,Daniel Castro,Deportes Limache,F,Delantera,11
+877098,Danilo Catalán,Deportes Limache,M,Mediocampo,4
+2116602,Facundo Marín,Deportes Limache,M,Mediocampo,10
+1644853,Flavio Moya,Deportes Limache,M,Mediocampo,11
+988084,Gonzalo Sosa,Deportes Limache,F,Delantera,11
+818816,Jean Meneses,Deportes Limache,M,Mediocampo,11
+986599,Joaquín Montecinos,Deportes Limache,M,Mediocampo,11
+1197239,Marcelo Flores,Deportes Limache,D,Defensa,11
+871813,Marcos Arturia,Deportes Limache,F,Delantera,11
+2524603,Martins Smith,Deportes Limache,G,Arquero,2
+874123,Matías Bórquez,Deportes Limache,G,Arquero,9
+863124,Misael Llantén,Deportes Limache,M,Mediocampo,11
+874853,Ramón Martínez,Deportes Limache,M,Mediocampo,11
+2171167,Vicente Vargas,Deportes Limache,M,Mediocampo,2
+1801194,Vicente Álvarez,Deportes Limache,F,Delantera,11
+980882,Yerko González,Deportes Limache,D,Defensa,11
+975053,Alan Medina,Everton de Viña del Mar,M,Mediocampo,11
+2059827,Amaro Leon,Everton de Viña del Mar,M,Mediocampo,6
+886912,Benjamín Berríos,Everton de Viña del Mar,M,Mediocampo,7
+1020255,Braian Martínez,Everton de Viña del Mar,M,Mediocampo,10
+1384618,Byron Navarro,Everton de Viña del Mar,M,Mediocampo,7
+129209,Cristian Palacios,Everton de Viña del Mar,F,Delantera,8
+988143,Cristopher Barrera,Everton de Viña del Mar,F,Delantera,8
+1199238,Cristóbal Chadwick,Everton de Viña del Mar,F,Delantera,2
+339891,Diego Oyarzún,Everton de Viña del Mar,D,Defensa,11
+800239,Dieter Villalpando,Everton de Viña del Mar,M,Mediocampo,7
+1199239,Emiliano Ramos,Everton de Viña del Mar,F,Delantera,11
+1182260,Esteban Kirkman,Everton de Viña del Mar,G,Arquero,11
+846140,Felipe Villagrán,Everton de Viña del Mar,M,Mediocampo,4
+976168,Hugo Magallanes,Everton de Viña del Mar,D,Defensa,9
+790001,Ignacio González,Everton de Viña del Mar,G,Arquero,11
+951270,Joaquín Moya,Everton de Viña del Mar,M,Mediocampo,11
+956838,Julián Alfaro,Everton de Viña del Mar,F,Delantera,10
+1119679,Lucas Soto,Everton de Viña del Mar,M,Mediocampo,8
+1469553,Martín Cárcamo,Everton de Viña del Mar,M,Mediocampo,3
+2039913,Martín Guzmán,Everton de Viña del Mar,D,Defensa,3
+862702,Nicolás Baeza,Everton de Viña del Mar,D,Defensa,11
+1864232,Nicolás Montiel,Everton de Viña del Mar,F,Delantera,6
+886915,Ramiro González,Everton de Viña del Mar,D,Defensa,11
+2462954,Ricardo Rebolledo,Everton de Viña del Mar,M,Mediocampo,3
+1508614,Santiago Londoño,Everton de Viña del Mar,F,Delantera,5
+1385673,Valentín Vidal,Everton de Viña del Mar,D,Defensa,11
+947963,Vicente Fernández,Everton de Viña del Mar,D,Defensa,8
+1216169,Vicente Vega,Everton de Viña del Mar,D,Defensa,7
+1482376,Benjamín Ampuero,Huachipato,M,Mediocampo,1
+1836787,Benjamín Mellado,Huachipato,D,Defensa,5
+942703,Carlos Herrera,Huachipato,M,Mediocampo,1
+1482395,Christian Bravo,Huachipato,G,Arquero,6
+249373,Claudio Sepúlveda,Huachipato,M,Mediocampo,11
+1108549,Claudio Torres,Huachipato,M,Mediocampo,6
+851968,Cris Martínez,Huachipato,F,Delantera,9
+988146,Cristian Toro,Huachipato,D,Defensa,9
+1017455,Ezequiel Cañete,Huachipato,M,Mediocampo,11
+988078,Harold Antiñirre,Huachipato,M,Mediocampo,7
+1997147,Ignacio Cruzat,Huachipato,G,Arquero,5
+1656140,Javier Nicolás Cárcamo,Huachipato,M,Mediocampo,6
+1106831,José Ignacio Castro,Huachipato,D,Defensa,4
+1484208,Juan Figueroa,Huachipato,F,Delantera,5
+1177673,Kevin Altez,Huachipato,M,Mediocampo,10
+323439,Lionel Altamirano,Huachipato,F,Delantera,11
+1482399,Lucas Velásquez,Huachipato,D,Defensa,9
+1014798,Luciano Arriagada,Huachipato,F,Delantera,5
+1108721,Maicol León,Huachipato,D,Defensa,11
+845174,Mario Briceño,Huachipato,F,Delantera,10
+2523858,Martín Torrejón,Huachipato,M,Mediocampo,3
+1385794,Maximiliano Gutiérrez,Huachipato,M,Mediocampo,3
+940483,Maximiliano Rodríguez,Huachipato,F,Delantera,11
+1117091,Nelson Guillermo Guaiquil,Huachipato,D,Defensa,4
+247055,Nicolás Vargas,Huachipato,D,Defensa,10
+2545503,Pablo Bohle,Huachipato,F,Delantera,1
+36995,Rafael Caroca,Huachipato,D,Defensa,11
+1096236,Renzo Malanca,Huachipato,D,Defensa,8
+920957,Rodrigo Odriozola,Huachipato,G,Arquero,5
+1381958,Santiago Silva,Huachipato,M,Mediocampo,11
+2038211,Sebastián Melgarejo,Huachipato,M,Mediocampo,4
+1657110,Sebastián Mella,Huachipato,G,Arquero,6
+892450,Alan Robledo,O'Higgins,D,Defensa,5
+849177,Arnaldo Castillo,O'Higgins,F,Delantera,11
+942415,Bastián Yáñez,O'Higgins,F,Delantera,11
+1485083,Benjamin Schamine,O'Higgins,M,Mediocampo,8
+985004,Benjamín Rojas,O'Higgins,D,Defensa,10
+126376,Bryan Rabello,O'Higgins,M,Mediocampo,8
+1482396,Cristian Morales,O'Higgins,D,Defensa,5
+1409341,Esteban Calderón,O'Higgins,F,Delantera,3
+1482408,Felipe Faúndez,O'Higgins,D,Defensa,10
+1177211,Felipe Ogaz,O'Higgins,M,Mediocampo,11
+983528,Francisco González,O'Higgins,M,Mediocampo,11
+1798259,Gabriel Pinto,O'Higgins,M,Mediocampo,10
+1798260,Joaquín Tapia,O'Higgins,F,Delantera,8
+975502,Jorge Peña,O'Higgins,G,Arquero,11
+2038201,José Movillo,O'Higgins,D,Defensa,4
+844183,Juan Leiva,O'Higgins,M,Mediocampo,10
+975291,Leandro Díaz,O'Higgins,D,Defensa,11
+339699,Luis Pavez Munoz,O'Higgins,D,Defensa,8
+1411686,Martín Maturana,O'Higgins,M,Mediocampo,6
+789677,Martín Sarrafiore,O'Higgins,M,Mediocampo,11
+990283,Miguel Brizuela,O'Higgins,D,Defensa,9
+1002945,Nicolás Garrido,O'Higgins,D,Defensa,10
+831242,Omar Carabalí,O'Higgins,G,Arquero,11
+2038202,Rodrigo Godoy,O'Higgins,F,Delantera,7
+923802,Thiago Vecino,O'Higgins,F,Delantera,11
+2456021,Albert Gomez,Palestino,F,Delantera,4
+1116992,Antonio Ceza,Palestino,D,Defensa,10
+230054,Bryan Carrasco,Palestino,F,Delantera,11
+931341,César Munder,Palestino,M,Mediocampo,7
+1386875,Dilan Salgado,Palestino,F,Delantera,8
+339711,Dilan Zúñiga,Palestino,D,Defensa,10
+105971,Enzo Roco,Palestino,D,Defensa,5
+33943,Fernando Meza,Palestino,D,Defensa,8
+1797930,Francisco Montes,Palestino,M,Mediocampo,11
+1125923,Gonzalo Tapia,Palestino,F,Delantera,11
+1985127,Ian Alegría,Palestino,F,Delantera,5
+1797934,Ian Garguez,Palestino,D,Defensa,11
+1017320,Jason León,Palestino,D,Defensa,11
+868786,Joe Abrigo,Palestino,M,Mediocampo,1
+819017,Jonathan Benítez,Palestino,F,Delantera,8
+805305,José Bizama,Palestino,D,Defensa,10
+334027,Julián Fernández,Palestino,M,Mediocampo,10
+1464930,Martín Araya,Palestino,M,Mediocampo,7
+883928,Nelson Da Silva,Palestino,F,Delantera,10
+1064150,Nicolás Meza,Palestino,M,Mediocampo,11
+805150,Ronnie Fernández,Palestino,F,Delantera,7
+116096,Sebastián Gallegos,Palestino,M,Mediocampo,11
+842274,Sebastián Pérez,Palestino,G,Arquero,11
+1197497,Sebastián Salas,Palestino,G,Arquero,11
+1464931,Vicente Espinoza,Palestino,D,Defensa,11
+581774,Agustín Farías,Universidad Católica,M,Mediocampo,9
+1016766,Alfred Canales,Universidad Católica,M,Mediocampo,7
+818693,Bernardo Cerezo,Universidad Católica,D,Defensa,8
+819088,Branco Ampuero,Universidad Católica,D,Defensa,11
+1199471,Bryan González,Universidad Católica,M,Mediocampo,2
+995388,Clemente Montes,Universidad Católica,M,Mediocampo,7
+324937,Cristián Cuevas,Universidad Católica,D,Defensa,10
+986496,Daniel González,Universidad Católica,D,Defensa,5
+333403,Darío Melo,Universidad Católica,G,Arquero,11
+1473023,Diego Corral,Universidad Católica,M,Mediocampo,8
+906110,Diego Valencia,Universidad Católica,F,Delantera,8
+117430,Eugenio Mena,Universidad Católica,D,Defensa,11
+828952,Fernando Zampedri,Universidad Católica,F,Delantera,11
+284729,Fernando Zuqui,Universidad Católica,M,Mediocampo,4
+22975,Gary Medel,Universidad Católica,M,Mediocampo,7
+819115,Jhojan Valencia,Universidad Católica,M,Mediocampo,11
+588796,Jimmy Martínez,Universidad Católica,M,Mediocampo,11
+2204302,José Salas,Universidad Católica,D,Defensa,2
+1409361,Juan Francisco Rossel,Universidad Católica,M,Mediocampo,8
+896624,Juan Ignacio Díaz,Universidad Católica,D,Defensa,9
+932866,Justo Giani,Universidad Católica,M,Mediocampo,11
+2121648,Martín Gómez,Universidad Católica,M,Mediocampo,7
+973560,Matías Palavecino,Universidad Católica,M,Mediocampo,11
+1981780,Nicolás L'Huiller,Universidad Católica,D,Defensa,5
+2058867,Sebastián Arancibia,Universidad Católica,D,Defensa,3
+386220,Tomás Asta-Buruaga,Universidad Católica,D,Defensa,6
+1016653,Vicente Bernedo,Universidad Católica,G,Arquero,11
+1982597,Vicente Cárcamo,Universidad Católica,F,Delantera,6
+1388813,Agustín Arce,Universidad de Chile,M,Mediocampo,8
+1475072,Bianneider Tamayo,Universidad de Chile,D,Defensa,7
+18304,Charles Aránguiz,Universidad de Chile,M,Mediocampo,7
+26457,Cristopher Toselli,Universidad de Chile,G,Arquero,11
+1482432,Diego Vargas,Universidad de Chile,D,Defensa,6
+37006,Eduardo Vargas,Universidad de Chile,F,Delantera,9
+2115322,Elias Rojas,Universidad de Chile,M,Mediocampo,1
+818897,Fabián Hormazábal,Universidad de Chile,D,Defensa,11
+1138070,Felipe Salomoni,Universidad de Chile,D,Defensa,7
+981341,Franco Calderón,Universidad de Chile,D,Defensa,10
+805183,Gabriel Castellón,Universidad de Chile,G,Arquero,11
+1482412,Ignacio Vásquez,Universidad de Chile,M,Mediocampo,11
+589542,Israel Poblete,Universidad de Chile,M,Mediocampo,11
+925337,Javier Altamirano,Universidad de Chile,M,Mediocampo,11
+2331086,Jhon Cortes,Universidad de Chile,F,Delantera,1
+359024,Juan Martín Lucero,Universidad de Chile,F,Delantera,8
+1002939,Lucas Assadi,Universidad de Chile,M,Mediocampo,8
+2184978,Lucas Barrera,Universidad de Chile,M,Mediocampo,4
+1201172,Lucas Romero,Universidad de Chile,M,Mediocampo,10
+26480,Marcelo Díaz,Universidad de Chile,M,Mediocampo,7
+1087387,Marcelo Morales,Universidad de Chile,D,Defensa,8
+2145368,Martín Espinoza Pino,Universidad de Chile,F,Delantera,3
+2489479,Matías Riquelme,Universidad de Chile,M,Mediocampo,2
+789979,Matías Zaldivia,Universidad de Chile,D,Defensa,10
+906105,Maximiliano Guerrero,Universidad de Chile,M,Mediocampo,11
+889500,Nicolás Fernández,Universidad de Chile,D,Defensa,10
+831012,Nicolás Ramírez,Universidad de Chile,D,Defensa,11
+790149,Octavio Rivero,Universidad de Chile,F,Delantera,2
+2057322,Vicente Ramírez,Universidad de Chile,F,Delantera,4
+965775,Agustín Urzi,Universidad de Concepción,M,Mediocampo,10
+906108,Antonio Díaz,Universidad de Concepción,F,Delantera,11
+965719,Ariel Uribe,Universidad de Concepción,M,Mediocampo,11
+1106822,Bastián Ubal,Universidad de Concepción,D,Defensa,4
+2199269,Benjamín Sáez,Universidad de Concepción,D,Defensa,6
+986462,Bryan Ogaz,Universidad de Concepción,M,Mediocampo,11
+159931,Cecilio Waterman,Universidad de Concepción,F,Delantera,9
+939997,Cristhofer Mesías,Universidad de Concepción,M,Mediocampo,10
+2163290,Cristobal Zambrano,Universidad de Concepción,M,Mediocampo,6
+1183778,Daniel Barrea,Universidad de Concepción,F,Delantera,2
+1482287,David Retamal,Universidad de Concepción,D,Defensa,7
+1906000,Diego Antonio Sabando Sanhueza,Universidad de Concepción,F,Delantera,2
+2284219,Esteban Páez,Universidad de Concepción,D,Defensa,4
+896753,Facundo Mater,Universidad de Concepción,M,Mediocampo,11
+2455393,Francisco Herrera,Universidad de Concepción,M,Mediocampo,7
+1125882,Harol Salgado,Universidad de Concepción,F,Delantera,8
+1106828,Jeison Fuentealba,Universidad de Concepción,M,Mediocampo,11
+986609,Jorge Espejo,Universidad de Concepción,D,Defensa,10
+978979,José Sanhueza,Universidad de Concepción,G,Arquero,11
+365990,Leonel González,Universidad de Concepción,D,Defensa,9
+1836929,Luca Kmet,Universidad de Concepción,F,Delantera,3
+995284,Luis Rojas,Universidad de Concepción,M,Mediocampo,1
+1982599,Martín Ramírez,Universidad de Concepción,F,Delantera,8
+883483,Moisés González,Universidad de Concepción,D,Defensa,4
+47037,Osvaldo González,Universidad de Concepción,D,Defensa,11
+973567,Pablo Parra,Universidad de Concepción,M,Mediocampo,8
+1503169,Patricio Romero,Universidad de Concepción,D,Defensa,3
+1002740,Santiago Silva Azambuja,Universidad de Concepción,G,Arquero,11
+906102,Yerco Oyanedel,Universidad de Concepción,D,Defensa,11
+927110,Alexander Pastene,Unión La Calera,D,Defensa,5
+1403421,Axel Encinas,Unión La Calera,M,Mediocampo,11
+951277,Bayron Oyarzo,Unión La Calera,M,Mediocampo,11
+2496220,Benjamín Argandoña,Unión La Calera,M,Mediocampo,3
+822449,Camilo Moya,Unión La Calera,M,Mediocampo,11
+861299,Carlo Villanueva,Unión La Calera,M,Mediocampo,4
+889511,Christopher Díaz,Unión La Calera,D,Defensa,11
+819005,Cristián Gutiérrez,Unión La Calera,D,Defensa,10
+1111544,Daniel Gutiérrez,Unión La Calera,D,Defensa,11
+1523685,Francisco Jose Pozzo,Unión La Calera,F,Delantera,10
+1017169,Javier Saldías,Unión La Calera,D,Defensa,6
+1002941,Joan Cruz,Unión La Calera,M,Mediocampo,6
+1190022,Joaquín Soto,Unión La Calera,M,Mediocampo,11
+965967,Juan Manuel Requena,Unión La Calera,M,Mediocampo,9
+787710,Kevin Méndez,Unión La Calera,M,Mediocampo,10
+1650043,Martín Hiriart,Unión La Calera,F,Delantera,7
+924528,Matías Campos López,Unión La Calera,F,Delantera,11
+2456453,Maximiliano Fernandez,Unión La Calera,F,Delantera,4
+1807687,Michael Maturana,Unión La Calera,D,Defensa,8
+339261,Nelson Espinoza,Unión La Calera,G,Arquero,11
+333465,Nicolás Avellaneda,Unión La Calera,G,Arquero,11
+1125257,Nicolás Palma,Unión La Calera,D,Defensa,10
+1108449,Rodrigo Caseres,Unión La Calera,D,Defensa,11
+936901,Sebastián Sáez,Unión La Calera,F,Delantera,11
+822444,Yerko Leiva,Unión La Calera,M,Mediocampo,7
+1197415,Alex Valdés,Ñublense,M,Mediocampo,11
+949422,Carlos Salomón,Ñublense,D,Defensa,9
+1981750,Daniel Saavedra,Ñublense,M,Mediocampo,4
+973992,Diego Céspedes,Ñublense,M,Mediocampo,10
+1125913,Diego Sanhueza,Ñublense,D,Defensa,11
+333405,Felipe Campos,Ñublense,D,Defensa,9
+962130,Fernando Ovelar,Ñublense,F,Delantera,11
+1518443,Franco Rami,Ñublense,F,Delantera,11
+584418,Gabriel Graciani,Ñublense,M,Mediocampo,10
+1503119,Giovanny Avalos,Ñublense,F,Delantera,8
+986569,Hernán Muñoz,Ñublense,G,Arquero,11
+761426,Ignacio Jeraldino,Ñublense,F,Delantera,11
+1118269,Ignacio Tapia,Ñublense,M,Mediocampo,7
+2038473,Joaquín González,Ñublense,F,Delantera,3
+986626,Jovany Campusano,Ñublense,M,Mediocampo,10
+312376,Lorenzo Reyes,Ñublense,M,Mediocampo,11
+1396682,Lucas Molina,Ñublense,F,Delantera,11
+951278,Manuel Rivera,Ñublense,M,Mediocampo,11
+986676,Matías Plaza,Ñublense,M,Mediocampo,11
+47441,Nicola Pérez,Ñublense,G,Arquero,11
+819075,Osvaldo Bosso,Ñublense,D,Defensa,11
+1015675,Pablo Calderón,Ñublense,D,Defensa,7
+863129,Sebastián Valencia,Ñublense,D,Defensa,11

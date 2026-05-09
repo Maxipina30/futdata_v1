@@ -1,0 +1,761 @@
+date,time,comp,round,day,venue,result,gf,ga,opponent,poss,captain,formation,opp_formation,referee,match_report,equipo,sh,sot,sot_pct,g_per_sh,g_per_sot,pk,pkatt,sh_allowed,sot_allowed,sot_allowed_pct,g_per_sh_allowed,g_per_sot_allowed,pk_allowed,pkatt_allowed,round_num
+2025-08-17,16:30 (12:30),Premier League,Matchweek 1,Sun,Away,W,1.0,0.0,Manchester Utd,39.0,Martin Ødegaard,4-3-3,3-4-3,Simon Hooper,Match Report,Arsenal,,,,,,,,,,,,,,,1
+2025-08-23,17:30 (13:30),Premier League,Matchweek 2,Sat,Home,W,5.0,0.0,Leeds United,68.0,Martin Ødegaard,4-3-3,4-3-3,Jarred Gillett,Match Report,Arsenal,,,,,,,,,,,,,,,2
+2025-08-31,16:30 (12:30),Premier League,Matchweek 3,Sun,Away,L,0.0,1.0,Liverpool,47.0,Gabriel Magalhães,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,Arsenal,,,,,,,,,,,,,,,3
+2025-09-13,12:30 (08:30),Premier League,Matchweek 4,Sat,Home,W,3.0,0.0,Nottingham Forest,54.0,Martin Ødegaard,4-3-3,4-2-3-1,Darren England,Match Report,Arsenal,,,,,,,,,,,,,,,4
+2025-09-21,16:30 (12:30),Premier League,Matchweek 5,Sun,Home,D,1.0,1.0,Manchester City,67.0,Gabriel Magalhães,4-3-3,4-1-4-1,Stuart Attwell,Match Report,Arsenal,,,,,,,,,,,,,,,5
+2025-09-28,16:30 (12:30),Premier League,Matchweek 6,Sun,Away,W,2.0,1.0,Newcastle United,64.0,Bukayo Saka,4-2-3-1,4-3-3,Jarred Gillett,Match Report,Arsenal,,,,,,,,,,,,,,,6
+2025-10-04,15:00 (11:00),Premier League,Matchweek 7,Sat,Home,W,2.0,0.0,West Ham United,68.0,Martin Ødegaard,4-3-3,4-1-4-1,John Brooks,Match Report,Arsenal,,,,,,,,,,,,,,,7
+2025-10-18,17:30 (13:30),Premier League,Matchweek 8,Sat,Away,W,1.0,0.0,Fulham,63.0,Bukayo Saka,4-3-3,4-2-3-1,Anthony Taylor,Match Report,Arsenal,,,,,,,,,,,,,,,8
+2025-10-26,14:00 (11:00),Premier League,Matchweek 9,Sun,Home,W,1.0,0.0,Crystal Palace,60.0,Bukayo Saka,4-3-3,3-4-3,Thomas Bramall,Match Report,Arsenal,,,,,,,,,,,,,,,9
+2025-11-01,15:00 (12:00),Premier League,Matchweek 10,Sat,Away,W,2.0,0.0,Burnley,54.0,Bukayo Saka,4-3-3,5-4-1,Chris Kavanagh,Match Report,Arsenal,,,,,,,,,,,,,,,10
+2025-11-08,17:30 (14:30),Premier League,Matchweek 11,Sat,Away,D,2.0,2.0,Sunderland,65.0,Bukayo Saka,4-2-3-1,5-4-1,Craig Pawson,Match Report,Arsenal,,,,,,,,,,,,,,,11
+2025-11-23,16:30 (13:30),Premier League,Matchweek 12,Sun,Home,W,4.0,1.0,Tottenham Hotspur,57.0,Bukayo Saka,4-2-3-1,3-4-3,Michael Oliver,Match Report,Arsenal,,,,,,,,,,,,,,,12
+2025-11-30,16:30 (13:30),Premier League,Matchweek 13,Sun,Away,D,1.0,1.0,Chelsea,62.0,Bukayo Saka,4-3-3,4-2-3-1,Anthony Taylor,Match Report,Arsenal,,,,,,,,,,,,,,,13
+2025-12-03,19:30 (16:30),Premier League,Matchweek 14,Wed,Home,W,2.0,0.0,Brentford,62.0,Martin Ødegaard,4-3-3,5-3-2,Tony Harrington,Match Report,Arsenal,,,,,,,,,,,,,,,14
+2025-12-06,12:30 (09:30),Premier League,Matchweek 15,Sat,Away,L,1.0,2.0,Aston Villa,53.0,Martin Ødegaard,4-3-3,4-2-3-1,Peter Bankes,Match Report,Arsenal,,,,,,,,,,,,,,,15
+2025-12-13,20:00 (17:00),Premier League,Matchweek 16,Sat,Home,W,2.0,1.0,Wolves,69.0,Bukayo Saka,4-3-3,3-5-2,Robert Jones,Match Report,Arsenal,,,,,,,,,,,,,,,16
+2025-12-20,20:00 (17:00),Premier League,Matchweek 17,Sat,Away,W,1.0,0.0,Everton,65.0,Martin Ødegaard,4-3-3,4-2-3-1,Samuel Barrott,Match Report,Arsenal,,,,,,,,,,,,,,,17
+2025-12-27,15:00 (12:00),Premier League,Matchweek 18,Sat,Home,W,2.0,1.0,Brighton,53.0,Martin Ødegaard,4-3-3,3-4-3,John Brooks,Match Report,Arsenal,,,,,,,,,,,,,,,18
+2025-12-30,20:15 (17:15),Premier League,Matchweek 19,Tue,Home,W,4.0,1.0,Aston Villa,47.0,Martin Ødegaard,4-3-3,4-2-3-1,Darren England,Match Report,Arsenal,,,,,,,,,,,,,,,19
+2026-01-03,17:30 (14:30),Premier League,Matchweek 20,Sat,Away,W,3.0,2.0,Bournemouth,57.0,Martin Ødegaard,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,Arsenal,,,,,,,,,,,,,,,20
+2026-01-08,20:00 (17:00),Premier League,Matchweek 21,Thu,Home,D,0.0,0.0,Liverpool,48.0,Martin Ødegaard,4-3-3,4-2-3-1,Anthony Taylor,Match Report,Arsenal,,,,,,,,,,,,,,,21
+2026-01-17,17:30 (14:30),Premier League,Matchweek 22,Sat,Away,D,0.0,0.0,Nottingham Forest,61.0,Martin Ødegaard,4-3-3,4-2-3-1,Michael Oliver,Match Report,Arsenal,,,,,,,,,,,,,,,22
+2026-01-25,16:30 (13:30),Premier League,Matchweek 23,Sun,Home,L,2.0,3.0,Manchester Utd,57.0,Martin Ødegaard,4-3-3,4-2-3-1,Craig Pawson,Match Report,Arsenal,,,,,,,,,,,,,,,23
+2026-01-31,15:00 (12:00),Premier League,Matchweek 24,Sat,Away,W,4.0,0.0,Leeds United,51.0,Gabriel Magalhães,4-2-3-1,3-4-3,Stuart Attwell,Match Report,Arsenal,,,,,,,,,,,,,,,24
+2026-02-07,15:00 (12:00),Premier League,Matchweek 25,Sat,Home,W,3.0,0.0,Sunderland,50.0,Gabriel Magalhães,4-3-3,4-2-3-1,Samuel Barrott,Match Report,Arsenal,,,,,,,,,,,,,,,25
+2026-02-12,20:00 (17:00),Premier League,Matchweek 26,Thu,Away,D,1.0,1.0,Brentford,60.0,Gabriel Magalhães,4-2-3-1,4-2-3-1,John Brooks,Match Report,Arsenal,,,,,,,,,,,,,,,26
+2026-02-18,20:00 (17:00),Premier League,Matchweek 31,Wed,Away,D,2.0,2.0,Wolves,58.0,Bukayo Saka,4-2-3-1,3-4-3,Paul Tierney,Match Report,Arsenal,,,,,,,,,,,,,,,31
+2026-02-22,16:30 (13:30),Premier League,Matchweek 27,Sun,Away,W,4.0,1.0,Tottenham Hotspur,61.0,Bukayo Saka,4-2-3-1,3-5-2,Peter Bankes,Match Report,Arsenal,,,,,,,,,,,,,,,27
+2026-03-01,16:30 (13:30),Premier League,Matchweek 28,Sun,Home,W,2.0,1.0,Chelsea,41.0,Bukayo Saka,4-2-3-1,4-3-3,Darren England,Match Report,Arsenal,,,,,,,,,,,,,,,28
+2026-03-04,19:30 (16:30),Premier League,Matchweek 29,Wed,Away,W,1.0,0.0,Brighton,40.0,Bukayo Saka,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,Arsenal,,,,,,,,,,,,,,,29
+2026-03-14,17:30 (14:30),Premier League,Matchweek 30,Sat,Home,W,2.0,0.0,Everton,65.0,Bukayo Saka,4-2-3-1,4-2-3-1,Andy Madley,Match Report,Arsenal,,,,,,,,,,,,,,,30
+2026-04-11,12:30 (08:30),Premier League,Matchweek 32,Sat,Home,L,1.0,2.0,Bournemouth,53.0,Declan Rice,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,Arsenal,,,,,,,,,,,,,,,32
+2026-04-19,16:30 (12:30),Premier League,Matchweek 33,Sun,Away,L,1.0,2.0,Manchester City,41.0,Martin Ødegaard,4-3-3,4-2-3-1,Anthony Taylor,Match Report,Arsenal,,,,,,,,,,,,,,,33
+2026-04-25,17:30 (13:30),Premier League,Matchweek 34,Sat,Home,W,1.0,0.0,Newcastle United,45.0,Martin Ødegaard,4-3-3,4-1-4-1,Samuel Barrott,Match Report,Arsenal,,,,,,,,,,,,,,,34
+2026-05-02,17:30 (13:30),Premier League,Matchweek 35,Sat,Home,,,,Fulham,,,,,,Head-to-Head,Arsenal,,,,,,,,,,,,,,,35
+2026-05-10,16:30 (12:30),Premier League,Matchweek 36,Sun,Away,,,,West Ham United,,,,,,Head-to-Head,Arsenal,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),Premier League,Matchweek 37,Sun,Home,,,,Burnley,,,,,,Head-to-Head,Arsenal,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),Premier League,Matchweek 38,Sun,Away,,,,Crystal Palace,,,,,,Head-to-Head,Arsenal,,,,,,,,,,,,,,,38
+2025-08-16,12:30 (08:30),,Matchweek 1,Sat,Home,D,0.0,0.0,Newcastle United,41.0,John McGinn,4-2-3-1,4-3-3,Craig Pawson,Match Report,Aston Villa,3.0,3.0,100.0,0.0,0.0,0.0,0.0,16.0,3.0,18.8,0.0,0.0,0.0,0.0,1
+2025-08-23,15:00 (11:00),,Matchweek 2,Sat,Away,L,0.0,1.0,Brentford,76.0,John McGinn,4-2-3-1,4-2-3-1,Tony Harrington,Match Report,Aston Villa,17.0,2.0,11.8,0.0,0.0,0.0,0.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,2
+2025-08-31,19:00 (15:00),,Matchweek 3,Sun,Home,L,0.0,3.0,Crystal Palace,58.0,John McGinn,4-2-3-1,3-4-3,Stuart Attwell,Match Report,Aston Villa,13.0,4.0,30.8,0.0,0.0,0.0,0.0,6.0,4.0,66.7,0.33,0.5,1.0,1.0,3
+2025-09-13,15:00 (11:00),,Matchweek 4,Sat,Away,D,0.0,0.0,Everton,52.0,John McGinn,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,Aston Villa,7.0,1.0,14.3,0.0,0.0,0.0,0.0,20.0,2.0,10.0,0.0,0.0,0.0,0.0,4
+2025-09-21,14:00 (10:00),,Matchweek 5,Sun,Away,D,1.0,1.0,Sunderland,71.0,John McGinn,4-2-3-1,4-3-3,Samuel Barrott,Match Report,Aston Villa,12.0,2.0,16.7,0.08,0.5,0.0,0.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,5
+2025-09-28,14:00 (10:00),,Matchweek 6,Sun,Home,W,3.0,1.0,Fulham,48.0,John McGinn,4-2-3-1,4-2-3-1,Andy Madley,Match Report,Aston Villa,9.0,4.0,44.4,0.33,0.75,0.0,0.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,6
+2025-10-05,14:00 (10:00),,Matchweek 7,Sun,Home,W,2.0,1.0,Burnley,55.0,John McGinn,4-2-3-1,5-4-1,Andrew Kitchen,Match Report,Aston Villa,15.0,7.0,46.7,0.13,0.29,0.0,0.0,5.0,2.0,40.0,0.2,0.5,0.0,0.0,7
+2025-10-19,14:00 (10:00),,Matchweek 8,Sun,Away,W,2.0,1.0,Tottenham Hotspur,47.0,John McGinn,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,Aston Villa,8.0,2.0,25.0,0.25,1.0,0.0,0.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,8
+2025-10-26,14:00 (11:00),,Matchweek 9,Sun,Home,W,1.0,0.0,Manchester City,47.0,John McGinn,4-2-3-1,4-1-4-1,Michael Oliver,Match Report,Aston Villa,9.0,3.0,33.3,0.11,0.33,0.0,0.0,18.0,4.0,22.2,0.0,0.0,0.0,0.0,9
+2025-11-01,20:00 (17:00),,Matchweek 10,Sat,Away,L,0.0,2.0,Liverpool,46.0,John McGinn,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,Aston Villa,10.0,3.0,30.0,0.0,0.0,0.0,0.0,16.0,4.0,25.0,0.13,0.5,0.0,0.0,10
+2025-11-09,14:00 (11:00),,Matchweek 11,Sun,Home,W,4.0,0.0,Bournemouth,52.0,John McGinn,4-4-2,4-2-3-1,John Brooks,Match Report,Aston Villa,16.0,8.0,50.0,0.25,0.5,0.0,0.0,13.0,4.0,30.8,0.0,0.0,0.0,1.0,11
+2025-11-23,14:00 (11:00),,Matchweek 12,Sun,Away,W,2.0,1.0,Leeds United,53.0,John McGinn,4-4-2,4-3-3,Robert Jones,Match Report,Aston Villa,14.0,3.0,21.4,0.14,0.67,0.0,0.0,14.0,5.0,35.7,0.07,0.2,0.0,0.0,12
+2025-11-30,14:05 (11:05),,Matchweek 13,Sun,Home,W,1.0,0.0,Wolves,53.0,John McGinn,4-2-3-1,3-4-3,Chris Kavanagh,Match Report,Aston Villa,16.0,6.0,37.5,0.06,0.17,0.0,0.0,9.0,4.0,44.4,0.0,0.0,0.0,0.0,13
+2025-12-03,19:30 (16:30),,Matchweek 14,Wed,Away,W,4.0,3.0,Brighton,44.0,John McGinn,4-2-3-1,4-2-3-1,Andy Madley,Match Report,Aston Villa,14.0,10.0,71.4,0.29,0.4,0.0,0.0,16.0,7.0,43.8,0.13,0.29,0.0,0.0,14
+2025-12-06,12:30 (09:30),,Matchweek 15,Sat,Home,W,2.0,1.0,Arsenal,47.0,John McGinn,4-2-3-1,4-3-3,Peter Bankes,Match Report,Aston Villa,15.0,6.0,40.0,0.13,0.33,0.0,0.0,15.0,9.0,60.0,0.07,0.11,0.0,0.0,15
+2025-12-14,14:00 (11:00),,Matchweek 16,Sun,Away,W,3.0,2.0,West Ham United,59.0,John McGinn,4-2-3-1,4-3-1-2,Anthony Taylor,Match Report,Aston Villa,7.0,4.0,57.1,0.29,0.5,0.0,0.0,10.0,3.0,30.0,0.2,0.67,0.0,0.0,16
+2025-12-21,16:30 (13:30),,Matchweek 17,Sun,Home,W,2.0,1.0,Manchester Utd,43.0,John McGinn,4-2-3-1,3-4-3,Michael Oliver,Match Report,Aston Villa,12.0,4.0,33.3,0.17,0.5,0.0,0.0,15.0,6.0,40.0,0.07,0.17,0.0,0.0,17
+2025-12-27,17:30 (14:30),,Matchweek 18,Sat,Away,W,2.0,1.0,Chelsea,37.0,John McGinn,4-4-2,4-2-3-1,Stuart Attwell,Match Report,Aston Villa,11.0,8.0,72.7,0.18,0.25,0.0,0.0,14.0,3.0,21.4,0.07,0.33,0.0,0.0,18
+2025-12-30,20:15 (17:15),,Matchweek 19,Tue,Away,L,1.0,4.0,Arsenal,53.0,Ezri Konsa,4-2-3-1,4-3-3,Darren England,Match Report,Aston Villa,11.0,3.0,27.3,0.09,0.33,0.0,0.0,22.0,7.0,31.8,0.18,0.57,0.0,0.0,19
+2026-01-03,12:30 (09:30),,Matchweek 20,Sat,Home,W,3.0,1.0,Nottingham Forest,73.0,John McGinn,4-2-3-1,4-5-1,Simon Hooper,Match Report,Aston Villa,11.0,4.0,36.4,0.27,0.75,0.0,0.0,10.0,5.0,50.0,0.1,0.2,0.0,0.0,20
+2026-01-07,19:30 (16:30),,Matchweek 21,Wed,Away,D,0.0,0.0,Crystal Palace,59.0,John McGinn,4-2-3-1,3-4-3,Andy Madley,Match Report,Aston Villa,15.0,3.0,20.0,0.0,0.0,0.0,0.0,11.0,5.0,45.5,0.0,0.0,0.0,0.0,21
+2026-01-18,16:30 (13:30),,Matchweek 22,Sun,Home,L,0.0,1.0,Everton,64.0,John McGinn,4-2-3-1,4-2-3-1,Tony Harrington,Match Report,Aston Villa,18.0,5.0,27.8,0.0,0.0,0.0,0.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,22
+2026-01-25,14:00 (11:00),,Matchweek 23,Sun,Away,W,2.0,0.0,Newcastle United,40.0,Ezri Konsa,4-2-3-1,4-3-3,Jarred Gillett,Match Report,Aston Villa,14.0,8.0,57.1,0.14,0.25,0.0,0.0,15.0,4.0,26.7,0.0,0.0,0.0,0.0,23
+2026-02-01,14:00 (11:00),,Matchweek 24,Sun,Home,L,0.0,1.0,Brentford,72.0,Ezri Konsa,4-2-3-1,4-2-3-1,Tim Robinson,Match Report,Aston Villa,27.0,5.0,18.5,0.0,0.0,0.0,0.0,6.0,2.0,33.3,0.17,0.5,0.0,0.0,24
+2026-02-07,15:00 (12:00),,Matchweek 25,Sat,Away,D,1.0,1.0,Bournemouth,47.0,Ezri Konsa,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Aston Villa,7.0,4.0,57.1,0.14,0.25,0.0,0.0,20.0,9.0,45.0,0.05,0.11,0.0,0.0,25
+2026-02-11,19:30 (16:30),,Matchweek 26,Wed,Home,W,1.0,0.0,Brighton,50.0,Ezri Konsa,4-2-3-1,4-3-3,Peter Bankes,Match Report,Aston Villa,15.0,1.0,6.7,0.0,0.0,0.0,0.0,9.0,3.0,33.3,0.0,0.0,0.0,0.0,26
+2026-02-21,15:00 (12:00),,Matchweek 27,Sat,Home,D,1.0,1.0,Leeds United,67.0,Ezri Konsa,4-2-3-1,5-4-1,Michael Oliver,Match Report,Aston Villa,16.0,4.0,25.0,0.06,0.25,0.0,0.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,27
+2026-02-27,20:00 (17:00),,Matchweek 28,Fri,Away,L,0.0,2.0,Wolves,61.0,Ezri Konsa,4-2-3-1,3-4-3,Craig Pawson,Match Report,Aston Villa,14.0,5.0,35.7,0.0,0.0,0.0,0.0,9.0,2.0,22.2,0.22,1.0,0.0,0.0,28
+2026-03-04,19:30 (16:30),,Matchweek 29,Wed,Home,L,1.0,4.0,Chelsea,43.0,Ezri Konsa,4-2-3-1,4-3-3,Jarred Gillett,Match Report,Aston Villa,9.0,4.0,44.4,0.11,0.25,0.0,0.0,15.0,8.0,53.3,0.27,0.5,0.0,0.0,29
+2026-03-15,14:00 (11:00),,Matchweek 30,Sun,Away,L,1.0,3.0,Manchester Utd,47.0,John McGinn,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Aston Villa,9.0,2.0,22.2,0.11,0.5,0.0,0.0,16.0,6.0,37.5,0.19,0.5,0.0,0.0,30
+2026-03-22,14:15 (11:15),,Matchweek 31,Sun,Home,W,2.0,0.0,West Ham United,59.0,John McGinn,4-2-3-1,4-3-3,Paul Tierney,Match Report,Aston Villa,23.0,7.0,30.4,0.09,0.29,0.0,0.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,31
+2026-04-12,14:00 (10:00),,Matchweek 32,Sun,Away,D,1.0,1.0,Nottingham Forest,59.0,John McGinn,4-2-3-1,4-2-3-1,Michael Salisbury,Match Report,Aston Villa,12.0,5.0,41.7,0.0,0.0,0.0,0.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,32
+2026-04-19,14:00 (10:00),,Matchweek 33,Sun,Home,W,4.0,3.0,Sunderland,50.0,John McGinn,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Aston Villa,15.0,7.0,46.7,0.27,0.57,0.0,0.0,10.0,7.0,70.0,0.3,0.43,0.0,0.0,33
+2026-04-25,12:30 (08:30),,Matchweek 34,Sat,Away,L,0.0,1.0,Fulham,61.0,John McGinn,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,Aston Villa,10.0,1.0,10.0,0.0,0.0,0.0,0.0,13.0,6.0,46.2,0.08,0.17,0.0,0.0,34
+2026-05-03,19:00 (15:00),,Matchweek 35,Sun,Home,,,,Tottenham Hotspur,,,,,,Head-to-Head,Aston Villa,,,,,,,,,,,,,,,35
+2026-05-10,14:00 (10:00),,Matchweek 36,Sun,Away,,,,Burnley,,,,,,Head-to-Head,Aston Villa,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Home,,,,Liverpool,,,,,,Head-to-Head,Aston Villa,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Away,,,,Manchester City,,,,,,Head-to-Head,Aston Villa,,,,,,,,,,,,,,,38
+2025-08-15,20:00 (16:00),,Matchweek 1,Fri,Away,L,2.0,4.0,Liverpool,39.0,Adam Smith,4-1-4-1,4-2-3-1,Anthony Taylor,Match Report,Bournemouth,10.0,3.0,30.0,0.2,0.67,0.0,0.0,19.0,10.0,52.6,0.21,0.4,0.0,0.0,1
+2025-08-23,15:00 (11:00),,Matchweek 2,Sat,Home,W,1.0,0.0,Wolves,59.0,Adam Smith,4-1-4-1,3-4-3,Thomas Bramall,Match Report,Bournemouth,14.0,4.0,28.6,0.07,0.25,0.0,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,2
+2025-08-30,15:00 (11:00),,Matchweek 3,Sat,Away,W,1.0,0.0,Tottenham Hotspur,38.0,Adam Smith,4-2-3-1,4-3-3,Simon Hooper,Match Report,Bournemouth,20.0,6.0,30.0,0.05,0.17,0.0,0.0,5.0,1.0,20.0,0.0,0.0,0.0,0.0,3
+2025-09-13,15:00 (11:00),,Matchweek 4,Sat,Home,W,2.0,1.0,Brighton,52.0,David Brooks,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,Bournemouth,13.0,5.0,38.5,0.08,0.2,1.0,1.0,6.0,2.0,33.3,0.17,0.5,0.0,0.0,4
+2025-09-21,14:00 (10:00),,Matchweek 5,Sun,Home,D,0.0,0.0,Newcastle United,56.0,David Brooks,4-2-3-1,3-4-3,Robert Jones,Match Report,Bournemouth,11.0,2.0,18.2,0.0,0.0,0.0,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,5
+2025-09-27,15:00 (11:00),,Matchweek 6,Sat,Away,D,2.0,2.0,Leeds United,59.0,Ryan Christie,4-2-3-1,4-3-3,Michael Oliver,Match Report,Bournemouth,12.0,5.0,41.7,0.17,0.4,0.0,0.0,19.0,8.0,42.1,0.11,0.25,0.0,0.0,6
+2025-10-03,20:00 (16:00),,Matchweek 7,Fri,Home,W,3.0,1.0,Fulham,53.0,David Brooks,4-2-3-1,3-4-3,Simon Hooper,Match Report,Bournemouth,11.0,6.0,54.5,0.27,0.5,0.0,0.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,7
+2025-10-18,15:00 (11:00),,Matchweek 8,Sat,Away,D,3.0,3.0,Crystal Palace,48.0,Marcus Tavernier,4-2-3-1,3-4-3,Jarred Gillett,Match Report,Bournemouth,8.0,5.0,62.5,0.38,0.6,0.0,0.0,20.0,7.0,35.0,0.1,0.29,1.0,1.0,8
+2025-10-26,14:00 (11:00),,Matchweek 9,Sun,Home,W,2.0,0.0,Nottingham Forest,52.0,Marcus Tavernier,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Bournemouth,13.0,5.0,38.5,0.15,0.4,0.0,0.0,8.0,4.0,50.0,0.0,0.0,0.0,0.0,9
+2025-11-02,16:30 (13:30),,Matchweek 10,Sun,Away,L,1.0,3.0,Manchester City,52.0,David Brooks,4-2-3-1,4-3-2-1,Anthony Taylor,Match Report,Bournemouth,8.0,5.0,62.5,0.13,0.2,0.0,0.0,15.0,8.0,53.3,0.2,0.38,0.0,0.0,10
+2025-11-09,14:00 (11:00),,Matchweek 11,Sun,Away,L,0.0,4.0,Aston Villa,48.0,Adam Smith,4-2-3-1,4-4-2,John Brooks,Match Report,Bournemouth,13.0,4.0,30.8,0.0,0.0,0.0,1.0,16.0,8.0,50.0,0.25,0.5,0.0,0.0,11
+2025-11-22,15:00 (12:00),,Matchweek 12,Sat,Home,D,2.0,2.0,West Ham United,76.0,Lewis Cook,4-2-3-1,3-4-3,Thomas Bramall,Match Report,Bournemouth,28.0,10.0,35.7,0.04,0.1,1.0,1.0,5.0,2.0,40.0,0.4,1.0,0.0,0.0,12
+2025-11-29,15:00 (12:00),,Matchweek 13,Sat,Away,L,2.0,3.0,Sunderland,57.0,Adam Smith,4-2-3-1,4-2-3-1,Tim Robinson,Match Report,Bournemouth,18.0,6.0,33.3,0.11,0.33,0.0,0.0,12.0,6.0,50.0,0.17,0.33,1.0,1.0,13
+2025-12-02,19:30 (16:30),,Matchweek 14,Tue,Home,L,0.0,1.0,Everton,55.0,Antoine Semenyo,4-2-3-1,4-2-3-1,Michael Salisbury,Match Report,Bournemouth,5.0,2.0,40.0,0.0,0.0,0.0,0.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,14
+2025-12-06,15:00 (12:00),,Matchweek 15,Sat,Home,D,0.0,0.0,Chelsea,39.0,Adam Smith,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,Bournemouth,13.0,5.0,38.5,0.0,0.0,0.0,0.0,11.0,4.0,36.4,0.0,0.0,0.0,0.0,15
+2025-12-15,20:00 (17:00),,Matchweek 16,Mon,Away,D,4.0,4.0,Manchester Utd,44.0,Adam Smith,4-2-3-1,3-4-3,Simon Hooper,Match Report,Bournemouth,14.0,9.0,64.3,0.29,0.44,0.0,0.0,25.0,9.0,36.0,0.16,0.44,0.0,0.0,16
+2025-12-20,15:00 (12:00),,Matchweek 17,Sat,Home,D,1.0,1.0,Burnley,65.0,Lewis Cook,4-2-3-1,4-4-2,Chris Kavanagh,Match Report,Bournemouth,16.0,1.0,6.3,0.06,1.0,0.0,0.0,4.0,1.0,25.0,0.25,1.0,0.0,0.0,17
+2025-12-27,15:00 (12:00),,Matchweek 18,Sat,Away,L,1.0,4.0,Brentford,51.0,Adam Smith,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,Bournemouth,20.0,10.0,50.0,0.05,0.1,0.0,0.0,15.0,7.0,46.7,0.2,0.43,0.0,0.0,18
+2025-12-30,19:30 (16:30),,Matchweek 19,Tue,Away,D,2.0,2.0,Chelsea,33.0,David Brooks,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Bournemouth,17.0,6.0,35.3,0.12,0.33,0.0,0.0,17.0,3.0,17.6,0.06,0.33,1.0,1.0,19
+2026-01-03,17:30 (14:30),,Matchweek 20,Sat,Home,L,2.0,3.0,Arsenal,43.0,David Brooks,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,Bournemouth,15.0,3.0,20.0,0.13,0.67,0.0,0.0,12.0,5.0,41.7,0.25,0.6,0.0,0.0,20
+2026-01-07,19:30 (16:30),,Matchweek 21,Wed,Home,W,3.0,2.0,Tottenham Hotspur,42.0,Lewis Cook,4-2-3-1,4-2-3-1,Darren England,Match Report,Bournemouth,11.0,3.0,27.3,0.27,1.0,0.0,0.0,16.0,4.0,25.0,0.13,0.5,0.0,0.0,21
+2026-01-19,20:00 (17:00),,Matchweek 22,Mon,Away,D,1.0,1.0,Brighton,34.0,Lewis Cook,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,Bournemouth,12.0,2.0,16.7,0.0,0.0,1.0,1.0,17.0,5.0,29.4,0.06,0.2,0.0,0.0,22
+2026-01-24,17:30 (14:30),,Matchweek 23,Sat,Home,W,3.0,2.0,Liverpool,33.0,Adam Smith,4-2-3-1,4-2-2-2,Michael Salisbury,Match Report,Bournemouth,12.0,5.0,41.7,0.25,0.6,0.0,0.0,14.0,4.0,28.6,0.14,0.5,0.0,0.0,23
+2026-01-31,15:00 (12:00),,Matchweek 24,Sat,Away,W,2.0,0.0,Wolves,48.0,Adam Smith,4-2-3-1,3-5-2,Michael Oliver,Match Report,Bournemouth,9.0,4.0,44.4,0.22,0.5,0.0,0.0,17.0,7.0,41.2,0.0,0.0,0.0,0.0,24
+2026-02-07,15:00 (12:00),,Matchweek 25,Sat,Home,D,1.0,1.0,Aston Villa,53.0,Lewis Cook,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Bournemouth,20.0,9.0,45.0,0.05,0.11,0.0,0.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,25
+2026-02-10,19:30 (16:30),,Matchweek 26,Tue,Away,W,2.0,1.0,Everton,47.0,Ryan Christie,4-2-3-1,4-2-3-1,Andy Madley,Match Report,Bournemouth,11.0,4.0,36.4,0.18,0.5,0.0,0.0,16.0,6.0,37.5,0.0,0.0,1.0,1.0,26
+2026-02-21,17:30 (14:30),,Matchweek 27,Sat,Away,D,0.0,0.0,West Ham United,58.0,Marcos Senesi,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Bournemouth,10.0,5.0,50.0,0.0,0.0,0.0,0.0,20.0,3.0,15.0,0.0,0.0,0.0,0.0,27
+2026-02-28,12:30 (09:30),,Matchweek 28,Sat,Home,D,1.0,1.0,Sunderland,62.0,David Brooks,4-2-3-1,4-2-3-1,Jarred Gillett,Match Report,Bournemouth,21.0,5.0,23.8,0.05,0.2,0.0,0.0,8.0,4.0,50.0,0.13,0.25,0.0,0.0,28
+2026-03-03,19:30 (16:30),,Matchweek 29,Tue,Home,D,0.0,0.0,Brentford,48.0,Ryan Christie,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,Bournemouth,13.0,2.0,15.4,0.0,0.0,0.0,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,29
+2026-03-14,15:00 (12:00),,Matchweek 30,Sat,Away,D,0.0,0.0,Burnley,62.0,Adam Smith,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,Bournemouth,22.0,3.0,13.6,0.0,0.0,0.0,0.0,15.0,2.0,13.3,0.0,0.0,0.0,0.0,30
+2026-03-20,20:00 (17:00),,Matchweek 31,Fri,Home,D,2.0,2.0,Manchester Utd,55.0,Ryan Christie,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,Bournemouth,16.0,5.0,31.3,0.06,0.2,1.0,1.0,14.0,5.0,35.7,0.0,0.0,1.0,1.0,31
+2026-04-11,12:30 (08:30),,Matchweek 32,Sat,Away,W,2.0,1.0,Arsenal,47.0,Ryan Christie,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,Bournemouth,8.0,3.0,37.5,0.25,0.67,0.0,0.0,15.0,3.0,20.0,0.0,0.0,1.0,1.0,32
+2026-04-18,15:00 (11:00),,Matchweek 33,Sat,Away,W,2.0,1.0,Newcastle United,46.0,Ryan Christie,4-2-3-1,4-3-3,Thomas Bramall,Match Report,Bournemouth,12.0,3.0,25.0,0.17,0.67,0.0,0.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,33
+2026-04-22,20:00 (16:00),,Matchweek 34,Wed,Home,D,2.0,2.0,Leeds United,60.0,David Brooks,4-2-3-1,3-4-3,Michael Salisbury,Match Report,Bournemouth,17.0,7.0,41.2,0.12,0.29,0.0,0.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,34
+2026-05-03,14:00 (10:00),,Matchweek 35,Sun,Home,,,,Crystal Palace,,,,,,Head-to-Head,Bournemouth,,,,,,,,,,,,,,,35
+2026-05-09,15:00 (11:00),,Matchweek 36,Sat,Away,,,,Fulham,,,,,,Head-to-Head,Bournemouth,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Home,,,,Manchester City,,,,,,Head-to-Head,Bournemouth,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Away,,,,Nottingham Forest,,,,,,Head-to-Head,Bournemouth,,,,,,,,,,,,,,,38
+2025-08-17,14:00 (10:00),,Matchweek 1,Sun,Away,L,1.0,3.0,Nottingham Forest,45.0,Nathan Collins,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,Brentford,10.0,3.0,30.0,0.0,0.0,1.0,1.0,11.0,5.0,45.5,0.27,0.6,0.0,0.0,1
+2025-08-23,15:00 (11:00),,Matchweek 2,Sat,Home,W,1.0,0.0,Aston Villa,24.0,Nathan Collins,4-2-3-1,4-2-3-1,Tony Harrington,Match Report,Brentford,9.0,2.0,22.2,0.11,0.5,0.0,0.0,17.0,2.0,11.8,0.0,0.0,0.0,0.0,2
+2025-08-30,15:00 (11:00),,Matchweek 3,Sat,Away,L,1.0,2.0,Sunderland,46.0,Nathan Collins,4-2-3-1,4-3-3,Anthony Taylor,Match Report,Brentford,7.0,4.0,57.1,0.14,0.25,0.0,1.0,12.0,3.0,25.0,0.08,0.33,1.0,1.0,3
+2025-09-13,20:00 (16:00),,Matchweek 4,Sat,Home,D,2.0,2.0,Chelsea,34.0,Nathan Collins,5-3-2,4-2-3-1,Stuart Attwell,Match Report,Brentford,7.0,4.0,57.1,0.29,0.5,0.0,0.0,16.0,6.0,37.5,0.13,0.33,0.0,0.0,4
+2025-09-20,20:00 (16:00),,Matchweek 5,Sat,Away,L,1.0,3.0,Fulham,47.0,Nathan Collins,5-3-2,4-2-3-1,Michael Oliver,Match Report,Brentford,8.0,3.0,37.5,0.13,0.33,0.0,0.0,14.0,3.0,21.4,0.14,0.67,0.0,0.0,5
+2025-09-27,12:30 (08:30),,Matchweek 6,Sat,Home,W,3.0,1.0,Manchester Utd,44.0,Nathan Collins,4-2-3-1,3-4-3,Craig Pawson,Match Report,Brentford,10.0,8.0,80.0,0.3,0.38,0.0,0.0,14.0,6.0,42.9,0.07,0.17,0.0,1.0,6
+2025-10-05,16:30 (12:30),,Matchweek 7,Sun,Home,L,0.0,1.0,Manchester City,30.0,Nathan Collins,5-3-2,4-1-4-1,Darren England,Match Report,Brentford,6.0,1.0,16.7,0.0,0.0,0.0,0.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,7
+2025-10-20,20:00 (16:00),,Matchweek 8,Mon,Away,W,2.0,0.0,West Ham United,57.0,Nathan Collins,4-2-3-1,4-2-3-1,Andy Madley,Match Report,Brentford,22.0,7.0,31.8,0.09,0.29,0.0,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,8
+2025-10-25,20:00 (16:00),,Matchweek 9,Sat,Home,W,3.0,2.0,Liverpool,34.0,Nathan Collins,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,Brentford,17.0,8.0,47.1,0.12,0.25,1.0,1.0,18.0,5.0,27.8,0.11,0.4,0.0,0.0,9
+2025-11-01,15:00 (12:00),,Matchweek 10,Sat,Away,L,0.0,2.0,Crystal Palace,65.0,Nathan Collins,4-2-3-1,3-4-3,Peter Bankes,Match Report,Brentford,6.0,2.0,33.3,0.0,0.0,0.0,0.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,10
+2025-11-09,14:00 (11:00),,Matchweek 11,Sun,Home,W,3.0,1.0,Newcastle United,49.0,Nathan Collins,4-2-3-1,4-3-3,Stuart Attwell,Match Report,Brentford,15.0,7.0,46.7,0.13,0.29,1.0,1.0,5.0,1.0,20.0,0.2,1.0,0.0,0.0,11
+2025-11-22,15:00 (12:00),,Matchweek 12,Sat,Away,L,1.0,2.0,Brighton,36.0,Nathan Collins,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,Brentford,10.0,4.0,40.0,0.0,0.0,1.0,2.0,14.0,5.0,35.7,0.14,0.4,0.0,0.0,12
+2025-11-29,15:00 (12:00),,Matchweek 13,Sat,Home,W,3.0,1.0,Burnley,52.0,Nathan Collins,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Brentford,14.0,4.0,28.6,0.14,0.5,1.0,1.0,6.0,2.0,33.3,0.0,0.0,1.0,1.0,13
+2025-12-03,19:30 (16:30),,Matchweek 14,Wed,Away,L,0.0,2.0,Arsenal,38.0,Mathias Jensen,5-3-2,4-3-3,Tony Harrington,Match Report,Brentford,6.0,1.0,16.7,0.0,0.0,0.0,0.0,15.0,7.0,46.7,0.13,0.29,0.0,0.0,14
+2025-12-06,15:00 (12:00),,Matchweek 15,Sat,Away,L,0.0,2.0,Tottenham Hotspur,47.0,Nathan Collins,4-2-3-1,4-2-3-1,Robert Jones,Match Report,Brentford,4.0,1.0,25.0,0.0,0.0,0.0,0.0,15.0,7.0,46.7,0.13,0.29,0.0,0.0,15
+2025-12-14,16:30 (13:30),,Matchweek 16,Sun,Home,D,1.0,1.0,Leeds United,57.0,Nathan Collins,4-2-3-1,3-5-2,John Brooks,Match Report,Brentford,7.0,2.0,28.6,0.14,0.5,0.0,0.0,18.0,4.0,22.2,0.06,0.25,0.0,0.0,16
+2025-12-20,15:00 (12:00),,Matchweek 17,Sat,Away,W,2.0,0.0,Wolves,56.0,Nathan Collins,4-3-3,3-5-2,Matt Donohue,Match Report,Brentford,7.0,6.0,85.7,0.29,0.33,0.0,0.0,9.0,2.0,22.2,0.0,0.0,0.0,1.0,17
+2025-12-27,15:00 (12:00),,Matchweek 18,Sat,Home,W,4.0,1.0,Bournemouth,49.0,Nathan Collins,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,Brentford,15.0,7.0,46.7,0.2,0.43,0.0,0.0,20.0,10.0,50.0,0.05,0.1,0.0,0.0,18
+2026-01-01,20:00 (17:00),,Matchweek 19,Thu,Home,D,0.0,0.0,Tottenham Hotspur,56.0,Nathan Collins,4-3-3,4-3-3,Andy Madley,Match Report,Brentford,7.0,2.0,28.6,0.0,0.0,0.0,0.0,9.0,3.0,33.3,0.0,0.0,0.0,0.0,19
+2026-01-04,15:00 (12:00),,Matchweek 20,Sun,Away,W,4.0,2.0,Everton,55.0,Nathan Collins,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Brentford,11.0,7.0,63.6,0.36,0.57,0.0,0.0,14.0,6.0,42.9,0.14,0.33,0.0,0.0,20
+2026-01-07,19:30 (16:30),,Matchweek 21,Wed,Home,W,3.0,0.0,Sunderland,51.0,Nathan Collins,4-2-3-1,4-2-3-1,Matt Donohue,Match Report,Brentford,18.0,6.0,33.3,0.17,0.5,0.0,0.0,11.0,3.0,27.3,0.0,0.0,0.0,1.0,21
+2026-01-17,15:00 (12:00),,Matchweek 22,Sat,Away,L,0.0,2.0,Chelsea,54.0,Nathan Collins,4-2-3-1,4-2-3-1,John Brooks,Match Report,Brentford,15.0,5.0,33.3,0.0,0.0,0.0,0.0,6.0,2.0,33.3,0.17,0.5,1.0,1.0,22
+2026-01-25,14:00 (11:00),,Matchweek 23,Sun,Home,L,0.0,2.0,Nottingham Forest,66.0,Nathan Collins,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Brentford,10.0,1.0,10.0,0.0,0.0,0.0,0.0,7.0,2.0,28.6,0.29,1.0,0.0,0.0,23
+2026-02-01,14:00 (11:00),,Matchweek 24,Sun,Away,W,1.0,0.0,Aston Villa,28.0,Mathias Jensen,4-2-3-1,4-2-3-1,Tim Robinson,Match Report,Brentford,6.0,2.0,33.3,0.17,0.5,0.0,0.0,27.0,5.0,18.5,0.0,0.0,0.0,0.0,24
+2026-02-07,17:30 (14:30),,Matchweek 25,Sat,Away,W,3.0,2.0,Newcastle United,46.0,Mathias Jensen,4-2-3-1,4-3-3,Andy Madley,Match Report,Brentford,11.0,5.0,45.5,0.18,0.4,1.0,1.0,16.0,4.0,25.0,0.06,0.25,1.0,1.0,25
+2026-02-12,20:00 (17:00),,Matchweek 26,Thu,Home,D,1.0,1.0,Arsenal,40.0,Mathias Jensen,4-2-3-1,4-2-3-1,John Brooks,Match Report,Brentford,12.0,3.0,25.0,0.08,0.33,0.0,0.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,26
+2026-02-21,15:00 (12:00),,Matchweek 27,Sat,Home,L,0.0,2.0,Brighton,52.0,Mathias Jensen,4-2-3-1,4-3-3,Jarred Gillett,Match Report,Brentford,13.0,3.0,23.1,0.0,0.0,0.0,0.0,11.0,7.0,63.6,0.18,0.29,0.0,0.0,27
+2026-02-28,15:00 (12:00),,Matchweek 28,Sat,Away,W,4.0,3.0,Burnley,58.0,Mathias Jensen,4-2-3-1,3-4-3,Samuel Barrott,Match Report,Brentford,16.0,7.0,43.8,0.25,0.57,0.0,0.0,12.0,3.0,25.0,0.17,0.67,0.0,0.0,28
+2026-03-03,19:30 (16:30),,Matchweek 29,Tue,Away,D,0.0,0.0,Bournemouth,52.0,Nathan Collins,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,Brentford,5.0,2.0,40.0,0.0,0.0,0.0,0.0,13.0,2.0,15.4,0.0,0.0,0.0,0.0,29
+2026-03-16,20:00 (17:00),,Matchweek 30,Mon,Home,D,2.0,2.0,Wolves,49.0,Nathan Collins,4-1-4-1,3-4-3,Stuart Attwell,Match Report,Brentford,10.0,3.0,30.0,0.2,0.67,0.0,0.0,13.0,4.0,30.8,0.15,0.5,0.0,0.0,30
+2026-03-21,20:00 (17:00),,Matchweek 31,Sat,Away,D,0.0,0.0,Leeds United,43.0,Nathan Collins,5-3-2,3-4-1-2,Jarred Gillett,Match Report,Brentford,6.0,2.0,33.3,0.0,0.0,0.0,0.0,14.0,4.0,28.6,0.0,0.0,0.0,0.0,31
+2026-04-11,15:00 (11:00),,Matchweek 32,Sat,Home,D,2.0,2.0,Everton,55.0,Nathan Collins,4-2-3-1,4-2-3-1,Farai Hallam,Match Report,Brentford,17.0,4.0,23.5,0.06,0.25,1.0,1.0,14.0,7.0,50.0,0.14,0.29,0.0,0.0,32
+2026-04-18,12:30 (08:30),,Matchweek 33,Sat,Home,D,0.0,0.0,Fulham,48.0,Nathan Collins,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,Brentford,13.0,4.0,30.8,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,,0.0,0.0,33
+2026-04-27,20:00 (16:00),,Matchweek 34,Mon,Away,,,,Manchester Utd,,,,,,Head-to-Head,Brentford,,,,,,,,,,,,,,,34
+2026-05-02,15:00 (11:00),,Matchweek 35,Sat,Home,,,,West Ham United,,,,,,Head-to-Head,Brentford,,,,,,,,,,,,,,,35
+2026-05-09,17:30 (13:30),,Matchweek 36,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,Brentford,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Home,,,,Crystal Palace,,,,,,Head-to-Head,Brentford,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Away,,,,Liverpool,,,,,,Head-to-Head,Brentford,,,,,,,,,,,,,,,38
+2025-08-16,15:00 (11:00),,Matchweek 1,Sat,Home,D,1.0,1.0,Fulham,50.0,Lewis Dunk,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Brighton,10.0,4.0,40.0,0.0,0.0,1.0,1.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,1
+2025-08-24,14:00 (10:00),,Matchweek 2,Sun,Away,L,0.0,2.0,Everton,57.0,Lewis Dunk,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,Brighton,13.0,4.0,30.8,0.0,0.0,0.0,1.0,11.0,3.0,27.3,0.18,0.67,0.0,0.0,2
+2025-08-31,14:00 (10:00),,Matchweek 3,Sun,Home,W,2.0,1.0,Manchester City,37.0,Lewis Dunk,4-2-3-1,4-3-3,Darren England,Match Report,Brighton,12.0,7.0,58.3,0.08,0.14,1.0,1.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,3
+2025-09-13,15:00 (11:00),,Matchweek 4,Sat,Away,L,1.0,2.0,Bournemouth,48.0,Lewis Dunk,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,Brighton,6.0,2.0,33.3,0.17,0.5,0.0,0.0,13.0,5.0,38.5,0.08,0.2,1.0,1.0,4
+2025-09-20,15:00 (11:00),,Matchweek 5,Sat,Home,D,2.0,2.0,Tottenham Hotspur,36.0,Lewis Dunk,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,Brighton,12.0,4.0,33.3,0.17,0.5,0.0,0.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,5
+2025-09-27,15:00 (11:00),,Matchweek 6,Sat,Away,W,3.0,1.0,Chelsea,41.0,Lewis Dunk,4-2-3-1,4-3-3,Simon Hooper,Match Report,Brighton,12.0,3.0,25.0,0.25,1.0,0.0,0.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,6
+2025-10-05,14:00 (10:00),,Matchweek 7,Sun,Away,D,1.0,1.0,Wolves,58.0,Lewis Dunk,4-2-3-1,4-3-3,Jarred Gillett,Match Report,Brighton,17.0,6.0,35.3,0.06,0.17,0.0,0.0,6.0,3.0,50.0,0.0,0.0,0.0,0.0,7
+2025-10-18,15:00 (11:00),,Matchweek 8,Sat,Home,W,2.0,1.0,Newcastle United,46.0,Lewis Dunk,4-2-3-1,4-3-3,Craig Pawson,Match Report,Brighton,13.0,5.0,38.5,0.15,0.4,0.0,0.0,16.0,3.0,18.8,0.06,0.33,0.0,0.0,8
+2025-10-25,17:30 (13:30),,Matchweek 9,Sat,Away,L,2.0,4.0,Manchester Utd,57.0,Lewis Dunk,4-2-3-1,3-4-3,Anthony Taylor,Match Report,Brighton,17.0,5.0,29.4,0.12,0.4,0.0,0.0,13.0,9.0,69.2,0.31,0.44,0.0,0.0,9
+2025-11-01,15:00 (12:00),,Matchweek 10,Sat,Home,W,3.0,0.0,Leeds United,50.0,Lewis Dunk,4-2-3-1,4-1-4-1,Michael Oliver,Match Report,Brighton,14.0,7.0,50.0,0.21,0.43,0.0,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,10
+2025-11-09,14:00 (11:00),,Matchweek 11,Sun,Away,D,0.0,0.0,Crystal Palace,58.0,Lewis Dunk,4-2-3-1,3-4-3,Tim Robinson,Match Report,Brighton,7.0,3.0,42.9,0.0,0.0,0.0,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,11
+2025-11-22,15:00 (12:00),,Matchweek 12,Sat,Home,W,2.0,1.0,Brentford,64.0,Danny Welbeck,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,Brighton,14.0,5.0,35.7,0.14,0.4,0.0,0.0,10.0,4.0,40.0,0.0,0.0,1.0,2.0,12
+2025-11-30,14:05 (11:05),,Matchweek 13,Sun,Away,W,2.0,0.0,Nottingham Forest,48.0,Lewis Dunk,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,Brighton,17.0,6.0,35.3,0.12,0.33,0.0,0.0,19.0,3.0,15.8,0.0,0.0,0.0,0.0,13
+2025-12-03,19:30 (16:30),,Matchweek 14,Wed,Home,L,3.0,4.0,Aston Villa,56.0,Lewis Dunk,4-2-3-1,4-2-3-1,Andy Madley,Match Report,Brighton,16.0,7.0,43.8,0.13,0.29,0.0,0.0,14.0,10.0,71.4,0.29,0.4,0.0,0.0,14
+2025-12-07,14:00 (11:00),,Matchweek 15,Sun,Home,D,1.0,1.0,West Ham United,68.0,Lewis Dunk,4-2-3-1,3-4-1-2,Simon Hooper,Match Report,Brighton,22.0,4.0,18.2,0.05,0.25,0.0,0.0,14.0,5.0,35.7,0.07,0.2,0.0,0.0,15
+2025-12-13,15:00 (12:00),,Matchweek 16,Sat,Away,L,0.0,2.0,Liverpool,50.0,Lewis Dunk,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,Brighton,14.0,1.0,7.1,0.0,0.0,0.0,0.0,18.0,4.0,22.2,0.11,0.5,0.0,0.0,16
+2025-12-20,15:00 (12:00),,Matchweek 17,Sat,Home,D,0.0,0.0,Sunderland,56.0,Georginio Rutter,4-2-3-1,4-2-3-1,Darren England,Match Report,Brighton,16.0,4.0,25.0,0.0,0.0,0.0,0.0,14.0,6.0,42.9,0.0,0.0,0.0,0.0,17
+2025-12-27,15:00 (12:00),,Matchweek 18,Sat,Away,L,1.0,2.0,Arsenal,47.0,Lewis Dunk,3-4-3,4-3-3,John Brooks,Match Report,Brighton,8.0,3.0,37.5,0.13,0.33,0.0,0.0,24.0,6.0,25.0,0.04,0.17,0.0,0.0,18
+2025-12-30,19:30 (16:30),,Matchweek 19,Tue,Away,D,2.0,2.0,West Ham United,61.0,Lewis Dunk,4-2-3-1,4-2-3-1,Michael Salisbury,Match Report,Brighton,16.0,6.0,37.5,0.06,0.17,1.0,2.0,10.0,4.0,40.0,0.1,0.25,1.0,1.0,19
+2026-01-03,15:00 (12:00),,Matchweek 20,Sat,Home,W,2.0,0.0,Burnley,60.0,Lewis Dunk,4-2-3-1,5-4-1,Tim Robinson,Match Report,Brighton,15.0,4.0,26.7,0.13,0.5,0.0,0.0,5.0,3.0,60.0,0.0,0.0,0.0,0.0,20
+2026-01-07,19:30 (16:30),,Matchweek 21,Wed,Away,D,1.0,1.0,Manchester City,40.0,Lewis Dunk,4-2-3-1,4-1-4-1,Thomas Bramall,Match Report,Brighton,6.0,3.0,50.0,0.17,0.33,0.0,0.0,22.0,6.0,27.3,0.0,0.0,1.0,1.0,21
+2026-01-19,20:00 (17:00),,Matchweek 22,Mon,Home,D,1.0,1.0,Bournemouth,66.0,Lewis Dunk,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,Brighton,17.0,5.0,29.4,0.06,0.2,0.0,0.0,12.0,2.0,16.7,0.0,0.0,1.0,1.0,22
+2026-01-24,15:00 (12:00),,Matchweek 23,Sat,Away,L,1.0,2.0,Fulham,50.0,Lewis Dunk,4-3-3,4-2-3-1,Michael Oliver,Match Report,Brighton,13.0,5.0,38.5,0.08,0.2,0.0,0.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,23
+2026-01-31,15:00 (12:00),,Matchweek 24,Sat,Home,D,1.0,1.0,Everton,54.0,Lewis Dunk,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,Brighton,11.0,2.0,18.2,0.09,0.5,0.0,0.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,24
+2026-02-08,14:00 (11:00),,Matchweek 25,Sun,Home,L,0.0,1.0,Crystal Palace,63.0,Lewis Dunk,4-2-3-1,3-4-3,Thomas Bramall,Match Report,Brighton,7.0,2.0,28.6,0.0,0.0,0.0,0.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,25
+2026-02-11,19:30 (16:30),,Matchweek 26,Wed,Away,L,0.0,1.0,Aston Villa,50.0,Lewis Dunk,4-3-3,4-2-3-1,Peter Bankes,Match Report,Brighton,9.0,3.0,33.3,0.0,0.0,0.0,0.0,15.0,1.0,6.7,0.0,0.0,0.0,0.0,26
+2026-02-21,15:00 (12:00),,Matchweek 27,Sat,Away,W,2.0,0.0,Brentford,48.0,Lewis Dunk,4-3-3,4-2-3-1,Jarred Gillett,Match Report,Brighton,11.0,7.0,63.6,0.18,0.29,0.0,0.0,13.0,3.0,23.1,0.0,0.0,0.0,0.0,27
+2026-03-01,14:00 (11:00),,Matchweek 28,Sun,Home,W,2.0,1.0,Nottingham Forest,53.0,Lewis Dunk,4-2-3-1,4-2-3-1,Andy Madley,Match Report,Brighton,14.0,7.0,50.0,0.14,0.29,0.0,0.0,13.0,4.0,30.8,0.08,0.25,0.0,0.0,28
+2026-03-04,19:30 (16:30),,Matchweek 29,Wed,Home,L,0.0,1.0,Arsenal,60.0,Pascal Groß,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,Brighton,11.0,3.0,27.3,0.0,0.0,0.0,0.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,29
+2026-03-14,15:00 (12:00),,Matchweek 30,Sat,Away,W,1.0,0.0,Sunderland,53.0,Lewis Dunk,4-2-3-1,4-1-4-1,Thomas Kirk,Match Report,Brighton,12.0,4.0,33.3,0.08,0.25,0.0,0.0,14.0,4.0,28.6,0.0,0.0,0.0,0.0,30
+2026-03-21,12:45 (09:45),,Matchweek 31,Sat,Home,W,2.0,1.0,Liverpool,47.0,Lewis Dunk,4-2-3-1,4-4-2,Darren England,Match Report,Brighton,16.0,7.0,43.8,0.13,0.29,0.0,0.0,12.0,5.0,41.7,0.08,0.2,0.0,0.0,31
+2026-04-11,15:00 (11:00),,Matchweek 32,Sat,Away,W,2.0,0.0,Burnley,50.0,Danny Welbeck,4-2-3-1,4-2-3-1,Thomas Bramall,Match Report,Brighton,13.0,6.0,46.2,0.15,0.33,0.0,0.0,10.0,5.0,50.0,0.0,0.0,0.0,0.0,32
+2026-04-18,17:30 (13:30),,Matchweek 33,Sat,Away,D,2.0,2.0,Tottenham Hotspur,58.0,Danny Welbeck,4-2-3-1,4-3-3,Stuart Attwell,Match Report,Brighton,10.0,3.0,30.0,0.2,0.67,0.0,0.0,13.0,6.0,46.2,0.15,0.33,0.0,0.0,33
+2026-04-21,20:00 (16:00),,Matchweek 34,Tue,Home,W,3.0,0.0,Chelsea,54.0,Pascal Groß,4-2-3-1,4-4-1-1,Craig Pawson,Match Report,Brighton,15.0,9.0,60.0,0.2,0.33,0.0,0.0,6.0,0.0,0.0,0.0,,0.0,0.0,34
+2026-05-02,15:00 (11:00),,Matchweek 35,Sat,Away,,,,Newcastle United,,,,,,Head-to-Head,Brighton,,,,,,,,,,,,,,,35
+2026-05-09,15:00 (11:00),,Matchweek 36,Sat,Home,,,,Wolves,,,,,,Head-to-Head,Brighton,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Away,,,,Leeds United,,,,,,Head-to-Head,Brighton,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Home,,,,Manchester Utd,,,,,,Head-to-Head,Brighton,,,,,,,,,,,,,,,38
+2025-08-16,15:00 (11:00),,Matchweek 1,Sat,Away,L,0.0,3.0,Tottenham Hotspur,32.0,Josh Cullen,5-4-1,4-3-3,Michael Oliver,Match Report,Burnley,14.0,4.0,28.6,0.0,0.0,0.0,0.0,16.0,6.0,37.5,0.19,0.5,0.0,0.0,1
+2025-08-23,15:00 (11:00),,Matchweek 2,Sat,Home,W,2.0,0.0,Sunderland,43.0,Josh Cullen,4-2-3-1,4-3-3,Michael Salisbury,Match Report,Burnley,7.0,2.0,28.6,0.29,1.0,0.0,0.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,2
+2025-08-30,15:00 (11:00),,Matchweek 3,Sat,Away,L,2.0,3.0,Manchester Utd,38.0,Josh Cullen,4-2-3-1,3-4-3,Samuel Barrott,Match Report,Burnley,6.0,3.0,50.0,0.33,0.67,0.0,0.0,26.0,6.0,23.1,0.04,0.17,1.0,1.0,3
+2025-09-14,14:00 (10:00),,Matchweek 4,Sun,Home,L,0.0,1.0,Liverpool,19.0,Josh Cullen,5-4-1,4-2-3-1,Michael Oliver,Match Report,Burnley,3.0,0.0,0.0,0.0,,0.0,0.0,27.0,4.0,14.8,0.0,0.0,1.0,1.0,4
+2025-09-20,15:00 (11:00),,Matchweek 5,Sat,Home,D,1.0,1.0,Nottingham Forest,37.0,Josh Cullen,5-4-1,4-2-3-1,Thomas Bramall,Match Report,Burnley,12.0,5.0,41.7,0.08,0.2,0.0,0.0,17.0,8.0,47.1,0.06,0.13,0.0,0.0,5
+2025-09-27,15:00 (11:00),,Matchweek 6,Sat,Away,L,1.0,5.0,Manchester City,32.0,Josh Cullen,5-4-1,4-1-4-1,Robert Jones,Match Report,Burnley,9.0,2.0,22.2,0.11,0.5,0.0,0.0,21.0,8.0,38.1,0.14,0.38,0.0,0.0,6
+2025-10-05,14:00 (10:00),,Matchweek 7,Sun,Away,L,1.0,2.0,Aston Villa,45.0,Josh Cullen,5-4-1,4-2-3-1,Andrew Kitchen,Match Report,Burnley,5.0,2.0,40.0,0.2,0.5,0.0,0.0,15.0,7.0,46.7,0.13,0.29,0.0,0.0,7
+2025-10-18,15:00 (11:00),,Matchweek 8,Sat,Home,W,2.0,0.0,Leeds United,32.0,Josh Cullen,4-2-3-1,4-3-3,Tim Robinson,Match Report,Burnley,4.0,3.0,75.0,0.5,0.67,0.0,0.0,19.0,4.0,21.1,0.0,0.0,0.0,0.0,8
+2025-10-26,14:00 (11:00),,Matchweek 9,Sun,Away,W,3.0,2.0,Wolves,43.0,Josh Cullen,4-2-3-1,4-3-3,Tony Harrington,Match Report,Burnley,11.0,7.0,63.6,0.27,0.43,0.0,0.0,15.0,7.0,46.7,0.07,0.14,1.0,1.0,9
+2025-11-01,15:00 (12:00),,Matchweek 10,Sat,Home,L,0.0,2.0,Arsenal,46.0,Josh Cullen,5-4-1,4-3-3,Chris Kavanagh,Match Report,Burnley,3.0,0.0,0.0,0.0,,0.0,0.0,12.0,8.0,66.7,0.17,0.25,0.0,0.0,10
+2025-11-08,15:00 (12:00),,Matchweek 11,Sat,Away,L,2.0,3.0,West Ham United,58.0,Josh Cullen,4-2-3-1,4-3-3,Michael Salisbury,Match Report,Burnley,16.0,7.0,43.8,0.13,0.29,0.0,0.0,15.0,6.0,40.0,0.2,0.5,0.0,0.0,11
+2025-11-22,12:30 (09:30),,Matchweek 12,Sat,Home,L,0.0,2.0,Chelsea,44.0,Josh Cullen,4-3-3,4-2-3-1,Peter Bankes,Match Report,Burnley,8.0,2.0,25.0,0.0,0.0,0.0,0.0,15.0,5.0,33.3,0.13,0.4,0.0,0.0,12
+2025-11-29,15:00 (12:00),,Matchweek 13,Sat,Away,L,1.0,3.0,Brentford,48.0,Josh Cullen,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Burnley,6.0,2.0,33.3,0.0,0.0,1.0,1.0,14.0,4.0,28.6,0.14,0.5,1.0,1.0,13
+2025-12-03,19:30 (16:30),,Matchweek 14,Wed,Home,L,0.0,1.0,Crystal Palace,58.0,Josh Cullen,4-4-2,3-4-3,Thomas Kirk,Match Report,Burnley,11.0,4.0,36.4,0.0,0.0,0.0,0.0,3.0,3.0,100.0,0.33,0.33,0.0,0.0,14
+2025-12-06,15:00 (12:00),,Matchweek 15,Sat,Away,L,1.0,2.0,Newcastle United,31.0,Josh Cullen,4-3-3,4-3-3,Stuart Attwell,Match Report,Burnley,9.0,3.0,33.3,0.0,0.0,1.0,1.0,17.0,7.0,41.2,0.06,0.14,1.0,1.0,15
+2025-12-13,17:30 (14:30),,Matchweek 16,Sat,Home,L,2.0,3.0,Fulham,53.0,Josh Cullen,4-3-3,4-2-3-1,Michael Oliver,Match Report,Burnley,16.0,8.0,50.0,0.13,0.25,0.0,0.0,6.0,4.0,66.7,0.5,0.75,0.0,0.0,16
+2025-12-20,15:00 (12:00),,Matchweek 17,Sat,Away,D,1.0,1.0,Bournemouth,35.0,Josh Cullen,4-4-2,4-2-3-1,Chris Kavanagh,Match Report,Burnley,4.0,1.0,25.0,0.25,1.0,0.0,0.0,16.0,1.0,6.3,0.06,1.0,0.0,0.0,17
+2025-12-27,15:00 (12:00),,Matchweek 18,Sat,Home,D,0.0,0.0,Everton,55.0,Josh Cullen,3-4-3,4-2-3-1,Craig Pawson,Match Report,Burnley,16.0,0.0,0.0,0.0,,0.0,0.0,15.0,6.0,40.0,0.0,0.0,0.0,0.0,18
+2025-12-30,19:30 (16:30),,Matchweek 19,Tue,Home,L,1.0,3.0,Newcastle United,49.0,Kyle Walker,3-4-3,4-3-3,Robert Jones,Match Report,Burnley,15.0,4.0,26.7,0.07,0.25,0.0,0.0,20.0,9.0,45.0,0.15,0.33,0.0,0.0,19
+2026-01-03,15:00 (12:00),,Matchweek 20,Sat,Away,L,0.0,2.0,Brighton,40.0,Kyle Walker,5-4-1,4-2-3-1,Tim Robinson,Match Report,Burnley,5.0,3.0,60.0,0.0,0.0,0.0,0.0,15.0,4.0,26.7,0.13,0.5,0.0,0.0,20
+2026-01-07,20:15 (17:15),,Matchweek 21,Wed,Home,D,2.0,2.0,Manchester Utd,35.0,Kyle Walker,3-4-3,4-2-3-1,Stuart Attwell,Match Report,Burnley,7.0,1.0,14.3,0.14,1.0,0.0,0.0,30.0,10.0,33.3,0.07,0.2,0.0,0.0,21
+2026-01-17,15:00 (12:00),,Matchweek 22,Sat,Away,D,1.0,1.0,Liverpool,27.0,Kyle Walker,3-4-3,4-2-3-1,Andy Madley,Match Report,Burnley,7.0,1.0,14.3,0.14,1.0,0.0,0.0,32.0,11.0,34.4,0.03,0.09,0.0,1.0,22
+2026-01-24,15:00 (12:00),,Matchweek 23,Sat,Home,D,2.0,2.0,Tottenham Hotspur,37.0,Kyle Walker,3-4-3,3-4-3,Peter Bankes,Match Report,Burnley,9.0,4.0,44.4,0.22,0.5,0.0,0.0,18.0,11.0,61.1,0.11,0.18,0.0,0.0,23
+2026-02-02,20:00 (17:00),,Matchweek 24,Mon,Away,L,0.0,3.0,Sunderland,56.0,Kyle Walker,3-4-3,5-4-1,Paul Tierney,Match Report,Burnley,5.0,0.0,0.0,0.0,,0.0,0.0,14.0,5.0,35.7,0.14,0.4,0.0,0.0,24
+2026-02-07,15:00 (12:00),,Matchweek 25,Sat,Home,L,0.0,2.0,West Ham United,53.0,Kyle Walker,4-5-1,4-4-1-1,Darren England,Match Report,Burnley,18.0,5.0,27.8,0.0,0.0,0.0,0.0,6.0,4.0,66.7,0.33,0.5,0.0,0.0,25
+2026-02-11,19:40 (16:40),,Matchweek 26,Wed,Away,W,3.0,2.0,Crystal Palace,36.0,Kyle Walker,3-4-3,3-4-3,Farai Hallam,Match Report,Burnley,8.0,3.0,37.5,0.25,0.67,0.0,0.0,21.0,3.0,14.3,0.1,0.67,0.0,0.0,26
+2026-02-21,15:00 (12:00),,Matchweek 27,Sat,Away,D,1.0,1.0,Chelsea,34.0,Kyle Walker,3-4-3,4-2-3-1,Lewis Smith,Match Report,Burnley,12.0,4.0,33.3,0.08,0.25,0.0,0.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,27
+2026-02-28,15:00 (12:00),,Matchweek 28,Sat,Home,L,3.0,4.0,Brentford,42.0,Maxime Estève,3-4-3,4-2-3-1,Samuel Barrott,Match Report,Burnley,12.0,3.0,25.0,0.17,0.67,0.0,0.0,16.0,7.0,43.8,0.25,0.57,0.0,0.0,28
+2026-03-03,19:30 (16:30),,Matchweek 29,Tue,Away,L,0.0,2.0,Everton,45.0,Kyle Walker,3-4-3,4-2-3-1,Tim Robinson,Match Report,Burnley,5.0,2.0,40.0,0.0,0.0,0.0,0.0,14.0,5.0,35.7,0.14,0.4,0.0,0.0,29
+2026-03-14,15:00 (12:00),,Matchweek 30,Sat,Home,D,0.0,0.0,Bournemouth,38.0,Kyle Walker,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,Burnley,15.0,2.0,13.3,0.0,0.0,0.0,0.0,22.0,3.0,13.6,0.0,0.0,0.0,0.0,30
+2026-03-21,15:00 (12:00),,Matchweek 31,Sat,Away,L,1.0,3.0,Fulham,45.0,Kyle Walker,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,Burnley,9.0,5.0,55.6,0.11,0.2,0.0,0.0,22.0,6.0,27.3,0.09,0.33,1.0,1.0,31
+2026-04-11,15:00 (11:00),,Matchweek 32,Sat,Home,L,0.0,2.0,Brighton,50.0,Maxime Estève,4-2-3-1,4-2-3-1,Thomas Bramall,Match Report,Burnley,10.0,5.0,50.0,0.0,0.0,0.0,0.0,13.0,6.0,46.2,0.15,0.33,0.0,0.0,32
+2026-04-19,14:00 (10:00),,Matchweek 33,Sun,Away,L,1.0,4.0,Nottingham Forest,49.0,Kyle Walker,4-2-3-1,4-2-3-1,Thomas Kirk,Match Report,Burnley,4.0,3.0,75.0,0.25,0.33,0.0,0.0,10.0,4.0,40.0,0.4,1.0,0.0,0.0,33
+2026-04-22,20:00 (16:00),,Matchweek 34,Wed,Home,L,0.0,1.0,Manchester City,35.0,Kyle Walker,5-4-1,4-2-3-1,Andy Madley,Match Report,Burnley,9.0,1.0,11.1,0.0,0.0,0.0,0.0,28.0,9.0,32.1,0.04,0.11,0.0,0.0,34
+2026-05-01,20:00 (16:00),,Matchweek 35,Fri,Away,,,,Leeds United,,,,,,Head-to-Head,Burnley,,,,,,,,,,,,,,,35
+2026-05-10,14:00 (10:00),,Matchweek 36,Sun,Home,,,,Aston Villa,,,,,,Head-to-Head,Burnley,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Away,,,,Arsenal,,,,,,Head-to-Head,Burnley,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Home,,,,Wolves,,,,,,Head-to-Head,Burnley,,,,,,,,,,,,,,,38
+2025-08-17,14:00 (10:00),,Matchweek 1,Sun,Home,D,0.0,0.0,Crystal Palace,71.0,Reece James,4-2-3-1,3-4-3,Darren England,Match Report,Chelsea,19.0,3.0,15.8,0.0,0.0,0.0,0.0,12.0,4.0,33.3,0.0,0.0,0.0,0.0,1
+2025-08-22,20:00 (16:00),,Matchweek 2,Fri,Away,W,5.0,1.0,West Ham United,60.0,Enzo Fernández,4-2-3-1,3-4-1-2,Michael Oliver,Match Report,Chelsea,12.0,7.0,58.3,0.42,0.71,0.0,0.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,2
+2025-08-30,12:30 (08:30),,Matchweek 3,Sat,Home,W,2.0,0.0,Fulham,55.0,Enzo Fernández,4-2-3-1,4-2-3-1,Robert Jones,Match Report,Chelsea,13.0,6.0,46.2,0.08,0.17,1.0,1.0,11.0,3.0,27.3,0.0,0.0,0.0,0.0,3
+2025-09-13,20:00 (16:00),,Matchweek 4,Sat,Away,D,2.0,2.0,Brentford,66.0,Enzo Fernández,4-2-3-1,5-3-2,Stuart Attwell,Match Report,Chelsea,16.0,6.0,37.5,0.13,0.33,0.0,0.0,7.0,4.0,57.1,0.29,0.5,0.0,0.0,4
+2025-09-20,17:30 (13:30),,Matchweek 5,Sat,Away,L,1.0,2.0,Manchester Utd,59.0,Reece James,4-2-3-1,3-4-3,Peter Bankes,Match Report,Chelsea,5.0,1.0,20.0,0.2,1.0,0.0,0.0,11.0,4.0,36.4,0.18,0.5,0.0,0.0,5
+2025-09-27,15:00 (11:00),,Matchweek 6,Sat,Home,L,1.0,3.0,Brighton,59.0,Reece James,4-3-3,4-2-3-1,Simon Hooper,Match Report,Chelsea,13.0,3.0,23.1,0.08,0.33,0.0,0.0,12.0,3.0,25.0,0.25,1.0,0.0,0.0,6
+2025-10-04,17:30 (13:30),,Matchweek 7,Sat,Home,W,2.0,1.0,Liverpool,53.0,Reece James,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Chelsea,12.0,6.0,50.0,0.17,0.33,0.0,0.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,7
+2025-10-18,12:30 (08:30),,Matchweek 8,Sat,Away,W,3.0,0.0,Nottingham Forest,50.0,Reece James,4-2-3-1,5-3-2,Chris Kavanagh,Match Report,Chelsea,17.0,6.0,35.3,0.18,0.5,0.0,0.0,12.0,2.0,16.7,0.0,0.0,0.0,0.0,8
+2025-10-25,15:00 (11:00),,Matchweek 9,Sat,Home,L,1.0,2.0,Sunderland,69.0,Reece James,4-2-3-1,5-4-1,Andy Madley,Match Report,Chelsea,16.0,7.0,43.8,0.06,0.14,0.0,0.0,10.0,4.0,40.0,0.2,0.5,0.0,0.0,9
+2025-11-01,17:30 (14:30),,Matchweek 10,Sat,Away,W,1.0,0.0,Tottenham Hotspur,52.0,Reece James,4-2-3-1,4-2-3-1,Jarred Gillett,Match Report,Chelsea,15.0,9.0,60.0,0.07,0.11,0.0,0.0,3.0,1.0,33.3,0.0,0.0,0.0,0.0,10
+2025-11-08,20:00 (17:00),,Matchweek 11,Sat,Home,W,3.0,0.0,Wolves,65.0,Enzo Fernández,4-2-3-1,5-3-2,Andrew Kitchen,Match Report,Chelsea,20.0,8.0,40.0,0.15,0.38,0.0,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,11
+2025-11-22,12:30 (09:30),,Matchweek 12,Sat,Away,W,2.0,0.0,Burnley,56.0,Reece James,4-2-3-1,4-3-3,Peter Bankes,Match Report,Chelsea,15.0,5.0,33.3,0.13,0.4,0.0,0.0,8.0,2.0,25.0,0.0,0.0,0.0,0.0,12
+2025-11-30,16:30 (13:30),,Matchweek 13,Sun,Home,D,1.0,1.0,Arsenal,38.0,Reece James,4-2-3-1,4-3-3,Anthony Taylor,Match Report,Chelsea,11.0,4.0,36.4,0.09,0.25,0.0,0.0,8.0,4.0,50.0,0.13,0.25,0.0,0.0,13
+2025-12-03,20:15 (17:15),,Matchweek 14,Wed,Away,L,1.0,3.0,Leeds United,71.0,Enzo Fernández,4-2-3-1,3-5-2,Darren England,Match Report,Chelsea,14.0,2.0,14.3,0.07,0.5,0.0,0.0,17.0,5.0,29.4,0.18,0.6,0.0,0.0,14
+2025-12-06,15:00 (12:00),,Matchweek 15,Sat,Away,D,0.0,0.0,Bournemouth,61.0,Reece James,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,Chelsea,11.0,4.0,36.4,0.0,0.0,0.0,0.0,13.0,5.0,38.5,0.0,0.0,0.0,0.0,15
+2025-12-13,15:00 (12:00),,Matchweek 16,Sat,Home,W,2.0,0.0,Everton,58.0,Reece James,4-2-3-1,4-2-3-1,Thomas Bramall,Match Report,Chelsea,17.0,5.0,29.4,0.12,0.4,0.0,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,16
+2025-12-20,12:30 (09:30),,Matchweek 17,Sat,Away,D,2.0,2.0,Newcastle United,53.0,Reece James,4-2-3-1,4-3-3,Andy Madley,Match Report,Chelsea,13.0,4.0,30.8,0.15,0.5,0.0,0.0,11.0,5.0,45.5,0.18,0.4,0.0,0.0,17
+2025-12-27,17:30 (14:30),,Matchweek 18,Sat,Home,L,1.0,2.0,Aston Villa,63.0,Reece James,4-2-3-1,4-4-2,Stuart Attwell,Match Report,Chelsea,14.0,3.0,21.4,0.07,0.33,0.0,0.0,11.0,8.0,72.7,0.18,0.25,0.0,0.0,18
+2025-12-30,19:30 (16:30),,Matchweek 19,Tue,Home,D,2.0,2.0,Bournemouth,67.0,Enzo Fernández,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Chelsea,17.0,3.0,17.6,0.06,0.33,1.0,1.0,17.0,6.0,35.3,0.12,0.33,0.0,0.0,19
+2026-01-04,17:30 (14:30),,Matchweek 20,Sun,Away,D,1.0,1.0,Manchester City,42.0,Reece James,4-2-3-1,4-1-4-1,Michael Oliver,Match Report,Chelsea,8.0,3.0,37.5,0.13,0.33,0.0,0.0,14.0,3.0,21.4,0.07,0.33,0.0,0.0,20
+2026-01-07,19:30 (16:30),,Matchweek 21,Wed,Away,L,1.0,2.0,Fulham,46.0,Enzo Fernández,4-2-3-1,3-4-3,Peter Bankes,Match Report,Chelsea,14.0,6.0,42.9,0.07,0.17,0.0,0.0,16.0,5.0,31.3,0.13,0.4,0.0,0.0,21
+2026-01-17,15:00 (12:00),,Matchweek 22,Sat,Home,W,2.0,0.0,Brentford,46.0,Reece James,4-2-3-1,4-2-3-1,John Brooks,Match Report,Chelsea,6.0,2.0,33.3,0.17,0.5,1.0,1.0,15.0,5.0,33.3,0.0,0.0,0.0,0.0,22
+2026-01-25,14:00 (11:00),,Matchweek 23,Sun,Away,W,3.0,1.0,Crystal Palace,57.0,Reece James,4-2-3-1,3-4-3,Darren England,Match Report,Chelsea,10.0,6.0,60.0,0.2,0.33,1.0,1.0,13.0,7.0,53.8,0.08,0.14,0.0,0.0,23
+2026-01-31,17:30 (14:30),,Matchweek 24,Sat,Home,W,3.0,2.0,West Ham United,70.0,Enzo Fernández,4-1-4-1,4-4-1-1,Anthony Taylor,Match Report,Chelsea,14.0,6.0,42.9,0.21,0.5,0.0,0.0,11.0,6.0,54.5,0.18,0.33,0.0,0.0,24
+2026-02-07,15:00 (12:00),,Matchweek 25,Sat,Away,W,3.0,1.0,Wolves,67.0,Enzo Fernández,4-2-3-1,4-2-3-1,Jarred Gillett,Match Report,Chelsea,15.0,6.0,40.0,0.07,0.17,2.0,2.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,25
+2026-02-10,19:30 (16:30),,Matchweek 26,Tue,Home,D,2.0,2.0,Leeds United,66.0,Enzo Fernández,4-2-3-1,5-4-1,Robert Jones,Match Report,Chelsea,19.0,4.0,21.1,0.05,0.25,1.0,1.0,4.0,2.0,50.0,0.25,0.5,1.0,1.0,26
+2026-02-21,15:00 (12:00),,Matchweek 27,Sat,Home,D,1.0,1.0,Burnley,67.0,Reece James,4-2-3-1,3-4-3,Lewis Smith,Match Report,Chelsea,12.0,2.0,16.7,0.08,0.5,0.0,0.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,27
+2026-03-01,16:30 (13:30),,Matchweek 28,Sun,Away,L,1.0,2.0,Arsenal,59.0,Reece James,4-3-3,4-2-3-1,Darren England,Match Report,Chelsea,9.0,3.0,33.3,0.0,0.0,0.0,0.0,12.0,5.0,41.7,0.17,0.4,0.0,0.0,28
+2026-03-04,19:30 (16:30),,Matchweek 29,Wed,Away,W,4.0,1.0,Aston Villa,57.0,Reece James,4-3-3,4-2-3-1,Jarred Gillett,Match Report,Chelsea,15.0,8.0,53.3,0.27,0.5,0.0,0.0,9.0,4.0,44.4,0.11,0.25,0.0,0.0,29
+2026-03-14,17:30 (14:30),,Matchweek 30,Sat,Home,L,0.0,1.0,Newcastle United,67.0,Reece James,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,Chelsea,22.0,3.0,13.6,0.0,0.0,0.0,0.0,7.0,5.0,71.4,0.14,0.2,0.0,0.0,30
+2026-03-21,17:30 (14:30),,Matchweek 31,Sat,Away,L,0.0,3.0,Everton,64.0,Enzo Fernández,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Chelsea,12.0,4.0,33.3,0.0,0.0,0.0,0.0,10.0,9.0,90.0,0.3,0.33,0.0,0.0,31
+2026-04-12,16:30 (12:30),,Matchweek 32,Sun,Home,L,0.0,3.0,Manchester City,36.0,Moisés Caicedo,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,Chelsea,12.0,3.0,25.0,0.0,0.0,0.0,0.0,18.0,8.0,44.4,0.17,0.38,0.0,0.0,32
+2026-04-18,20:00 (16:00),,Matchweek 33,Sat,Home,L,0.0,1.0,Manchester Utd,60.0,Moisés Caicedo,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,Chelsea,21.0,3.0,14.3,0.0,0.0,0.0,0.0,4.0,1.0,25.0,0.25,1.0,0.0,0.0,33
+2026-04-21,20:00 (16:00),,Matchweek 34,Tue,Away,L,0.0,3.0,Brighton,46.0,Enzo Fernández,4-4-1-1,4-2-3-1,Craig Pawson,Match Report,Chelsea,6.0,0.0,0.0,0.0,,0.0,0.0,15.0,9.0,60.0,0.2,0.33,0.0,0.0,34
+2026-05-04,15:00 (11:00),,Matchweek 35,Mon,Home,,,,Nottingham Forest,,,,,,Head-to-Head,Chelsea,,,,,,,,,,,,,,,35
+2026-05-09,12:30 (08:30),,Matchweek 36,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,Chelsea,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Home,,,,Tottenham Hotspur,,,,,,Head-to-Head,Chelsea,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Away,,,,Sunderland,,,,,,Head-to-Head,Chelsea,,,,,,,,,,,,,,,38
+2025-08-17,14:00 (10:00),,Matchweek 1,Sun,Away,D,0.0,0.0,Chelsea,29.0,Marc Guéhi,3-4-3,4-2-3-1,Darren England,Match Report,Crystal Palace,12.0,4.0,33.3,0.0,0.0,0.0,0.0,19.0,3.0,15.8,0.0,0.0,0.0,0.0,1
+2025-08-24,14:00 (10:00),,Matchweek 2,Sun,Home,D,1.0,1.0,Nottingham Forest,42.0,Marc Guéhi,3-4-3,4-2-3-1,Anthony Taylor,Match Report,Crystal Palace,8.0,4.0,50.0,0.13,0.25,0.0,0.0,9.0,1.0,11.1,0.11,1.0,0.0,0.0,2
+2025-08-31,19:00 (15:00),,Matchweek 3,Sun,Away,W,3.0,0.0,Aston Villa,42.0,Marc Guéhi,3-4-3,4-2-3-1,Stuart Attwell,Match Report,Crystal Palace,6.0,4.0,66.7,0.33,0.5,1.0,1.0,13.0,4.0,30.8,0.0,0.0,0.0,0.0,3
+2025-09-13,15:00 (11:00),,Matchweek 4,Sat,Home,D,0.0,0.0,Sunderland,56.0,Marc Guéhi,3-4-3,4-3-3,Thomas Bramall,Match Report,Crystal Palace,14.0,6.0,42.9,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,,0.0,0.0,4
+2025-09-20,15:00 (11:00),,Matchweek 5,Sat,Away,W,2.0,1.0,West Ham United,43.0,Marc Guéhi,3-4-3,4-2-3-1,Tony Harrington,Match Report,Crystal Palace,18.0,3.0,16.7,0.11,0.67,0.0,0.0,8.0,3.0,37.5,0.13,0.33,0.0,0.0,5
+2025-09-27,15:00 (11:00),,Matchweek 6,Sat,Home,W,2.0,1.0,Liverpool,28.0,Marc Guéhi,3-4-3,4-2-3-1,Chris Kavanagh,Match Report,Crystal Palace,16.0,7.0,43.8,0.13,0.29,0.0,0.0,20.0,4.0,20.0,0.05,0.25,0.0,0.0,6
+2025-10-05,14:00 (10:00),,Matchweek 7,Sun,Away,L,1.0,2.0,Everton,50.0,Marc Guéhi,3-4-3,4-2-3-1,Michael Salisbury,Match Report,Crystal Palace,15.0,8.0,53.3,0.07,0.13,0.0,0.0,14.0,7.0,50.0,0.07,0.14,1.0,1.0,7
+2025-10-18,15:00 (11:00),,Matchweek 8,Sat,Home,D,3.0,3.0,Bournemouth,52.0,Marc Guéhi,3-4-3,4-2-3-1,Jarred Gillett,Match Report,Crystal Palace,20.0,7.0,35.0,0.1,0.29,1.0,1.0,8.0,5.0,62.5,0.38,0.6,0.0,0.0,8
+2025-10-26,14:00 (11:00),,Matchweek 9,Sun,Away,L,0.0,1.0,Arsenal,40.0,Marc Guéhi,3-4-3,4-3-3,Thomas Bramall,Match Report,Crystal Palace,7.0,1.0,14.3,0.0,0.0,0.0,0.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,9
+2025-11-01,15:00 (12:00),,Matchweek 10,Sat,Home,W,2.0,0.0,Brentford,36.0,Marc Guéhi,3-4-3,4-2-3-1,Peter Bankes,Match Report,Crystal Palace,9.0,2.0,22.2,0.11,0.5,0.0,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,10
+2025-11-09,14:00 (11:00),,Matchweek 11,Sun,Home,D,0.0,0.0,Brighton,42.0,Dean Henderson,3-4-3,4-2-3-1,Tim Robinson,Match Report,Crystal Palace,10.0,2.0,20.0,0.0,0.0,0.0,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,11
+2025-11-22,15:00 (12:00),,Matchweek 12,Sat,Away,W,2.0,0.0,Wolves,52.0,Marc Guéhi,3-4-3,5-3-2,Anthony Taylor,Match Report,Crystal Palace,10.0,4.0,40.0,0.2,0.5,0.0,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,12
+2025-11-30,12:00 (09:00),,Matchweek 13,Sun,Home,L,1.0,2.0,Manchester Utd,43.0,Marc Guéhi,3-4-3,3-4-3,Robert Jones,Match Report,Crystal Palace,14.0,3.0,21.4,0.0,0.0,1.0,1.0,14.0,6.0,42.9,0.14,0.33,0.0,0.0,13
+2025-12-03,19:30 (16:30),,Matchweek 14,Wed,Away,W,1.0,0.0,Burnley,42.0,Marc Guéhi,3-4-3,4-4-2,Thomas Kirk,Match Report,Crystal Palace,3.0,3.0,100.0,0.33,0.33,0.0,0.0,11.0,4.0,36.4,0.0,0.0,0.0,0.0,14
+2025-12-07,16:30 (13:30),,Matchweek 15,Sun,Away,W,2.0,1.0,Fulham,37.0,Marc Guéhi,3-4-3,4-2-3-1,Samuel Barrott,Match Report,Crystal Palace,11.0,5.0,45.5,0.18,0.4,0.0,0.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,15
+2025-12-14,14:00 (11:00),,Matchweek 16,Sun,Home,L,0.0,3.0,Manchester City,38.0,Marc Guéhi,3-4-3,4-3-2-1,Darren England,Match Report,Crystal Palace,16.0,4.0,25.0,0.0,0.0,0.0,0.0,7.0,6.0,85.7,0.29,0.33,1.0,1.0,16
+2025-12-20,20:00 (17:00),,Matchweek 17,Sat,Away,L,1.0,4.0,Leeds United,47.0,Marc Guéhi,3-4-3,3-5-2,Thomas Bramall,Match Report,Crystal Palace,9.0,3.0,33.3,0.0,0.0,1.0,1.0,20.0,8.0,40.0,0.2,0.5,0.0,0.0,17
+2025-12-28,16:30 (13:30),,Matchweek 18,Sun,Home,L,0.0,1.0,Tottenham Hotspur,62.0,Marc Guéhi,3-4-3,4-2-3-1,Jarred Gillett,Match Report,Crystal Palace,15.0,2.0,13.3,0.0,0.0,0.0,0.0,8.0,4.0,50.0,0.13,0.25,0.0,0.0,18
+2026-01-01,17:30 (14:30),,Matchweek 19,Thu,Home,D,1.0,1.0,Fulham,40.0,Marc Guéhi,3-4-3,4-2-3-1,Tony Harrington,Match Report,Crystal Palace,11.0,2.0,18.2,0.09,0.5,0.0,0.0,17.0,5.0,29.4,0.06,0.2,0.0,0.0,19
+2026-01-04,15:00 (12:00),,Matchweek 20,Sun,Away,L,0.0,2.0,Newcastle United,41.0,Marc Guéhi,3-4-3,4-3-3,John Brooks,Match Report,Crystal Palace,11.0,1.0,9.1,0.0,0.0,0.0,0.0,12.0,7.0,58.3,0.17,0.29,0.0,0.0,20
+2026-01-07,19:30 (16:30),,Matchweek 21,Wed,Home,D,0.0,0.0,Aston Villa,41.0,Marc Guéhi,3-4-3,4-2-3-1,Andy Madley,Match Report,Crystal Palace,11.0,5.0,45.5,0.0,0.0,0.0,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,21
+2026-01-17,15:00 (12:00),,Matchweek 22,Sat,Away,L,1.0,2.0,Sunderland,41.0,Dean Henderson,3-4-3,4-2-3-1,Robert Jones,Match Report,Crystal Palace,6.0,2.0,33.3,0.17,0.5,0.0,0.0,13.0,7.0,53.8,0.15,0.29,0.0,0.0,22
+2026-01-25,14:00 (11:00),,Matchweek 23,Sun,Home,L,1.0,3.0,Chelsea,43.0,Dean Henderson,3-4-3,4-2-3-1,Darren England,Match Report,Crystal Palace,13.0,7.0,53.8,0.08,0.14,0.0,0.0,10.0,6.0,60.0,0.2,0.33,1.0,1.0,23
+2026-02-01,14:00 (11:00),,Matchweek 24,Sun,Away,D,1.0,1.0,Nottingham Forest,67.0,Dean Henderson,3-4-3,4-2-3-1,Tony Harrington,Match Report,Crystal Palace,14.0,3.0,21.4,0.0,0.0,1.0,1.0,9.0,1.0,11.1,0.11,1.0,0.0,0.0,24
+2026-02-08,14:00 (11:00),,Matchweek 25,Sun,Away,W,1.0,0.0,Brighton,37.0,Dean Henderson,3-4-3,4-2-3-1,Thomas Bramall,Match Report,Crystal Palace,7.0,4.0,57.1,0.14,0.25,0.0,0.0,7.0,2.0,28.6,0.0,0.0,0.0,0.0,25
+2026-02-11,19:40 (16:40),,Matchweek 26,Wed,Home,L,2.0,3.0,Burnley,65.0,Dean Henderson,3-4-3,3-4-3,Farai Hallam,Match Report,Crystal Palace,21.0,3.0,14.3,0.1,0.67,0.0,0.0,8.0,3.0,37.5,0.25,0.67,0.0,0.0,26
+2026-02-22,14:00 (11:00),,Matchweek 27,Sun,Home,W,1.0,0.0,Wolves,61.0,Dean Henderson,3-4-3,3-4-3,Thomas Kirk,Match Report,Crystal Palace,14.0,3.0,21.4,0.07,0.33,0.0,0.0,12.0,7.0,58.3,0.0,0.0,0.0,1.0,27
+2026-03-01,14:00 (11:00),,Matchweek 28,Sun,Away,L,1.0,2.0,Manchester Utd,39.0,Dean Henderson,3-4-3,4-2-3-1,Chris Kavanagh,Match Report,Crystal Palace,8.0,3.0,37.5,0.13,0.33,0.0,0.0,20.0,11.0,55.0,0.05,0.09,1.0,1.0,28
+2026-03-05,20:00 (17:00),,Matchweek 29,Thu,Away,W,3.0,1.0,Tottenham Hotspur,60.0,Dean Henderson,3-4-3,3-4-3,Andy Madley,Match Report,Crystal Palace,9.0,4.0,44.4,0.22,0.5,1.0,1.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,29
+2026-03-15,14:00 (11:00),,Matchweek 30,Sun,Home,D,0.0,0.0,Leeds United,67.0,Will Hughes,3-4-3,3-4-1-2,Thomas Bramall,Match Report,Crystal Palace,12.0,0.0,0.0,0.0,,0.0,0.0,10.0,3.0,30.0,0.0,0.0,0.0,1.0,30
+2026-04-12,14:00 (10:00),,Matchweek 32,Sun,Home,W,2.0,1.0,Newcastle United,41.0,Dean Henderson,3-4-3,4-3-3,Andy Madley,Match Report,Crystal Palace,11.0,5.0,45.5,0.09,0.2,1.0,1.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,32
+2026-04-20,20:00 (16:00),,Matchweek 33,Mon,Home,D,0.0,0.0,West Ham United,54.0,Dean Henderson,3-4-3,4-4-1-1,Darren England,Match Report,Crystal Palace,9.0,1.0,11.1,0.0,0.0,0.0,0.0,9.0,4.0,44.4,0.0,0.0,0.0,0.0,33
+2026-04-25,15:00 (11:00),,Matchweek 34,Sat,Away,L,1.0,3.0,Liverpool,47.0,Dean Henderson,3-4-3,4-2-3-1,Andy Madley,Match Report,Crystal Palace,14.0,7.0,50.0,0.07,0.14,0.0,0.0,9.0,3.0,33.3,0.33,1.0,0.0,0.0,34
+2026-05-03,14:00 (10:00),,Matchweek 35,Sun,Away,,,,Bournemouth,,,,,,Head-to-Head,Crystal Palace,,,,,,,,,,,,,,,35
+2026-05-10,14:00 (10:00),,Matchweek 36,Sun,Home,,,,Everton,,,,,,Head-to-Head,Crystal Palace,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Away,,,,Brentford,,,,,,Head-to-Head,Crystal Palace,,,,,,,,,,,,,,,37
+2026-05-22,15:00 (11:00),,Matchweek 31,Fri,Away,,,,Manchester City,,,,,,,Crystal Palace,,,,,,,,,,,,,,,31
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Home,,,,Arsenal,,,,,,Head-to-Head,Crystal Palace,,,,,,,,,,,,,,,38
+2025-08-18,20:00 (16:00),,Matchweek 1,Mon,Away,L,0.0,1.0,Leeds United,46.0,James Tarkowski,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,Everton,7.0,1.0,14.3,0.0,0.0,0.0,0.0,21.0,3.0,14.3,0.0,0.0,1.0,1.0,1
+2025-08-24,14:00 (10:00),,Matchweek 2,Sun,Home,W,2.0,0.0,Brighton,43.0,James Tarkowski,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,Everton,11.0,3.0,27.3,0.18,0.67,0.0,0.0,13.0,4.0,30.8,0.0,0.0,0.0,1.0,2
+2025-08-30,15:00 (11:00),,Matchweek 3,Sat,Away,W,3.0,2.0,Wolves,42.0,James Tarkowski,4-2-3-1,3-4-3,Michael Oliver,Match Report,Everton,10.0,4.0,40.0,0.3,0.75,0.0,0.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,3
+2025-09-13,15:00 (11:00),,Matchweek 4,Sat,Home,D,0.0,0.0,Aston Villa,48.0,James Tarkowski,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,Everton,20.0,2.0,10.0,0.0,0.0,0.0,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,4
+2025-09-20,12:30 (08:30),,Matchweek 5,Sat,Away,L,1.0,2.0,Liverpool,43.0,James Tarkowski,4-2-3-1,4-2-3-1,Darren England,Match Report,Everton,9.0,2.0,22.2,0.11,0.5,0.0,0.0,11.0,3.0,27.3,0.18,0.67,0.0,0.0,5
+2025-09-29,20:00 (16:00),,Matchweek 6,Mon,Home,D,1.0,1.0,West Ham United,52.0,James Tarkowski,4-2-3-1,4-1-4-1,Samuel Barrott,Match Report,Everton,12.0,6.0,50.0,0.08,0.17,0.0,0.0,14.0,3.0,21.4,0.07,0.33,0.0,0.0,6
+2025-10-05,14:00 (10:00),,Matchweek 7,Sun,Home,W,2.0,1.0,Crystal Palace,50.0,James Tarkowski,4-2-3-1,3-4-3,Michael Salisbury,Match Report,Everton,14.0,7.0,50.0,0.07,0.14,1.0,1.0,15.0,8.0,53.3,0.07,0.13,0.0,0.0,7
+2025-10-18,15:00 (11:00),,Matchweek 8,Sat,Away,L,0.0,2.0,Manchester City,29.0,James Tarkowski,4-2-3-1,4-1-4-1,Tony Harrington,Match Report,Everton,5.0,1.0,20.0,0.0,0.0,0.0,0.0,19.0,7.0,36.8,0.11,0.29,0.0,0.0,8
+2025-10-26,16:30 (13:30),,Matchweek 9,Sun,Home,L,0.0,3.0,Tottenham Hotspur,53.0,James Tarkowski,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,Everton,12.0,2.0,16.7,0.0,0.0,0.0,0.0,7.0,4.0,57.1,0.43,0.75,0.0,0.0,9
+2025-11-03,20:00 (17:00),,Matchweek 10,Mon,Away,D,1.0,1.0,Sunderland,39.0,James Tarkowski,4-2-3-1,3-4-3,Thomas Bramall,Match Report,Everton,8.0,2.0,25.0,0.13,0.5,0.0,0.0,17.0,3.0,17.6,0.06,0.33,0.0,0.0,10
+2025-11-08,15:00 (12:00),,Matchweek 11,Sat,Home,W,2.0,0.0,Fulham,51.0,James Tarkowski,4-2-3-1,4-2-3-1,Andy Madley,Match Report,Everton,14.0,5.0,35.7,0.14,0.4,0.0,0.0,8.0,4.0,50.0,0.0,0.0,0.0,0.0,11
+2025-11-24,20:00 (17:00),,Matchweek 12,Mon,Away,W,1.0,0.0,Manchester Utd,30.0,Séamus Coleman,4-2-3-1,3-4-3,Tony Harrington,Match Report,Everton,3.0,1.0,33.3,0.33,1.0,0.0,0.0,25.0,6.0,24.0,0.0,0.0,0.0,0.0,12
+2025-11-29,17:30 (14:30),,Matchweek 13,Sat,Home,L,1.0,4.0,Newcastle United,49.0,James Tarkowski,4-2-3-1,4-3-3,Craig Pawson,Match Report,Everton,10.0,2.0,20.0,0.1,0.5,0.0,0.0,13.0,8.0,61.5,0.31,0.5,0.0,0.0,13
+2025-12-02,19:30 (16:30),,Matchweek 14,Tue,Away,W,1.0,0.0,Bournemouth,45.0,James Tarkowski,4-2-3-1,4-2-3-1,Michael Salisbury,Match Report,Everton,13.0,3.0,23.1,0.08,0.33,0.0,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,14
+2025-12-06,15:00 (12:00),,Matchweek 15,Sat,Home,W,3.0,0.0,Nottingham Forest,42.0,James Tarkowski,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,Everton,11.0,5.0,45.5,0.18,0.4,0.0,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,15
+2025-12-13,15:00 (12:00),,Matchweek 16,Sat,Away,L,0.0,2.0,Chelsea,42.0,James Tarkowski,4-2-3-1,4-2-3-1,Thomas Bramall,Match Report,Everton,11.0,2.0,18.2,0.0,0.0,0.0,0.0,17.0,5.0,29.4,0.12,0.4,0.0,0.0,16
+2025-12-20,20:00 (17:00),,Matchweek 17,Sat,Home,L,0.0,1.0,Arsenal,35.0,James Tarkowski,4-2-3-1,4-3-3,Samuel Barrott,Match Report,Everton,5.0,1.0,20.0,0.0,0.0,0.0,0.0,13.0,2.0,15.4,0.0,0.0,1.0,1.0,17
+2025-12-27,15:00 (12:00),,Matchweek 18,Sat,Away,D,0.0,0.0,Burnley,45.0,James Tarkowski,4-2-3-1,3-4-3,Craig Pawson,Match Report,Everton,15.0,6.0,40.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0,,0.0,0.0,18
+2025-12-30,19:30 (16:30),,Matchweek 19,Tue,Away,W,2.0,0.0,Nottingham Forest,30.0,James Tarkowski,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,Everton,11.0,3.0,27.3,0.18,0.67,0.0,0.0,21.0,6.0,28.6,0.0,0.0,0.0,0.0,19
+2026-01-04,15:00 (12:00),,Matchweek 20,Sun,Home,L,2.0,4.0,Brentford,45.0,James Tarkowski,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Everton,14.0,6.0,42.9,0.14,0.33,0.0,0.0,11.0,7.0,63.6,0.36,0.57,0.0,0.0,20
+2026-01-07,19:30 (16:30),,Matchweek 21,Wed,Home,D,1.0,1.0,Wolves,45.0,James Tarkowski,4-3-3,3-5-2,Thomas Kirk,Match Report,Everton,13.0,2.0,15.4,0.08,0.5,0.0,0.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,21
+2026-01-18,16:30 (13:30),,Matchweek 22,Sun,Away,W,1.0,0.0,Aston Villa,37.0,James Tarkowski,4-2-3-1,4-2-3-1,Tony Harrington,Match Report,Everton,9.0,3.0,33.3,0.11,0.33,0.0,0.0,18.0,5.0,27.8,0.0,0.0,0.0,0.0,22
+2026-01-26,20:00 (17:00),,Matchweek 23,Mon,Home,D,1.0,1.0,Leeds United,58.0,James Tarkowski,4-2-3-1,3-4-3,Simon Hooper,Match Report,Everton,10.0,3.0,30.0,0.1,0.33,0.0,0.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,23
+2026-01-31,15:00 (12:00),,Matchweek 24,Sat,Away,D,1.0,1.0,Brighton,47.0,James Tarkowski,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,Everton,7.0,4.0,57.1,0.14,0.25,0.0,0.0,11.0,2.0,18.2,0.09,0.5,0.0,0.0,24
+2026-02-07,15:00 (12:00),,Matchweek 25,Sat,Away,W,2.0,1.0,Fulham,45.0,James Tarkowski,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,Everton,16.0,3.0,18.8,0.06,0.33,0.0,0.0,13.0,3.0,23.1,0.0,0.0,0.0,0.0,25
+2026-02-10,19:30 (16:30),,Matchweek 26,Tue,Home,L,1.0,2.0,Bournemouth,53.0,James Tarkowski,4-2-3-1,4-2-3-1,Andy Madley,Match Report,Everton,16.0,6.0,37.5,0.0,0.0,1.0,1.0,11.0,4.0,36.4,0.18,0.5,0.0,0.0,26
+2026-02-23,20:00 (17:00),,Matchweek 27,Mon,Home,L,0.0,1.0,Manchester Utd,48.0,James Tarkowski,4-2-3-1,4-2-3-1,Darren England,Match Report,Everton,12.0,4.0,33.3,0.0,0.0,0.0,0.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,27
+2026-02-28,15:00 (12:00),,Matchweek 28,Sat,Away,W,3.0,2.0,Newcastle United,34.0,James Tarkowski,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,Everton,9.0,5.0,55.6,0.33,0.6,0.0,0.0,17.0,7.0,41.2,0.12,0.29,0.0,0.0,28
+2026-03-03,19:30 (16:30),,Matchweek 29,Tue,Home,W,2.0,0.0,Burnley,56.0,James Tarkowski,4-2-3-1,3-4-3,Tim Robinson,Match Report,Everton,14.0,5.0,35.7,0.14,0.4,0.0,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,29
+2026-03-14,17:30 (14:30),,Matchweek 30,Sat,Away,L,0.0,2.0,Arsenal,35.0,Jordan Pickford,4-2-3-1,4-2-3-1,Andy Madley,Match Report,Everton,9.0,3.0,33.3,0.0,0.0,0.0,0.0,25.0,7.0,28.0,0.08,0.29,0.0,0.0,30
+2026-03-21,17:30 (14:30),,Matchweek 31,Sat,Home,W,3.0,0.0,Chelsea,36.0,James Tarkowski,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Everton,10.0,9.0,90.0,0.3,0.33,0.0,0.0,12.0,4.0,33.3,0.0,0.0,0.0,0.0,31
+2026-04-11,15:00 (11:00),,Matchweek 32,Sat,Away,D,2.0,2.0,Brentford,45.0,James Tarkowski,4-2-3-1,4-2-3-1,Farai Hallam,Match Report,Everton,14.0,7.0,50.0,0.14,0.29,0.0,0.0,17.0,4.0,23.5,0.06,0.25,1.0,1.0,32
+2026-04-19,14:00 (10:00),,Matchweek 33,Sun,Home,L,1.0,2.0,Liverpool,44.0,James Tarkowski,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,Everton,10.0,4.0,40.0,0.1,0.25,0.0,0.0,14.0,6.0,42.9,0.14,0.33,0.0,0.0,33
+2026-04-25,15:00 (11:00),,Matchweek 34,Sat,Away,L,1.0,2.0,West Ham United,56.0,James Tarkowski,4-2-3-1,4-4-1-1,Stuart Attwell,Match Report,Everton,11.0,3.0,27.3,0.09,0.33,0.0,0.0,10.0,3.0,30.0,0.2,0.67,0.0,0.0,34
+2026-05-04,20:00 (16:00),,Matchweek 35,Mon,Home,,,,Manchester City,,,,,,Head-to-Head,Everton,,,,,,,,,,,,,,,35
+2026-05-10,14:00 (10:00),,Matchweek 36,Sun,Away,,,,Crystal Palace,,,,,,Head-to-Head,Everton,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Home,,,,Sunderland,,,,,,Head-to-Head,Everton,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Away,,,,Tottenham Hotspur,,,,,,Head-to-Head,Everton,,,,,,,,,,,,,,,38
+2025-08-16,15:00 (11:00),,Matchweek 1,Sat,Away,D,1.0,1.0,Brighton,50.0,Bernd Leno,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Fulham,7.0,2.0,28.6,0.14,0.5,0.0,0.0,10.0,4.0,40.0,0.0,0.0,1.0,1.0,1
+2025-08-24,16:30 (12:30),,Matchweek 2,Sun,Home,D,1.0,1.0,Manchester Utd,52.0,Bernd Leno,4-2-3-1,3-4-3,Chris Kavanagh,Match Report,Fulham,13.0,4.0,30.8,0.08,0.25,0.0,0.0,10.0,3.0,30.0,0.0,0.0,0.0,1.0,2
+2025-08-30,12:30 (08:30),,Matchweek 3,Sat,Away,L,0.0,2.0,Chelsea,45.0,Bernd Leno,4-2-3-1,4-2-3-1,Robert Jones,Match Report,Fulham,11.0,3.0,27.3,0.0,0.0,0.0,0.0,13.0,6.0,46.2,0.08,0.17,1.0,1.0,3
+2025-09-13,15:00 (11:00),,Matchweek 4,Sat,Home,W,1.0,0.0,Leeds United,54.0,Joachim Andersen,4-2-3-1,4-3-3,Craig Pawson,Match Report,Fulham,5.0,3.0,60.0,0.0,0.0,0.0,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,4
+2025-09-20,20:00 (16:00),,Matchweek 5,Sat,Home,W,3.0,1.0,Brentford,53.0,Joachim Andersen,4-2-3-1,5-3-2,Michael Oliver,Match Report,Fulham,14.0,3.0,21.4,0.14,0.67,0.0,0.0,8.0,3.0,37.5,0.13,0.33,0.0,0.0,5
+2025-09-28,14:00 (10:00),,Matchweek 6,Sun,Away,L,1.0,3.0,Aston Villa,52.0,Joachim Andersen,4-2-3-1,4-2-3-1,Andy Madley,Match Report,Fulham,11.0,4.0,36.4,0.09,0.25,0.0,0.0,9.0,4.0,44.4,0.33,0.75,0.0,0.0,6
+2025-10-03,20:00 (16:00),,Matchweek 7,Fri,Away,L,1.0,3.0,Bournemouth,47.0,Joachim Andersen,3-4-3,4-2-3-1,Simon Hooper,Match Report,Fulham,12.0,4.0,33.3,0.08,0.25,0.0,0.0,11.0,6.0,54.5,0.27,0.5,0.0,0.0,7
+2025-10-18,17:30 (13:30),,Matchweek 8,Sat,Home,L,0.0,1.0,Arsenal,37.0,Tom Cairney,4-2-3-1,4-3-3,Anthony Taylor,Match Report,Fulham,9.0,0.0,0.0,0.0,,0.0,0.0,16.0,5.0,31.3,0.06,0.2,0.0,0.0,8
+2025-10-25,15:00 (11:00),,Matchweek 9,Sat,Away,L,1.0,2.0,Newcastle United,49.0,Bernd Leno,4-2-3-1,4-3-3,Peter Bankes,Match Report,Fulham,12.0,5.0,41.7,0.08,0.2,0.0,0.0,18.0,7.0,38.9,0.11,0.29,0.0,0.0,9
+2025-11-01,15:00 (12:00),,Matchweek 10,Sat,Home,W,3.0,0.0,Wolves,64.0,Joachim Andersen,4-2-3-1,5-3-2,John Brooks,Match Report,Fulham,19.0,6.0,31.6,0.11,0.33,0.0,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,10
+2025-11-08,15:00 (12:00),,Matchweek 11,Sat,Away,L,0.0,2.0,Everton,50.0,Joachim Andersen,4-2-3-1,4-2-3-1,Andy Madley,Match Report,Fulham,8.0,4.0,50.0,0.0,0.0,0.0,0.0,14.0,5.0,35.7,0.14,0.4,0.0,0.0,11
+2025-11-22,15:00 (12:00),,Matchweek 12,Sat,Home,W,1.0,0.0,Sunderland,57.0,Joachim Andersen,4-2-3-1,5-4-1,Darren England,Match Report,Fulham,24.0,6.0,25.0,0.04,0.17,0.0,0.0,4.0,2.0,50.0,0.0,0.0,0.0,0.0,12
+2025-11-29,20:00 (17:00),,Matchweek 13,Sat,Away,W,2.0,1.0,Tottenham Hotspur,37.0,Joachim Andersen,4-2-3-1,4-2-2-2,Stuart Attwell,Match Report,Fulham,7.0,3.0,42.9,0.29,0.67,0.0,0.0,14.0,2.0,14.3,0.07,0.5,0.0,0.0,13
+2025-12-02,19:30 (16:30),,Matchweek 14,Tue,Home,L,4.0,5.0,Manchester City,57.0,Joachim Andersen,4-2-3-1,4-3-3,Craig Pawson,Match Report,Fulham,12.0,6.0,50.0,0.33,0.67,0.0,0.0,11.0,4.0,36.4,0.36,1.0,0.0,0.0,14
+2025-12-07,16:30 (13:30),,Matchweek 15,Sun,Home,L,1.0,2.0,Crystal Palace,63.0,Joachim Andersen,4-2-3-1,3-4-3,Samuel Barrott,Match Report,Fulham,12.0,4.0,33.3,0.08,0.25,0.0,0.0,11.0,5.0,45.5,0.18,0.4,0.0,0.0,15
+2025-12-13,17:30 (14:30),,Matchweek 16,Sat,Away,W,3.0,2.0,Burnley,47.0,Joachim Andersen,4-2-3-1,4-3-3,Michael Oliver,Match Report,Fulham,6.0,4.0,66.7,0.5,0.75,0.0,0.0,16.0,8.0,50.0,0.13,0.25,0.0,0.0,16
+2025-12-22,20:00 (17:00),,Matchweek 17,Mon,Home,W,1.0,0.0,Nottingham Forest,50.0,Joachim Andersen,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Fulham,11.0,1.0,9.1,0.0,0.0,1.0,1.0,12.0,2.0,16.7,0.0,0.0,0.0,0.0,17
+2025-12-27,15:00 (12:00),,Matchweek 18,Sat,Away,W,1.0,0.0,West Ham United,56.0,Joachim Andersen,4-2-3-1,4-3-2-1,Chris Kavanagh,Match Report,Fulham,15.0,4.0,26.7,0.07,0.25,0.0,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,18
+2026-01-01,17:30 (14:30),,Matchweek 19,Thu,Away,D,1.0,1.0,Crystal Palace,60.0,Joachim Andersen,4-2-3-1,3-4-3,Tony Harrington,Match Report,Fulham,17.0,5.0,29.4,0.06,0.2,0.0,0.0,11.0,2.0,18.2,0.09,0.5,0.0,0.0,19
+2026-01-04,15:15 (12:15),,Matchweek 20,Sun,Home,D,2.0,2.0,Liverpool,42.0,Tom Cairney,3-4-3,4-2-3-1,Craig Pawson,Match Report,Fulham,8.0,2.0,25.0,0.25,1.0,0.0,0.0,10.0,2.0,20.0,0.2,1.0,0.0,0.0,20
+2026-01-07,19:30 (16:30),,Matchweek 21,Wed,Home,W,2.0,1.0,Chelsea,55.0,Tom Cairney,3-4-3,4-2-3-1,Peter Bankes,Match Report,Fulham,16.0,5.0,31.3,0.13,0.4,0.0,0.0,14.0,6.0,42.9,0.07,0.17,0.0,0.0,21
+2026-01-17,15:00 (12:00),,Matchweek 22,Sat,Away,L,0.0,1.0,Leeds United,53.0,Joachim Andersen,4-2-3-1,3-5-2,Chris Kavanagh,Match Report,Fulham,8.0,1.0,12.5,0.0,0.0,0.0,0.0,14.0,5.0,35.7,0.07,0.2,0.0,0.0,22
+2026-01-24,15:00 (12:00),,Matchweek 23,Sat,Home,W,2.0,1.0,Brighton,50.0,Joachim Andersen,4-2-3-1,4-3-3,Michael Oliver,Match Report,Fulham,12.0,4.0,33.3,0.17,0.5,0.0,0.0,13.0,5.0,38.5,0.08,0.2,0.0,0.0,23
+2026-02-01,14:00 (11:00),,Matchweek 24,Sun,Away,L,2.0,3.0,Manchester Utd,58.0,Joachim Andersen,4-2-3-1,4-2-3-1,John Brooks,Match Report,Fulham,14.0,6.0,42.9,0.07,0.17,1.0,1.0,13.0,6.0,46.2,0.23,0.5,0.0,0.0,24
+2026-02-07,15:00 (12:00),,Matchweek 25,Sat,Home,L,1.0,2.0,Everton,55.0,Joachim Andersen,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,Fulham,13.0,3.0,23.1,0.0,0.0,0.0,0.0,16.0,3.0,18.8,0.06,0.33,0.0,0.0,25
+2026-02-11,19:30 (16:30),,Matchweek 26,Wed,Away,L,0.0,3.0,Manchester City,44.0,Joachim Andersen,4-2-3-1,4-1-3-2,Paul Tierney,Match Report,Fulham,14.0,3.0,21.4,0.0,0.0,0.0,0.0,13.0,5.0,38.5,0.23,0.6,0.0,0.0,26
+2026-02-22,14:00 (11:00),,Matchweek 27,Sun,Away,W,3.0,1.0,Sunderland,47.0,Joachim Andersen,4-2-3-1,4-1-4-1,Craig Pawson,Match Report,Fulham,12.0,4.0,33.3,0.17,0.5,1.0,1.0,12.0,2.0,16.7,0.0,0.0,1.0,1.0,27
+2026-03-01,14:00 (11:00),,Matchweek 28,Sun,Home,W,2.0,1.0,Tottenham Hotspur,54.0,Bernd Leno,4-2-3-1,4-4-2,Thomas Bramall,Match Report,Fulham,18.0,4.0,22.2,0.11,0.5,0.0,0.0,13.0,1.0,7.7,0.08,1.0,0.0,0.0,28
+2026-03-04,19:30 (16:30),,Matchweek 29,Wed,Home,L,0.0,1.0,West Ham United,60.0,Tom Cairney,4-2-3-1,4-4-2,Matt Donohue,Match Report,Fulham,13.0,5.0,38.5,0.0,0.0,0.0,0.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,29
+2026-03-15,14:00 (11:00),,Matchweek 30,Sun,Away,D,0.0,0.0,Nottingham Forest,54.0,Joachim Andersen,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Fulham,5.0,0.0,0.0,0.0,,0.0,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,30
+2026-03-21,15:00 (12:00),,Matchweek 31,Sat,Home,W,3.0,1.0,Burnley,55.0,Joachim Andersen,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,Fulham,22.0,6.0,27.3,0.09,0.33,1.0,1.0,9.0,5.0,55.6,0.11,0.2,0.0,0.0,31
+2026-04-11,17:30 (13:30),,Matchweek 32,Sat,Away,L,0.0,2.0,Liverpool,47.0,Joachim Andersen,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Fulham,19.0,4.0,21.1,0.0,0.0,0.0,0.0,18.0,5.0,27.8,0.11,0.4,0.0,0.0,32
+2026-04-18,12:30 (08:30),,Matchweek 33,Sat,Away,D,0.0,0.0,Brentford,52.0,Tom Cairney,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,Fulham,11.0,0.0,0.0,0.0,,0.0,0.0,13.0,4.0,30.8,0.0,0.0,0.0,0.0,33
+2026-04-25,12:30 (08:30),,Matchweek 34,Sat,Home,W,1.0,0.0,Aston Villa,39.0,Joachim Andersen,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,Fulham,13.0,6.0,46.2,0.08,0.17,0.0,0.0,10.0,1.0,10.0,0.0,0.0,0.0,0.0,34
+2026-05-02,17:30 (13:30),,Matchweek 35,Sat,Away,,,,Arsenal,,,,,,Head-to-Head,Fulham,,,,,,,,,,,,,,,35
+2026-05-09,15:00 (11:00),,Matchweek 36,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,Fulham,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Away,,,,Wolves,,,,,,Head-to-Head,Fulham,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Home,,,,Newcastle United,,,,,,Head-to-Head,Fulham,,,,,,,,,,,,,,,38
+2025-08-18,20:00 (16:00),,Matchweek 1,Mon,Home,W,1.0,0.0,Everton,54.0,Ethan Ampadu,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,Leeds United,21.0,3.0,14.3,0.0,0.0,1.0,1.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,1
+2025-08-23,17:30 (13:30),,Matchweek 2,Sat,Away,L,0.0,5.0,Arsenal,32.0,Pascal Struijk,4-3-3,4-3-3,Jarred Gillett,Match Report,Leeds United,3.0,1.0,33.3,0.0,0.0,0.0,0.0,18.0,5.0,27.8,0.22,0.8,1.0,1.0,2
+2025-08-30,17:30 (13:30),,Matchweek 3,Sat,Home,D,0.0,0.0,Newcastle United,43.0,Pascal Struijk,4-3-3,5-3-2,Peter Bankes,Match Report,Leeds United,10.0,1.0,10.0,0.0,0.0,0.0,0.0,8.0,2.0,25.0,0.0,0.0,0.0,0.0,3
+2025-09-13,15:00 (11:00),,Matchweek 4,Sat,Away,L,0.0,1.0,Fulham,46.0,Ethan Ampadu,4-3-3,4-2-3-1,Craig Pawson,Match Report,Leeds United,10.0,3.0,30.0,0.0,0.0,0.0,0.0,5.0,3.0,60.0,0.0,0.0,0.0,0.0,4
+2025-09-20,15:00 (11:00),,Matchweek 5,Sat,Away,W,3.0,1.0,Wolves,44.0,Ethan Ampadu,4-3-3,3-4-3,Anthony Taylor,Match Report,Leeds United,6.0,4.0,66.7,0.5,0.75,0.0,0.0,16.0,6.0,37.5,0.06,0.17,0.0,0.0,5
+2025-09-27,15:00 (11:00),,Matchweek 6,Sat,Home,D,2.0,2.0,Bournemouth,41.0,Ethan Ampadu,4-3-3,4-2-3-1,Michael Oliver,Match Report,Leeds United,19.0,8.0,42.1,0.11,0.25,0.0,0.0,12.0,5.0,41.7,0.17,0.4,0.0,0.0,6
+2025-10-04,12:30 (08:30),,Matchweek 7,Sat,Home,L,1.0,2.0,Tottenham Hotspur,57.0,Ethan Ampadu,4-3-3,4-2-3-1,Thomas Bramall,Match Report,Leeds United,16.0,4.0,25.0,0.06,0.25,0.0,0.0,9.0,3.0,33.3,0.22,0.67,0.0,0.0,7
+2025-10-18,15:00 (11:00),,Matchweek 8,Sat,Away,L,0.0,2.0,Burnley,69.0,Ethan Ampadu,4-3-3,4-2-3-1,Tim Robinson,Match Report,Leeds United,19.0,4.0,21.1,0.0,0.0,0.0,0.0,4.0,3.0,75.0,0.5,0.67,0.0,0.0,8
+2025-10-24,20:00 (16:00),,Matchweek 9,Fri,Home,W,2.0,1.0,West Ham United,41.0,Ethan Ampadu,4-3-3,3-4-3,Stuart Attwell,Match Report,Leeds United,13.0,5.0,38.5,0.15,0.4,0.0,0.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,9
+2025-11-01,15:00 (12:00),,Matchweek 10,Sat,Away,L,0.0,3.0,Brighton,50.0,Ethan Ampadu,4-1-4-1,4-2-3-1,Michael Oliver,Match Report,Leeds United,5.0,2.0,40.0,0.0,0.0,0.0,0.0,14.0,7.0,50.0,0.21,0.43,0.0,0.0,10
+2025-11-09,14:00 (11:00),,Matchweek 11,Sun,Away,L,1.0,3.0,Nottingham Forest,54.0,Ethan Ampadu,4-3-3,4-2-3-1,Jarred Gillett,Match Report,Leeds United,10.0,3.0,30.0,0.1,0.33,0.0,0.0,14.0,6.0,42.9,0.14,0.33,1.0,1.0,11
+2025-11-23,14:00 (11:00),,Matchweek 12,Sun,Home,L,1.0,2.0,Aston Villa,47.0,Ethan Ampadu,4-3-3,4-4-2,Robert Jones,Match Report,Leeds United,14.0,5.0,35.7,0.07,0.2,0.0,0.0,14.0,3.0,21.4,0.14,0.67,0.0,0.0,12
+2025-11-29,15:00 (12:00),,Matchweek 13,Sat,Away,L,2.0,3.0,Manchester City,38.0,Ethan Ampadu,4-3-3,4-3-2-1,Peter Bankes,Match Report,Leeds United,9.0,4.0,44.4,0.22,0.5,0.0,1.0,18.0,9.0,50.0,0.17,0.33,0.0,0.0,13
+2025-12-03,20:15 (17:15),,Matchweek 14,Wed,Home,W,3.0,1.0,Chelsea,29.0,Ethan Ampadu,3-5-2,4-2-3-1,Darren England,Match Report,Leeds United,17.0,5.0,29.4,0.18,0.6,0.0,0.0,14.0,2.0,14.3,0.07,0.5,0.0,0.0,14
+2025-12-06,17:30 (14:30),,Matchweek 15,Sat,Home,D,3.0,3.0,Liverpool,45.0,Ethan Ampadu,3-5-2,4-2-3-1,Anthony Taylor,Match Report,Leeds United,12.0,5.0,41.7,0.17,0.4,1.0,1.0,16.0,7.0,43.8,0.19,0.43,0.0,0.0,15
+2025-12-14,16:30 (13:30),,Matchweek 16,Sun,Away,D,1.0,1.0,Brentford,43.0,Ethan Ampadu,3-5-2,4-2-3-1,John Brooks,Match Report,Leeds United,18.0,4.0,22.2,0.06,0.25,0.0,0.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,16
+2025-12-20,20:00 (17:00),,Matchweek 17,Sat,Home,W,4.0,1.0,Crystal Palace,53.0,Ethan Ampadu,3-5-2,3-4-3,Thomas Bramall,Match Report,Leeds United,20.0,8.0,40.0,0.2,0.5,0.0,0.0,9.0,3.0,33.3,0.0,0.0,1.0,1.0,17
+2025-12-28,14:00 (11:00),,Matchweek 18,Sun,Away,D,1.0,1.0,Sunderland,57.0,Ethan Ampadu,3-5-2,4-2-3-1,Tony Harrington,Match Report,Leeds United,17.0,6.0,35.3,0.06,0.17,0.0,0.0,8.0,3.0,37.5,0.13,0.33,0.0,0.0,18
+2026-01-01,17:30 (14:30),,Matchweek 19,Thu,Away,D,0.0,0.0,Liverpool,31.0,Ethan Ampadu,3-5-2,4-2-3-1,Chris Kavanagh,Match Report,Leeds United,4.0,2.0,50.0,0.0,0.0,0.0,0.0,19.0,4.0,21.1,0.0,0.0,0.0,0.0,19
+2026-01-04,12:30 (09:30),,Matchweek 20,Sun,Home,D,1.0,1.0,Manchester Utd,45.0,Pascal Struijk,3-5-2,3-4-3,Jarred Gillett,Match Report,Leeds United,10.0,3.0,30.0,0.1,0.33,0.0,0.0,15.0,2.0,13.3,0.07,0.5,0.0,0.0,20
+2026-01-07,20:15 (17:15),,Matchweek 21,Wed,Away,L,3.0,4.0,Newcastle United,37.0,Ethan Ampadu,3-1-4-2,4-3-3,Michael Salisbury,Match Report,Leeds United,14.0,6.0,42.9,0.14,0.33,1.0,1.0,18.0,8.0,44.4,0.17,0.38,1.0,1.0,21
+2026-01-17,15:00 (12:00),,Matchweek 22,Sat,Home,W,1.0,0.0,Fulham,47.0,Ethan Ampadu,3-5-2,4-2-3-1,Chris Kavanagh,Match Report,Leeds United,14.0,5.0,35.7,0.07,0.2,0.0,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,22
+2026-01-26,20:00 (17:00),,Matchweek 23,Mon,Away,D,1.0,1.0,Everton,42.0,Ethan Ampadu,3-4-3,4-2-3-1,Simon Hooper,Match Report,Leeds United,14.0,4.0,28.6,0.07,0.25,0.0,0.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,23
+2026-01-31,15:00 (12:00),,Matchweek 24,Sat,Home,L,0.0,4.0,Arsenal,49.0,Ethan Ampadu,3-4-3,4-2-3-1,Stuart Attwell,Match Report,Leeds United,3.0,1.0,33.3,0.0,0.0,0.0,0.0,14.0,8.0,57.1,0.29,0.5,0.0,0.0,24
+2026-02-06,20:00 (17:00),,Matchweek 25,Fri,Home,W,3.0,1.0,Nottingham Forest,56.0,Ethan Ampadu,3-4-3,4-2-3-1,Peter Bankes,Match Report,Leeds United,14.0,5.0,35.7,0.21,0.6,0.0,0.0,16.0,6.0,37.5,0.06,0.17,0.0,0.0,25
+2026-02-10,19:30 (16:30),,Matchweek 26,Tue,Away,D,2.0,2.0,Chelsea,34.0,Ethan Ampadu,5-4-1,4-2-3-1,Robert Jones,Match Report,Leeds United,4.0,2.0,50.0,0.25,0.5,1.0,1.0,19.0,4.0,21.1,0.05,0.25,1.0,1.0,26
+2026-02-21,15:00 (12:00),,Matchweek 27,Sat,Away,D,1.0,1.0,Aston Villa,33.0,Ethan Ampadu,5-4-1,4-2-3-1,Michael Oliver,Match Report,Leeds United,14.0,4.0,28.6,0.07,0.25,0.0,0.0,16.0,4.0,25.0,0.06,0.25,0.0,0.0,27
+2026-02-28,17:30 (14:30),,Matchweek 28,Sat,Home,L,0.0,1.0,Manchester City,33.0,Ethan Ampadu,5-4-1,4-1-3-2,Peter Bankes,Match Report,Leeds United,14.0,2.0,14.3,0.0,0.0,0.0,0.0,14.0,5.0,35.7,0.07,0.2,0.0,0.0,28
+2026-03-03,19:30 (16:30),,Matchweek 29,Tue,Home,L,0.0,1.0,Sunderland,70.0,Ethan Ampadu,4-5-1,4-2-3-1,Stuart Attwell,Match Report,Leeds United,18.0,4.0,22.2,0.0,0.0,0.0,0.0,3.0,1.0,33.3,0.0,0.0,1.0,1.0,29
+2026-03-15,14:00 (11:00),,Matchweek 30,Sun,Away,D,0.0,0.0,Crystal Palace,34.0,Ethan Ampadu,3-4-1-2,3-4-3,Thomas Bramall,Match Report,Leeds United,10.0,3.0,30.0,0.0,0.0,0.0,1.0,12.0,0.0,0.0,0.0,,0.0,0.0,30
+2026-03-21,20:00 (17:00),,Matchweek 31,Sat,Home,D,0.0,0.0,Brentford,57.0,Ethan Ampadu,3-4-1-2,5-3-2,Jarred Gillett,Match Report,Leeds United,14.0,4.0,28.6,0.0,0.0,0.0,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,31
+2026-04-13,20:00 (16:00),,Matchweek 32,Mon,Away,W,2.0,1.0,Manchester Utd,48.0,Ethan Ampadu,3-4-3,4-2-3-1,Paul Tierney,Match Report,Leeds United,15.0,6.0,40.0,0.13,0.33,0.0,0.0,20.0,9.0,45.0,0.05,0.11,0.0,0.0,32
+2026-04-18,15:00 (11:00),,Matchweek 33,Sat,Home,W,3.0,0.0,Wolves,56.0,Ethan Ampadu,3-4-3,3-4-3,Farai Hallam,Match Report,Leeds United,17.0,6.0,35.3,0.12,0.33,1.0,1.0,7.0,2.0,28.6,0.0,0.0,0.0,0.0,33
+2026-04-22,20:00 (16:00),,Matchweek 34,Wed,Away,D,2.0,2.0,Bournemouth,40.0,Ethan Ampadu,3-4-3,4-2-3-1,Michael Salisbury,Match Report,Leeds United,10.0,3.0,30.0,0.1,0.33,0.0,0.0,17.0,7.0,41.2,0.12,0.29,0.0,0.0,34
+2026-05-01,20:00 (16:00),,Matchweek 35,Fri,Home,,,,Burnley,,,,,,Head-to-Head,Leeds United,,,,,,,,,,,,,,,35
+2026-05-11,20:00 (16:00),,Matchweek 36,Mon,Away,,,,Tottenham Hotspur,,,,,,Head-to-Head,Leeds United,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Home,,,,Brighton,,,,,,Head-to-Head,Leeds United,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Away,,,,West Ham United,,,,,,Head-to-Head,Leeds United,,,,,,,,,,,,,,,38
+2025-08-15,20:00 (16:00),,Matchweek 1,Fri,Home,W,4.0,2.0,Bournemouth,61.0,Virgil van Dijk,4-2-3-1,4-1-4-1,Anthony Taylor,Match Report,Liverpool,19.0,10.0,52.6,0.21,0.4,0.0,0.0,10.0,3.0,30.0,0.2,0.67,0.0,0.0,1
+2025-08-25,20:00 (16:00),,Matchweek 2,Mon,Away,W,3.0,2.0,Newcastle United,63.0,Virgil van Dijk,4-2-3-1,4-3-3,Simon Hooper,Match Report,Liverpool,5.0,4.0,80.0,0.6,0.75,0.0,0.0,10.0,3.0,30.0,0.2,0.67,0.0,0.0,2
+2025-08-31,16:30 (12:30),,Matchweek 3,Sun,Home,W,1.0,0.0,Arsenal,53.0,Virgil van Dijk,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,Liverpool,9.0,3.0,33.3,0.11,0.33,0.0,0.0,11.0,1.0,9.1,0.0,0.0,0.0,0.0,3
+2025-09-14,14:00 (10:00),,Matchweek 4,Sun,Away,W,1.0,0.0,Burnley,81.0,Virgil van Dijk,4-2-3-1,5-4-1,Michael Oliver,Match Report,Liverpool,27.0,4.0,14.8,0.0,0.0,1.0,1.0,3.0,0.0,0.0,0.0,,0.0,0.0,4
+2025-09-20,12:30 (08:30),,Matchweek 5,Sat,Home,W,2.0,1.0,Everton,58.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Darren England,Match Report,Liverpool,11.0,3.0,27.3,0.18,0.67,0.0,0.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,5
+2025-09-27,15:00 (11:00),,Matchweek 6,Sat,Away,L,1.0,2.0,Crystal Palace,72.0,Virgil van Dijk,4-2-3-1,3-4-3,Chris Kavanagh,Match Report,Liverpool,20.0,4.0,20.0,0.05,0.25,0.0,0.0,16.0,7.0,43.8,0.13,0.29,0.0,0.0,6
+2025-10-04,17:30 (13:30),,Matchweek 7,Sat,Away,L,1.0,2.0,Chelsea,47.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Liverpool,12.0,2.0,16.7,0.08,0.5,0.0,0.0,12.0,6.0,50.0,0.17,0.33,0.0,0.0,7
+2025-10-19,16:30 (12:30),,Matchweek 8,Sun,Home,L,1.0,2.0,Manchester Utd,63.0,Virgil van Dijk,4-2-3-1,3-4-3,Michael Oliver,Match Report,Liverpool,19.0,6.0,31.6,0.05,0.17,0.0,0.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,8
+2025-10-25,20:00 (16:00),,Matchweek 9,Sat,Away,L,2.0,3.0,Brentford,66.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,Liverpool,18.0,5.0,27.8,0.11,0.4,0.0,0.0,17.0,8.0,47.1,0.12,0.25,1.0,1.0,9
+2025-11-01,20:00 (17:00),,Matchweek 10,Sat,Home,W,2.0,0.0,Aston Villa,54.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,Liverpool,16.0,4.0,25.0,0.13,0.5,0.0,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,10
+2025-11-09,16:30 (13:30),,Matchweek 11,Sun,Away,L,0.0,3.0,Manchester City,51.0,Virgil van Dijk,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,Liverpool,7.0,1.0,14.3,0.0,0.0,0.0,0.0,14.0,6.0,42.9,0.21,0.5,0.0,1.0,11
+2025-11-22,15:00 (12:00),,Matchweek 12,Sat,Home,L,0.0,3.0,Nottingham Forest,74.0,Virgil van Dijk,4-3-3,4-2-3-1,Andy Madley,Match Report,Liverpool,21.0,4.0,19.0,0.0,0.0,0.0,0.0,15.0,7.0,46.7,0.2,0.43,0.0,0.0,12
+2025-11-30,14:05 (11:05),,Matchweek 13,Sun,Away,W,2.0,0.0,West Ham United,56.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Darren England,Match Report,Liverpool,9.0,5.0,55.6,0.22,0.4,0.0,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,13
+2025-12-03,20:15 (17:15),,Matchweek 14,Wed,Home,D,1.0,1.0,Sunderland,68.0,Virgil van Dijk,4-2-3-1,4-4-2,Stuart Attwell,Match Report,Liverpool,23.0,4.0,17.4,0.0,0.0,0.0,0.0,9.0,6.0,66.7,0.11,0.17,0.0,0.0,14
+2025-12-06,17:30 (14:30),,Matchweek 15,Sat,Away,D,3.0,3.0,Leeds United,55.0,Virgil van Dijk,4-2-3-1,3-5-2,Anthony Taylor,Match Report,Liverpool,16.0,7.0,43.8,0.19,0.43,0.0,0.0,12.0,5.0,41.7,0.17,0.4,1.0,1.0,15
+2025-12-13,15:00 (12:00),,Matchweek 16,Sat,Home,W,2.0,0.0,Brighton,50.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,Liverpool,18.0,4.0,22.2,0.11,0.5,0.0,0.0,14.0,1.0,7.1,0.0,0.0,0.0,0.0,16
+2025-12-20,17:30 (14:30),,Matchweek 17,Sat,Away,W,2.0,1.0,Tottenham Hotspur,65.0,Virgil van Dijk,4-2-3-1,4-2-2-2,John Brooks,Match Report,Liverpool,8.0,4.0,50.0,0.25,0.5,0.0,0.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,17
+2025-12-27,15:00 (12:00),,Matchweek 18,Sat,Home,W,2.0,1.0,Wolves,67.0,Virgil van Dijk,4-2-3-1,3-4-3,Simon Hooper,Match Report,Liverpool,14.0,4.0,28.6,0.14,0.5,0.0,0.0,9.0,4.0,44.4,0.11,0.25,0.0,0.0,18
+2026-01-01,17:30 (14:30),,Matchweek 19,Thu,Home,D,0.0,0.0,Leeds United,69.0,Virgil van Dijk,4-2-3-1,3-5-2,Chris Kavanagh,Match Report,Liverpool,19.0,4.0,21.1,0.0,0.0,0.0,0.0,4.0,2.0,50.0,0.0,0.0,0.0,0.0,19
+2026-01-04,15:15 (12:15),,Matchweek 20,Sun,Away,D,2.0,2.0,Fulham,59.0,Virgil van Dijk,4-2-3-1,3-4-3,Craig Pawson,Match Report,Liverpool,10.0,2.0,20.0,0.2,1.0,0.0,0.0,8.0,2.0,25.0,0.25,1.0,0.0,0.0,20
+2026-01-08,20:00 (17:00),,Matchweek 21,Thu,Away,D,0.0,0.0,Arsenal,52.0,Virgil van Dijk,4-2-3-1,4-3-3,Anthony Taylor,Match Report,Liverpool,8.0,0.0,0.0,0.0,,0.0,0.0,9.0,4.0,44.4,0.0,0.0,0.0,0.0,21
+2026-01-17,15:00 (12:00),,Matchweek 22,Sat,Home,D,1.0,1.0,Burnley,73.0,Virgil van Dijk,4-2-3-1,3-4-3,Andy Madley,Match Report,Liverpool,32.0,11.0,34.4,0.03,0.09,0.0,1.0,7.0,1.0,14.3,0.14,1.0,0.0,0.0,22
+2026-01-24,17:30 (14:30),,Matchweek 23,Sat,Away,L,2.0,3.0,Bournemouth,67.0,Virgil van Dijk,4-2-2-2,4-2-3-1,Michael Salisbury,Match Report,Liverpool,14.0,4.0,28.6,0.14,0.5,0.0,0.0,12.0,5.0,41.7,0.25,0.6,0.0,0.0,23
+2026-01-31,20:00 (17:00),,Matchweek 24,Sat,Home,W,4.0,1.0,Newcastle United,54.0,Virgil van Dijk,4-2-3-1,4-3-3,Simon Hooper,Match Report,Liverpool,17.0,7.0,41.2,0.24,0.57,0.0,0.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,24
+2026-02-08,16:30 (13:30),,Matchweek 25,Sun,Home,L,1.0,2.0,Manchester City,47.0,Virgil van Dijk,4-2-3-1,4-1-3-2,Craig Pawson,Match Report,Liverpool,15.0,4.0,26.7,0.07,0.25,0.0,0.0,17.0,7.0,41.2,0.06,0.14,1.0,1.0,25
+2026-02-11,20:15 (17:15),,Matchweek 26,Wed,Away,W,1.0,0.0,Sunderland,56.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,Liverpool,23.0,3.0,13.0,0.04,0.33,0.0,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,26
+2026-02-22,14:00 (11:00),,Matchweek 27,Sun,Away,W,1.0,0.0,Nottingham Forest,53.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Liverpool,10.0,4.0,40.0,0.1,0.25,0.0,0.0,18.0,2.0,11.1,0.0,0.0,0.0,0.0,27
+2026-02-28,15:00 (12:00),,Matchweek 28,Sat,Home,W,5.0,2.0,West Ham United,49.0,Virgil van Dijk,4-2-3-1,4-5-1,Tim Robinson,Match Report,Liverpool,18.0,7.0,38.9,0.22,0.57,0.0,0.0,11.0,4.0,36.4,0.18,0.5,0.0,0.0,28
+2026-03-03,20:15 (17:15),,Matchweek 29,Tue,Away,L,1.0,2.0,Wolves,66.0,Virgil van Dijk,4-2-3-1,3-5-1-1,Thomas Bramall,Match Report,Liverpool,19.0,7.0,36.8,0.05,0.14,0.0,0.0,4.0,3.0,75.0,0.5,0.67,0.0,0.0,29
+2026-03-15,16:30 (13:30),,Matchweek 30,Sun,Home,D,1.0,1.0,Tottenham Hotspur,63.0,Virgil van Dijk,4-2-3-1,4-4-2,Chris Kavanagh,Match Report,Liverpool,17.0,4.0,23.5,0.06,0.25,0.0,0.0,13.0,7.0,53.8,0.08,0.14,0.0,0.0,30
+2026-03-21,12:45 (09:45),,Matchweek 31,Sat,Away,L,1.0,2.0,Brighton,54.0,Virgil van Dijk,4-4-2◆,4-2-3-1,Darren England,Match Report,Liverpool,12.0,5.0,41.7,0.08,0.2,0.0,0.0,16.0,7.0,43.8,0.13,0.29,0.0,0.0,31
+2026-04-11,17:30 (13:30),,Matchweek 32,Sat,Home,W,2.0,0.0,Fulham,53.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Liverpool,18.0,5.0,27.8,0.11,0.4,0.0,0.0,19.0,4.0,21.1,0.0,0.0,0.0,0.0,32
+2026-04-19,14:00 (10:00),,Matchweek 33,Sun,Away,W,2.0,1.0,Everton,56.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,Liverpool,14.0,6.0,42.9,0.14,0.33,0.0,0.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,33
+2026-04-25,15:00 (11:00),,Matchweek 34,Sat,Home,W,3.0,1.0,Crystal Palace,53.0,Virgil van Dijk,4-2-3-1,3-4-3,Andy Madley,Match Report,Liverpool,9.0,3.0,33.3,0.33,1.0,0.0,0.0,14.0,7.0,50.0,0.07,0.14,0.0,0.0,34
+2026-05-03,15:30 (11:30),,Matchweek 35,Sun,Away,,,,Manchester Utd,,,,,,Head-to-Head,Liverpool,,,,,,,,,,,,,,,35
+2026-05-09,12:30 (08:30),,Matchweek 36,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,Liverpool,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Away,,,,Aston Villa,,,,,,Head-to-Head,Liverpool,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Home,,,,Brentford,,,,,,Head-to-Head,Liverpool,,,,,,,,,,,,,,,38
+2025-08-16,17:30 (13:30),,Matchweek 1,Sat,Away,W,4.0,0.0,Wolves,59.0,Bernardo Silva,4-3-3,3-4-3,Jarred Gillett,Match Report,Manchester City,15.0,4.0,26.7,0.27,1.0,0.0,0.0,9.0,3.0,33.3,0.0,0.0,0.0,0.0,1
+2025-08-23,12:30 (08:30),,Matchweek 2,Sat,Home,L,0.0,2.0,Tottenham Hotspur,61.0,Rúben Dias,4-1-4-1,4-3-3,Peter Bankes,Match Report,Manchester City,10.0,4.0,40.0,0.0,0.0,0.0,0.0,12.0,5.0,41.7,0.17,0.4,0.0,0.0,2
+2025-08-31,14:00 (10:00),,Matchweek 3,Sun,Away,L,1.0,2.0,Brighton,64.0,Bernardo Silva,4-3-3,4-2-3-1,Darren England,Match Report,Manchester City,12.0,3.0,25.0,0.08,0.33,0.0,0.0,12.0,7.0,58.3,0.08,0.14,1.0,1.0,3
+2025-09-14,16:30 (12:30),,Matchweek 4,Sun,Home,W,3.0,0.0,Manchester Utd,45.0,Bernardo Silva,4-1-4-1,3-4-3,Anthony Taylor,Match Report,Manchester City,13.0,6.0,46.2,0.23,0.5,0.0,0.0,12.0,2.0,16.7,0.0,0.0,0.0,0.0,4
+2025-09-21,16:30 (12:30),,Matchweek 5,Sun,Away,D,1.0,1.0,Arsenal,33.0,Bernardo Silva,4-1-4-1,4-3-3,Stuart Attwell,Match Report,Manchester City,5.0,3.0,60.0,0.2,0.33,0.0,0.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,5
+2025-09-27,15:00 (11:00),,Matchweek 6,Sat,Home,W,5.0,1.0,Burnley,68.0,Rúben Dias,4-1-4-1,5-4-1,Robert Jones,Match Report,Manchester City,21.0,8.0,38.1,0.14,0.38,0.0,0.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,6
+2025-10-05,16:30 (12:30),,Matchweek 7,Sun,Away,W,1.0,0.0,Brentford,70.0,Rúben Dias,4-1-4-1,5-3-2,Darren England,Match Report,Manchester City,10.0,4.0,40.0,0.1,0.25,0.0,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,7
+2025-10-18,15:00 (11:00),,Matchweek 8,Sat,Home,W,2.0,0.0,Everton,71.0,Rúben Dias,4-1-4-1,4-2-3-1,Tony Harrington,Match Report,Manchester City,19.0,7.0,36.8,0.11,0.29,0.0,0.0,5.0,1.0,20.0,0.0,0.0,0.0,0.0,8
+2025-10-26,14:00 (11:00),,Matchweek 9,Sun,Away,L,0.0,1.0,Aston Villa,53.0,Bernardo Silva,4-1-4-1,4-2-3-1,Michael Oliver,Match Report,Manchester City,18.0,4.0,22.2,0.0,0.0,0.0,0.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,9
+2025-11-02,16:30 (13:30),,Matchweek 10,Sun,Home,W,3.0,1.0,Bournemouth,48.0,Bernardo Silva,4-3-2-1,4-2-3-1,Anthony Taylor,Match Report,Manchester City,15.0,8.0,53.3,0.2,0.38,0.0,0.0,8.0,5.0,62.5,0.13,0.2,0.0,0.0,10
+2025-11-09,16:30 (13:30),,Matchweek 11,Sun,Home,W,3.0,0.0,Liverpool,49.0,Bernardo Silva,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,Manchester City,14.0,6.0,42.9,0.21,0.5,0.0,1.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,11
+2025-11-22,17:30 (14:30),,Matchweek 12,Sat,Away,L,1.0,2.0,Newcastle United,68.0,Bernardo Silva,4-3-2-1,4-5-1,Samuel Barrott,Match Report,Manchester City,17.0,4.0,23.5,0.06,0.25,0.0,0.0,9.0,5.0,55.6,0.22,0.4,0.0,0.0,12
+2025-11-29,15:00 (12:00),,Matchweek 13,Sat,Home,W,3.0,2.0,Leeds United,62.0,Bernardo Silva,4-3-2-1,4-3-3,Peter Bankes,Match Report,Manchester City,18.0,9.0,50.0,0.17,0.33,0.0,0.0,9.0,4.0,44.4,0.22,0.5,0.0,1.0,13
+2025-12-02,19:30 (16:30),,Matchweek 14,Tue,Away,W,5.0,4.0,Fulham,43.0,Bernardo Silva,4-3-3,4-2-3-1,Craig Pawson,Match Report,Manchester City,11.0,4.0,36.4,0.36,1.0,0.0,0.0,12.0,6.0,50.0,0.33,0.67,0.0,0.0,14
+2025-12-06,15:00 (12:00),,Matchweek 15,Sat,Home,W,3.0,0.0,Sunderland,64.0,Bernardo Silva,4-3-2-1,5-4-1,Andy Madley,Match Report,Manchester City,18.0,6.0,33.3,0.17,0.5,0.0,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,15
+2025-12-14,14:00 (11:00),,Matchweek 16,Sun,Away,W,3.0,0.0,Crystal Palace,62.0,Bernardo Silva,4-3-2-1,3-4-3,Darren England,Match Report,Manchester City,7.0,6.0,85.7,0.29,0.33,1.0,1.0,16.0,4.0,25.0,0.0,0.0,0.0,0.0,16
+2025-12-20,15:00 (12:00),,Matchweek 17,Sat,Home,W,3.0,0.0,West Ham United,66.0,Bernardo Silva,4-3-2-1,4-3-1-2,Paul Tierney,Match Report,Manchester City,17.0,8.0,47.1,0.18,0.38,0.0,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,17
+2025-12-27,12:30 (09:30),,Matchweek 18,Sat,Away,W,2.0,1.0,Nottingham Forest,66.0,Bernardo Silva,4-3-2-1,4-2-3-1,Robert Jones,Match Report,Manchester City,16.0,5.0,31.3,0.13,0.4,0.0,0.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,18
+2026-01-01,20:00 (17:00),,Matchweek 19,Thu,Away,D,0.0,0.0,Sunderland,68.0,Bernardo Silva,4-3-2-1,4-2-3-1,Jarred Gillett,Match Report,Manchester City,14.0,4.0,28.6,0.0,0.0,0.0,0.0,10.0,4.0,40.0,0.0,0.0,0.0,0.0,19
+2026-01-04,17:30 (14:30),,Matchweek 20,Sun,Home,D,1.0,1.0,Chelsea,58.0,Bernardo Silva,4-1-4-1,4-2-3-1,Michael Oliver,Match Report,Manchester City,14.0,3.0,21.4,0.07,0.33,0.0,0.0,8.0,3.0,37.5,0.13,0.33,0.0,0.0,20
+2026-01-07,19:30 (16:30),,Matchweek 21,Wed,Home,D,1.0,1.0,Brighton,60.0,Bernardo Silva,4-1-4-1,4-2-3-1,Thomas Bramall,Match Report,Manchester City,22.0,6.0,27.3,0.0,0.0,1.0,1.0,6.0,3.0,50.0,0.17,0.33,0.0,0.0,21
+2026-01-17,12:30 (09:30),,Matchweek 22,Sat,Away,L,0.0,2.0,Manchester Utd,68.0,Bernardo Silva,4-1-4-1,4-2-3-1,Anthony Taylor,Match Report,Manchester City,7.0,1.0,14.3,0.0,0.0,0.0,0.0,11.0,7.0,63.6,0.18,0.29,0.0,0.0,22
+2026-01-24,15:00 (12:00),,Matchweek 23,Sat,Home,W,2.0,0.0,Wolves,64.0,Bernardo Silva,4-1-4-1,3-5-2,Farai Hallam,Match Report,Manchester City,11.0,4.0,36.4,0.18,0.5,0.0,0.0,11.0,1.0,9.1,0.0,0.0,0.0,0.0,23
+2026-02-01,16:30 (13:30),,Matchweek 24,Sun,Away,D,2.0,2.0,Tottenham Hotspur,61.0,Bernardo Silva,4-1-4-1,3-4-3,Robert Jones,Match Report,Manchester City,15.0,3.0,20.0,0.13,0.67,0.0,0.0,12.0,6.0,50.0,0.17,0.33,0.0,0.0,24
+2026-02-08,16:30 (13:30),,Matchweek 25,Sun,Away,W,2.0,1.0,Liverpool,54.0,Bernardo Silva,4-1-3-2,4-2-3-1,Craig Pawson,Match Report,Manchester City,17.0,7.0,41.2,0.06,0.14,1.0,1.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,25
+2026-02-11,19:30 (16:30),,Matchweek 26,Wed,Home,W,3.0,0.0,Fulham,56.0,Bernardo Silva,4-1-3-2,4-2-3-1,Paul Tierney,Match Report,Manchester City,13.0,5.0,38.5,0.23,0.6,0.0,0.0,14.0,3.0,21.4,0.0,0.0,0.0,0.0,26
+2026-02-21,20:00 (17:00),,Matchweek 27,Sat,Home,W,2.0,1.0,Newcastle United,55.0,Bernardo Silva,4-1-3-2,4-3-3,Thomas Bramall,Match Report,Manchester City,15.0,7.0,46.7,0.13,0.29,0.0,0.0,13.0,7.0,53.8,0.08,0.14,0.0,0.0,27
+2026-02-28,17:30 (14:30),,Matchweek 28,Sat,Away,W,1.0,0.0,Leeds United,67.0,Bernardo Silva,4-1-3-2,5-4-1,Peter Bankes,Match Report,Manchester City,14.0,5.0,35.7,0.07,0.2,0.0,0.0,14.0,2.0,14.3,0.0,0.0,0.0,0.0,28
+2026-03-04,19:30 (16:30),,Matchweek 29,Wed,Home,D,2.0,2.0,Nottingham Forest,70.0,Bernardo Silva,4-1-3-2,5-3-2,Darren England,Match Report,Manchester City,21.0,7.0,33.3,0.1,0.29,0.0,0.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,29
+2026-03-14,20:00 (17:00),,Matchweek 30,Sat,Away,D,1.0,1.0,West Ham United,71.0,Bernardo Silva,4-1-3-2,3-4-3,Michael Oliver,Match Report,Manchester City,24.0,6.0,25.0,0.04,0.17,0.0,0.0,1.0,1.0,100.0,1.0,1.0,0.0,0.0,30
+2026-04-12,16:30 (12:30),,Matchweek 32,Sun,Away,W,3.0,0.0,Chelsea,64.0,Bernardo Silva,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,Manchester City,18.0,8.0,44.4,0.17,0.38,0.0,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,32
+2026-04-19,16:30 (12:30),,Matchweek 33,Sun,Home,W,2.0,1.0,Arsenal,59.0,Bernardo Silva,4-2-3-1,4-3-3,Anthony Taylor,Match Report,Manchester City,15.0,5.0,33.3,0.13,0.4,0.0,0.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,33
+2026-04-22,20:00 (16:00),,Matchweek 34,Wed,Away,W,1.0,0.0,Burnley,65.0,Bernardo Silva,4-2-3-1,5-4-1,Andy Madley,Match Report,Manchester City,28.0,9.0,32.1,0.04,0.11,0.0,0.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,34
+2026-05-04,20:00 (16:00),,Matchweek 35,Mon,Away,,,,Everton,,,,,,Head-to-Head,Manchester City,,,,,,,,,,,,,,,35
+2026-05-09,17:30 (13:30),,Matchweek 36,Sat,Home,,,,Brentford,,,,,,Head-to-Head,Manchester City,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Away,,,,Bournemouth,,,,,,Head-to-Head,Manchester City,,,,,,,,,,,,,,,37
+2026-05-22,15:00 (11:00),,Matchweek 31,Fri,Home,,,,Crystal Palace,,,,,,,Manchester City,,,,,,,,,,,,,,,31
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Home,,,,Aston Villa,,,,,,Head-to-Head,Manchester City,,,,,,,,,,,,,,,38
+2025-08-17,16:30 (12:30),,Matchweek 1,Sun,Home,L,0.0,1.0,Arsenal,61.0,Bruno Fernandes,3-4-3,4-3-3,Simon Hooper,Match Report,Manchester Utd,22.0,7.0,31.8,0.0,0.0,0.0,0.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,1
+2025-08-24,16:30 (12:30),,Matchweek 2,Sun,Away,D,1.0,1.0,Fulham,49.0,Bruno Fernandes,3-4-3,4-2-3-1,Chris Kavanagh,Match Report,Manchester Utd,10.0,3.0,30.0,0.0,0.0,0.0,1.0,13.0,4.0,30.8,0.08,0.25,0.0,0.0,2
+2025-08-30,15:00 (11:00),,Matchweek 3,Sat,Home,W,3.0,2.0,Burnley,62.0,Bruno Fernandes,3-4-3,4-2-3-1,Samuel Barrott,Match Report,Manchester Utd,26.0,6.0,23.1,0.04,0.17,1.0,1.0,6.0,3.0,50.0,0.33,0.67,0.0,0.0,3
+2025-09-14,16:30 (12:30),,Matchweek 4,Sun,Away,L,0.0,3.0,Manchester City,55.0,Bruno Fernandes,3-4-3,4-1-4-1,Anthony Taylor,Match Report,Manchester Utd,12.0,2.0,16.7,0.0,0.0,0.0,0.0,13.0,6.0,46.2,0.23,0.5,0.0,0.0,4
+2025-09-20,17:30 (13:30),,Matchweek 5,Sat,Home,W,2.0,1.0,Chelsea,41.0,Bruno Fernandes,3-4-3,4-2-3-1,Peter Bankes,Match Report,Manchester Utd,11.0,4.0,36.4,0.18,0.5,0.0,0.0,5.0,1.0,20.0,0.2,1.0,0.0,0.0,5
+2025-09-27,12:30 (08:30),,Matchweek 6,Sat,Away,L,1.0,3.0,Brentford,56.0,Bruno Fernandes,3-4-3,4-2-3-1,Craig Pawson,Match Report,Manchester Utd,14.0,6.0,42.9,0.07,0.17,0.0,1.0,10.0,8.0,80.0,0.3,0.38,0.0,0.0,6
+2025-10-04,15:00 (11:00),,Matchweek 7,Sat,Home,W,2.0,0.0,Sunderland,51.0,Bruno Fernandes,3-4-3,4-2-3-1,Stuart Attwell,Match Report,Manchester Utd,15.0,6.0,40.0,0.13,0.33,0.0,0.0,8.0,3.0,37.5,0.0,0.0,0.0,0.0,7
+2025-10-19,16:30 (12:30),,Matchweek 8,Sun,Away,W,2.0,1.0,Liverpool,37.0,Bruno Fernandes,3-4-3,4-2-3-1,Michael Oliver,Match Report,Manchester Utd,12.0,4.0,33.3,0.17,0.5,0.0,0.0,19.0,6.0,31.6,0.05,0.17,0.0,0.0,8
+2025-10-25,17:30 (13:30),,Matchweek 9,Sat,Home,W,4.0,2.0,Brighton,43.0,Bruno Fernandes,3-4-3,4-2-3-1,Anthony Taylor,Match Report,Manchester Utd,13.0,9.0,69.2,0.31,0.44,0.0,0.0,17.0,5.0,29.4,0.12,0.4,0.0,0.0,9
+2025-11-01,15:00 (12:00),,Matchweek 10,Sat,Away,D,2.0,2.0,Nottingham Forest,59.0,Bruno Fernandes,3-4-3,4-2-3-1,Darren England,Match Report,Manchester Utd,18.0,7.0,38.9,0.11,0.29,0.0,0.0,17.0,3.0,17.6,0.12,0.67,0.0,0.0,10
+2025-11-08,12:30 (09:30),,Matchweek 11,Sat,Away,D,2.0,2.0,Tottenham Hotspur,45.0,Bruno Fernandes,3-4-3,4-2-3-1,Samuel Barrott,Match Report,Manchester Utd,5.0,2.0,40.0,0.4,1.0,0.0,0.0,10.0,4.0,40.0,0.2,0.5,0.0,0.0,11
+2025-11-24,20:00 (17:00),,Matchweek 12,Mon,Home,L,0.0,1.0,Everton,70.0,Bruno Fernandes,3-4-3,4-2-3-1,Tony Harrington,Match Report,Manchester Utd,25.0,6.0,24.0,0.0,0.0,0.0,0.0,3.0,1.0,33.3,0.33,1.0,0.0,0.0,12
+2025-11-30,12:00 (09:00),,Matchweek 13,Sun,Away,W,2.0,1.0,Crystal Palace,57.0,Bruno Fernandes,3-4-3,3-4-3,Robert Jones,Match Report,Manchester Utd,14.0,6.0,42.9,0.14,0.33,0.0,0.0,14.0,3.0,21.4,0.0,0.0,1.0,1.0,13
+2025-12-04,20:00 (17:00),,Matchweek 14,Thu,Home,D,1.0,1.0,West Ham United,65.0,Bruno Fernandes,3-4-3,4-2-3-1,Andrew Kitchen,Match Report,Manchester Utd,17.0,4.0,23.5,0.06,0.25,0.0,0.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,14
+2025-12-08,20:00 (17:00),,Matchweek 15,Mon,Away,W,4.0,1.0,Wolves,64.0,Bruno Fernandes,3-4-3,3-4-3,Michael Salisbury,Match Report,Manchester Utd,27.0,10.0,37.0,0.11,0.3,1.0,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,15
+2025-12-15,20:00 (17:00),,Matchweek 16,Mon,Home,D,4.0,4.0,Bournemouth,56.0,Bruno Fernandes,3-4-3,4-2-3-1,Simon Hooper,Match Report,Manchester Utd,25.0,9.0,36.0,0.16,0.44,0.0,0.0,14.0,9.0,64.3,0.29,0.44,0.0,0.0,16
+2025-12-21,16:30 (13:30),,Matchweek 17,Sun,Away,L,1.0,2.0,Aston Villa,57.0,Bruno Fernandes,3-4-3,4-2-3-1,Michael Oliver,Match Report,Manchester Utd,15.0,6.0,40.0,0.07,0.17,0.0,0.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,17
+2025-12-26,20:00 (17:00),,Matchweek 18,Fri,Home,W,1.0,0.0,Newcastle United,33.0,Lisandro Martínez,4-2-3-1,4-3-3,Anthony Taylor,Match Report,Manchester Utd,9.0,3.0,33.3,0.11,0.33,0.0,0.0,16.0,3.0,18.8,0.0,0.0,0.0,0.0,18
+2025-12-30,20:15 (17:15),,Matchweek 19,Tue,Home,D,1.0,1.0,Wolves,57.0,Lisandro Martínez,4-2-3-1,3-5-2,Thomas Bramall,Match Report,Manchester Utd,15.0,6.0,40.0,0.07,0.17,0.0,0.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,19
+2026-01-04,12:30 (09:30),,Matchweek 20,Sun,Away,D,1.0,1.0,Leeds United,55.0,Lisandro Martínez,3-4-3,3-5-2,Jarred Gillett,Match Report,Manchester Utd,15.0,2.0,13.3,0.07,0.5,0.0,0.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,20
+2026-01-07,20:15 (17:15),,Matchweek 21,Wed,Away,D,2.0,2.0,Burnley,65.0,Bruno Fernandes,4-2-3-1,3-4-3,Stuart Attwell,Match Report,Manchester Utd,30.0,10.0,33.3,0.07,0.2,0.0,0.0,7.0,1.0,14.3,0.14,1.0,0.0,0.0,21
+2026-01-17,12:30 (09:30),,Matchweek 22,Sat,Home,W,2.0,0.0,Manchester City,32.0,Bruno Fernandes,4-2-3-1,4-1-4-1,Anthony Taylor,Match Report,Manchester Utd,11.0,7.0,63.6,0.18,0.29,0.0,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,22
+2026-01-25,16:30 (13:30),,Matchweek 23,Sun,Away,W,3.0,2.0,Arsenal,43.0,Bruno Fernandes,4-2-3-1,4-3-3,Craig Pawson,Match Report,Manchester Utd,10.0,3.0,30.0,0.3,1.0,0.0,0.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,23
+2026-02-01,14:00 (11:00),,Matchweek 24,Sun,Home,W,3.0,2.0,Fulham,42.0,Bruno Fernandes,4-2-3-1,4-2-3-1,John Brooks,Match Report,Manchester Utd,13.0,6.0,46.2,0.23,0.5,0.0,0.0,14.0,6.0,42.9,0.07,0.17,1.0,1.0,24
+2026-02-07,12:30 (09:30),,Matchweek 25,Sat,Home,W,2.0,0.0,Tottenham Hotspur,65.0,Bruno Fernandes,4-2-3-1,4-3-3,Michael Oliver,Match Report,Manchester Utd,23.0,10.0,43.5,0.09,0.2,0.0,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,25
+2026-02-10,20:15 (17:15),,Matchweek 26,Tue,Away,D,1.0,1.0,West Ham United,65.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,Manchester Utd,9.0,3.0,33.3,0.11,0.33,0.0,0.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,26
+2026-02-23,20:00 (17:00),,Matchweek 27,Mon,Away,W,1.0,0.0,Everton,52.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Darren England,Match Report,Manchester Utd,11.0,3.0,27.3,0.09,0.33,0.0,0.0,12.0,4.0,33.3,0.0,0.0,0.0,0.0,27
+2026-03-01,14:00 (11:00),,Matchweek 28,Sun,Home,W,2.0,1.0,Crystal Palace,61.0,Bruno Fernandes,4-2-3-1,3-4-3,Chris Kavanagh,Match Report,Manchester Utd,20.0,11.0,55.0,0.05,0.09,1.0,1.0,8.0,3.0,37.5,0.13,0.33,0.0,0.0,28
+2026-03-04,20:15 (17:15),,Matchweek 29,Wed,Away,L,1.0,2.0,Newcastle United,55.0,Bruno Fernandes,4-2-3-1,4-3-3,Peter Bankes,Match Report,Manchester Utd,14.0,5.0,35.7,0.07,0.2,0.0,0.0,12.0,5.0,41.7,0.08,0.2,1.0,1.0,29
+2026-03-15,14:00 (11:00),,Matchweek 30,Sun,Home,W,3.0,1.0,Aston Villa,53.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Manchester Utd,16.0,6.0,37.5,0.19,0.5,0.0,0.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,30
+2026-03-20,20:00 (17:00),,Matchweek 31,Fri,Away,D,2.0,2.0,Bournemouth,45.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,Manchester Utd,14.0,5.0,35.7,0.0,0.0,1.0,1.0,16.0,5.0,31.3,0.06,0.2,1.0,1.0,31
+2026-04-13,20:00 (16:00),,Matchweek 32,Mon,Home,L,1.0,2.0,Leeds United,52.0,Bruno Fernandes,4-2-3-1,3-4-3,Paul Tierney,Match Report,Manchester Utd,20.0,9.0,45.0,0.05,0.11,0.0,0.0,15.0,6.0,40.0,0.13,0.33,0.0,0.0,32
+2026-04-18,20:00 (16:00),,Matchweek 33,Sat,Away,W,1.0,0.0,Chelsea,40.0,Bruno Fernandes,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,Manchester Utd,4.0,1.0,25.0,0.25,1.0,0.0,0.0,21.0,3.0,14.3,0.0,0.0,0.0,0.0,33
+2026-04-27,20:00 (16:00),,Matchweek 34,Mon,Home,,,,Brentford,,,,,,Head-to-Head,Manchester Utd,,,,,,,,,,,,,,,34
+2026-05-03,15:30 (11:30),,Matchweek 35,Sun,Home,,,,Liverpool,,,,,,Head-to-Head,Manchester Utd,,,,,,,,,,,,,,,35
+2026-05-09,15:00 (11:00),,Matchweek 36,Sat,Away,,,,Sunderland,,,,,,Head-to-Head,Manchester Utd,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Home,,,,Nottingham Forest,,,,,,Head-to-Head,Manchester Utd,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Away,,,,Brighton,,,,,,Head-to-Head,Manchester Utd,,,,,,,,,,,,,,,38
+2025-08-16,12:30 (08:30),,Matchweek 1,Sat,Away,D,0.0,0.0,Aston Villa,59.0,Bruno Guimarães,4-3-3,4-2-3-1,Craig Pawson,Match Report,Newcastle United,16.0,3.0,18.8,0.0,0.0,0.0,0.0,3.0,3.0,100.0,0.0,0.0,0.0,0.0,1
+2025-08-25,20:00 (16:00),,Matchweek 2,Mon,Home,L,2.0,3.0,Liverpool,38.0,Bruno Guimarães,4-3-3,4-2-3-1,Simon Hooper,Match Report,Newcastle United,10.0,3.0,30.0,0.2,0.67,0.0,0.0,5.0,4.0,80.0,0.6,0.75,0.0,0.0,2
+2025-08-30,17:30 (13:30),,Matchweek 3,Sat,Away,D,0.0,0.0,Leeds United,57.0,Bruno Guimarães,5-3-2,4-3-3,Peter Bankes,Match Report,Newcastle United,8.0,2.0,25.0,0.0,0.0,0.0,0.0,10.0,1.0,10.0,0.0,0.0,0.0,0.0,3
+2025-09-13,15:00 (11:00),,Matchweek 4,Sat,Home,W,1.0,0.0,Wolves,57.0,Bruno Guimarães,4-3-3,3-5-2,Chris Kavanagh,Match Report,Newcastle United,16.0,4.0,25.0,0.06,0.25,0.0,0.0,8.0,3.0,37.5,0.0,0.0,0.0,0.0,4
+2025-09-21,14:00 (10:00),,Matchweek 5,Sun,Away,D,0.0,0.0,Bournemouth,44.0,Dan Burn,3-4-3,4-2-3-1,Robert Jones,Match Report,Newcastle United,4.0,1.0,25.0,0.0,0.0,0.0,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,5
+2025-09-28,16:30 (12:30),,Matchweek 6,Sun,Home,L,1.0,2.0,Arsenal,36.0,Bruno Guimarães,4-3-3,4-2-3-1,Jarred Gillett,Match Report,Newcastle United,8.0,3.0,37.5,0.13,0.33,0.0,0.0,20.0,7.0,35.0,0.1,0.29,0.0,0.0,6
+2025-10-05,14:00 (10:00),,Matchweek 7,Sun,Home,W,2.0,0.0,Nottingham Forest,52.0,Bruno Guimarães,4-3-3,3-4-3,Peter Bankes,Match Report,Newcastle United,18.0,9.0,50.0,0.06,0.11,1.0,1.0,5.0,4.0,80.0,0.0,0.0,0.0,0.0,7
+2025-10-18,15:00 (11:00),,Matchweek 8,Sat,Away,L,1.0,2.0,Brighton,54.0,Bruno Guimarães,4-3-3,4-2-3-1,Craig Pawson,Match Report,Newcastle United,16.0,3.0,18.8,0.06,0.33,0.0,0.0,13.0,5.0,38.5,0.15,0.4,0.0,0.0,8
+2025-10-25,15:00 (11:00),,Matchweek 9,Sat,Home,W,2.0,1.0,Fulham,51.0,Bruno Guimarães,4-3-3,4-2-3-1,Peter Bankes,Match Report,Newcastle United,18.0,7.0,38.9,0.11,0.29,0.0,0.0,12.0,5.0,41.7,0.08,0.2,0.0,0.0,9
+2025-11-02,14:00 (11:00),,Matchweek 10,Sun,Away,L,1.0,3.0,West Ham United,62.0,Bruno Guimarães,4-3-3,4-3-3,Robert Jones,Match Report,Newcastle United,12.0,4.0,33.3,0.08,0.25,0.0,0.0,15.0,9.0,60.0,0.13,0.22,0.0,0.0,10
+2025-11-09,14:00 (11:00),,Matchweek 11,Sun,Away,L,1.0,3.0,Brentford,51.0,Bruno Guimarães,4-3-3,4-2-3-1,Stuart Attwell,Match Report,Newcastle United,5.0,1.0,20.0,0.2,1.0,0.0,0.0,15.0,7.0,46.7,0.13,0.29,1.0,1.0,11
+2025-11-22,17:30 (14:30),,Matchweek 12,Sat,Home,W,2.0,1.0,Manchester City,32.0,Bruno Guimarães,4-5-1,4-3-2-1,Samuel Barrott,Match Report,Newcastle United,9.0,5.0,55.6,0.22,0.4,0.0,0.0,17.0,4.0,23.5,0.06,0.25,0.0,0.0,12
+2025-11-29,17:30 (14:30),,Matchweek 13,Sat,Away,W,4.0,1.0,Everton,51.0,Bruno Guimarães,4-3-3,4-2-3-1,Craig Pawson,Match Report,Newcastle United,13.0,8.0,61.5,0.31,0.5,0.0,0.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,13
+2025-12-02,20:15 (17:15),,Matchweek 14,Tue,Home,D,2.0,2.0,Tottenham Hotspur,53.0,Dan Burn,4-3-3,4-2-3-1,Thomas Bramall,Match Report,Newcastle United,19.0,7.0,36.8,0.05,0.14,1.0,1.0,8.0,2.0,25.0,0.25,1.0,0.0,0.0,14
+2025-12-06,15:00 (12:00),,Matchweek 15,Sat,Home,W,2.0,1.0,Burnley,69.0,Bruno Guimarães,4-3-3,4-3-3,Stuart Attwell,Match Report,Newcastle United,17.0,7.0,41.2,0.06,0.14,1.0,1.0,9.0,3.0,33.3,0.0,0.0,1.0,1.0,15
+2025-12-14,14:00 (11:00),,Matchweek 16,Sun,Away,L,0.0,1.0,Sunderland,54.0,Bruno Guimarães,4-3-3,4-2-3-1,Peter Bankes,Match Report,Newcastle United,6.0,2.0,33.3,0.0,0.0,0.0,0.0,5.0,1.0,20.0,0.0,0.0,0.0,0.0,16
+2025-12-20,12:30 (09:30),,Matchweek 17,Sat,Home,D,2.0,2.0,Chelsea,47.0,Bruno Guimarães,4-3-3,4-2-3-1,Andy Madley,Match Report,Newcastle United,11.0,5.0,45.5,0.18,0.4,0.0,0.0,13.0,4.0,30.8,0.15,0.5,0.0,0.0,17
+2025-12-26,20:00 (17:00),,Matchweek 18,Fri,Away,L,0.0,1.0,Manchester Utd,67.0,Bruno Guimarães,4-3-3,4-2-3-1,Anthony Taylor,Match Report,Newcastle United,16.0,3.0,18.8,0.0,0.0,0.0,0.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,18
+2025-12-30,19:30 (16:30),,Matchweek 19,Tue,Away,W,3.0,1.0,Burnley,51.0,Bruno Guimarães,4-3-3,3-4-3,Robert Jones,Match Report,Newcastle United,20.0,9.0,45.0,0.15,0.33,0.0,0.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,19
+2026-01-04,15:00 (12:00),,Matchweek 20,Sun,Home,W,2.0,0.0,Crystal Palace,59.0,Bruno Guimarães,4-3-3,3-4-3,John Brooks,Match Report,Newcastle United,12.0,7.0,58.3,0.17,0.29,0.0,0.0,11.0,1.0,9.1,0.0,0.0,0.0,0.0,20
+2026-01-07,20:15 (17:15),,Matchweek 21,Wed,Home,W,4.0,3.0,Leeds United,63.0,Bruno Guimarães,4-3-3,3-1-4-2,Michael Salisbury,Match Report,Newcastle United,18.0,8.0,44.4,0.17,0.38,1.0,1.0,14.0,6.0,42.9,0.14,0.33,1.0,1.0,21
+2026-01-18,14:00 (11:00),,Matchweek 22,Sun,Away,D,0.0,0.0,Wolves,66.0,Bruno Guimarães,4-3-3,3-5-2,Samuel Barrott,Match Report,Newcastle United,12.0,2.0,16.7,0.0,0.0,0.0,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,22
+2026-01-25,14:00 (11:00),,Matchweek 23,Sun,Home,L,0.0,2.0,Aston Villa,60.0,Kieran Trippier,4-3-3,4-2-3-1,Jarred Gillett,Match Report,Newcastle United,15.0,4.0,26.7,0.0,0.0,0.0,0.0,14.0,8.0,57.1,0.14,0.25,0.0,0.0,23
+2026-01-31,20:00 (17:00),,Matchweek 24,Sat,Away,L,1.0,4.0,Liverpool,46.0,Kieran Trippier,4-3-3,4-2-3-1,Simon Hooper,Match Report,Newcastle United,8.0,2.0,25.0,0.13,0.5,0.0,0.0,17.0,7.0,41.2,0.24,0.57,0.0,0.0,24
+2026-02-07,17:30 (14:30),,Matchweek 25,Sat,Home,L,2.0,3.0,Brentford,54.0,Bruno Guimarães,4-3-3,4-2-3-1,Andy Madley,Match Report,Newcastle United,16.0,4.0,25.0,0.06,0.25,1.0,1.0,11.0,5.0,45.5,0.18,0.4,1.0,1.0,25
+2026-02-10,19:30 (16:30),,Matchweek 26,Tue,Away,W,2.0,1.0,Tottenham Hotspur,47.0,Bruno Guimarães,4-3-3,4-3-3,Anthony Taylor,Match Report,Newcastle United,21.0,5.0,23.8,0.1,0.4,0.0,0.0,16.0,2.0,12.5,0.06,0.5,0.0,0.0,26
+2026-02-21,20:00 (17:00),,Matchweek 27,Sat,Away,L,1.0,2.0,Manchester City,45.0,Kieran Trippier,4-3-3,4-1-3-2,Thomas Bramall,Match Report,Newcastle United,13.0,7.0,53.8,0.08,0.14,0.0,0.0,15.0,7.0,46.7,0.13,0.29,0.0,0.0,27
+2026-02-28,15:00 (12:00),,Matchweek 28,Sat,Home,L,2.0,3.0,Everton,66.0,Kieran Trippier,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,Newcastle United,17.0,7.0,41.2,0.12,0.29,0.0,0.0,9.0,5.0,55.6,0.33,0.6,0.0,0.0,28
+2026-03-04,20:15 (17:15),,Matchweek 29,Wed,Home,W,2.0,1.0,Manchester Utd,45.0,Kieran Trippier,4-3-3,4-2-3-1,Peter Bankes,Match Report,Newcastle United,12.0,5.0,41.7,0.08,0.2,1.0,1.0,14.0,5.0,35.7,0.07,0.2,0.0,0.0,29
+2026-03-14,17:30 (14:30),,Matchweek 30,Sat,Away,W,1.0,0.0,Chelsea,33.0,Jacob Murphy,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,Newcastle United,7.0,5.0,71.4,0.14,0.2,0.0,0.0,22.0,3.0,13.6,0.0,0.0,0.0,0.0,30
+2026-03-22,12:00 (09:00),,Matchweek 31,Sun,Home,L,1.0,2.0,Sunderland,60.0,Kieran Trippier,4-2-3-1,4-1-4-1,Anthony Taylor,Match Report,Newcastle United,16.0,4.0,25.0,0.06,0.25,0.0,0.0,17.0,7.0,41.2,0.12,0.29,0.0,0.0,31
+2026-04-12,14:00 (10:00),,Matchweek 32,Sun,Away,L,1.0,2.0,Crystal Palace,59.0,Jacob Murphy,4-3-3,3-4-3,Andy Madley,Match Report,Newcastle United,7.0,3.0,42.9,0.14,0.33,0.0,0.0,11.0,5.0,45.5,0.09,0.2,1.0,1.0,32
+2026-04-18,15:00 (11:00),,Matchweek 33,Sat,Home,L,1.0,2.0,Bournemouth,54.0,Sandro Tonali,4-3-3,4-2-3-1,Thomas Bramall,Match Report,Newcastle United,12.0,3.0,25.0,0.08,0.33,0.0,0.0,12.0,3.0,25.0,0.17,0.67,0.0,0.0,33
+2026-04-25,17:30 (13:30),,Matchweek 34,Sat,Away,L,0.0,1.0,Arsenal,55.0,Bruno Guimarães,4-1-4-1,4-3-3,Samuel Barrott,Match Report,Newcastle United,13.0,3.0,23.1,0.0,0.0,0.0,0.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,34
+2026-05-02,15:00 (11:00),,Matchweek 35,Sat,Home,,,,Brighton,,,,,,Head-to-Head,Newcastle United,,,,,,,,,,,,,,,35
+2026-05-10,14:00 (10:00),,Matchweek 36,Sun,Away,,,,Nottingham Forest,,,,,,Head-to-Head,Newcastle United,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Home,,,,West Ham United,,,,,,Head-to-Head,Newcastle United,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Away,,,,Fulham,,,,,,Head-to-Head,Newcastle United,,,,,,,,,,,,,,,38
+2025-08-17,14:00 (10:00),,Matchweek 1,Sun,Home,W,3.0,1.0,Brentford,55.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,Nottingham Forest,11.0,5.0,45.5,0.27,0.6,0.0,0.0,10.0,3.0,30.0,0.0,0.0,1.0,1.0,1
+2025-08-24,14:00 (10:00),,Matchweek 2,Sun,Away,D,1.0,1.0,Crystal Palace,58.0,Morgan Gibbs-White,4-2-3-1,3-4-3,Anthony Taylor,Match Report,Nottingham Forest,9.0,1.0,11.1,0.11,1.0,0.0,0.0,8.0,4.0,50.0,0.13,0.25,0.0,0.0,2
+2025-08-31,14:00 (10:00),,Matchweek 3,Sun,Home,L,0.0,3.0,West Ham United,58.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,Nottingham Forest,11.0,3.0,27.3,0.0,0.0,0.0,0.0,12.0,8.0,66.7,0.17,0.25,1.0,1.0,3
+2025-09-13,12:30 (08:30),,Matchweek 4,Sat,Away,L,0.0,3.0,Arsenal,46.0,Morgan Gibbs-White,4-2-3-1,4-3-3,Darren England,Match Report,Nottingham Forest,5.0,1.0,20.0,0.0,0.0,0.0,0.0,16.0,5.0,31.3,0.19,0.6,0.0,0.0,4
+2025-09-20,15:00 (11:00),,Matchweek 5,Sat,Away,D,1.0,1.0,Burnley,63.0,Morgan Gibbs-White,4-2-3-1,5-4-1,Thomas Bramall,Match Report,Nottingham Forest,17.0,8.0,47.1,0.06,0.13,0.0,0.0,12.0,5.0,41.7,0.08,0.2,0.0,0.0,5
+2025-09-27,17:30 (13:30),,Matchweek 6,Sat,Home,L,0.0,1.0,Sunderland,65.0,Chris Wood,4-2-3-1,4-2-3-1,Tony Harrington,Match Report,Nottingham Forest,22.0,6.0,27.3,0.0,0.0,0.0,0.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,6
+2025-10-05,14:00 (10:00),,Matchweek 7,Sun,Away,L,0.0,2.0,Newcastle United,48.0,Ryan Yates,3-4-3,4-3-3,Peter Bankes,Match Report,Nottingham Forest,5.0,4.0,80.0,0.0,0.0,0.0,0.0,18.0,9.0,50.0,0.06,0.11,1.0,1.0,7
+2025-10-18,12:30 (08:30),,Matchweek 8,Sat,Home,L,0.0,3.0,Chelsea,50.0,Morgan Gibbs-White,5-3-2,4-2-3-1,Chris Kavanagh,Match Report,Nottingham Forest,12.0,2.0,16.7,0.0,0.0,0.0,0.0,17.0,6.0,35.3,0.18,0.5,0.0,0.0,8
+2025-10-26,14:00 (11:00),,Matchweek 9,Sun,Away,L,0.0,2.0,Bournemouth,48.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Nottingham Forest,8.0,4.0,50.0,0.0,0.0,0.0,0.0,13.0,5.0,38.5,0.15,0.4,0.0,0.0,9
+2025-11-01,15:00 (12:00),,Matchweek 10,Sat,Home,D,2.0,2.0,Manchester Utd,41.0,Morgan Gibbs-White,4-2-3-1,3-4-3,Darren England,Match Report,Nottingham Forest,17.0,3.0,17.6,0.12,0.67,0.0,0.0,18.0,7.0,38.9,0.11,0.29,0.0,0.0,10
+2025-11-09,14:00 (11:00),,Matchweek 11,Sun,Home,W,3.0,1.0,Leeds United,46.0,Morgan Gibbs-White,4-2-3-1,4-3-3,Jarred Gillett,Match Report,Nottingham Forest,14.0,6.0,42.9,0.14,0.33,1.0,1.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,11
+2025-11-22,15:00 (12:00),,Matchweek 12,Sat,Away,W,3.0,0.0,Liverpool,26.0,Morgan Gibbs-White,4-2-3-1,4-3-3,Andy Madley,Match Report,Nottingham Forest,15.0,7.0,46.7,0.2,0.43,0.0,0.0,21.0,4.0,19.0,0.0,0.0,0.0,0.0,12
+2025-11-30,14:05 (11:05),,Matchweek 13,Sun,Home,L,0.0,2.0,Brighton,52.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,Nottingham Forest,19.0,3.0,15.8,0.0,0.0,0.0,0.0,17.0,6.0,35.3,0.12,0.33,0.0,0.0,13
+2025-12-03,19:30 (16:30),,Matchweek 14,Wed,Away,W,1.0,0.0,Wolves,51.0,Morgan Gibbs-White,4-2-3-1,3-4-3,Tim Robinson,Match Report,Nottingham Forest,10.0,3.0,30.0,0.1,0.33,0.0,0.0,5.0,1.0,20.0,0.0,0.0,0.0,0.0,14
+2025-12-06,15:00 (12:00),,Matchweek 15,Sat,Away,L,0.0,3.0,Everton,59.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,Nottingham Forest,7.0,3.0,42.9,0.0,0.0,0.0,0.0,11.0,5.0,45.5,0.18,0.4,0.0,0.0,15
+2025-12-14,14:00 (11:00),,Matchweek 16,Sun,Home,W,3.0,0.0,Tottenham Hotspur,48.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Nottingham Forest,15.0,6.0,40.0,0.2,0.5,0.0,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,16
+2025-12-22,20:00 (17:00),,Matchweek 17,Mon,Away,L,0.0,1.0,Fulham,51.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Nottingham Forest,12.0,2.0,16.7,0.0,0.0,0.0,0.0,11.0,1.0,9.1,0.0,0.0,1.0,1.0,17
+2025-12-27,12:30 (09:30),,Matchweek 18,Sat,Home,L,1.0,2.0,Manchester City,34.0,Morgan Gibbs-White,4-2-3-1,4-3-2-1,Robert Jones,Match Report,Nottingham Forest,7.0,2.0,28.6,0.14,0.5,0.0,0.0,16.0,5.0,31.3,0.13,0.4,0.0,0.0,18
+2025-12-30,19:30 (16:30),,Matchweek 19,Tue,Home,L,0.0,2.0,Everton,70.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,Nottingham Forest,21.0,6.0,28.6,0.0,0.0,0.0,0.0,11.0,3.0,27.3,0.18,0.67,0.0,0.0,19
+2026-01-03,12:30 (09:30),,Matchweek 20,Sat,Away,L,1.0,3.0,Aston Villa,27.0,Morgan Gibbs-White,4-5-1,4-2-3-1,Simon Hooper,Match Report,Nottingham Forest,10.0,5.0,50.0,0.1,0.2,0.0,0.0,11.0,4.0,36.4,0.27,0.75,0.0,0.0,20
+2026-01-06,20:00 (17:00),,Matchweek 21,Tue,Away,W,2.0,1.0,West Ham United,53.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Tony Harrington,Match Report,Nottingham Forest,13.0,5.0,38.5,0.08,0.2,1.0,1.0,14.0,3.0,21.4,0.0,0.0,0.0,0.0,21
+2026-01-17,17:30 (14:30),,Matchweek 22,Sat,Home,D,0.0,0.0,Arsenal,39.0,Morgan Gibbs-White,4-2-3-1,4-3-3,Michael Oliver,Match Report,Nottingham Forest,6.0,0.0,0.0,0.0,,0.0,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,22
+2026-01-25,14:00 (11:00),,Matchweek 23,Sun,Away,W,2.0,0.0,Brentford,34.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Nottingham Forest,7.0,2.0,28.6,0.29,1.0,0.0,0.0,10.0,1.0,10.0,0.0,0.0,0.0,0.0,23
+2026-02-01,14:00 (11:00),,Matchweek 24,Sun,Home,D,1.0,1.0,Crystal Palace,33.0,Morgan Gibbs-White,4-2-3-1,3-4-3,Tony Harrington,Match Report,Nottingham Forest,9.0,1.0,11.1,0.11,1.0,0.0,0.0,14.0,3.0,21.4,0.0,0.0,1.0,1.0,24
+2026-02-06,20:00 (17:00),,Matchweek 25,Fri,Away,L,1.0,3.0,Leeds United,44.0,Morgan Gibbs-White,4-2-3-1,3-4-3,Peter Bankes,Match Report,Nottingham Forest,16.0,6.0,37.5,0.06,0.17,0.0,0.0,14.0,5.0,35.7,0.21,0.6,0.0,0.0,25
+2026-02-11,19:30 (16:30),,Matchweek 26,Wed,Home,D,0.0,0.0,Wolves,63.0,Morgan Gibbs-White,4-2-3-1,3-4-1-2,Tim Robinson,Match Report,Nottingham Forest,35.0,10.0,28.6,0.0,0.0,0.0,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,26
+2026-02-22,14:00 (11:00),,Matchweek 27,Sun,Home,L,0.0,1.0,Liverpool,47.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Nottingham Forest,18.0,2.0,11.1,0.0,0.0,0.0,0.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,27
+2026-03-01,14:00 (11:00),,Matchweek 28,Sun,Away,L,1.0,2.0,Brighton,47.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Andy Madley,Match Report,Nottingham Forest,13.0,4.0,30.8,0.08,0.25,0.0,0.0,14.0,7.0,50.0,0.14,0.29,0.0,0.0,28
+2026-03-04,19:30 (16:30),,Matchweek 29,Wed,Away,D,2.0,2.0,Manchester City,30.0,Morgan Gibbs-White,5-3-2,4-1-3-2,Darren England,Match Report,Nottingham Forest,9.0,4.0,44.4,0.22,0.5,0.0,0.0,21.0,7.0,33.3,0.1,0.29,0.0,0.0,29
+2026-03-15,14:00 (11:00),,Matchweek 30,Sun,Home,D,0.0,0.0,Fulham,46.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Nottingham Forest,11.0,2.0,18.2,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,,0.0,0.0,30
+2026-03-22,14:15 (11:15),,Matchweek 31,Sun,Away,W,3.0,0.0,Tottenham Hotspur,42.0,Morgan Gibbs-White,4-2-3-1,4-4-2,Michael Oliver,Match Report,Nottingham Forest,8.0,7.0,87.5,0.38,0.43,0.0,0.0,14.0,3.0,21.4,0.0,0.0,0.0,0.0,31
+2026-04-12,14:00 (10:00),,Matchweek 32,Sun,Home,D,1.0,1.0,Aston Villa,41.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Michael Salisbury,Match Report,Nottingham Forest,15.0,4.0,26.7,0.07,0.25,0.0,0.0,12.0,5.0,41.7,0.0,0.0,0.0,0.0,32
+2026-04-19,14:00 (10:00),,Matchweek 33,Sun,Home,W,4.0,1.0,Burnley,51.0,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Thomas Kirk,Match Report,Nottingham Forest,10.0,4.0,40.0,0.4,1.0,0.0,0.0,4.0,3.0,75.0,0.25,0.33,0.0,0.0,33
+2026-04-24,20:00 (16:00),,Matchweek 34,Fri,Away,W,5.0,0.0,Sunderland,39.0,Morgan Gibbs-White,4-4-2,4-2-3-1,Darren England,Match Report,Nottingham Forest,10.0,6.0,60.0,0.4,0.67,0.0,0.0,14.0,4.0,28.6,0.0,0.0,0.0,0.0,34
+2026-05-04,15:00 (11:00),,Matchweek 35,Mon,Away,,,,Chelsea,,,,,,Head-to-Head,Nottingham Forest,,,,,,,,,,,,,,,35
+2026-05-10,14:00 (10:00),,Matchweek 36,Sun,Home,,,,Newcastle United,,,,,,Head-to-Head,Nottingham Forest,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Away,,,,Manchester Utd,,,,,,Head-to-Head,Nottingham Forest,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Home,,,,Bournemouth,,,,,,Head-to-Head,Nottingham Forest,,,,,,,,,,,,,,,38
+2025-08-16,15:00 (11:00),,Matchweek 1,Sat,Home,W,3.0,0.0,West Ham United,37.0,Granit Xhaka,4-3-3,3-4-1-2,Robert Jones,Match Report,Sunderland,10.0,5.0,50.0,0.3,0.6,0.0,0.0,12.0,4.0,33.3,0.0,0.0,0.0,0.0,1
+2025-08-23,15:00 (11:00),,Matchweek 2,Sat,Away,L,0.0,2.0,Burnley,57.0,Granit Xhaka,4-3-3,4-2-3-1,Michael Salisbury,Match Report,Sunderland,9.0,1.0,11.1,0.0,0.0,0.0,0.0,7.0,2.0,28.6,0.29,1.0,0.0,0.0,2
+2025-08-30,15:00 (11:00),,Matchweek 3,Sat,Home,W,2.0,1.0,Brentford,54.0,Granit Xhaka,4-3-3,4-2-3-1,Anthony Taylor,Match Report,Sunderland,12.0,3.0,25.0,0.08,0.33,1.0,1.0,7.0,4.0,57.1,0.14,0.25,0.0,1.0,3
+2025-09-13,15:00 (11:00),,Matchweek 4,Sat,Away,D,0.0,0.0,Crystal Palace,44.0,Granit Xhaka,4-3-3,3-4-3,Thomas Bramall,Match Report,Sunderland,6.0,0.0,0.0,0.0,,0.0,0.0,14.0,6.0,42.9,0.0,0.0,0.0,0.0,4
+2025-09-21,14:00 (10:00),,Matchweek 5,Sun,Home,D,1.0,1.0,Aston Villa,29.0,Granit Xhaka,4-3-3,4-2-3-1,Samuel Barrott,Match Report,Sunderland,14.0,4.0,28.6,0.07,0.25,0.0,0.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,5
+2025-09-27,17:30 (13:30),,Matchweek 6,Sat,Away,W,1.0,0.0,Nottingham Forest,35.0,Granit Xhaka,4-2-3-1,4-2-3-1,Tony Harrington,Match Report,Sunderland,11.0,3.0,27.3,0.09,0.33,0.0,0.0,22.0,6.0,27.3,0.0,0.0,0.0,0.0,6
+2025-10-04,15:00 (11:00),,Matchweek 7,Sat,Away,L,0.0,2.0,Manchester Utd,49.0,Granit Xhaka,4-2-3-1,3-4-3,Stuart Attwell,Match Report,Sunderland,8.0,3.0,37.5,0.0,0.0,0.0,0.0,15.0,6.0,40.0,0.13,0.33,0.0,0.0,7
+2025-10-18,15:00 (11:00),,Matchweek 8,Sat,Home,W,2.0,0.0,Wolves,41.0,Granit Xhaka,4-2-3-1,4-3-3,Robert Jones,Match Report,Sunderland,8.0,2.0,25.0,0.13,0.5,0.0,0.0,16.0,3.0,18.8,0.0,0.0,0.0,0.0,8
+2025-10-25,15:00 (11:00),,Matchweek 9,Sat,Away,W,2.0,1.0,Chelsea,31.0,Granit Xhaka,5-4-1,4-2-3-1,Andy Madley,Match Report,Sunderland,10.0,4.0,40.0,0.2,0.5,0.0,0.0,16.0,7.0,43.8,0.06,0.14,0.0,0.0,9
+2025-11-03,20:00 (17:00),,Matchweek 10,Mon,Home,D,1.0,1.0,Everton,61.0,Granit Xhaka,3-4-3,4-2-3-1,Thomas Bramall,Match Report,Sunderland,17.0,3.0,17.6,0.06,0.33,0.0,0.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,10
+2025-11-08,17:30 (14:30),,Matchweek 11,Sat,Home,D,2.0,2.0,Arsenal,35.0,Granit Xhaka,5-4-1,4-2-3-1,Craig Pawson,Match Report,Sunderland,6.0,2.0,33.3,0.33,1.0,0.0,0.0,17.0,7.0,41.2,0.12,0.29,0.0,0.0,11
+2025-11-22,15:00 (12:00),,Matchweek 12,Sat,Away,L,0.0,1.0,Fulham,43.0,Granit Xhaka,5-4-1,4-2-3-1,Darren England,Match Report,Sunderland,4.0,2.0,50.0,0.0,0.0,0.0,0.0,24.0,6.0,25.0,0.04,0.17,0.0,0.0,12
+2025-11-29,15:00 (12:00),,Matchweek 13,Sat,Home,W,3.0,2.0,Bournemouth,43.0,Granit Xhaka,4-2-3-1,4-2-3-1,Tim Robinson,Match Report,Sunderland,12.0,6.0,50.0,0.17,0.33,1.0,1.0,18.0,6.0,33.3,0.11,0.33,0.0,0.0,13
+2025-12-03,20:15 (17:15),,Matchweek 14,Wed,Away,D,1.0,1.0,Liverpool,32.0,Granit Xhaka,4-4-2,4-2-3-1,Stuart Attwell,Match Report,Sunderland,9.0,6.0,66.7,0.11,0.17,0.0,0.0,23.0,4.0,17.4,0.0,0.0,0.0,0.0,14
+2025-12-06,15:00 (12:00),,Matchweek 15,Sat,Away,L,0.0,3.0,Manchester City,37.0,Granit Xhaka,5-4-1,4-3-2-1,Andy Madley,Match Report,Sunderland,8.0,1.0,12.5,0.0,0.0,0.0,0.0,18.0,6.0,33.3,0.17,0.5,0.0,0.0,15
+2025-12-14,14:00 (11:00),,Matchweek 16,Sun,Home,W,1.0,0.0,Newcastle United,46.0,Granit Xhaka,4-2-3-1,4-3-3,Peter Bankes,Match Report,Sunderland,5.0,1.0,20.0,0.0,0.0,0.0,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,16
+2025-12-20,15:00 (12:00),,Matchweek 17,Sat,Away,D,0.0,0.0,Brighton,44.0,Granit Xhaka,4-2-3-1,4-2-3-1,Darren England,Match Report,Sunderland,14.0,6.0,42.9,0.0,0.0,0.0,0.0,16.0,4.0,25.0,0.0,0.0,0.0,0.0,17
+2025-12-28,14:00 (11:00),,Matchweek 18,Sun,Home,D,1.0,1.0,Leeds United,43.0,Granit Xhaka,4-2-3-1,3-5-2,Tony Harrington,Match Report,Sunderland,8.0,3.0,37.5,0.13,0.33,0.0,0.0,17.0,6.0,35.3,0.06,0.17,0.0,0.0,18
+2026-01-01,20:00 (17:00),,Matchweek 19,Thu,Home,D,0.0,0.0,Manchester City,32.0,Granit Xhaka,4-2-3-1,4-3-2-1,Jarred Gillett,Match Report,Sunderland,10.0,4.0,40.0,0.0,0.0,0.0,0.0,14.0,4.0,28.6,0.0,0.0,0.0,0.0,19
+2026-01-04,15:00 (12:00),,Matchweek 20,Sun,Away,D,1.0,1.0,Tottenham Hotspur,51.0,Granit Xhaka,4-4-2,4-2-3-1,Stuart Attwell,Match Report,Sunderland,10.0,3.0,30.0,0.1,0.33,0.0,0.0,13.0,5.0,38.5,0.08,0.2,0.0,0.0,20
+2026-01-07,19:30 (16:30),,Matchweek 21,Wed,Away,L,0.0,3.0,Brentford,49.0,Granit Xhaka,4-2-3-1,4-2-3-1,Matt Donohue,Match Report,Sunderland,11.0,3.0,27.3,0.0,0.0,0.0,1.0,18.0,6.0,33.3,0.17,0.5,0.0,0.0,21
+2026-01-17,15:00 (12:00),,Matchweek 22,Sat,Home,W,2.0,1.0,Crystal Palace,59.0,Granit Xhaka,4-2-3-1,3-4-3,Robert Jones,Match Report,Sunderland,13.0,7.0,53.8,0.15,0.29,0.0,0.0,6.0,2.0,33.3,0.17,0.5,0.0,0.0,22
+2026-01-24,12:30 (09:30),,Matchweek 23,Sat,Away,L,1.0,3.0,West Ham United,53.0,Trai Hume,4-4-2,4-4-1-1,Thomas Bramall,Match Report,Sunderland,7.0,2.0,28.6,0.14,0.5,0.0,0.0,13.0,5.0,38.5,0.15,0.4,1.0,1.0,23
+2026-02-02,20:00 (17:00),,Matchweek 24,Mon,Home,W,3.0,0.0,Burnley,44.0,Trai Hume,5-4-1,3-4-3,Paul Tierney,Match Report,Sunderland,14.0,5.0,35.7,0.14,0.4,0.0,0.0,5.0,0.0,0.0,0.0,,0.0,0.0,24
+2026-02-07,15:00 (12:00),,Matchweek 25,Sat,Away,L,0.0,3.0,Arsenal,51.0,Trai Hume,4-2-3-1,4-3-3,Samuel Barrott,Match Report,Sunderland,5.0,3.0,60.0,0.0,0.0,0.0,0.0,16.0,5.0,31.3,0.19,0.6,0.0,0.0,25
+2026-02-11,20:15 (17:15),,Matchweek 26,Wed,Home,L,0.0,1.0,Liverpool,44.0,Trai Hume,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,Sunderland,11.0,2.0,18.2,0.0,0.0,0.0,0.0,23.0,3.0,13.0,0.04,0.33,0.0,0.0,26
+2026-02-22,14:00 (11:00),,Matchweek 27,Sun,Home,L,1.0,3.0,Fulham,53.0,Trai Hume,4-1-4-1,4-2-3-1,Craig Pawson,Match Report,Sunderland,12.0,2.0,16.7,0.0,0.0,1.0,1.0,12.0,4.0,33.3,0.17,0.5,1.0,1.0,27
+2026-02-28,12:30 (09:30),,Matchweek 28,Sat,Away,D,1.0,1.0,Bournemouth,38.0,Granit Xhaka,4-2-3-1,4-2-3-1,Jarred Gillett,Match Report,Sunderland,8.0,4.0,50.0,0.13,0.25,0.0,0.0,21.0,5.0,23.8,0.05,0.2,0.0,0.0,28
+2026-03-03,19:30 (16:30),,Matchweek 29,Tue,Away,W,1.0,0.0,Leeds United,30.0,Luke O'Nien,4-2-3-1,4-5-1,Stuart Attwell,Match Report,Sunderland,3.0,1.0,33.3,0.0,0.0,1.0,1.0,18.0,4.0,22.2,0.0,0.0,0.0,0.0,29
+2026-03-14,15:00 (12:00),,Matchweek 30,Sat,Home,L,0.0,1.0,Brighton,47.0,Granit Xhaka,4-1-4-1,4-2-3-1,Thomas Kirk,Match Report,Sunderland,14.0,4.0,28.6,0.0,0.0,0.0,0.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,30
+2026-03-22,12:00 (09:00),,Matchweek 31,Sun,Away,W,2.0,1.0,Newcastle United,40.0,Granit Xhaka,4-1-4-1,4-2-3-1,Anthony Taylor,Match Report,Sunderland,17.0,7.0,41.2,0.12,0.29,0.0,0.0,16.0,4.0,25.0,0.06,0.25,0.0,0.0,31
+2026-04-12,14:00 (10:00),,Matchweek 32,Sun,Home,W,1.0,0.0,Tottenham Hotspur,53.0,Granit Xhaka,4-2-3-1,4-2-3-1,Robert Jones,Match Report,Sunderland,13.0,2.0,15.4,0.08,0.5,0.0,0.0,11.0,7.0,63.6,0.0,0.0,0.0,0.0,32
+2026-04-19,14:00 (10:00),,Matchweek 33,Sun,Away,L,3.0,4.0,Aston Villa,50.0,Granit Xhaka,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Sunderland,10.0,7.0,70.0,0.3,0.43,0.0,0.0,15.0,7.0,46.7,0.27,0.57,0.0,0.0,33
+2026-04-24,20:00 (16:00),,Matchweek 34,Fri,Home,L,0.0,5.0,Nottingham Forest,61.0,Granit Xhaka,4-2-3-1,4-4-2,Darren England,Match Report,Sunderland,14.0,4.0,28.6,0.0,0.0,0.0,0.0,10.0,6.0,60.0,0.4,0.67,0.0,0.0,34
+2026-05-02,15:00 (11:00),,Matchweek 35,Sat,Away,,,,Wolves,,,,,,Head-to-Head,Sunderland,,,,,,,,,,,,,,,35
+2026-05-09,15:00 (11:00),,Matchweek 36,Sat,Home,,,,Manchester Utd,,,,,,Head-to-Head,Sunderland,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Away,,,,Everton,,,,,,Head-to-Head,Sunderland,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Home,,,,Chelsea,,,,,,Head-to-Head,Sunderland,,,,,,,,,,,,,,,38
+2025-08-16,15:00 (11:00),,Matchweek 1,Sat,Home,W,3.0,0.0,Burnley,68.0,Cristian Romero,4-3-3,5-4-1,Michael Oliver,Match Report,Tottenham Hotspur,16.0,6.0,37.5,0.19,0.5,0.0,0.0,14.0,4.0,28.6,0.0,0.0,0.0,0.0,1
+2025-08-23,12:30 (08:30),,Matchweek 2,Sat,Away,W,2.0,0.0,Manchester City,39.0,Cristian Romero,4-3-3,4-1-4-1,Peter Bankes,Match Report,Tottenham Hotspur,12.0,5.0,41.7,0.17,0.4,0.0,0.0,10.0,4.0,40.0,0.0,0.0,0.0,0.0,2
+2025-08-30,15:00 (11:00),,Matchweek 3,Sat,Home,L,0.0,1.0,Bournemouth,62.0,Cristian Romero,4-3-3,4-2-3-1,Simon Hooper,Match Report,Tottenham Hotspur,5.0,1.0,20.0,0.0,0.0,0.0,0.0,20.0,6.0,30.0,0.05,0.17,0.0,0.0,3
+2025-09-13,17:30 (13:30),,Matchweek 4,Sat,Away,W,3.0,0.0,West Ham United,64.0,Cristian Romero,4-3-3,4-2-3-1,Jarred Gillett,Match Report,Tottenham Hotspur,14.0,5.0,35.7,0.21,0.6,0.0,0.0,7.0,4.0,57.1,0.0,0.0,0.0,0.0,4
+2025-09-20,15:00 (11:00),,Matchweek 5,Sat,Away,D,2.0,2.0,Brighton,64.0,Cristian Romero,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,Tottenham Hotspur,11.0,3.0,27.3,0.09,0.33,0.0,0.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,5
+2025-09-27,20:00 (16:00),,Matchweek 6,Sat,Home,D,1.0,1.0,Wolves,51.0,Cristian Romero,4-2-3-1,4-2-3-1,Michael Salisbury,Match Report,Tottenham Hotspur,10.0,3.0,30.0,0.1,0.33,0.0,0.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,6
+2025-10-04,12:30 (08:30),,Matchweek 7,Sat,Away,W,2.0,1.0,Leeds United,44.0,Cristian Romero,4-2-3-1,4-3-3,Thomas Bramall,Match Report,Tottenham Hotspur,9.0,3.0,33.3,0.22,0.67,0.0,0.0,16.0,4.0,25.0,0.06,0.25,0.0,0.0,7
+2025-10-19,14:00 (10:00),,Matchweek 8,Sun,Home,L,1.0,2.0,Aston Villa,53.0,Micky van de Ven,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,Tottenham Hotspur,9.0,3.0,33.3,0.11,0.33,0.0,0.0,8.0,2.0,25.0,0.25,1.0,0.0,0.0,8
+2025-10-26,16:30 (13:30),,Matchweek 9,Sun,Away,W,3.0,0.0,Everton,47.0,Micky van de Ven,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,Tottenham Hotspur,7.0,4.0,57.1,0.43,0.75,0.0,0.0,12.0,2.0,16.7,0.0,0.0,0.0,0.0,9
+2025-11-01,17:30 (14:30),,Matchweek 10,Sat,Home,L,0.0,1.0,Chelsea,48.0,Micky van de Ven,4-2-3-1,4-2-3-1,Jarred Gillett,Match Report,Tottenham Hotspur,3.0,1.0,33.3,0.0,0.0,0.0,0.0,15.0,9.0,60.0,0.07,0.11,0.0,0.0,10
+2025-11-08,12:30 (09:30),,Matchweek 11,Sat,Home,D,2.0,2.0,Manchester Utd,55.0,Cristian Romero,4-2-3-1,3-4-3,Samuel Barrott,Match Report,Tottenham Hotspur,10.0,4.0,40.0,0.2,0.5,0.0,0.0,5.0,2.0,40.0,0.4,1.0,0.0,0.0,11
+2025-11-23,16:30 (13:30),,Matchweek 12,Sun,Away,L,1.0,4.0,Arsenal,43.0,Cristian Romero,3-4-3,4-2-3-1,Michael Oliver,Match Report,Tottenham Hotspur,3.0,2.0,66.7,0.33,0.5,0.0,0.0,17.0,8.0,47.1,0.24,0.5,0.0,0.0,12
+2025-11-29,20:00 (17:00),,Matchweek 13,Sat,Home,L,1.0,2.0,Fulham,63.0,Micky van de Ven,4-2-2-2,4-2-3-1,Stuart Attwell,Match Report,Tottenham Hotspur,14.0,2.0,14.3,0.07,0.5,0.0,0.0,7.0,3.0,42.9,0.29,0.67,0.0,0.0,13
+2025-12-02,20:15 (17:15),,Matchweek 14,Tue,Away,D,2.0,2.0,Newcastle United,47.0,Cristian Romero,4-2-3-1,4-3-3,Thomas Bramall,Match Report,Tottenham Hotspur,8.0,2.0,25.0,0.25,1.0,0.0,0.0,19.0,7.0,36.8,0.05,0.14,1.0,1.0,14
+2025-12-06,15:00 (12:00),,Matchweek 15,Sat,Home,W,2.0,0.0,Brentford,53.0,Cristian Romero,4-2-3-1,4-2-3-1,Robert Jones,Match Report,Tottenham Hotspur,15.0,7.0,46.7,0.13,0.29,0.0,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,15
+2025-12-14,14:00 (11:00),,Matchweek 16,Sun,Away,L,0.0,3.0,Nottingham Forest,52.0,Cristian Romero,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,Tottenham Hotspur,6.0,1.0,16.7,0.0,0.0,0.0,0.0,15.0,6.0,40.0,0.2,0.5,0.0,0.0,16
+2025-12-20,17:30 (14:30),,Matchweek 17,Sat,Home,L,1.0,2.0,Liverpool,35.0,Cristian Romero,4-2-2-2,4-2-3-1,John Brooks,Match Report,Tottenham Hotspur,15.0,4.0,26.7,0.07,0.25,0.0,0.0,8.0,4.0,50.0,0.25,0.5,0.0,0.0,17
+2025-12-28,16:30 (13:30),,Matchweek 18,Sun,Away,W,1.0,0.0,Crystal Palace,38.0,Micky van de Ven,4-2-3-1,3-4-3,Jarred Gillett,Match Report,Tottenham Hotspur,8.0,4.0,50.0,0.13,0.25,0.0,0.0,15.0,2.0,13.3,0.0,0.0,0.0,0.0,18
+2026-01-01,20:00 (17:00),,Matchweek 19,Thu,Away,D,0.0,0.0,Brentford,44.0,Cristian Romero,4-3-3,4-3-3,Andy Madley,Match Report,Tottenham Hotspur,9.0,3.0,33.3,0.0,0.0,0.0,0.0,7.0,2.0,28.6,0.0,0.0,0.0,0.0,19
+2026-01-04,15:00 (12:00),,Matchweek 20,Sun,Home,D,1.0,1.0,Sunderland,49.0,Cristian Romero,4-2-3-1,4-4-2,Stuart Attwell,Match Report,Tottenham Hotspur,13.0,5.0,38.5,0.08,0.2,0.0,0.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,20
+2026-01-07,19:30 (16:30),,Matchweek 21,Wed,Away,L,2.0,3.0,Bournemouth,58.0,Cristian Romero,4-2-3-1,4-2-3-1,Darren England,Match Report,Tottenham Hotspur,16.0,4.0,25.0,0.13,0.5,0.0,0.0,11.0,3.0,27.3,0.27,1.0,0.0,0.0,21
+2026-01-17,15:00 (12:00),,Matchweek 22,Sat,Home,L,1.0,2.0,West Ham United,62.0,Cristian Romero,4-2-3-1,4-4-1-1,Jarred Gillett,Match Report,Tottenham Hotspur,21.0,6.0,28.6,0.05,0.17,0.0,0.0,17.0,4.0,23.5,0.12,0.5,0.0,0.0,22
+2026-01-24,15:00 (12:00),,Matchweek 23,Sat,Away,D,2.0,2.0,Burnley,63.0,Cristian Romero,3-4-3,3-4-3,Peter Bankes,Match Report,Tottenham Hotspur,18.0,11.0,61.1,0.11,0.18,0.0,0.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,23
+2026-02-01,16:30 (13:30),,Matchweek 24,Sun,Home,D,2.0,2.0,Manchester City,39.0,Cristian Romero,3-4-3,4-1-4-1,Robert Jones,Match Report,Tottenham Hotspur,12.0,6.0,50.0,0.17,0.33,0.0,0.0,15.0,3.0,20.0,0.13,0.67,0.0,0.0,24
+2026-02-07,12:30 (09:30),,Matchweek 25,Sat,Away,L,0.0,2.0,Manchester Utd,35.0,Cristian Romero,4-3-3,4-2-3-1,Michael Oliver,Match Report,Tottenham Hotspur,7.0,1.0,14.3,0.0,0.0,0.0,0.0,23.0,10.0,43.5,0.09,0.2,0.0,0.0,25
+2026-02-10,19:30 (16:30),,Matchweek 26,Tue,Home,L,1.0,2.0,Newcastle United,53.0,Micky van de Ven,4-3-3,4-3-3,Anthony Taylor,Match Report,Tottenham Hotspur,16.0,2.0,12.5,0.06,0.5,0.0,0.0,21.0,5.0,23.8,0.1,0.4,0.0,0.0,26
+2026-02-22,16:30 (13:30),,Matchweek 27,Sun,Home,L,1.0,4.0,Arsenal,39.0,Micky van de Ven,3-5-2,4-2-3-1,Peter Bankes,Match Report,Tottenham Hotspur,6.0,5.0,83.3,0.17,0.2,0.0,0.0,20.0,7.0,35.0,0.2,0.57,0.0,0.0,27
+2026-03-01,14:00 (11:00),,Matchweek 28,Sun,Away,L,1.0,2.0,Fulham,46.0,Micky van de Ven,4-4-2,4-2-3-1,Thomas Bramall,Match Report,Tottenham Hotspur,13.0,1.0,7.7,0.08,1.0,0.0,0.0,18.0,4.0,22.2,0.11,0.5,0.0,0.0,28
+2026-03-05,20:00 (17:00),,Matchweek 29,Thu,Home,L,1.0,3.0,Crystal Palace,40.0,Micky van de Ven,3-4-3,3-4-3,Andy Madley,Match Report,Tottenham Hotspur,12.0,4.0,33.3,0.08,0.25,0.0,0.0,9.0,4.0,44.4,0.22,0.5,1.0,1.0,29
+2026-03-15,16:30 (13:30),,Matchweek 30,Sun,Away,D,1.0,1.0,Liverpool,37.0,Pedro Porro,4-4-2,4-2-3-1,Chris Kavanagh,Match Report,Tottenham Hotspur,13.0,7.0,53.8,0.08,0.14,0.0,0.0,17.0,4.0,23.5,0.06,0.25,0.0,0.0,30
+2026-03-22,14:15 (11:15),,Matchweek 31,Sun,Home,L,0.0,3.0,Nottingham Forest,58.0,Cristian Romero,4-4-2,4-2-3-1,Michael Oliver,Match Report,Tottenham Hotspur,14.0,3.0,21.4,0.0,0.0,0.0,0.0,8.0,7.0,87.5,0.38,0.43,0.0,0.0,31
+2026-04-12,14:00 (10:00),,Matchweek 32,Sun,Away,L,0.0,1.0,Sunderland,48.0,Cristian Romero,4-2-3-1,4-2-3-1,Robert Jones,Match Report,Tottenham Hotspur,11.0,7.0,63.6,0.0,0.0,0.0,0.0,13.0,2.0,15.4,0.08,0.5,0.0,0.0,32
+2026-04-18,17:30 (13:30),,Matchweek 33,Sat,Home,D,2.0,2.0,Brighton,42.0,Micky van de Ven,4-3-3,4-2-3-1,Stuart Attwell,Match Report,Tottenham Hotspur,13.0,6.0,46.2,0.15,0.33,0.0,0.0,10.0,3.0,30.0,0.2,0.67,0.0,0.0,33
+2026-04-25,15:00 (11:00),,Matchweek 34,Sat,Away,W,1.0,0.0,Wolves,59.0,Micky van de Ven,4-2-3-1,3-4-3,Anthony Taylor,Match Report,Tottenham Hotspur,11.0,2.0,18.2,0.09,0.5,0.0,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,34
+2026-05-03,19:00 (15:00),,Matchweek 35,Sun,Away,,,,Aston Villa,,,,,,Head-to-Head,Tottenham Hotspur,,,,,,,,,,,,,,,35
+2026-05-11,20:00 (16:00),,Matchweek 36,Mon,Home,,,,Leeds United,,,,,,Head-to-Head,Tottenham Hotspur,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Away,,,,Chelsea,,,,,,Head-to-Head,Tottenham Hotspur,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Home,,,,Everton,,,,,,Head-to-Head,Tottenham Hotspur,,,,,,,,,,,,,,,38
+2025-08-16,15:00 (11:00),,Matchweek 1,Sat,Away,L,0.0,3.0,Sunderland,63.0,Jarrod Bowen,3-4-1-2,4-3-3,Robert Jones,Match Report,West Ham United,12.0,4.0,33.3,0.0,0.0,0.0,0.0,10.0,5.0,50.0,0.3,0.6,0.0,0.0,1
+2025-08-22,20:00 (16:00),,Matchweek 2,Fri,Home,L,1.0,5.0,Chelsea,40.0,Jarrod Bowen,3-4-1-2,4-2-3-1,Michael Oliver,Match Report,West Ham United,12.0,4.0,33.3,0.08,0.25,0.0,0.0,12.0,7.0,58.3,0.42,0.71,0.0,0.0,2
+2025-08-31,14:00 (10:00),,Matchweek 3,Sun,Away,W,3.0,0.0,Nottingham Forest,42.0,Jarrod Bowen,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,West Ham United,12.0,8.0,66.7,0.17,0.25,1.0,1.0,11.0,3.0,27.3,0.0,0.0,0.0,0.0,3
+2025-09-13,17:30 (13:30),,Matchweek 4,Sat,Home,L,0.0,3.0,Tottenham Hotspur,36.0,Jarrod Bowen,4-2-3-1,4-3-3,Jarred Gillett,Match Report,West Ham United,7.0,4.0,57.1,0.0,0.0,0.0,0.0,14.0,5.0,35.7,0.21,0.6,0.0,0.0,4
+2025-09-20,15:00 (11:00),,Matchweek 5,Sat,Home,L,1.0,2.0,Crystal Palace,57.0,Jarrod Bowen,4-2-3-1,3-4-3,Tony Harrington,Match Report,West Ham United,8.0,3.0,37.5,0.13,0.33,0.0,0.0,18.0,3.0,16.7,0.11,0.67,0.0,0.0,5
+2025-09-29,20:00 (16:00),,Matchweek 6,Mon,Away,D,1.0,1.0,Everton,49.0,Jarrod Bowen,4-1-4-1,4-2-3-1,Samuel Barrott,Match Report,West Ham United,14.0,3.0,21.4,0.07,0.33,0.0,0.0,12.0,6.0,50.0,0.08,0.17,0.0,0.0,6
+2025-10-04,15:00 (11:00),,Matchweek 7,Sat,Away,L,0.0,2.0,Arsenal,32.0,Jarrod Bowen,4-1-4-1,4-3-3,John Brooks,Match Report,West Ham United,4.0,0.0,0.0,0.0,,0.0,0.0,21.0,5.0,23.8,0.05,0.2,1.0,1.0,7
+2025-10-20,20:00 (16:00),,Matchweek 8,Mon,Home,L,0.0,2.0,Brentford,43.0,Jarrod Bowen,4-2-3-1,4-2-3-1,Andy Madley,Match Report,West Ham United,7.0,1.0,14.3,0.0,0.0,0.0,0.0,22.0,7.0,31.8,0.09,0.29,0.0,0.0,8
+2025-10-24,20:00 (16:00),,Matchweek 9,Fri,Away,L,1.0,2.0,Leeds United,59.0,Jarrod Bowen,3-4-3,4-3-3,Stuart Attwell,Match Report,West Ham United,9.0,3.0,33.3,0.11,0.33,0.0,0.0,13.0,5.0,38.5,0.15,0.4,0.0,0.0,9
+2025-11-02,14:00 (11:00),,Matchweek 10,Sun,Home,W,3.0,1.0,Newcastle United,38.0,Jarrod Bowen,4-3-3,4-3-3,Robert Jones,Match Report,West Ham United,15.0,9.0,60.0,0.13,0.22,0.0,0.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,10
+2025-11-08,15:00 (12:00),,Matchweek 11,Sat,Home,W,3.0,2.0,Burnley,43.0,Jarrod Bowen,4-3-3,4-2-3-1,Michael Salisbury,Match Report,West Ham United,15.0,6.0,40.0,0.2,0.5,0.0,0.0,16.0,7.0,43.8,0.13,0.29,0.0,0.0,11
+2025-11-22,15:00 (12:00),,Matchweek 12,Sat,Away,D,2.0,2.0,Bournemouth,24.0,Jarrod Bowen,3-4-3,4-2-3-1,Thomas Bramall,Match Report,West Ham United,5.0,2.0,40.0,0.4,1.0,0.0,0.0,28.0,10.0,35.7,0.04,0.1,1.0,1.0,12
+2025-11-30,14:05 (11:05),,Matchweek 13,Sun,Home,L,0.0,2.0,Liverpool,44.0,Jarrod Bowen,4-2-3-1,4-2-3-1,Darren England,Match Report,West Ham United,7.0,0.0,0.0,0.0,,0.0,0.0,9.0,5.0,55.6,0.22,0.4,0.0,0.0,13
+2025-12-04,20:00 (17:00),,Matchweek 14,Thu,Away,D,1.0,1.0,Manchester Utd,35.0,Jarrod Bowen,4-2-3-1,3-4-3,Andrew Kitchen,Match Report,West Ham United,11.0,3.0,27.3,0.09,0.33,0.0,0.0,17.0,4.0,23.5,0.06,0.25,0.0,0.0,14
+2025-12-07,14:00 (11:00),,Matchweek 15,Sun,Away,D,1.0,1.0,Brighton,32.0,Jarrod Bowen,3-4-1-2,4-2-3-1,Simon Hooper,Match Report,West Ham United,14.0,5.0,35.7,0.07,0.2,0.0,0.0,22.0,4.0,18.2,0.05,0.25,0.0,0.0,15
+2025-12-14,14:00 (11:00),,Matchweek 16,Sun,Home,L,2.0,3.0,Aston Villa,41.0,Jarrod Bowen,4-3-1-2,4-2-3-1,Anthony Taylor,Match Report,West Ham United,10.0,3.0,30.0,0.2,0.67,0.0,0.0,7.0,4.0,57.1,0.29,0.5,0.0,0.0,16
+2025-12-20,15:00 (12:00),,Matchweek 17,Sat,Away,L,0.0,3.0,Manchester City,34.0,Jarrod Bowen,4-3-1-2,4-3-2-1,Paul Tierney,Match Report,West Ham United,7.0,3.0,42.9,0.0,0.0,0.0,0.0,17.0,8.0,47.1,0.18,0.38,0.0,0.0,17
+2025-12-27,15:00 (12:00),,Matchweek 18,Sat,Home,L,0.0,1.0,Fulham,44.0,Jarrod Bowen,4-3-2-1,4-2-3-1,Chris Kavanagh,Match Report,West Ham United,11.0,2.0,18.2,0.0,0.0,0.0,0.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,18
+2025-12-30,19:30 (16:30),,Matchweek 19,Tue,Home,D,2.0,2.0,Brighton,39.0,Jarrod Bowen,4-2-3-1,4-2-3-1,Michael Salisbury,Match Report,West Ham United,10.0,4.0,40.0,0.1,0.25,1.0,1.0,16.0,6.0,37.5,0.06,0.17,1.0,2.0,19
+2026-01-03,15:00 (12:00),,Matchweek 20,Sat,Away,L,0.0,3.0,Wolves,68.0,Jarrod Bowen,4-2-3-1,3-5-2,Peter Bankes,Match Report,West Ham United,6.0,0.0,0.0,0.0,,0.0,0.0,11.0,8.0,72.7,0.18,0.25,1.0,1.0,20
+2026-01-06,20:00 (17:00),,Matchweek 21,Tue,Home,L,1.0,2.0,Nottingham Forest,47.0,Jarrod Bowen,4-2-3-1,4-2-3-1,Tony Harrington,Match Report,West Ham United,14.0,3.0,21.4,0.0,0.0,0.0,0.0,13.0,5.0,38.5,0.08,0.2,1.0,1.0,21
+2026-01-17,15:00 (12:00),,Matchweek 22,Sat,Away,W,2.0,1.0,Tottenham Hotspur,38.0,Jarrod Bowen,4-4-1-1,4-2-3-1,Jarred Gillett,Match Report,West Ham United,17.0,4.0,23.5,0.12,0.5,0.0,0.0,21.0,6.0,28.6,0.05,0.17,0.0,0.0,22
+2026-01-24,12:30 (09:30),,Matchweek 23,Sat,Home,W,3.0,1.0,Sunderland,47.0,Jarrod Bowen,4-4-1-1,4-4-2,Thomas Bramall,Match Report,West Ham United,13.0,5.0,38.5,0.15,0.4,1.0,1.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,23
+2026-01-31,17:30 (14:30),,Matchweek 24,Sat,Away,L,2.0,3.0,Chelsea,30.0,Jarrod Bowen,4-4-1-1,4-1-4-1,Anthony Taylor,Match Report,West Ham United,11.0,6.0,54.5,0.18,0.33,0.0,0.0,14.0,6.0,42.9,0.21,0.5,0.0,0.0,24
+2026-02-07,15:00 (12:00),,Matchweek 25,Sat,Away,W,2.0,0.0,Burnley,47.0,Jarrod Bowen,4-4-1-1,4-5-1,Darren England,Match Report,West Ham United,6.0,4.0,66.7,0.33,0.5,0.0,0.0,18.0,5.0,27.8,0.0,0.0,0.0,0.0,25
+2026-02-10,20:15 (17:15),,Matchweek 26,Tue,Home,D,1.0,1.0,Manchester Utd,35.0,Jarrod Bowen,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,West Ham United,7.0,3.0,42.9,0.14,0.33,0.0,0.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,26
+2026-02-21,17:30 (14:30),,Matchweek 27,Sat,Home,D,0.0,0.0,Bournemouth,42.0,Jarrod Bowen,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,West Ham United,20.0,3.0,15.0,0.0,0.0,0.0,0.0,10.0,5.0,50.0,0.0,0.0,0.0,0.0,27
+2026-02-28,15:00 (12:00),,Matchweek 28,Sat,Away,L,2.0,5.0,Liverpool,51.0,Jarrod Bowen,4-5-1,4-2-3-1,Tim Robinson,Match Report,West Ham United,11.0,4.0,36.4,0.18,0.5,0.0,0.0,18.0,7.0,38.9,0.22,0.57,0.0,0.0,28
+2026-03-04,19:30 (16:30),,Matchweek 29,Wed,Away,W,1.0,0.0,Fulham,40.0,Jarrod Bowen,4-4-2,4-2-3-1,Matt Donohue,Match Report,West Ham United,9.0,3.0,33.3,0.11,0.33,0.0,0.0,13.0,5.0,38.5,0.0,0.0,0.0,0.0,29
+2026-03-14,20:00 (17:00),,Matchweek 30,Sat,Home,D,1.0,1.0,Manchester City,29.0,Jarrod Bowen,3-4-3,4-1-3-2,Michael Oliver,Match Report,West Ham United,1.0,1.0,100.0,1.0,1.0,0.0,0.0,24.0,6.0,25.0,0.04,0.17,0.0,0.0,30
+2026-03-22,14:15 (11:15),,Matchweek 31,Sun,Away,L,0.0,2.0,Aston Villa,41.0,Jarrod Bowen,4-3-3,4-2-3-1,Paul Tierney,Match Report,West Ham United,9.0,1.0,11.1,0.0,0.0,0.0,0.0,23.0,7.0,30.4,0.09,0.29,0.0,0.0,31
+2026-04-10,20:00 (16:00),,Matchweek 32,Fri,Home,W,4.0,0.0,Wolves,44.0,Jarrod Bowen,4-4-1-1,3-5-1-1,Jarred Gillett,Match Report,West Ham United,18.0,7.0,38.9,0.22,0.57,0.0,0.0,14.0,3.0,21.4,0.0,0.0,0.0,0.0,32
+2026-04-20,20:00 (16:00),,Matchweek 33,Mon,Away,D,0.0,0.0,Crystal Palace,46.0,Jarrod Bowen,4-4-1-1,3-4-3,Darren England,Match Report,West Ham United,9.0,4.0,44.4,0.0,0.0,0.0,0.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,33
+2026-04-25,15:00 (11:00),,Matchweek 34,Sat,Home,W,2.0,1.0,Everton,44.0,Jarrod Bowen,4-4-1-1,4-2-3-1,Stuart Attwell,Match Report,West Ham United,10.0,3.0,30.0,0.2,0.67,0.0,0.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,34
+2026-05-02,15:00 (11:00),,Matchweek 35,Sat,Away,,,,Brentford,,,,,,Head-to-Head,West Ham United,,,,,,,,,,,,,,,35
+2026-05-10,16:30 (12:30),,Matchweek 36,Sun,Home,,,,Arsenal,,,,,,Head-to-Head,West Ham United,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Away,,,,Newcastle United,,,,,,Head-to-Head,West Ham United,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Home,,,,Leeds United,,,,,,Head-to-Head,West Ham United,,,,,,,,,,,,,,,38
+2025-08-16,17:30 (13:30),,Matchweek 1,Sat,Home,L,0.0,4.0,Manchester City,42.0,Toti Gomes,3-4-3,4-3-3,Jarred Gillett,Match Report,Wolves,9.0,3.0,33.3,0.0,0.0,0.0,0.0,15.0,4.0,26.7,0.27,1.0,0.0,0.0,1
+2025-08-23,15:00 (11:00),,Matchweek 2,Sat,Away,L,0.0,1.0,Bournemouth,41.0,Toti Gomes,3-4-3,4-1-4-1,Thomas Bramall,Match Report,Wolves,6.0,1.0,16.7,0.0,0.0,0.0,0.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,2
+2025-08-30,15:00 (11:00),,Matchweek 3,Sat,Home,L,2.0,3.0,Everton,59.0,Toti Gomes,3-4-3,4-2-3-1,Michael Oliver,Match Report,Wolves,12.0,4.0,33.3,0.17,0.5,0.0,0.0,10.0,4.0,40.0,0.3,0.75,0.0,0.0,3
+2025-09-13,15:00 (11:00),,Matchweek 4,Sat,Away,L,0.0,1.0,Newcastle United,43.0,Toti Gomes,3-5-2,4-3-3,Chris Kavanagh,Match Report,Wolves,8.0,3.0,37.5,0.0,0.0,0.0,0.0,16.0,4.0,25.0,0.06,0.25,0.0,0.0,4
+2025-09-20,15:00 (11:00),,Matchweek 5,Sat,Home,L,1.0,3.0,Leeds United,56.0,Toti Gomes,3-4-3,4-3-3,Anthony Taylor,Match Report,Wolves,16.0,6.0,37.5,0.06,0.17,0.0,0.0,6.0,4.0,66.7,0.5,0.75,0.0,0.0,5
+2025-09-27,20:00 (16:00),,Matchweek 6,Sat,Away,D,1.0,1.0,Tottenham Hotspur,49.0,Matt Doherty,4-2-3-1,4-2-3-1,Michael Salisbury,Match Report,Wolves,9.0,3.0,33.3,0.11,0.33,0.0,0.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,6
+2025-10-05,14:00 (10:00),,Matchweek 7,Sun,Home,D,1.0,1.0,Brighton,42.0,João Gomes,4-3-3,4-2-3-1,Jarred Gillett,Match Report,Wolves,6.0,3.0,50.0,0.0,0.0,0.0,0.0,17.0,6.0,35.3,0.06,0.17,0.0,0.0,7
+2025-10-18,15:00 (11:00),,Matchweek 8,Sat,Away,L,0.0,2.0,Sunderland,59.0,Matt Doherty,4-3-3,4-2-3-1,Robert Jones,Match Report,Wolves,16.0,3.0,18.8,0.0,0.0,0.0,0.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,8
+2025-10-26,14:00 (11:00),,Matchweek 9,Sun,Home,L,2.0,3.0,Burnley,57.0,Jørgen Strand Larsen,4-3-3,4-2-3-1,Tony Harrington,Match Report,Wolves,15.0,7.0,46.7,0.07,0.14,1.0,1.0,11.0,7.0,63.6,0.27,0.43,0.0,0.0,9
+2025-11-01,15:00 (12:00),,Matchweek 10,Sat,Away,L,0.0,3.0,Fulham,36.0,Toti Gomes,5-3-2,4-2-3-1,John Brooks,Match Report,Wolves,5.0,2.0,40.0,0.0,0.0,0.0,0.0,19.0,6.0,31.6,0.11,0.33,0.0,0.0,10
+2025-11-08,20:00 (17:00),,Matchweek 11,Sat,Away,L,0.0,3.0,Chelsea,36.0,Toti Gomes,5-3-2,4-2-3-1,Andrew Kitchen,Match Report,Wolves,3.0,0.0,0.0,0.0,,0.0,0.0,20.0,8.0,40.0,0.15,0.38,0.0,0.0,11
+2025-11-22,15:00 (12:00),,Matchweek 12,Sat,Home,L,0.0,2.0,Crystal Palace,48.0,Toti Gomes,5-3-2,3-4-3,Anthony Taylor,Match Report,Wolves,8.0,1.0,12.5,0.0,0.0,0.0,0.0,10.0,4.0,40.0,0.2,0.5,0.0,0.0,12
+2025-11-30,14:05 (11:05),,Matchweek 13,Sun,Away,L,0.0,1.0,Aston Villa,48.0,Toti Gomes,3-4-3,4-2-3-1,Chris Kavanagh,Match Report,Wolves,9.0,4.0,44.4,0.0,0.0,0.0,0.0,16.0,6.0,37.5,0.06,0.17,0.0,0.0,13
+2025-12-03,19:30 (16:30),,Matchweek 14,Wed,Home,L,0.0,1.0,Nottingham Forest,50.0,Toti Gomes,3-4-3,4-2-3-1,Tim Robinson,Match Report,Wolves,5.0,1.0,20.0,0.0,0.0,0.0,0.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,14
+2025-12-08,20:00 (17:00),,Matchweek 15,Mon,Home,L,1.0,4.0,Manchester Utd,36.0,Toti Gomes,3-4-3,3-4-3,Michael Salisbury,Match Report,Wolves,8.0,2.0,25.0,0.13,0.5,0.0,0.0,27.0,10.0,37.0,0.11,0.3,1.0,1.0,15
+2025-12-13,20:00 (17:00),,Matchweek 16,Sat,Away,L,1.0,2.0,Arsenal,31.0,Toti Gomes,3-5-2,4-3-3,Robert Jones,Match Report,Wolves,3.0,2.0,66.7,0.33,0.5,0.0,0.0,16.0,2.0,12.5,0.0,0.0,0.0,0.0,16
+2025-12-20,15:00 (12:00),,Matchweek 17,Sat,Home,L,0.0,2.0,Brentford,44.0,Matt Doherty,3-5-2,4-3-3,Matt Donohue,Match Report,Wolves,9.0,2.0,22.2,0.0,0.0,0.0,1.0,7.0,6.0,85.7,0.29,0.33,0.0,0.0,17
+2025-12-27,15:00 (12:00),,Matchweek 18,Sat,Away,L,1.0,2.0,Liverpool,34.0,Matt Doherty,3-4-3,4-2-3-1,Simon Hooper,Match Report,Wolves,9.0,4.0,44.4,0.11,0.25,0.0,0.0,14.0,4.0,28.6,0.14,0.5,0.0,0.0,18
+2025-12-30,20:15 (17:15),,Matchweek 19,Tue,Away,D,1.0,1.0,Manchester Utd,43.0,Matt Doherty,3-5-2,4-2-3-1,Thomas Bramall,Match Report,Wolves,11.0,4.0,36.4,0.09,0.25,0.0,0.0,15.0,6.0,40.0,0.07,0.17,0.0,0.0,19
+2026-01-03,15:00 (12:00),,Matchweek 20,Sat,Home,W,3.0,0.0,West Ham United,33.0,José Sá,3-5-2,4-2-3-1,Peter Bankes,Match Report,Wolves,11.0,8.0,72.7,0.18,0.25,1.0,1.0,6.0,0.0,0.0,0.0,,0.0,0.0,20
+2026-01-07,19:30 (16:30),,Matchweek 21,Wed,Away,D,1.0,1.0,Everton,55.0,José Sá,3-5-2,4-3-3,Thomas Kirk,Match Report,Wolves,12.0,4.0,33.3,0.08,0.25,0.0,0.0,13.0,2.0,15.4,0.08,0.5,0.0,0.0,21
+2026-01-18,14:00 (11:00),,Matchweek 22,Sun,Home,D,0.0,0.0,Newcastle United,34.0,José Sá,3-5-2,4-3-3,Samuel Barrott,Match Report,Wolves,6.0,2.0,33.3,0.0,0.0,0.0,0.0,12.0,2.0,16.7,0.0,0.0,0.0,0.0,22
+2026-01-24,15:00 (12:00),,Matchweek 23,Sat,Away,L,0.0,2.0,Manchester City,36.0,José Sá,3-5-2,4-1-4-1,Farai Hallam,Match Report,Wolves,11.0,1.0,9.1,0.0,0.0,0.0,0.0,11.0,4.0,36.4,0.18,0.5,0.0,0.0,23
+2026-01-31,15:00 (12:00),,Matchweek 24,Sat,Home,L,0.0,2.0,Bournemouth,52.0,José Sá,3-5-2,4-2-3-1,Michael Oliver,Match Report,Wolves,17.0,7.0,41.2,0.0,0.0,0.0,0.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,24
+2026-02-07,15:00 (12:00),,Matchweek 25,Sat,Home,L,1.0,3.0,Chelsea,33.0,Matt Doherty,4-2-3-1,4-2-3-1,Jarred Gillett,Match Report,Wolves,11.0,3.0,27.3,0.09,0.33,0.0,0.0,15.0,6.0,40.0,0.07,0.17,2.0,2.0,25
+2026-02-11,19:30 (16:30),,Matchweek 26,Wed,Away,D,0.0,0.0,Nottingham Forest,37.0,José Sá,3-4-1-2,4-2-3-1,Tim Robinson,Match Report,Wolves,7.0,3.0,42.9,0.0,0.0,0.0,0.0,35.0,10.0,28.6,0.0,0.0,0.0,0.0,26
+2026-02-18,20:00 (17:00),,Matchweek 31,Wed,Home,D,2.0,2.0,Arsenal,42.0,José Sá,3-4-3,4-2-3-1,Paul Tierney,Match Report,Wolves,5.0,2.0,40.0,0.4,1.0,0.0,0.0,10.0,4.0,40.0,0.2,0.5,0.0,0.0,31
+2026-02-22,14:00 (11:00),,Matchweek 27,Sun,Away,L,0.0,1.0,Crystal Palace,39.0,José Sá,3-4-3,3-4-3,Thomas Kirk,Match Report,Wolves,12.0,7.0,58.3,0.0,0.0,0.0,1.0,14.0,3.0,21.4,0.07,0.33,0.0,0.0,27
+2026-02-27,20:00 (17:00),,Matchweek 28,Fri,Home,W,2.0,0.0,Aston Villa,39.0,José Sá,3-4-3,4-2-3-1,Craig Pawson,Match Report,Wolves,9.0,2.0,22.2,0.22,1.0,0.0,0.0,14.0,5.0,35.7,0.0,0.0,0.0,0.0,28
+2026-03-03,20:15 (17:15),,Matchweek 29,Tue,Home,W,2.0,1.0,Liverpool,34.0,José Sá,3-5-1-1,4-2-3-1,Thomas Bramall,Match Report,Wolves,4.0,3.0,75.0,0.5,0.67,0.0,0.0,19.0,7.0,36.8,0.05,0.14,0.0,0.0,29
+2026-03-16,20:00 (17:00),,Matchweek 30,Mon,Away,D,2.0,2.0,Brentford,51.0,José Sá,3-4-3,4-1-4-1,Stuart Attwell,Match Report,Wolves,13.0,4.0,30.8,0.15,0.5,0.0,0.0,10.0,3.0,30.0,0.2,0.67,0.0,0.0,30
+2026-04-10,20:00 (16:00),,Matchweek 32,Fri,Away,L,0.0,4.0,West Ham United,56.0,José Sá,3-5-1-1,4-4-1-1,Jarred Gillett,Match Report,Wolves,14.0,3.0,21.4,0.0,0.0,0.0,0.0,18.0,7.0,38.9,0.22,0.57,0.0,0.0,32
+2026-04-18,15:00 (11:00),,Matchweek 33,Sat,Away,L,0.0,3.0,Leeds United,44.0,Toti Gomes,3-4-3,3-4-3,Farai Hallam,Match Report,Wolves,7.0,2.0,28.6,0.0,0.0,0.0,0.0,17.0,6.0,35.3,0.12,0.33,1.0,1.0,33
+2026-04-25,15:00 (11:00),,Matchweek 34,Sat,Home,L,0.0,1.0,Tottenham Hotspur,41.0,Matt Doherty,3-4-3,4-2-3-1,Anthony Taylor,Match Report,Wolves,11.0,2.0,18.2,0.0,0.0,0.0,0.0,11.0,2.0,18.2,0.09,0.5,0.0,0.0,34
+2026-05-02,15:00 (11:00),,Matchweek 35,Sat,Home,,,,Sunderland,,,,,,Head-to-Head,Wolves,,,,,,,,,,,,,,,35
+2026-05-09,15:00 (11:00),,Matchweek 36,Sat,Away,,,,Brighton,,,,,,Head-to-Head,Wolves,,,,,,,,,,,,,,,36
+2026-05-17,15:00 (11:00),,Matchweek 37,Sun,Home,,,,Fulham,,,,,,Head-to-Head,Wolves,,,,,,,,,,,,,,,37
+2026-05-24,16:00 (12:00),,Matchweek 38,Sun,Away,,,,Burnley,,,,,,Head-to-Head,Wolves,,,,,,,,,,,,,,,38

@@ -1,0 +1,701 @@
+date,time,season_id,season_name,season_year,round,day,venue,result,gf,ga,opponent,gls,sh,sot,sotpct,g_per_sh,g_per_sot,pk,pkatt,team,table_side
+2025-08-15,16:00,76986,Premier League 25/26,25/26,Matchweek 1,Fri,Home,W,4.0,2.0,Bournemouth,4.0,19.0,10.0,52.6,0.211,0.4,,,Liverpool FC,for
+2025-08-15,16:00,76986,Premier League 25/26,25/26,Matchweek 1,Fri,Away,L,2.0,4.0,Liverpool FC,2.0,10.0,3.0,30.0,0.2,0.667,,,Bournemouth,for
+2025-08-16,08:30,76986,Premier League 25/26,25/26,Matchweek 1,Sat,Home,D,0.0,0.0,Newcastle United,0.0,3.0,3.0,100.0,0.0,0.0,,,Aston Villa,for
+2025-08-16,08:30,76986,Premier League 25/26,25/26,Matchweek 1,Sat,Away,D,0.0,0.0,Aston Villa,0.0,16.0,3.0,18.8,0.0,0.0,,,Newcastle United,for
+2025-08-16,11:00,76986,Premier League 25/26,25/26,Matchweek 1,Sat,Home,W,3.0,0.0,Burnley,3.0,16.0,6.0,37.5,0.188,0.5,,,Tottenham Hotspur,for
+2025-08-16,11:00,76986,Premier League 25/26,25/26,Matchweek 1,Sat,Away,L,0.0,3.0,Tottenham Hotspur,0.0,14.0,4.0,28.6,0.0,0.0,,,Burnley,for
+2025-08-16,11:00,76986,Premier League 25/26,25/26,Matchweek 1,Sat,Home,D,1.0,1.0,Fulham,1.0,10.0,4.0,40.0,0.1,0.25,,,Brighton,for
+2025-08-16,11:00,76986,Premier League 25/26,25/26,Matchweek 1,Sat,Away,D,1.0,1.0,Brighton,1.0,7.0,2.0,28.6,0.143,0.5,,,Fulham,for
+2025-08-16,11:00,76986,Premier League 25/26,25/26,Matchweek 1,Sat,Home,W,3.0,0.0,West Ham United,3.0,10.0,5.0,50.0,0.3,0.6,,,Sunderland,for
+2025-08-16,11:00,76986,Premier League 25/26,25/26,Matchweek 1,Sat,Away,L,0.0,3.0,Sunderland,0.0,12.0,4.0,33.3,0.0,0.0,,,West Ham United,for
+2025-08-16,13:30,76986,Premier League 25/26,25/26,Matchweek 1,Sat,Home,L,0.0,4.0,Manchester City,0.0,9.0,3.0,33.3,0.0,0.0,,,Wolves,for
+2025-08-16,13:30,76986,Premier League 25/26,25/26,Matchweek 1,Sat,Away,W,4.0,0.0,Wolves,4.0,15.0,4.0,26.7,0.267,1.0,,,Manchester City,for
+2025-08-17,10:00,76986,Premier League 25/26,25/26,Matchweek 1,Sun,Home,D,0.0,0.0,Crystal Palace,0.0,19.0,3.0,15.8,0.0,0.0,,,Chelsea,for
+2025-08-17,10:00,76986,Premier League 25/26,25/26,Matchweek 1,Sun,Away,D,0.0,0.0,Chelsea,0.0,11.0,4.0,36.4,0.0,0.0,,,Crystal Palace,for
+2025-08-17,10:00,76986,Premier League 25/26,25/26,Matchweek 1,Sun,Home,W,3.0,1.0,Brentford,3.0,11.0,5.0,45.5,0.273,0.6,,,Nottingham Forest,for
+2025-08-17,10:00,76986,Premier League 25/26,25/26,Matchweek 1,Sun,Away,L,1.0,3.0,Nottingham Forest,1.0,10.0,3.0,30.0,0.1,0.333,,,Brentford,for
+2025-08-17,12:30,76986,Premier League 25/26,25/26,Matchweek 1,Sun,Home,L,0.0,1.0,Arsenal,0.0,22.0,7.0,31.8,0.0,0.0,,,Manchester Utd,for
+2025-08-17,12:30,76986,Premier League 25/26,25/26,Matchweek 1,Sun,Away,W,1.0,0.0,Manchester Utd,1.0,9.0,3.0,33.3,0.111,0.333,,,Arsenal,for
+2025-08-18,16:00,76986,Premier League 25/26,25/26,Matchweek 1,Mon,Home,W,1.0,0.0,Everton,1.0,21.0,3.0,14.3,0.048,0.333,,,Leeds United,for
+2025-08-18,16:00,76986,Premier League 25/26,25/26,Matchweek 1,Mon,Away,L,0.0,1.0,Leeds United,0.0,7.0,1.0,14.3,0.0,0.0,,,Everton,for
+2025-08-22,16:00,76986,Premier League 25/26,25/26,Matchweek 2,Fri,Home,L,1.0,5.0,Chelsea,1.0,12.0,4.0,33.3,0.083,0.25,,,West Ham United,for
+2025-08-22,16:00,76986,Premier League 25/26,25/26,Matchweek 2,Fri,Away,W,5.0,1.0,West Ham United,5.0,12.0,7.0,58.3,0.417,0.714,,,Chelsea,for
+2025-08-23,08:30,76986,Premier League 25/26,25/26,Matchweek 2,Sat,Home,L,0.0,2.0,Tottenham Hotspur,0.0,10.0,4.0,40.0,0.0,0.0,,,Manchester City,for
+2025-08-23,08:30,76986,Premier League 25/26,25/26,Matchweek 2,Sat,Away,W,2.0,0.0,Manchester City,2.0,12.0,5.0,41.7,0.167,0.4,,,Tottenham Hotspur,for
+2025-08-23,11:00,76986,Premier League 25/26,25/26,Matchweek 2,Sat,Home,W,1.0,0.0,Aston Villa,1.0,9.0,2.0,22.2,0.111,0.5,,,Brentford,for
+2025-08-23,11:00,76986,Premier League 25/26,25/26,Matchweek 2,Sat,Away,L,0.0,1.0,Brentford,0.0,17.0,2.0,11.8,0.0,0.0,,,Aston Villa,for
+2025-08-23,11:00,76986,Premier League 25/26,25/26,Matchweek 2,Sat,Home,W,1.0,0.0,Wolves,1.0,14.0,4.0,28.6,0.071,0.25,,,Bournemouth,for
+2025-08-23,11:00,76986,Premier League 25/26,25/26,Matchweek 2,Sat,Away,L,0.0,1.0,Bournemouth,0.0,6.0,1.0,16.7,0.0,0.0,,,Wolves,for
+2025-08-23,11:00,76986,Premier League 25/26,25/26,Matchweek 2,Sat,Home,W,2.0,0.0,Sunderland,2.0,7.0,2.0,28.6,0.286,1.0,,,Burnley,for
+2025-08-23,11:00,76986,Premier League 25/26,25/26,Matchweek 2,Sat,Away,L,0.0,2.0,Burnley,0.0,9.0,1.0,11.1,0.0,0.0,,,Sunderland,for
+2025-08-23,13:30,76986,Premier League 25/26,25/26,Matchweek 2,Sat,Home,W,5.0,0.0,Leeds United,5.0,18.0,5.0,27.8,0.278,1.0,,,Arsenal,for
+2025-08-23,13:30,76986,Premier League 25/26,25/26,Matchweek 2,Sat,Away,L,0.0,5.0,Arsenal,0.0,3.0,1.0,33.3,0.0,0.0,,,Leeds United,for
+2025-08-24,10:00,76986,Premier League 25/26,25/26,Matchweek 2,Sun,Home,W,2.0,0.0,Brighton,2.0,11.0,3.0,27.3,0.182,0.667,,,Everton,for
+2025-08-24,10:00,76986,Premier League 25/26,25/26,Matchweek 2,Sun,Away,L,0.0,2.0,Everton,0.0,13.0,4.0,30.8,0.0,0.0,,,Brighton,for
+2025-08-24,10:00,76986,Premier League 25/26,25/26,Matchweek 2,Sun,Home,D,1.0,1.0,Nottingham Forest,1.0,8.0,4.0,50.0,0.125,0.25,,,Crystal Palace,for
+2025-08-24,10:00,76986,Premier League 25/26,25/26,Matchweek 2,Sun,Away,D,1.0,1.0,Crystal Palace,1.0,9.0,1.0,11.1,0.111,1.0,,,Nottingham Forest,for
+2025-08-24,12:30,76986,Premier League 25/26,25/26,Matchweek 2,Sun,Home,D,1.0,1.0,Manchester Utd,1.0,13.0,4.0,30.8,0.077,0.25,,,Fulham,for
+2025-08-24,12:30,76986,Premier League 25/26,25/26,Matchweek 2,Sun,Away,D,1.0,1.0,Fulham,1.0,10.0,3.0,30.0,0.1,0.333,,,Manchester Utd,for
+2025-08-25,16:00,76986,Premier League 25/26,25/26,Matchweek 2,Mon,Home,L,2.0,3.0,Liverpool FC,2.0,10.0,3.0,30.0,0.2,0.667,,,Newcastle United,for
+2025-08-25,16:00,76986,Premier League 25/26,25/26,Matchweek 2,Mon,Away,W,3.0,2.0,Newcastle United,3.0,5.0,4.0,80.0,0.6,0.75,,,Liverpool FC,for
+2025-08-30,08:30,76986,Premier League 25/26,25/26,Matchweek 3,Sat,Home,W,2.0,0.0,Fulham,2.0,13.0,6.0,46.2,0.154,0.333,,,Chelsea,for
+2025-08-30,08:30,76986,Premier League 25/26,25/26,Matchweek 3,Sat,Away,L,0.0,2.0,Chelsea,0.0,11.0,3.0,27.3,0.0,0.0,,,Fulham,for
+2025-08-30,11:00,76986,Premier League 25/26,25/26,Matchweek 3,Sat,Home,W,3.0,2.0,Burnley,3.0,26.0,6.0,23.1,0.115,0.5,,,Manchester Utd,for
+2025-08-30,11:00,76986,Premier League 25/26,25/26,Matchweek 3,Sat,Away,L,2.0,3.0,Manchester Utd,2.0,6.0,3.0,50.0,0.333,0.667,,,Burnley,for
+2025-08-30,11:00,76986,Premier League 25/26,25/26,Matchweek 3,Sat,Home,L,0.0,1.0,Bournemouth,0.0,5.0,1.0,20.0,0.0,0.0,,,Tottenham Hotspur,for
+2025-08-30,11:00,76986,Premier League 25/26,25/26,Matchweek 3,Sat,Away,W,1.0,0.0,Tottenham Hotspur,1.0,20.0,6.0,30.0,0.05,0.167,,,Bournemouth,for
+2025-08-30,11:00,76986,Premier League 25/26,25/26,Matchweek 3,Sat,Home,L,2.0,3.0,Everton,2.0,12.0,4.0,33.3,0.167,0.5,,,Wolves,for
+2025-08-30,11:00,76986,Premier League 25/26,25/26,Matchweek 3,Sat,Away,W,3.0,2.0,Wolves,3.0,10.0,4.0,40.0,0.3,0.75,,,Everton,for
+2025-08-30,11:00,76986,Premier League 25/26,25/26,Matchweek 3,Sat,Home,W,2.0,1.0,Brentford,2.0,12.0,3.0,25.0,0.167,0.667,,,Sunderland,for
+2025-08-30,11:00,76986,Premier League 25/26,25/26,Matchweek 3,Sat,Away,L,1.0,2.0,Sunderland,1.0,7.0,4.0,57.1,0.143,0.25,,,Brentford,for
+2025-08-30,13:30,76986,Premier League 25/26,25/26,Matchweek 3,Sat,Home,D,0.0,0.0,Newcastle United,0.0,10.0,1.0,10.0,0.0,0.0,,,Leeds United,for
+2025-08-30,13:30,76986,Premier League 25/26,25/26,Matchweek 3,Sat,Away,D,0.0,0.0,Leeds United,0.0,8.0,2.0,25.0,0.0,0.0,,,Newcastle United,for
+2025-08-31,10:00,76986,Premier League 25/26,25/26,Matchweek 3,Sun,Home,W,2.0,1.0,Manchester City,2.0,12.0,7.0,58.3,0.167,0.286,,,Brighton,for
+2025-08-31,10:00,76986,Premier League 25/26,25/26,Matchweek 3,Sun,Away,L,1.0,2.0,Brighton,1.0,12.0,3.0,25.0,0.083,0.333,,,Manchester City,for
+2025-08-31,10:00,76986,Premier League 25/26,25/26,Matchweek 3,Sun,Home,L,0.0,3.0,West Ham United,0.0,11.0,3.0,27.3,0.0,0.0,,,Nottingham Forest,for
+2025-08-31,10:00,76986,Premier League 25/26,25/26,Matchweek 3,Sun,Away,W,3.0,0.0,Nottingham Forest,3.0,12.0,8.0,66.7,0.25,0.375,,,West Ham United,for
+2025-08-31,12:30,76986,Premier League 25/26,25/26,Matchweek 3,Sun,Home,W,1.0,0.0,Arsenal,1.0,9.0,3.0,33.3,0.111,0.333,,,Liverpool FC,for
+2025-08-31,12:30,76986,Premier League 25/26,25/26,Matchweek 3,Sun,Away,L,0.0,1.0,Liverpool FC,0.0,11.0,1.0,9.1,0.0,0.0,,,Arsenal,for
+2025-08-31,15:00,76986,Premier League 25/26,25/26,Matchweek 3,Sun,Home,L,0.0,3.0,Crystal Palace,0.0,13.0,4.0,30.8,0.0,0.0,,,Aston Villa,for
+2025-08-31,15:00,76986,Premier League 25/26,25/26,Matchweek 3,Sun,Away,W,3.0,0.0,Aston Villa,3.0,6.0,4.0,66.7,0.5,0.75,,,Crystal Palace,for
+2025-09-13,08:30,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Home,W,3.0,0.0,Nottingham Forest,3.0,16.0,5.0,31.2,0.188,0.6,,,Arsenal,for
+2025-09-13,08:30,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Away,L,0.0,3.0,Arsenal,0.0,5.0,1.0,20.0,0.0,0.0,,,Nottingham Forest,for
+2025-09-13,11:00,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Home,D,0.0,0.0,Aston Villa,0.0,20.0,2.0,10.0,0.0,0.0,,,Everton,for
+2025-09-13,11:00,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Away,D,0.0,0.0,Everton,0.0,7.0,1.0,14.3,0.0,0.0,,,Aston Villa,for
+2025-09-13,11:00,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Home,W,1.0,0.0,Wolves,1.0,16.0,4.0,25.0,0.062,0.25,,,Newcastle United,for
+2025-09-13,11:00,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Away,L,0.0,1.0,Newcastle United,0.0,8.0,3.0,37.5,0.0,0.0,,,Wolves,for
+2025-09-13,11:00,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Home,W,2.0,1.0,Brighton,2.0,13.0,5.0,38.5,0.154,0.4,,,Bournemouth,for
+2025-09-13,11:00,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Away,L,1.0,2.0,Bournemouth,1.0,6.0,2.0,33.3,0.167,0.5,,,Brighton,for
+2025-09-13,11:00,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Home,D,0.0,0.0,Sunderland,0.0,14.0,6.0,42.9,0.0,0.0,,,Crystal Palace,for
+2025-09-13,11:00,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Away,D,0.0,0.0,Crystal Palace,0.0,6.0,0.0,0.0,0.0,,,,Sunderland,for
+2025-09-13,11:00,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Home,W,1.0,0.0,Leeds United,1.0,5.0,3.0,60.0,0.2,0.333,,,Fulham,for
+2025-09-13,11:00,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Away,L,0.0,1.0,Fulham,0.0,10.0,3.0,30.0,0.0,0.0,,,Leeds United,for
+2025-09-13,13:30,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Home,L,0.0,3.0,Tottenham Hotspur,0.0,7.0,4.0,57.1,0.0,0.0,,,West Ham United,for
+2025-09-13,13:30,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Away,W,3.0,0.0,West Ham United,3.0,14.0,5.0,35.7,0.214,0.6,,,Tottenham Hotspur,for
+2025-09-13,16:00,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Home,D,2.0,2.0,Chelsea,2.0,7.0,4.0,57.1,0.286,0.5,,,Brentford,for
+2025-09-13,16:00,76986,Premier League 25/26,25/26,Matchweek 4,Sat,Away,D,2.0,2.0,Brentford,2.0,16.0,6.0,37.5,0.125,0.333,,,Chelsea,for
+2025-09-14,10:00,76986,Premier League 25/26,25/26,Matchweek 4,Sun,Home,L,0.0,1.0,Liverpool FC,0.0,3.0,0.0,0.0,0.0,,,,Burnley,for
+2025-09-14,10:00,76986,Premier League 25/26,25/26,Matchweek 4,Sun,Away,W,1.0,0.0,Burnley,1.0,27.0,4.0,14.8,0.037,0.25,,,Liverpool FC,for
+2025-09-14,12:30,76986,Premier League 25/26,25/26,Matchweek 4,Sun,Home,W,3.0,0.0,Manchester Utd,3.0,13.0,6.0,46.2,0.231,0.5,,,Manchester City,for
+2025-09-14,12:30,76986,Premier League 25/26,25/26,Matchweek 4,Sun,Away,L,0.0,3.0,Manchester City,0.0,12.0,2.0,16.7,0.0,0.0,,,Manchester Utd,for
+2025-09-20,08:30,76986,Premier League 25/26,25/26,Matchweek 5,Sat,Home,W,2.0,1.0,Everton,2.0,11.0,3.0,27.3,0.182,0.667,,,Liverpool FC,for
+2025-09-20,08:30,76986,Premier League 25/26,25/26,Matchweek 5,Sat,Away,L,1.0,2.0,Liverpool FC,1.0,9.0,2.0,22.2,0.111,0.5,,,Everton,for
+2025-09-20,11:00,76986,Premier League 25/26,25/26,Matchweek 5,Sat,Home,D,2.0,2.0,Tottenham Hotspur,2.0,12.0,4.0,33.3,0.167,0.5,,,Brighton,for
+2025-09-20,11:00,76986,Premier League 25/26,25/26,Matchweek 5,Sat,Away,D,2.0,2.0,Brighton,2.0,11.0,3.0,27.3,0.182,0.667,,,Tottenham Hotspur,for
+2025-09-20,11:00,76986,Premier League 25/26,25/26,Matchweek 5,Sat,Home,L,1.0,2.0,Crystal Palace,1.0,8.0,3.0,37.5,0.125,0.333,,,West Ham United,for
+2025-09-20,11:00,76986,Premier League 25/26,25/26,Matchweek 5,Sat,Away,W,2.0,1.0,West Ham United,2.0,18.0,3.0,16.7,0.111,0.667,,,Crystal Palace,for
+2025-09-20,11:00,76986,Premier League 25/26,25/26,Matchweek 5,Sat,Home,D,1.0,1.0,Nottingham Forest,1.0,12.0,5.0,41.7,0.083,0.2,,,Burnley,for
+2025-09-20,11:00,76986,Premier League 25/26,25/26,Matchweek 5,Sat,Away,D,1.0,1.0,Burnley,1.0,17.0,8.0,47.1,0.059,0.125,,,Nottingham Forest,for
+2025-09-20,11:00,76986,Premier League 25/26,25/26,Matchweek 5,Sat,Home,L,1.0,3.0,Leeds United,1.0,16.0,6.0,37.5,0.062,0.167,,,Wolves,for
+2025-09-20,11:00,76986,Premier League 25/26,25/26,Matchweek 5,Sat,Away,W,3.0,1.0,Wolves,3.0,6.0,4.0,66.7,0.5,0.75,,,Leeds United,for
+2025-09-20,13:30,76986,Premier League 25/26,25/26,Matchweek 5,Sat,Home,W,2.0,1.0,Chelsea,2.0,11.0,4.0,36.4,0.182,0.5,,,Manchester Utd,for
+2025-09-20,13:30,76986,Premier League 25/26,25/26,Matchweek 5,Sat,Away,L,1.0,2.0,Manchester Utd,1.0,5.0,1.0,20.0,0.2,1.0,,,Chelsea,for
+2025-09-20,16:00,76986,Premier League 25/26,25/26,Matchweek 5,Sat,Home,W,3.0,1.0,Brentford,3.0,14.0,3.0,21.4,0.214,1.0,,,Fulham,for
+2025-09-20,16:00,76986,Premier League 25/26,25/26,Matchweek 5,Sat,Away,L,1.0,3.0,Fulham,1.0,8.0,3.0,37.5,0.125,0.333,,,Brentford,for
+2025-09-21,10:00,76986,Premier League 25/26,25/26,Matchweek 5,Sun,Home,D,0.0,0.0,Newcastle United,0.0,11.0,2.0,18.2,0.0,0.0,,,Bournemouth,for
+2025-09-21,10:00,76986,Premier League 25/26,25/26,Matchweek 5,Sun,Away,D,0.0,0.0,Bournemouth,0.0,4.0,1.0,25.0,0.0,0.0,,,Newcastle United,for
+2025-09-21,10:00,76986,Premier League 25/26,25/26,Matchweek 5,Sun,Home,D,1.0,1.0,Aston Villa,1.0,14.0,4.0,28.6,0.071,0.25,,,Sunderland,for
+2025-09-21,10:00,76986,Premier League 25/26,25/26,Matchweek 5,Sun,Away,D,1.0,1.0,Sunderland,1.0,12.0,2.0,16.7,0.083,0.5,,,Aston Villa,for
+2025-09-21,12:30,76986,Premier League 25/26,25/26,Matchweek 5,Sun,Home,D,1.0,1.0,Manchester City,1.0,12.0,3.0,25.0,0.083,0.333,,,Arsenal,for
+2025-09-21,12:30,76986,Premier League 25/26,25/26,Matchweek 5,Sun,Away,D,1.0,1.0,Arsenal,1.0,5.0,3.0,60.0,0.2,0.333,,,Manchester City,for
+2025-09-27,08:30,76986,Premier League 25/26,25/26,Matchweek 6,Sat,Home,W,3.0,1.0,Manchester Utd,3.0,10.0,8.0,80.0,0.3,0.375,,,Brentford,for
+2025-09-27,08:30,76986,Premier League 25/26,25/26,Matchweek 6,Sat,Away,L,1.0,3.0,Brentford,1.0,14.0,6.0,42.9,0.071,0.167,,,Manchester Utd,for
+2025-09-27,11:00,76986,Premier League 25/26,25/26,Matchweek 6,Sat,Home,W,5.0,1.0,Burnley,5.0,21.0,8.0,38.1,0.238,0.625,,,Manchester City,for
+2025-09-27,11:00,76986,Premier League 25/26,25/26,Matchweek 6,Sat,Away,L,1.0,5.0,Manchester City,1.0,9.0,2.0,22.2,0.111,0.5,,,Burnley,for
+2025-09-27,11:00,76986,Premier League 25/26,25/26,Matchweek 6,Sat,Home,W,2.0,1.0,Liverpool FC,2.0,16.0,7.0,43.8,0.125,0.286,,,Crystal Palace,for
+2025-09-27,11:00,76986,Premier League 25/26,25/26,Matchweek 6,Sat,Away,L,1.0,2.0,Crystal Palace,1.0,20.0,4.0,20.0,0.05,0.25,,,Liverpool FC,for
+2025-09-27,11:00,76986,Premier League 25/26,25/26,Matchweek 6,Sat,Home,L,1.0,3.0,Brighton,1.0,13.0,3.0,23.1,0.077,0.333,,,Chelsea,for
+2025-09-27,11:00,76986,Premier League 25/26,25/26,Matchweek 6,Sat,Away,W,3.0,1.0,Chelsea,3.0,12.0,3.0,25.0,0.25,1.0,,,Brighton,for
+2025-09-27,11:00,76986,Premier League 25/26,25/26,Matchweek 6,Sat,Home,D,2.0,2.0,Bournemouth,2.0,19.0,8.0,42.1,0.105,0.25,,,Leeds United,for
+2025-09-27,11:00,76986,Premier League 25/26,25/26,Matchweek 6,Sat,Away,D,2.0,2.0,Leeds United,2.0,12.0,5.0,41.7,0.167,0.4,,,Bournemouth,for
+2025-09-27,13:30,76986,Premier League 25/26,25/26,Matchweek 6,Sat,Home,L,0.0,1.0,Sunderland,0.0,22.0,6.0,27.3,0.0,0.0,,,Nottingham Forest,for
+2025-09-27,13:30,76986,Premier League 25/26,25/26,Matchweek 6,Sat,Away,W,1.0,0.0,Nottingham Forest,1.0,11.0,3.0,27.3,0.091,0.333,,,Sunderland,for
+2025-09-27,16:00,76986,Premier League 25/26,25/26,Matchweek 6,Sat,Home,D,1.0,1.0,Wolves,1.0,10.0,3.0,30.0,0.1,0.333,,,Tottenham Hotspur,for
+2025-09-27,16:00,76986,Premier League 25/26,25/26,Matchweek 6,Sat,Away,D,1.0,1.0,Tottenham Hotspur,1.0,9.0,3.0,33.3,0.111,0.333,,,Wolves,for
+2025-09-28,10:00,76986,Premier League 25/26,25/26,Matchweek 6,Sun,Home,W,3.0,1.0,Fulham,3.0,9.0,4.0,44.4,0.333,0.75,,,Aston Villa,for
+2025-09-28,10:00,76986,Premier League 25/26,25/26,Matchweek 6,Sun,Away,L,1.0,3.0,Aston Villa,1.0,11.0,4.0,36.4,0.091,0.25,,,Fulham,for
+2025-09-28,12:30,76986,Premier League 25/26,25/26,Matchweek 6,Sun,Home,L,1.0,2.0,Arsenal,1.0,8.0,3.0,37.5,0.125,0.333,,,Newcastle United,for
+2025-09-28,12:30,76986,Premier League 25/26,25/26,Matchweek 6,Sun,Away,W,2.0,1.0,Newcastle United,2.0,20.0,7.0,35.0,0.1,0.286,,,Arsenal,for
+2025-09-29,16:00,76986,Premier League 25/26,25/26,Matchweek 6,Mon,Home,D,1.0,1.0,West Ham United,1.0,12.0,6.0,50.0,0.083,0.167,,,Everton,for
+2025-09-29,16:00,76986,Premier League 25/26,25/26,Matchweek 6,Mon,Away,D,1.0,1.0,Everton,1.0,14.0,3.0,21.4,0.071,0.333,,,West Ham United,for
+2025-10-03,16:00,76986,Premier League 25/26,25/26,Matchweek 7,Fri,Home,W,3.0,1.0,Fulham,3.0,11.0,6.0,54.5,0.273,0.5,,,Bournemouth,for
+2025-10-03,16:00,76986,Premier League 25/26,25/26,Matchweek 7,Fri,Away,L,1.0,3.0,Bournemouth,1.0,12.0,4.0,33.3,0.083,0.25,,,Fulham,for
+2025-10-04,08:30,76986,Premier League 25/26,25/26,Matchweek 7,Sat,Home,L,1.0,2.0,Tottenham Hotspur,1.0,16.0,4.0,25.0,0.062,0.25,,,Leeds United,for
+2025-10-04,08:30,76986,Premier League 25/26,25/26,Matchweek 7,Sat,Away,W,2.0,1.0,Leeds United,2.0,9.0,3.0,33.3,0.222,0.667,,,Tottenham Hotspur,for
+2025-10-04,11:00,76986,Premier League 25/26,25/26,Matchweek 7,Sat,Home,W,2.0,0.0,Sunderland,2.0,15.0,6.0,40.0,0.133,0.333,,,Manchester Utd,for
+2025-10-04,11:00,76986,Premier League 25/26,25/26,Matchweek 7,Sat,Away,L,0.0,2.0,Manchester Utd,0.0,8.0,3.0,37.5,0.0,0.0,,,Sunderland,for
+2025-10-04,11:00,76986,Premier League 25/26,25/26,Matchweek 7,Sat,Home,W,2.0,0.0,West Ham United,2.0,21.0,5.0,23.8,0.095,0.4,,,Arsenal,for
+2025-10-04,11:00,76986,Premier League 25/26,25/26,Matchweek 7,Sat,Away,L,0.0,2.0,Arsenal,0.0,4.0,0.0,0.0,0.0,,,,West Ham United,for
+2025-10-04,13:30,76986,Premier League 25/26,25/26,Matchweek 7,Sat,Home,W,2.0,1.0,Liverpool FC,2.0,12.0,6.0,50.0,0.167,0.333,,,Chelsea,for
+2025-10-04,13:30,76986,Premier League 25/26,25/26,Matchweek 7,Sat,Away,L,1.0,2.0,Chelsea,1.0,12.0,2.0,16.7,0.083,0.5,,,Liverpool FC,for
+2025-10-05,10:00,76986,Premier League 25/26,25/26,Matchweek 7,Sun,Home,W,2.0,0.0,Nottingham Forest,2.0,18.0,9.0,50.0,0.111,0.222,,,Newcastle United,for
+2025-10-05,10:00,76986,Premier League 25/26,25/26,Matchweek 7,Sun,Away,L,0.0,2.0,Newcastle United,0.0,5.0,4.0,80.0,0.0,0.0,,,Nottingham Forest,for
+2025-10-05,10:00,76986,Premier League 25/26,25/26,Matchweek 7,Sun,Home,W,2.0,1.0,Burnley,2.0,15.0,7.0,46.7,0.133,0.286,,,Aston Villa,for
+2025-10-05,10:00,76986,Premier League 25/26,25/26,Matchweek 7,Sun,Away,L,1.0,2.0,Aston Villa,1.0,5.0,2.0,40.0,0.2,0.5,,,Burnley,for
+2025-10-05,10:00,76986,Premier League 25/26,25/26,Matchweek 7,Sun,Home,D,1.0,1.0,Brighton,1.0,6.0,3.0,50.0,0.167,0.333,,,Wolves,for
+2025-10-05,10:00,76986,Premier League 25/26,25/26,Matchweek 7,Sun,Away,D,1.0,1.0,Wolves,1.0,17.0,6.0,35.3,0.059,0.167,,,Brighton,for
+2025-10-05,10:00,76986,Premier League 25/26,25/26,Matchweek 7,Sun,Home,W,2.0,1.0,Crystal Palace,2.0,14.0,7.0,50.0,0.143,0.286,,,Everton,for
+2025-10-05,10:00,76986,Premier League 25/26,25/26,Matchweek 7,Sun,Away,L,1.0,2.0,Everton,1.0,15.0,8.0,53.3,0.067,0.125,,,Crystal Palace,for
+2025-10-05,12:30,76986,Premier League 25/26,25/26,Matchweek 7,Sun,Home,L,0.0,1.0,Manchester City,0.0,6.0,1.0,16.7,0.0,0.0,,,Brentford,for
+2025-10-05,12:30,76986,Premier League 25/26,25/26,Matchweek 7,Sun,Away,W,1.0,0.0,Brentford,1.0,10.0,4.0,40.0,0.1,0.25,,,Manchester City,for
+2025-10-18,08:30,76986,Premier League 25/26,25/26,Matchweek 8,Sat,Home,L,0.0,3.0,Chelsea,0.0,12.0,2.0,16.7,0.0,0.0,,,Nottingham Forest,for
+2025-10-18,08:30,76986,Premier League 25/26,25/26,Matchweek 8,Sat,Away,W,3.0,0.0,Nottingham Forest,3.0,17.0,6.0,35.3,0.176,0.5,,,Chelsea,for
+2025-10-18,11:00,76986,Premier League 25/26,25/26,Matchweek 8,Sat,Home,W,2.0,0.0,Everton,2.0,19.0,7.0,36.8,0.105,0.286,,,Manchester City,for
+2025-10-18,11:00,76986,Premier League 25/26,25/26,Matchweek 8,Sat,Away,L,0.0,2.0,Manchester City,0.0,5.0,1.0,20.0,0.0,0.0,,,Everton,for
+2025-10-18,11:00,76986,Premier League 25/26,25/26,Matchweek 8,Sat,Home,W,2.0,1.0,Newcastle United,2.0,13.0,5.0,38.5,0.154,0.4,,,Brighton,for
+2025-10-18,11:00,76986,Premier League 25/26,25/26,Matchweek 8,Sat,Away,L,1.0,2.0,Brighton,1.0,16.0,3.0,18.8,0.062,0.333,,,Newcastle United,for
+2025-10-18,11:00,76986,Premier League 25/26,25/26,Matchweek 8,Sat,Home,D,3.0,3.0,Bournemouth,3.0,20.0,7.0,35.0,0.15,0.429,,,Crystal Palace,for
+2025-10-18,11:00,76986,Premier League 25/26,25/26,Matchweek 8,Sat,Away,D,3.0,3.0,Crystal Palace,3.0,8.0,5.0,62.5,0.375,0.6,,,Bournemouth,for
+2025-10-18,11:00,76986,Premier League 25/26,25/26,Matchweek 8,Sat,Home,W,2.0,0.0,Wolves,2.0,8.0,2.0,25.0,0.25,1.0,,,Sunderland,for
+2025-10-18,11:00,76986,Premier League 25/26,25/26,Matchweek 8,Sat,Away,L,0.0,2.0,Sunderland,0.0,16.0,3.0,18.8,0.0,0.0,,,Wolves,for
+2025-10-18,11:00,76986,Premier League 25/26,25/26,Matchweek 8,Sat,Home,W,2.0,0.0,Leeds United,2.0,4.0,3.0,75.0,0.5,0.667,,,Burnley,for
+2025-10-18,11:00,76986,Premier League 25/26,25/26,Matchweek 8,Sat,Away,L,0.0,2.0,Burnley,0.0,19.0,4.0,21.1,0.0,0.0,,,Leeds United,for
+2025-10-18,13:30,76986,Premier League 25/26,25/26,Matchweek 8,Sat,Home,L,0.0,1.0,Arsenal,0.0,9.0,0.0,0.0,0.0,,,,Fulham,for
+2025-10-18,13:30,76986,Premier League 25/26,25/26,Matchweek 8,Sat,Away,W,1.0,0.0,Fulham,1.0,16.0,5.0,31.2,0.062,0.2,,,Arsenal,for
+2025-10-19,10:00,76986,Premier League 25/26,25/26,Matchweek 8,Sun,Home,L,1.0,2.0,Aston Villa,1.0,10.0,3.0,30.0,0.1,0.333,,,Tottenham Hotspur,for
+2025-10-19,10:00,76986,Premier League 25/26,25/26,Matchweek 8,Sun,Away,W,2.0,1.0,Tottenham Hotspur,2.0,8.0,2.0,25.0,0.25,1.0,,,Aston Villa,for
+2025-10-19,12:30,76986,Premier League 25/26,25/26,Matchweek 8,Sun,Home,L,1.0,2.0,Manchester Utd,1.0,19.0,6.0,31.6,0.053,0.167,,,Liverpool FC,for
+2025-10-19,12:30,76986,Premier League 25/26,25/26,Matchweek 8,Sun,Away,W,2.0,1.0,Liverpool FC,2.0,12.0,4.0,33.3,0.167,0.5,,,Manchester Utd,for
+2025-10-20,16:00,76986,Premier League 25/26,25/26,Matchweek 8,Mon,Home,L,0.0,2.0,Brentford,0.0,7.0,1.0,14.3,0.0,0.0,,,West Ham United,for
+2025-10-20,16:00,76986,Premier League 25/26,25/26,Matchweek 8,Mon,Away,W,2.0,0.0,West Ham United,2.0,22.0,7.0,31.8,0.091,0.286,,,Brentford,for
+2025-10-24,16:00,76986,Premier League 25/26,25/26,Matchweek 9,Fri,Home,W,2.0,1.0,West Ham United,2.0,13.0,5.0,38.5,0.154,0.4,,,Leeds United,for
+2025-10-24,16:00,76986,Premier League 25/26,25/26,Matchweek 9,Fri,Away,L,1.0,2.0,Leeds United,1.0,9.0,3.0,33.3,0.111,0.333,,,West Ham United,for
+2025-10-25,11:00,76986,Premier League 25/26,25/26,Matchweek 9,Sat,Home,L,1.0,2.0,Sunderland,1.0,16.0,7.0,43.8,0.062,0.143,,,Chelsea,for
+2025-10-25,11:00,76986,Premier League 25/26,25/26,Matchweek 9,Sat,Away,W,2.0,1.0,Chelsea,2.0,10.0,4.0,40.0,0.2,0.5,,,Sunderland,for
+2025-10-25,11:00,76986,Premier League 25/26,25/26,Matchweek 9,Sat,Home,W,2.0,1.0,Fulham,2.0,18.0,7.0,38.9,0.111,0.286,,,Newcastle United,for
+2025-10-25,11:00,76986,Premier League 25/26,25/26,Matchweek 9,Sat,Away,L,1.0,2.0,Newcastle United,1.0,12.0,5.0,41.7,0.083,0.2,,,Fulham,for
+2025-10-25,13:30,76986,Premier League 25/26,25/26,Matchweek 9,Sat,Home,W,4.0,2.0,Brighton,4.0,13.0,9.0,69.2,0.308,0.444,,,Manchester Utd,for
+2025-10-25,13:30,76986,Premier League 25/26,25/26,Matchweek 9,Sat,Away,L,2.0,4.0,Manchester Utd,2.0,17.0,5.0,29.4,0.118,0.4,,,Brighton,for
+2025-10-25,16:00,76986,Premier League 25/26,25/26,Matchweek 9,Sat,Home,W,3.0,2.0,Liverpool FC,3.0,17.0,8.0,47.1,0.176,0.375,,,Brentford,for
+2025-10-25,16:00,76986,Premier League 25/26,25/26,Matchweek 9,Sat,Away,L,2.0,3.0,Brentford,2.0,18.0,5.0,27.8,0.111,0.4,,,Liverpool FC,for
+2025-10-26,11:00,76986,Premier League 25/26,25/26,Matchweek 9,Sun,Home,W,1.0,0.0,Manchester City,1.0,9.0,3.0,33.3,0.111,0.333,,,Aston Villa,for
+2025-10-26,11:00,76986,Premier League 25/26,25/26,Matchweek 9,Sun,Away,L,0.0,1.0,Aston Villa,0.0,18.0,4.0,22.2,0.0,0.0,,,Manchester City,for
+2025-10-26,11:00,76986,Premier League 25/26,25/26,Matchweek 9,Sun,Home,W,1.0,0.0,Crystal Palace,1.0,10.0,3.0,30.0,0.1,0.333,,,Arsenal,for
+2025-10-26,11:00,76986,Premier League 25/26,25/26,Matchweek 9,Sun,Away,L,0.0,1.0,Arsenal,0.0,7.0,1.0,14.3,0.0,0.0,,,Crystal Palace,for
+2025-10-26,11:00,76986,Premier League 25/26,25/26,Matchweek 9,Sun,Home,W,2.0,0.0,Nottingham Forest,2.0,13.0,5.0,38.5,0.154,0.4,,,Bournemouth,for
+2025-10-26,11:00,76986,Premier League 25/26,25/26,Matchweek 9,Sun,Away,L,0.0,2.0,Bournemouth,0.0,8.0,4.0,50.0,0.0,0.0,,,Nottingham Forest,for
+2025-10-26,11:00,76986,Premier League 25/26,25/26,Matchweek 9,Sun,Home,L,2.0,3.0,Burnley,2.0,15.0,7.0,46.7,0.133,0.286,,,Wolves,for
+2025-10-26,11:00,76986,Premier League 25/26,25/26,Matchweek 9,Sun,Away,W,3.0,2.0,Wolves,3.0,11.0,7.0,63.6,0.273,0.429,,,Burnley,for
+2025-10-26,13:30,76986,Premier League 25/26,25/26,Matchweek 9,Sun,Home,L,0.0,3.0,Tottenham Hotspur,0.0,12.0,2.0,16.7,0.0,0.0,,,Everton,for
+2025-10-26,13:30,76986,Premier League 25/26,25/26,Matchweek 9,Sun,Away,W,3.0,0.0,Everton,3.0,7.0,4.0,57.1,0.429,0.75,,,Tottenham Hotspur,for
+2025-11-01,12:00,76986,Premier League 25/26,25/26,Matchweek 10,Sat,Home,D,2.0,2.0,Manchester Utd,2.0,17.0,3.0,17.6,0.118,0.667,,,Nottingham Forest,for
+2025-11-01,12:00,76986,Premier League 25/26,25/26,Matchweek 10,Sat,Away,D,2.0,2.0,Nottingham Forest,2.0,18.0,7.0,38.9,0.111,0.286,,,Manchester Utd,for
+2025-11-01,12:00,76986,Premier League 25/26,25/26,Matchweek 10,Sat,Home,L,0.0,2.0,Arsenal,0.0,3.0,0.0,0.0,0.0,,,,Burnley,for
+2025-11-01,12:00,76986,Premier League 25/26,25/26,Matchweek 10,Sat,Away,W,2.0,0.0,Burnley,2.0,12.0,8.0,66.7,0.167,0.25,,,Arsenal,for
+2025-11-01,12:00,76986,Premier League 25/26,25/26,Matchweek 10,Sat,Home,W,3.0,0.0,Leeds United,3.0,14.0,7.0,50.0,0.214,0.429,,,Brighton,for
+2025-11-01,12:00,76986,Premier League 25/26,25/26,Matchweek 10,Sat,Away,L,0.0,3.0,Brighton,0.0,5.0,2.0,40.0,0.0,0.0,,,Leeds United,for
+2025-11-01,12:00,76986,Premier League 25/26,25/26,Matchweek 10,Sat,Home,W,2.0,0.0,Brentford,2.0,10.0,3.0,30.0,0.2,0.667,,,Crystal Palace,for
+2025-11-01,12:00,76986,Premier League 25/26,25/26,Matchweek 10,Sat,Away,L,0.0,2.0,Crystal Palace,0.0,6.0,2.0,33.3,0.0,0.0,,,Brentford,for
+2025-11-01,12:00,76986,Premier League 25/26,25/26,Matchweek 10,Sat,Home,W,3.0,0.0,Wolves,3.0,19.0,6.0,31.6,0.158,0.5,,,Fulham,for
+2025-11-01,12:00,76986,Premier League 25/26,25/26,Matchweek 10,Sat,Away,L,0.0,3.0,Fulham,0.0,5.0,2.0,40.0,0.0,0.0,,,Wolves,for
+2025-11-01,14:30,76986,Premier League 25/26,25/26,Matchweek 10,Sat,Home,L,0.0,1.0,Chelsea,0.0,3.0,1.0,33.3,0.0,0.0,,,Tottenham Hotspur,for
+2025-11-01,14:30,76986,Premier League 25/26,25/26,Matchweek 10,Sat,Away,W,1.0,0.0,Tottenham Hotspur,1.0,15.0,9.0,60.0,0.067,0.111,,,Chelsea,for
+2025-11-01,17:00,76986,Premier League 25/26,25/26,Matchweek 10,Sat,Home,W,2.0,0.0,Aston Villa,2.0,16.0,4.0,25.0,0.125,0.5,,,Liverpool FC,for
+2025-11-01,17:00,76986,Premier League 25/26,25/26,Matchweek 10,Sat,Away,L,0.0,2.0,Liverpool FC,0.0,10.0,3.0,30.0,0.0,0.0,,,Aston Villa,for
+2025-11-02,11:00,76986,Premier League 25/26,25/26,Matchweek 10,Sun,Home,W,3.0,1.0,Newcastle United,3.0,15.0,9.0,60.0,0.2,0.333,,,West Ham United,for
+2025-11-02,11:00,76986,Premier League 25/26,25/26,Matchweek 10,Sun,Away,L,1.0,3.0,West Ham United,1.0,12.0,4.0,33.3,0.083,0.25,,,Newcastle United,for
+2025-11-02,13:30,76986,Premier League 25/26,25/26,Matchweek 10,Sun,Home,W,3.0,1.0,Bournemouth,3.0,15.0,8.0,53.3,0.2,0.375,,,Manchester City,for
+2025-11-02,13:30,76986,Premier League 25/26,25/26,Matchweek 10,Sun,Away,L,1.0,3.0,Manchester City,1.0,8.0,5.0,62.5,0.125,0.2,,,Bournemouth,for
+2025-11-03,17:00,76986,Premier League 25/26,25/26,Matchweek 10,Mon,Home,D,1.0,1.0,Everton,1.0,17.0,3.0,17.6,0.059,0.333,,,Sunderland,for
+2025-11-03,17:00,76986,Premier League 25/26,25/26,Matchweek 10,Mon,Away,D,1.0,1.0,Sunderland,1.0,8.0,2.0,25.0,0.125,0.5,,,Everton,for
+2025-11-08,09:30,76986,Premier League 25/26,25/26,Matchweek 11,Sat,Home,D,2.0,2.0,Manchester Utd,2.0,10.0,4.0,40.0,0.2,0.5,,,Tottenham Hotspur,for
+2025-11-08,09:30,76986,Premier League 25/26,25/26,Matchweek 11,Sat,Away,D,2.0,2.0,Tottenham Hotspur,2.0,5.0,2.0,40.0,0.4,1.0,,,Manchester Utd,for
+2025-11-08,12:00,76986,Premier League 25/26,25/26,Matchweek 11,Sat,Home,W,3.0,2.0,Burnley,3.0,15.0,6.0,40.0,0.2,0.5,,,West Ham United,for
+2025-11-08,12:00,76986,Premier League 25/26,25/26,Matchweek 11,Sat,Away,L,2.0,3.0,West Ham United,2.0,16.0,7.0,43.8,0.125,0.286,,,Burnley,for
+2025-11-08,12:00,76986,Premier League 25/26,25/26,Matchweek 11,Sat,Home,W,2.0,0.0,Fulham,2.0,14.0,5.0,35.7,0.143,0.4,,,Everton,for
+2025-11-08,12:00,76986,Premier League 25/26,25/26,Matchweek 11,Sat,Away,L,0.0,2.0,Everton,0.0,8.0,4.0,50.0,0.0,0.0,,,Fulham,for
+2025-11-08,14:30,76986,Premier League 25/26,25/26,Matchweek 11,Sat,Home,D,2.0,2.0,Arsenal,2.0,6.0,2.0,33.3,0.333,1.0,,,Sunderland,for
+2025-11-08,14:30,76986,Premier League 25/26,25/26,Matchweek 11,Sat,Away,D,2.0,2.0,Sunderland,2.0,17.0,7.0,41.2,0.118,0.286,,,Arsenal,for
+2025-11-08,17:00,76986,Premier League 25/26,25/26,Matchweek 11,Sat,Home,W,3.0,0.0,Wolves,3.0,20.0,8.0,40.0,0.15,0.375,,,Chelsea,for
+2025-11-08,17:00,76986,Premier League 25/26,25/26,Matchweek 11,Sat,Away,L,0.0,3.0,Chelsea,0.0,3.0,0.0,0.0,0.0,,,,Wolves,for
+2025-11-09,11:00,76986,Premier League 25/26,25/26,Matchweek 11,Sun,Home,W,3.0,1.0,Newcastle United,3.0,15.0,7.0,46.7,0.2,0.429,,,Brentford,for
+2025-11-09,11:00,76986,Premier League 25/26,25/26,Matchweek 11,Sun,Away,L,1.0,3.0,Brentford,1.0,5.0,1.0,20.0,0.2,1.0,,,Newcastle United,for
+2025-11-09,11:00,76986,Premier League 25/26,25/26,Matchweek 11,Sun,Home,W,4.0,0.0,Bournemouth,4.0,16.0,8.0,50.0,0.25,0.5,,,Aston Villa,for
+2025-11-09,11:00,76986,Premier League 25/26,25/26,Matchweek 11,Sun,Away,L,0.0,4.0,Aston Villa,0.0,12.0,3.0,25.0,0.0,0.0,,,Bournemouth,for
+2025-11-09,11:00,76986,Premier League 25/26,25/26,Matchweek 11,Sun,Home,D,0.0,0.0,Brighton,0.0,10.0,2.0,20.0,0.0,0.0,,,Crystal Palace,for
+2025-11-09,11:00,76986,Premier League 25/26,25/26,Matchweek 11,Sun,Away,D,0.0,0.0,Crystal Palace,0.0,7.0,3.0,42.9,0.0,0.0,,,Brighton,for
+2025-11-09,11:00,76986,Premier League 25/26,25/26,Matchweek 11,Sun,Home,W,3.0,1.0,Leeds United,3.0,14.0,6.0,42.9,0.214,0.5,,,Nottingham Forest,for
+2025-11-09,11:00,76986,Premier League 25/26,25/26,Matchweek 11,Sun,Away,L,1.0,3.0,Nottingham Forest,1.0,10.0,3.0,30.0,0.1,0.333,,,Leeds United,for
+2025-11-09,13:30,76986,Premier League 25/26,25/26,Matchweek 11,Sun,Home,W,3.0,0.0,Liverpool FC,3.0,14.0,6.0,42.9,0.214,0.5,,,Manchester City,for
+2025-11-09,13:30,76986,Premier League 25/26,25/26,Matchweek 11,Sun,Away,L,0.0,3.0,Manchester City,0.0,7.0,1.0,14.3,0.0,0.0,,,Liverpool FC,for
+2025-11-22,09:30,76986,Premier League 25/26,25/26,Matchweek 12,Sat,Home,L,0.0,2.0,Chelsea,0.0,8.0,2.0,25.0,0.0,0.0,,,Burnley,for
+2025-11-22,09:30,76986,Premier League 25/26,25/26,Matchweek 12,Sat,Away,W,2.0,0.0,Burnley,2.0,15.0,5.0,33.3,0.133,0.4,,,Chelsea,for
+2025-11-22,12:00,76986,Premier League 25/26,25/26,Matchweek 12,Sat,Home,L,0.0,3.0,Nottingham Forest,0.0,21.0,4.0,19.0,0.0,0.0,,,Liverpool FC,for
+2025-11-22,12:00,76986,Premier League 25/26,25/26,Matchweek 12,Sat,Away,W,3.0,0.0,Liverpool FC,3.0,15.0,7.0,46.7,0.2,0.429,,,Nottingham Forest,for
+2025-11-22,12:00,76986,Premier League 25/26,25/26,Matchweek 12,Sat,Home,D,2.0,2.0,West Ham United,2.0,28.0,10.0,35.7,0.071,0.2,,,Bournemouth,for
+2025-11-22,12:00,76986,Premier League 25/26,25/26,Matchweek 12,Sat,Away,D,2.0,2.0,Bournemouth,2.0,5.0,2.0,40.0,0.4,1.0,,,West Ham United,for
+2025-11-22,12:00,76986,Premier League 25/26,25/26,Matchweek 12,Sat,Home,W,2.0,1.0,Brentford,2.0,14.0,5.0,35.7,0.143,0.4,,,Brighton,for
+2025-11-22,12:00,76986,Premier League 25/26,25/26,Matchweek 12,Sat,Away,L,1.0,2.0,Brighton,1.0,10.0,4.0,40.0,0.1,0.25,,,Brentford,for
+2025-11-22,12:00,76986,Premier League 25/26,25/26,Matchweek 12,Sat,Home,L,0.0,2.0,Crystal Palace,0.0,8.0,1.0,12.5,0.0,0.0,,,Wolves,for
+2025-11-22,12:00,76986,Premier League 25/26,25/26,Matchweek 12,Sat,Away,W,2.0,0.0,Wolves,2.0,10.0,4.0,40.0,0.2,0.5,,,Crystal Palace,for
+2025-11-22,12:00,76986,Premier League 25/26,25/26,Matchweek 12,Sat,Home,W,1.0,0.0,Sunderland,1.0,24.0,6.0,25.0,0.042,0.167,,,Fulham,for
+2025-11-22,12:00,76986,Premier League 25/26,25/26,Matchweek 12,Sat,Away,L,0.0,1.0,Fulham,0.0,4.0,2.0,50.0,0.0,0.0,,,Sunderland,for
+2025-11-22,14:30,76986,Premier League 25/26,25/26,Matchweek 12,Sat,Home,W,2.0,1.0,Manchester City,2.0,9.0,5.0,55.6,0.222,0.4,,,Newcastle United,for
+2025-11-22,14:30,76986,Premier League 25/26,25/26,Matchweek 12,Sat,Away,L,1.0,2.0,Newcastle United,1.0,17.0,4.0,23.5,0.059,0.25,,,Manchester City,for
+2025-11-23,11:00,76986,Premier League 25/26,25/26,Matchweek 12,Sun,Home,L,1.0,2.0,Aston Villa,1.0,14.0,5.0,35.7,0.071,0.2,,,Leeds United,for
+2025-11-23,11:00,76986,Premier League 25/26,25/26,Matchweek 12,Sun,Away,W,2.0,1.0,Leeds United,2.0,14.0,3.0,21.4,0.143,0.667,,,Aston Villa,for
+2025-11-23,13:30,76986,Premier League 25/26,25/26,Matchweek 12,Sun,Home,W,4.0,1.0,Tottenham Hotspur,4.0,17.0,8.0,47.1,0.235,0.5,,,Arsenal,for
+2025-11-23,13:30,76986,Premier League 25/26,25/26,Matchweek 12,Sun,Away,L,1.0,4.0,Arsenal,1.0,3.0,2.0,66.7,0.333,0.5,,,Tottenham Hotspur,for
+2025-11-24,17:00,76986,Premier League 25/26,25/26,Matchweek 12,Mon,Home,L,0.0,1.0,Everton,0.0,25.0,6.0,24.0,0.0,0.0,,,Manchester Utd,for
+2025-11-24,17:00,76986,Premier League 25/26,25/26,Matchweek 12,Mon,Away,W,1.0,0.0,Manchester Utd,1.0,3.0,1.0,33.3,0.333,1.0,,,Everton,for
+2025-11-29,12:00,76986,Premier League 25/26,25/26,Matchweek 13,Sat,Home,W,3.0,2.0,Leeds United,3.0,18.0,9.0,50.0,0.167,0.333,,,Manchester City,for
+2025-11-29,12:00,76986,Premier League 25/26,25/26,Matchweek 13,Sat,Away,L,2.0,3.0,Manchester City,2.0,9.0,4.0,44.4,0.222,0.5,,,Leeds United,for
+2025-11-29,12:00,76986,Premier League 25/26,25/26,Matchweek 13,Sat,Home,W,3.0,2.0,Bournemouth,3.0,12.0,6.0,50.0,0.25,0.5,,,Sunderland,for
+2025-11-29,12:00,76986,Premier League 25/26,25/26,Matchweek 13,Sat,Away,L,2.0,3.0,Sunderland,2.0,18.0,6.0,33.3,0.111,0.333,,,Bournemouth,for
+2025-11-29,12:00,76986,Premier League 25/26,25/26,Matchweek 13,Sat,Home,W,3.0,1.0,Burnley,3.0,14.0,4.0,28.6,0.214,0.75,,,Brentford,for
+2025-11-29,12:00,76986,Premier League 25/26,25/26,Matchweek 13,Sat,Away,L,1.0,3.0,Brentford,1.0,6.0,2.0,33.3,0.167,0.5,,,Burnley,for
+2025-11-29,14:30,76986,Premier League 25/26,25/26,Matchweek 13,Sat,Home,L,1.0,4.0,Newcastle United,1.0,10.0,2.0,20.0,0.1,0.5,,,Everton,for
+2025-11-29,14:30,76986,Premier League 25/26,25/26,Matchweek 13,Sat,Away,W,4.0,1.0,Everton,4.0,13.0,8.0,61.5,0.308,0.5,,,Newcastle United,for
+2025-11-29,17:00,76986,Premier League 25/26,25/26,Matchweek 13,Sat,Home,L,1.0,2.0,Fulham,1.0,14.0,2.0,14.3,0.071,0.5,,,Tottenham Hotspur,for
+2025-11-29,17:00,76986,Premier League 25/26,25/26,Matchweek 13,Sat,Away,W,2.0,1.0,Tottenham Hotspur,2.0,7.0,3.0,42.9,0.286,0.667,,,Fulham,for
+2025-11-30,09:00,76986,Premier League 25/26,25/26,Matchweek 13,Sun,Home,L,1.0,2.0,Manchester Utd,1.0,14.0,3.0,21.4,0.071,0.333,,,Crystal Palace,for
+2025-11-30,09:00,76986,Premier League 25/26,25/26,Matchweek 13,Sun,Away,W,2.0,1.0,Crystal Palace,2.0,14.0,6.0,42.9,0.143,0.333,,,Manchester Utd,for
+2025-11-30,11:05,76986,Premier League 25/26,25/26,Matchweek 13,Sun,Home,L,0.0,2.0,Liverpool FC,0.0,7.0,0.0,0.0,0.0,,,,West Ham United,for
+2025-11-30,11:05,76986,Premier League 25/26,25/26,Matchweek 13,Sun,Away,W,2.0,0.0,West Ham United,2.0,9.0,5.0,55.6,0.222,0.4,,,Liverpool FC,for
+2025-11-30,11:05,76986,Premier League 25/26,25/26,Matchweek 13,Sun,Home,W,1.0,0.0,Wolves,1.0,16.0,6.0,37.5,0.062,0.167,,,Aston Villa,for
+2025-11-30,11:05,76986,Premier League 25/26,25/26,Matchweek 13,Sun,Away,L,0.0,1.0,Aston Villa,0.0,9.0,4.0,44.4,0.0,0.0,,,Wolves,for
+2025-11-30,11:05,76986,Premier League 25/26,25/26,Matchweek 13,Sun,Home,L,0.0,2.0,Brighton,0.0,19.0,3.0,15.8,0.0,0.0,,,Nottingham Forest,for
+2025-11-30,11:05,76986,Premier League 25/26,25/26,Matchweek 13,Sun,Away,W,2.0,0.0,Nottingham Forest,2.0,17.0,6.0,35.3,0.118,0.333,,,Brighton,for
+2025-11-30,13:30,76986,Premier League 25/26,25/26,Matchweek 13,Sun,Home,D,1.0,1.0,Arsenal,1.0,11.0,4.0,36.4,0.091,0.25,,,Chelsea,for
+2025-11-30,13:30,76986,Premier League 25/26,25/26,Matchweek 13,Sun,Away,D,1.0,1.0,Chelsea,1.0,8.0,4.0,50.0,0.125,0.25,,,Arsenal,for
+2025-12-02,16:30,76986,Premier League 25/26,25/26,Matchweek 14,Tue,Home,L,4.0,5.0,Manchester City,4.0,12.0,6.0,50.0,0.333,0.667,,,Fulham,for
+2025-12-02,16:30,76986,Premier League 25/26,25/26,Matchweek 14,Tue,Away,W,5.0,4.0,Fulham,5.0,11.0,4.0,36.4,0.455,1.25,,,Manchester City,for
+2025-12-02,16:30,76986,Premier League 25/26,25/26,Matchweek 14,Tue,Home,L,0.0,1.0,Everton,0.0,5.0,2.0,40.0,0.0,0.0,,,Bournemouth,for
+2025-12-02,16:30,76986,Premier League 25/26,25/26,Matchweek 14,Tue,Away,W,1.0,0.0,Bournemouth,1.0,13.0,3.0,23.1,0.077,0.333,,,Everton,for
+2025-12-02,17:15,76986,Premier League 25/26,25/26,Matchweek 14,Tue,Home,D,2.0,2.0,Tottenham Hotspur,2.0,19.0,7.0,36.8,0.105,0.286,,,Newcastle United,for
+2025-12-02,17:15,76986,Premier League 25/26,25/26,Matchweek 14,Tue,Away,D,2.0,2.0,Newcastle United,2.0,8.0,2.0,25.0,0.25,1.0,,,Tottenham Hotspur,for
+2025-12-03,16:30,76986,Premier League 25/26,25/26,Matchweek 14,Wed,Home,W,2.0,0.0,Brentford,2.0,15.0,7.0,46.7,0.133,0.286,,,Arsenal,for
+2025-12-03,16:30,76986,Premier League 25/26,25/26,Matchweek 14,Wed,Away,L,0.0,2.0,Arsenal,0.0,6.0,1.0,16.7,0.0,0.0,,,Brentford,for
+2025-12-03,16:30,76986,Premier League 25/26,25/26,Matchweek 14,Wed,Home,L,3.0,4.0,Aston Villa,3.0,16.0,7.0,43.8,0.188,0.429,,,Brighton,for
+2025-12-03,16:30,76986,Premier League 25/26,25/26,Matchweek 14,Wed,Away,W,4.0,3.0,Brighton,4.0,14.0,10.0,71.4,0.286,0.4,,,Aston Villa,for
+2025-12-03,16:30,76986,Premier League 25/26,25/26,Matchweek 14,Wed,Home,L,0.0,1.0,Nottingham Forest,0.0,5.0,1.0,20.0,0.0,0.0,,,Wolves,for
+2025-12-03,16:30,76986,Premier League 25/26,25/26,Matchweek 14,Wed,Away,W,1.0,0.0,Wolves,1.0,10.0,3.0,30.0,0.1,0.333,,,Nottingham Forest,for
+2025-12-03,16:30,76986,Premier League 25/26,25/26,Matchweek 14,Wed,Home,L,0.0,1.0,Crystal Palace,0.0,11.0,4.0,36.4,0.0,0.0,,,Burnley,for
+2025-12-03,16:30,76986,Premier League 25/26,25/26,Matchweek 14,Wed,Away,W,1.0,0.0,Burnley,1.0,3.0,3.0,100.0,0.333,0.333,,,Crystal Palace,for
+2025-12-03,17:15,76986,Premier League 25/26,25/26,Matchweek 14,Wed,Home,D,1.0,1.0,Sunderland,1.0,23.0,4.0,17.4,0.043,0.25,,,Liverpool FC,for
+2025-12-03,17:15,76986,Premier League 25/26,25/26,Matchweek 14,Wed,Away,D,1.0,1.0,Liverpool FC,1.0,9.0,6.0,66.7,0.111,0.167,,,Sunderland,for
+2025-12-03,17:15,76986,Premier League 25/26,25/26,Matchweek 14,Wed,Home,W,3.0,1.0,Chelsea,3.0,17.0,5.0,29.4,0.176,0.6,,,Leeds United,for
+2025-12-03,17:15,76986,Premier League 25/26,25/26,Matchweek 14,Wed,Away,L,1.0,3.0,Leeds United,1.0,14.0,2.0,14.3,0.071,0.5,,,Chelsea,for
+2025-12-04,17:00,76986,Premier League 25/26,25/26,Matchweek 14,Thu,Home,D,1.0,1.0,West Ham United,1.0,17.0,4.0,23.5,0.059,0.25,,,Manchester Utd,for
+2025-12-04,17:00,76986,Premier League 25/26,25/26,Matchweek 14,Thu,Away,D,1.0,1.0,Manchester Utd,1.0,11.0,3.0,27.3,0.091,0.333,,,West Ham United,for
+2025-12-06,09:30,76986,Premier League 25/26,25/26,Matchweek 15,Sat,Home,W,2.0,1.0,Arsenal,2.0,15.0,6.0,40.0,0.133,0.333,,,Aston Villa,for
+2025-12-06,09:30,76986,Premier League 25/26,25/26,Matchweek 15,Sat,Away,L,1.0,2.0,Aston Villa,1.0,15.0,9.0,60.0,0.067,0.111,,,Arsenal,for
+2025-12-06,12:00,76986,Premier League 25/26,25/26,Matchweek 15,Sat,Home,W,3.0,0.0,Sunderland,3.0,18.0,6.0,33.3,0.167,0.5,,,Manchester City,for
+2025-12-06,12:00,76986,Premier League 25/26,25/26,Matchweek 15,Sat,Away,L,0.0,3.0,Manchester City,0.0,8.0,1.0,12.5,0.0,0.0,,,Sunderland,for
+2025-12-06,12:00,76986,Premier League 25/26,25/26,Matchweek 15,Sat,Home,D,0.0,0.0,Chelsea,0.0,13.0,5.0,38.5,0.0,0.0,,,Bournemouth,for
+2025-12-06,12:00,76986,Premier League 25/26,25/26,Matchweek 15,Sat,Away,D,0.0,0.0,Bournemouth,0.0,11.0,4.0,36.4,0.0,0.0,,,Chelsea,for
+2025-12-06,12:00,76986,Premier League 25/26,25/26,Matchweek 15,Sat,Home,W,2.0,0.0,Brentford,2.0,15.0,7.0,46.7,0.133,0.286,,,Tottenham Hotspur,for
+2025-12-06,12:00,76986,Premier League 25/26,25/26,Matchweek 15,Sat,Away,L,0.0,2.0,Tottenham Hotspur,0.0,4.0,1.0,25.0,0.0,0.0,,,Brentford,for
+2025-12-06,12:00,76986,Premier League 25/26,25/26,Matchweek 15,Sat,Home,W,2.0,1.0,Burnley,2.0,17.0,7.0,41.2,0.118,0.286,,,Newcastle United,for
+2025-12-06,12:00,76986,Premier League 25/26,25/26,Matchweek 15,Sat,Away,L,1.0,2.0,Newcastle United,1.0,9.0,3.0,33.3,0.111,0.333,,,Burnley,for
+2025-12-06,12:00,76986,Premier League 25/26,25/26,Matchweek 15,Sat,Home,W,3.0,0.0,Nottingham Forest,3.0,11.0,5.0,45.5,0.273,0.6,,,Everton,for
+2025-12-06,12:00,76986,Premier League 25/26,25/26,Matchweek 15,Sat,Away,L,0.0,3.0,Everton,0.0,7.0,3.0,42.9,0.0,0.0,,,Nottingham Forest,for
+2025-12-06,14:30,76986,Premier League 25/26,25/26,Matchweek 15,Sat,Home,D,3.0,3.0,Liverpool FC,3.0,12.0,5.0,41.7,0.25,0.6,,,Leeds United,for
+2025-12-06,14:30,76986,Premier League 25/26,25/26,Matchweek 15,Sat,Away,D,3.0,3.0,Leeds United,3.0,16.0,7.0,43.8,0.188,0.429,,,Liverpool FC,for
+2025-12-07,11:00,76986,Premier League 25/26,25/26,Matchweek 15,Sun,Home,D,1.0,1.0,West Ham United,1.0,22.0,4.0,18.2,0.045,0.25,,,Brighton,for
+2025-12-07,11:00,76986,Premier League 25/26,25/26,Matchweek 15,Sun,Away,D,1.0,1.0,Brighton,1.0,14.0,5.0,35.7,0.071,0.2,,,West Ham United,for
+2025-12-07,13:30,76986,Premier League 25/26,25/26,Matchweek 15,Sun,Home,L,1.0,2.0,Crystal Palace,1.0,12.0,4.0,33.3,0.083,0.25,,,Fulham,for
+2025-12-07,13:30,76986,Premier League 25/26,25/26,Matchweek 15,Sun,Away,W,2.0,1.0,Fulham,2.0,11.0,5.0,45.5,0.182,0.4,,,Crystal Palace,for
+2025-12-08,17:00,76986,Premier League 25/26,25/26,Matchweek 15,Mon,Home,L,1.0,4.0,Manchester Utd,1.0,8.0,2.0,25.0,0.125,0.5,,,Wolves,for
+2025-12-08,17:00,76986,Premier League 25/26,25/26,Matchweek 15,Mon,Away,W,4.0,1.0,Wolves,4.0,27.0,10.0,37.0,0.148,0.4,,,Manchester Utd,for
+2025-12-13,12:00,76986,Premier League 25/26,25/26,Matchweek 16,Sat,Home,W,2.0,0.0,Brighton,2.0,18.0,4.0,22.2,0.111,0.5,,,Liverpool FC,for
+2025-12-13,12:00,76986,Premier League 25/26,25/26,Matchweek 16,Sat,Away,L,0.0,2.0,Liverpool FC,0.0,14.0,1.0,7.1,0.0,0.0,,,Brighton,for
+2025-12-13,12:00,76986,Premier League 25/26,25/26,Matchweek 16,Sat,Home,W,2.0,0.0,Everton,2.0,17.0,5.0,29.4,0.118,0.4,,,Chelsea,for
+2025-12-13,12:00,76986,Premier League 25/26,25/26,Matchweek 16,Sat,Away,L,0.0,2.0,Chelsea,0.0,11.0,2.0,18.2,0.0,0.0,,,Everton,for
+2025-12-13,14:30,76986,Premier League 25/26,25/26,Matchweek 16,Sat,Home,L,2.0,3.0,Fulham,2.0,16.0,8.0,50.0,0.125,0.25,,,Burnley,for
+2025-12-13,14:30,76986,Premier League 25/26,25/26,Matchweek 16,Sat,Away,W,3.0,2.0,Burnley,3.0,6.0,4.0,66.7,0.5,0.75,,,Fulham,for
+2025-12-13,17:00,76986,Premier League 25/26,25/26,Matchweek 16,Sat,Home,W,2.0,1.0,Wolves,2.0,16.0,2.0,12.5,0.125,1.0,,,Arsenal,for
+2025-12-13,17:00,76986,Premier League 25/26,25/26,Matchweek 16,Sat,Away,L,1.0,2.0,Arsenal,1.0,3.0,2.0,66.7,0.333,0.5,,,Wolves,for
+2025-12-14,11:00,76986,Premier League 25/26,25/26,Matchweek 16,Sun,Home,L,0.0,3.0,Manchester City,0.0,16.0,4.0,25.0,0.0,0.0,,,Crystal Palace,for
+2025-12-14,11:00,76986,Premier League 25/26,25/26,Matchweek 16,Sun,Away,W,3.0,0.0,Crystal Palace,3.0,7.0,6.0,85.7,0.429,0.5,,,Manchester City,for
+2025-12-14,11:00,76986,Premier League 25/26,25/26,Matchweek 16,Sun,Home,W,3.0,0.0,Tottenham Hotspur,3.0,15.0,6.0,40.0,0.2,0.5,,,Nottingham Forest,for
+2025-12-14,11:00,76986,Premier League 25/26,25/26,Matchweek 16,Sun,Away,L,0.0,3.0,Nottingham Forest,0.0,6.0,1.0,16.7,0.0,0.0,,,Tottenham Hotspur,for
+2025-12-14,11:00,76986,Premier League 25/26,25/26,Matchweek 16,Sun,Home,L,2.0,3.0,Aston Villa,2.0,10.0,3.0,30.0,0.2,0.667,,,West Ham United,for
+2025-12-14,11:00,76986,Premier League 25/26,25/26,Matchweek 16,Sun,Away,W,3.0,2.0,West Ham United,3.0,7.0,4.0,57.1,0.429,0.75,,,Aston Villa,for
+2025-12-14,11:00,76986,Premier League 25/26,25/26,Matchweek 16,Sun,Home,W,1.0,0.0,Newcastle United,1.0,5.0,1.0,20.0,0.2,1.0,,,Sunderland,for
+2025-12-14,11:00,76986,Premier League 25/26,25/26,Matchweek 16,Sun,Away,L,0.0,1.0,Sunderland,0.0,6.0,2.0,33.3,0.0,0.0,,,Newcastle United,for
+2025-12-14,13:30,76986,Premier League 25/26,25/26,Matchweek 16,Sun,Home,D,1.0,1.0,Leeds United,1.0,7.0,2.0,28.6,0.143,0.5,,,Brentford,for
+2025-12-14,13:30,76986,Premier League 25/26,25/26,Matchweek 16,Sun,Away,D,1.0,1.0,Brentford,1.0,18.0,4.0,22.2,0.056,0.25,,,Leeds United,for
+2025-12-15,17:00,76986,Premier League 25/26,25/26,Matchweek 16,Mon,Home,D,4.0,4.0,Bournemouth,4.0,25.0,9.0,36.0,0.16,0.444,,,Manchester Utd,for
+2025-12-15,17:00,76986,Premier League 25/26,25/26,Matchweek 16,Mon,Away,D,4.0,4.0,Manchester Utd,4.0,14.0,9.0,64.3,0.286,0.444,,,Bournemouth,for
+2025-12-20,09:30,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Home,D,2.0,2.0,Chelsea,2.0,11.0,5.0,45.5,0.182,0.4,,,Newcastle United,for
+2025-12-20,09:30,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Away,D,2.0,2.0,Newcastle United,2.0,13.0,4.0,30.8,0.154,0.5,,,Chelsea,for
+2025-12-20,12:00,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Home,W,3.0,0.0,West Ham United,3.0,17.0,8.0,47.1,0.176,0.375,,,Manchester City,for
+2025-12-20,12:00,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Away,L,0.0,3.0,Manchester City,0.0,7.0,3.0,42.9,0.0,0.0,,,West Ham United,for
+2025-12-20,12:00,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Home,D,0.0,0.0,Sunderland,0.0,16.0,4.0,25.0,0.0,0.0,,,Brighton,for
+2025-12-20,12:00,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Away,D,0.0,0.0,Brighton,0.0,14.0,6.0,42.9,0.0,0.0,,,Sunderland,for
+2025-12-20,12:00,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Home,L,0.0,2.0,Brentford,0.0,9.0,2.0,22.2,0.0,0.0,,,Wolves,for
+2025-12-20,12:00,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Away,W,2.0,0.0,Wolves,2.0,7.0,6.0,85.7,0.286,0.333,,,Brentford,for
+2025-12-20,12:00,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Home,D,1.0,1.0,Burnley,1.0,16.0,1.0,6.2,0.062,1.0,,,Bournemouth,for
+2025-12-20,12:00,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Away,D,1.0,1.0,Bournemouth,1.0,4.0,1.0,25.0,0.25,1.0,,,Burnley,for
+2025-12-20,14:30,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Home,L,1.0,2.0,Liverpool FC,1.0,15.0,4.0,26.7,0.067,0.25,,,Tottenham Hotspur,for
+2025-12-20,14:30,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Away,W,2.0,1.0,Tottenham Hotspur,2.0,8.0,4.0,50.0,0.25,0.5,,,Liverpool FC,for
+2025-12-20,17:00,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Home,L,0.0,1.0,Arsenal,0.0,5.0,1.0,20.0,0.0,0.0,,,Everton,for
+2025-12-20,17:00,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Away,W,1.0,0.0,Everton,1.0,13.0,2.0,15.4,0.077,0.5,,,Arsenal,for
+2025-12-20,17:00,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Home,W,4.0,1.0,Crystal Palace,4.0,20.0,8.0,40.0,0.2,0.5,,,Leeds United,for
+2025-12-20,17:00,76986,Premier League 25/26,25/26,Matchweek 17,Sat,Away,L,1.0,4.0,Leeds United,1.0,9.0,3.0,33.3,0.111,0.333,,,Crystal Palace,for
+2025-12-21,13:30,76986,Premier League 25/26,25/26,Matchweek 17,Sun,Home,W,2.0,1.0,Manchester Utd,2.0,12.0,4.0,33.3,0.167,0.5,,,Aston Villa,for
+2025-12-21,13:30,76986,Premier League 25/26,25/26,Matchweek 17,Sun,Away,L,1.0,2.0,Aston Villa,1.0,15.0,6.0,40.0,0.067,0.167,,,Manchester Utd,for
+2025-12-22,17:00,76986,Premier League 25/26,25/26,Matchweek 17,Mon,Home,W,1.0,0.0,Nottingham Forest,1.0,11.0,1.0,9.1,0.091,1.0,,,Fulham,for
+2025-12-22,17:00,76986,Premier League 25/26,25/26,Matchweek 17,Mon,Away,L,0.0,1.0,Fulham,0.0,12.0,2.0,16.7,0.0,0.0,,,Nottingham Forest,for
+2025-12-26,17:00,76986,Premier League 25/26,25/26,Matchweek 18,Fri,Home,W,1.0,0.0,Newcastle United,1.0,10.0,4.0,40.0,0.1,0.25,,,Manchester Utd,for
+2025-12-26,17:00,76986,Premier League 25/26,25/26,Matchweek 18,Fri,Away,L,0.0,1.0,Manchester Utd,0.0,16.0,3.0,18.8,0.0,0.0,,,Newcastle United,for
+2025-12-27,09:30,76986,Premier League 25/26,25/26,Matchweek 18,Sat,Home,L,1.0,2.0,Manchester City,1.0,7.0,2.0,28.6,0.143,0.5,,,Nottingham Forest,for
+2025-12-27,09:30,76986,Premier League 25/26,25/26,Matchweek 18,Sat,Away,W,2.0,1.0,Nottingham Forest,2.0,16.0,5.0,31.2,0.125,0.4,,,Manchester City,for
+2025-12-27,12:00,76986,Premier League 25/26,25/26,Matchweek 18,Sat,Home,W,2.0,1.0,Wolves,2.0,14.0,4.0,28.6,0.143,0.5,,,Liverpool FC,for
+2025-12-27,12:00,76986,Premier League 25/26,25/26,Matchweek 18,Sat,Away,L,1.0,2.0,Liverpool FC,1.0,9.0,4.0,44.4,0.111,0.25,,,Wolves,for
+2025-12-27,12:00,76986,Premier League 25/26,25/26,Matchweek 18,Sat,Home,W,2.0,1.0,Brighton,2.0,24.0,6.0,25.0,0.083,0.333,,,Arsenal,for
+2025-12-27,12:00,76986,Premier League 25/26,25/26,Matchweek 18,Sat,Away,L,1.0,2.0,Arsenal,1.0,8.0,3.0,37.5,0.125,0.333,,,Brighton,for
+2025-12-27,12:00,76986,Premier League 25/26,25/26,Matchweek 18,Sat,Home,L,0.0,1.0,Fulham,0.0,11.0,2.0,18.2,0.0,0.0,,,West Ham United,for
+2025-12-27,12:00,76986,Premier League 25/26,25/26,Matchweek 18,Sat,Away,W,1.0,0.0,West Ham United,1.0,17.0,5.0,29.4,0.059,0.2,,,Fulham,for
+2025-12-27,12:00,76986,Premier League 25/26,25/26,Matchweek 18,Sat,Home,W,4.0,1.0,Bournemouth,4.0,15.0,7.0,46.7,0.267,0.571,,,Brentford,for
+2025-12-27,12:00,76986,Premier League 25/26,25/26,Matchweek 18,Sat,Away,L,1.0,4.0,Brentford,1.0,20.0,10.0,50.0,0.05,0.1,,,Bournemouth,for
+2025-12-27,12:00,76986,Premier League 25/26,25/26,Matchweek 18,Sat,Home,D,0.0,0.0,Everton,0.0,16.0,0.0,0.0,0.0,,,,Burnley,for
+2025-12-27,12:00,76986,Premier League 25/26,25/26,Matchweek 18,Sat,Away,D,0.0,0.0,Burnley,0.0,15.0,6.0,40.0,0.0,0.0,,,Everton,for
+2025-12-27,14:30,76986,Premier League 25/26,25/26,Matchweek 18,Sat,Home,L,1.0,2.0,Aston Villa,1.0,14.0,3.0,21.4,0.071,0.333,,,Chelsea,for
+2025-12-27,14:30,76986,Premier League 25/26,25/26,Matchweek 18,Sat,Away,W,2.0,1.0,Chelsea,2.0,11.0,8.0,72.7,0.182,0.25,,,Aston Villa,for
+2025-12-28,11:00,76986,Premier League 25/26,25/26,Matchweek 18,Sun,Home,D,1.0,1.0,Leeds United,1.0,8.0,3.0,37.5,0.125,0.333,,,Sunderland,for
+2025-12-28,11:00,76986,Premier League 25/26,25/26,Matchweek 18,Sun,Away,D,1.0,1.0,Sunderland,1.0,17.0,6.0,35.3,0.059,0.167,,,Leeds United,for
+2025-12-28,13:30,76986,Premier League 25/26,25/26,Matchweek 18,Sun,Home,L,0.0,1.0,Tottenham Hotspur,0.0,15.0,2.0,13.3,0.0,0.0,,,Crystal Palace,for
+2025-12-28,13:30,76986,Premier League 25/26,25/26,Matchweek 18,Sun,Away,W,1.0,0.0,Crystal Palace,1.0,8.0,4.0,50.0,0.125,0.25,,,Tottenham Hotspur,for
+2025-12-30,16:30,76986,Premier League 25/26,25/26,Matchweek 19,Tue,Home,D,2.0,2.0,Bournemouth,2.0,17.0,3.0,17.6,0.118,0.667,,,Chelsea,for
+2025-12-30,16:30,76986,Premier League 25/26,25/26,Matchweek 19,Tue,Away,D,2.0,2.0,Chelsea,2.0,17.0,6.0,35.3,0.118,0.333,,,Bournemouth,for
+2025-12-30,16:30,76986,Premier League 25/26,25/26,Matchweek 19,Tue,Home,L,1.0,3.0,Newcastle United,1.0,15.0,4.0,26.7,0.067,0.25,,,Burnley,for
+2025-12-30,16:30,76986,Premier League 25/26,25/26,Matchweek 19,Tue,Away,W,3.0,1.0,Burnley,3.0,20.0,9.0,45.0,0.15,0.333,,,Newcastle United,for
+2025-12-30,16:30,76986,Premier League 25/26,25/26,Matchweek 19,Tue,Home,D,2.0,2.0,Brighton,2.0,10.0,4.0,40.0,0.2,0.5,,,West Ham United,for
+2025-12-30,16:30,76986,Premier League 25/26,25/26,Matchweek 19,Tue,Away,D,2.0,2.0,West Ham United,2.0,16.0,6.0,37.5,0.125,0.333,,,Brighton,for
+2025-12-30,16:30,76986,Premier League 25/26,25/26,Matchweek 19,Tue,Home,L,0.0,2.0,Everton,0.0,21.0,6.0,28.6,0.0,0.0,,,Nottingham Forest,for
+2025-12-30,16:30,76986,Premier League 25/26,25/26,Matchweek 19,Tue,Away,W,2.0,0.0,Nottingham Forest,2.0,11.0,3.0,27.3,0.182,0.667,,,Everton,for
+2025-12-30,17:15,76986,Premier League 25/26,25/26,Matchweek 19,Tue,Home,W,4.0,1.0,Aston Villa,4.0,22.0,7.0,31.8,0.182,0.571,,,Arsenal,for
+2025-12-30,17:15,76986,Premier League 25/26,25/26,Matchweek 19,Tue,Away,L,1.0,4.0,Arsenal,1.0,11.0,3.0,27.3,0.091,0.333,,,Aston Villa,for
+2025-12-30,17:15,76986,Premier League 25/26,25/26,Matchweek 19,Tue,Home,D,1.0,1.0,Wolves,1.0,15.0,6.0,40.0,0.067,0.167,,,Manchester Utd,for
+2025-12-30,17:15,76986,Premier League 25/26,25/26,Matchweek 19,Tue,Away,D,1.0,1.0,Manchester Utd,1.0,11.0,4.0,36.4,0.091,0.25,,,Wolves,for
+2026-01-01,14:30,76986,Premier League 25/26,25/26,Matchweek 19,Thu,Home,D,0.0,0.0,Leeds United,0.0,19.0,4.0,21.1,0.0,0.0,,,Liverpool FC,for
+2026-01-01,14:30,76986,Premier League 25/26,25/26,Matchweek 19,Thu,Away,D,0.0,0.0,Liverpool FC,0.0,4.0,2.0,50.0,0.0,0.0,,,Leeds United,for
+2026-01-01,14:30,76986,Premier League 25/26,25/26,Matchweek 19,Thu,Home,D,1.0,1.0,Fulham,1.0,11.0,2.0,18.2,0.091,0.5,,,Crystal Palace,for
+2026-01-01,14:30,76986,Premier League 25/26,25/26,Matchweek 19,Thu,Away,D,1.0,1.0,Crystal Palace,1.0,17.0,5.0,29.4,0.059,0.2,,,Fulham,for
+2026-01-01,17:00,76986,Premier League 25/26,25/26,Matchweek 19,Thu,Home,D,0.0,0.0,Manchester City,0.0,10.0,4.0,40.0,0.0,0.0,,,Sunderland,for
+2026-01-01,17:00,76986,Premier League 25/26,25/26,Matchweek 19,Thu,Away,D,0.0,0.0,Sunderland,0.0,14.0,4.0,28.6,0.0,0.0,,,Manchester City,for
+2026-01-01,17:00,76986,Premier League 25/26,25/26,Matchweek 19,Thu,Home,D,0.0,0.0,Tottenham Hotspur,0.0,7.0,2.0,28.6,0.0,0.0,,,Brentford,for
+2026-01-01,17:00,76986,Premier League 25/26,25/26,Matchweek 19,Thu,Away,D,0.0,0.0,Brentford,0.0,9.0,3.0,33.3,0.0,0.0,,,Tottenham Hotspur,for
+2026-01-03,09:30,76986,Premier League 25/26,25/26,Matchweek 20,Sat,Home,W,3.0,1.0,Nottingham Forest,3.0,11.0,4.0,36.4,0.273,0.75,,,Aston Villa,for
+2026-01-03,09:30,76986,Premier League 25/26,25/26,Matchweek 20,Sat,Away,L,1.0,3.0,Aston Villa,1.0,10.0,5.0,50.0,0.1,0.2,,,Nottingham Forest,for
+2026-01-03,12:00,76986,Premier League 25/26,25/26,Matchweek 20,Sat,Home,W,3.0,0.0,West Ham United,3.0,11.0,8.0,72.7,0.273,0.375,,,Wolves,for
+2026-01-03,12:00,76986,Premier League 25/26,25/26,Matchweek 20,Sat,Away,L,0.0,3.0,Wolves,0.0,6.0,0.0,0.0,0.0,,,,West Ham United,for
+2026-01-03,12:00,76986,Premier League 25/26,25/26,Matchweek 20,Sat,Home,W,2.0,0.0,Burnley,2.0,15.0,4.0,26.7,0.133,0.5,,,Brighton,for
+2026-01-03,12:00,76986,Premier League 25/26,25/26,Matchweek 20,Sat,Away,L,0.0,2.0,Brighton,0.0,5.0,3.0,60.0,0.0,0.0,,,Burnley,for
+2026-01-03,14:30,76986,Premier League 25/26,25/26,Matchweek 20,Sat,Home,L,2.0,3.0,Arsenal,2.0,15.0,3.0,20.0,0.133,0.667,,,Bournemouth,for
+2026-01-03,14:30,76986,Premier League 25/26,25/26,Matchweek 20,Sat,Away,W,3.0,2.0,Bournemouth,3.0,12.0,5.0,41.7,0.25,0.6,,,Arsenal,for
+2026-01-04,09:30,76986,Premier League 25/26,25/26,Matchweek 20,Sun,Home,D,1.0,1.0,Manchester Utd,1.0,11.0,3.0,27.3,0.091,0.333,,,Leeds United,for
+2026-01-04,09:30,76986,Premier League 25/26,25/26,Matchweek 20,Sun,Away,D,1.0,1.0,Leeds United,1.0,15.0,2.0,13.3,0.067,0.5,,,Manchester Utd,for
+2026-01-04,12:00,76986,Premier League 25/26,25/26,Matchweek 20,Sun,Home,D,1.0,1.0,Sunderland,1.0,13.0,5.0,38.5,0.077,0.2,,,Tottenham Hotspur,for
+2026-01-04,12:00,76986,Premier League 25/26,25/26,Matchweek 20,Sun,Away,D,1.0,1.0,Tottenham Hotspur,1.0,10.0,3.0,30.0,0.1,0.333,,,Sunderland,for
+2026-01-04,12:00,76986,Premier League 25/26,25/26,Matchweek 20,Sun,Home,W,2.0,0.0,Crystal Palace,2.0,12.0,7.0,58.3,0.167,0.286,,,Newcastle United,for
+2026-01-04,12:00,76986,Premier League 25/26,25/26,Matchweek 20,Sun,Away,L,0.0,2.0,Newcastle United,0.0,11.0,1.0,9.1,0.0,0.0,,,Crystal Palace,for
+2026-01-04,12:00,76986,Premier League 25/26,25/26,Matchweek 20,Sun,Home,L,2.0,4.0,Brentford,2.0,14.0,6.0,42.9,0.143,0.333,,,Everton,for
+2026-01-04,12:00,76986,Premier League 25/26,25/26,Matchweek 20,Sun,Away,W,4.0,2.0,Everton,4.0,11.0,7.0,63.6,0.364,0.571,,,Brentford,for
+2026-01-04,12:15,76986,Premier League 25/26,25/26,Matchweek 20,Sun,Home,D,2.0,2.0,Liverpool FC,2.0,8.0,2.0,25.0,0.25,1.0,,,Fulham,for
+2026-01-04,12:15,76986,Premier League 25/26,25/26,Matchweek 20,Sun,Away,D,2.0,2.0,Fulham,2.0,10.0,2.0,20.0,0.2,1.0,,,Liverpool FC,for
+2026-01-04,14:30,76986,Premier League 25/26,25/26,Matchweek 20,Sun,Home,D,1.0,1.0,Chelsea,1.0,14.0,3.0,21.4,0.071,0.333,,,Manchester City,for
+2026-01-04,14:30,76986,Premier League 25/26,25/26,Matchweek 20,Sun,Away,D,1.0,1.0,Manchester City,1.0,8.0,3.0,37.5,0.125,0.333,,,Chelsea,for
+2026-01-06,17:00,76986,Premier League 25/26,25/26,Matchweek 21,Tue,Home,L,1.0,2.0,Nottingham Forest,1.0,14.0,3.0,21.4,0.071,0.333,,,West Ham United,for
+2026-01-06,17:00,76986,Premier League 25/26,25/26,Matchweek 21,Tue,Away,W,2.0,1.0,West Ham United,2.0,13.0,5.0,38.5,0.154,0.4,,,Nottingham Forest,for
+2026-01-07,16:30,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Home,D,1.0,1.0,Brighton,1.0,21.0,6.0,28.6,0.048,0.167,,,Manchester City,for
+2026-01-07,16:30,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Away,D,1.0,1.0,Manchester City,1.0,6.0,3.0,50.0,0.167,0.333,,,Brighton,for
+2026-01-07,16:30,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Home,W,2.0,1.0,Chelsea,2.0,16.0,5.0,31.2,0.125,0.4,,,Fulham,for
+2026-01-07,16:30,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Away,L,1.0,2.0,Fulham,1.0,14.0,6.0,42.9,0.071,0.167,,,Chelsea,for
+2026-01-07,16:30,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Home,W,3.0,2.0,Tottenham Hotspur,3.0,11.0,3.0,27.3,0.273,1.0,,,Bournemouth,for
+2026-01-07,16:30,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Away,L,2.0,3.0,Bournemouth,2.0,16.0,4.0,25.0,0.125,0.5,,,Tottenham Hotspur,for
+2026-01-07,16:30,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Home,D,0.0,0.0,Aston Villa,0.0,11.0,5.0,45.5,0.0,0.0,,,Crystal Palace,for
+2026-01-07,16:30,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Away,D,0.0,0.0,Crystal Palace,0.0,15.0,3.0,20.0,0.0,0.0,,,Aston Villa,for
+2026-01-07,16:30,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Home,D,1.0,1.0,Wolves,1.0,13.0,2.0,15.4,0.077,0.5,,,Everton,for
+2026-01-07,16:30,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Away,D,1.0,1.0,Everton,1.0,13.0,4.0,30.8,0.077,0.25,,,Wolves,for
+2026-01-07,16:30,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Home,W,3.0,0.0,Sunderland,3.0,18.0,6.0,33.3,0.167,0.5,,,Brentford,for
+2026-01-07,16:30,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Away,L,0.0,3.0,Brentford,0.0,11.0,3.0,27.3,0.0,0.0,,,Sunderland,for
+2026-01-07,17:15,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Home,D,2.0,2.0,Manchester Utd,2.0,7.0,1.0,14.3,0.286,2.0,,,Burnley,for
+2026-01-07,17:15,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Away,D,2.0,2.0,Burnley,2.0,30.0,10.0,33.3,0.067,0.2,,,Manchester Utd,for
+2026-01-07,17:15,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Home,W,4.0,3.0,Leeds United,4.0,18.0,8.0,44.4,0.222,0.5,,,Newcastle United,for
+2026-01-07,17:15,76986,Premier League 25/26,25/26,Matchweek 21,Wed,Away,L,3.0,4.0,Newcastle United,3.0,14.0,6.0,42.9,0.214,0.5,,,Leeds United,for
+2026-01-08,17:00,76986,Premier League 25/26,25/26,Matchweek 21,Thu,Home,D,0.0,0.0,Liverpool FC,0.0,9.0,4.0,44.4,0.0,0.0,,,Arsenal,for
+2026-01-08,17:00,76986,Premier League 25/26,25/26,Matchweek 21,Thu,Away,D,0.0,0.0,Arsenal,0.0,8.0,0.0,0.0,0.0,,,,Liverpool FC,for
+2026-01-17,09:30,76986,Premier League 25/26,25/26,Matchweek 22,Sat,Home,W,2.0,0.0,Manchester City,2.0,11.0,7.0,63.6,0.182,0.286,,,Manchester Utd,for
+2026-01-17,09:30,76986,Premier League 25/26,25/26,Matchweek 22,Sat,Away,L,0.0,2.0,Manchester Utd,0.0,7.0,1.0,14.3,0.0,0.0,,,Manchester City,for
+2026-01-17,12:00,76986,Premier League 25/26,25/26,Matchweek 22,Sat,Home,D,1.0,1.0,Burnley,1.0,32.0,11.0,34.4,0.031,0.091,,,Liverpool FC,for
+2026-01-17,12:00,76986,Premier League 25/26,25/26,Matchweek 22,Sat,Away,D,1.0,1.0,Liverpool FC,1.0,7.0,1.0,14.3,0.143,1.0,,,Burnley,for
+2026-01-17,12:00,76986,Premier League 25/26,25/26,Matchweek 22,Sat,Home,W,2.0,0.0,Brentford,2.0,6.0,2.0,33.3,0.333,1.0,,,Chelsea,for
+2026-01-17,12:00,76986,Premier League 25/26,25/26,Matchweek 22,Sat,Away,L,0.0,2.0,Chelsea,0.0,15.0,5.0,33.3,0.0,0.0,,,Brentford,for
+2026-01-17,12:00,76986,Premier League 25/26,25/26,Matchweek 22,Sat,Home,L,1.0,2.0,West Ham United,1.0,21.0,6.0,28.6,0.048,0.167,,,Tottenham Hotspur,for
+2026-01-17,12:00,76986,Premier League 25/26,25/26,Matchweek 22,Sat,Away,W,2.0,1.0,Tottenham Hotspur,2.0,17.0,4.0,23.5,0.118,0.5,,,West Ham United,for
+2026-01-17,12:00,76986,Premier League 25/26,25/26,Matchweek 22,Sat,Home,W,2.0,1.0,Crystal Palace,2.0,13.0,7.0,53.8,0.154,0.286,,,Sunderland,for
+2026-01-17,12:00,76986,Premier League 25/26,25/26,Matchweek 22,Sat,Away,L,1.0,2.0,Sunderland,1.0,6.0,2.0,33.3,0.167,0.5,,,Crystal Palace,for
+2026-01-17,12:00,76986,Premier League 25/26,25/26,Matchweek 22,Sat,Home,W,1.0,0.0,Fulham,1.0,14.0,5.0,35.7,0.071,0.2,,,Leeds United,for
+2026-01-17,12:00,76986,Premier League 25/26,25/26,Matchweek 22,Sat,Away,L,0.0,1.0,Leeds United,0.0,8.0,1.0,12.5,0.0,0.0,,,Fulham,for
+2026-01-17,14:30,76986,Premier League 25/26,25/26,Matchweek 22,Sat,Home,D,0.0,0.0,Arsenal,0.0,6.0,0.0,0.0,0.0,,,,Nottingham Forest,for
+2026-01-17,14:30,76986,Premier League 25/26,25/26,Matchweek 22,Sat,Away,D,0.0,0.0,Nottingham Forest,0.0,15.0,3.0,20.0,0.0,0.0,,,Arsenal,for
+2026-01-18,11:00,76986,Premier League 25/26,25/26,Matchweek 22,Sun,Home,D,0.0,0.0,Newcastle United,0.0,6.0,2.0,33.3,0.0,0.0,,,Wolves,for
+2026-01-18,11:00,76986,Premier League 25/26,25/26,Matchweek 22,Sun,Away,D,0.0,0.0,Wolves,0.0,12.0,2.0,16.7,0.0,0.0,,,Newcastle United,for
+2026-01-18,13:30,76986,Premier League 25/26,25/26,Matchweek 22,Sun,Home,L,0.0,1.0,Everton,0.0,18.0,5.0,27.8,0.0,0.0,,,Aston Villa,for
+2026-01-18,13:30,76986,Premier League 25/26,25/26,Matchweek 22,Sun,Away,W,1.0,0.0,Aston Villa,1.0,9.0,3.0,33.3,0.111,0.333,,,Everton,for
+2026-01-19,17:00,76986,Premier League 25/26,25/26,Matchweek 22,Mon,Home,D,1.0,1.0,Bournemouth,1.0,17.0,5.0,29.4,0.059,0.2,,,Brighton,for
+2026-01-19,17:00,76986,Premier League 25/26,25/26,Matchweek 22,Mon,Away,D,1.0,1.0,Brighton,1.0,11.0,2.0,18.2,0.091,0.5,,,Bournemouth,for
+2026-01-24,09:30,76986,Premier League 25/26,25/26,Matchweek 23,Sat,Home,W,3.0,1.0,Sunderland,3.0,13.0,5.0,38.5,0.231,0.6,,,West Ham United,for
+2026-01-24,09:30,76986,Premier League 25/26,25/26,Matchweek 23,Sat,Away,L,1.0,3.0,West Ham United,1.0,7.0,2.0,28.6,0.143,0.5,,,Sunderland,for
+2026-01-24,12:00,76986,Premier League 25/26,25/26,Matchweek 23,Sat,Home,W,2.0,0.0,Wolves,2.0,11.0,4.0,36.4,0.182,0.5,,,Manchester City,for
+2026-01-24,12:00,76986,Premier League 25/26,25/26,Matchweek 23,Sat,Away,L,0.0,2.0,Manchester City,0.0,11.0,1.0,9.1,0.0,0.0,,,Wolves,for
+2026-01-24,12:00,76986,Premier League 25/26,25/26,Matchweek 23,Sat,Home,D,2.0,2.0,Tottenham Hotspur,2.0,9.0,4.0,44.4,0.222,0.5,,,Burnley,for
+2026-01-24,12:00,76986,Premier League 25/26,25/26,Matchweek 23,Sat,Away,D,2.0,2.0,Burnley,2.0,18.0,11.0,61.1,0.111,0.182,,,Tottenham Hotspur,for
+2026-01-24,12:00,76986,Premier League 25/26,25/26,Matchweek 23,Sat,Home,W,2.0,1.0,Brighton,2.0,12.0,4.0,33.3,0.167,0.5,,,Fulham,for
+2026-01-24,12:00,76986,Premier League 25/26,25/26,Matchweek 23,Sat,Away,L,1.0,2.0,Fulham,1.0,13.0,5.0,38.5,0.077,0.2,,,Brighton,for
+2026-01-24,14:30,76986,Premier League 25/26,25/26,Matchweek 23,Sat,Home,W,3.0,2.0,Liverpool FC,3.0,12.0,5.0,41.7,0.25,0.6,,,Bournemouth,for
+2026-01-24,14:30,76986,Premier League 25/26,25/26,Matchweek 23,Sat,Away,L,2.0,3.0,Bournemouth,2.0,14.0,4.0,28.6,0.143,0.5,,,Liverpool FC,for
+2026-01-25,11:00,76986,Premier League 25/26,25/26,Matchweek 23,Sun,Home,L,1.0,3.0,Chelsea,1.0,13.0,7.0,53.8,0.077,0.143,,,Crystal Palace,for
+2026-01-25,11:00,76986,Premier League 25/26,25/26,Matchweek 23,Sun,Away,W,3.0,1.0,Crystal Palace,3.0,10.0,6.0,60.0,0.3,0.5,,,Chelsea,for
+2026-01-25,11:00,76986,Premier League 25/26,25/26,Matchweek 23,Sun,Home,L,0.0,2.0,Aston Villa,0.0,15.0,4.0,26.7,0.0,0.0,,,Newcastle United,for
+2026-01-25,11:00,76986,Premier League 25/26,25/26,Matchweek 23,Sun,Away,W,2.0,0.0,Newcastle United,2.0,14.0,8.0,57.1,0.143,0.25,,,Aston Villa,for
+2026-01-25,11:00,76986,Premier League 25/26,25/26,Matchweek 23,Sun,Home,L,0.0,2.0,Nottingham Forest,0.0,10.0,1.0,10.0,0.0,0.0,,,Brentford,for
+2026-01-25,11:00,76986,Premier League 25/26,25/26,Matchweek 23,Sun,Away,W,2.0,0.0,Brentford,2.0,7.0,2.0,28.6,0.286,1.0,,,Nottingham Forest,for
+2026-01-25,13:30,76986,Premier League 25/26,25/26,Matchweek 23,Sun,Home,L,2.0,3.0,Manchester Utd,2.0,15.0,4.0,26.7,0.133,0.5,,,Arsenal,for
+2026-01-25,13:30,76986,Premier League 25/26,25/26,Matchweek 23,Sun,Away,W,3.0,2.0,Arsenal,3.0,10.0,3.0,30.0,0.3,1.0,,,Manchester Utd,for
+2026-01-26,17:00,76986,Premier League 25/26,25/26,Matchweek 23,Mon,Home,D,1.0,1.0,Leeds United,1.0,10.0,3.0,30.0,0.1,0.333,,,Everton,for
+2026-01-26,17:00,76986,Premier League 25/26,25/26,Matchweek 23,Mon,Away,D,1.0,1.0,Everton,1.0,14.0,4.0,28.6,0.071,0.25,,,Leeds United,for
+2026-01-31,12:00,76986,Premier League 25/26,25/26,Matchweek 24,Sat,Home,L,0.0,4.0,Arsenal,0.0,3.0,1.0,33.3,0.0,0.0,,,Leeds United,for
+2026-01-31,12:00,76986,Premier League 25/26,25/26,Matchweek 24,Sat,Away,W,4.0,0.0,Leeds United,4.0,15.0,9.0,60.0,0.267,0.444,,,Arsenal,for
+2026-01-31,12:00,76986,Premier League 25/26,25/26,Matchweek 24,Sat,Home,D,1.0,1.0,Everton,1.0,11.0,2.0,18.2,0.091,0.5,,,Brighton,for
+2026-01-31,12:00,76986,Premier League 25/26,25/26,Matchweek 24,Sat,Away,D,1.0,1.0,Brighton,1.0,7.0,4.0,57.1,0.143,0.25,,,Everton,for
+2026-01-31,12:00,76986,Premier League 25/26,25/26,Matchweek 24,Sat,Home,L,0.0,2.0,Bournemouth,0.0,17.0,7.0,41.2,0.0,0.0,,,Wolves,for
+2026-01-31,12:00,76986,Premier League 25/26,25/26,Matchweek 24,Sat,Away,W,2.0,0.0,Wolves,2.0,9.0,4.0,44.4,0.222,0.5,,,Bournemouth,for
+2026-01-31,14:30,76986,Premier League 25/26,25/26,Matchweek 24,Sat,Home,W,3.0,2.0,West Ham United,3.0,14.0,6.0,42.9,0.214,0.5,,,Chelsea,for
+2026-01-31,14:30,76986,Premier League 25/26,25/26,Matchweek 24,Sat,Away,L,2.0,3.0,Chelsea,2.0,11.0,6.0,54.5,0.182,0.333,,,West Ham United,for
+2026-01-31,17:00,76986,Premier League 25/26,25/26,Matchweek 24,Sat,Home,W,4.0,1.0,Newcastle United,4.0,17.0,7.0,41.2,0.235,0.571,,,Liverpool FC,for
+2026-01-31,17:00,76986,Premier League 25/26,25/26,Matchweek 24,Sat,Away,L,1.0,4.0,Liverpool FC,1.0,8.0,2.0,25.0,0.125,0.5,,,Newcastle United,for
+2026-02-01,11:00,76986,Premier League 25/26,25/26,Matchweek 24,Sun,Home,W,3.0,2.0,Fulham,3.0,13.0,6.0,46.2,0.231,0.5,,,Manchester Utd,for
+2026-02-01,11:00,76986,Premier League 25/26,25/26,Matchweek 24,Sun,Away,L,2.0,3.0,Manchester Utd,2.0,14.0,6.0,42.9,0.143,0.333,,,Fulham,for
+2026-02-01,11:00,76986,Premier League 25/26,25/26,Matchweek 24,Sun,Home,L,0.0,1.0,Brentford,0.0,27.0,5.0,18.5,0.0,0.0,,,Aston Villa,for
+2026-02-01,11:00,76986,Premier League 25/26,25/26,Matchweek 24,Sun,Away,W,1.0,0.0,Aston Villa,1.0,6.0,2.0,33.3,0.167,0.5,,,Brentford,for
+2026-02-01,11:00,76986,Premier League 25/26,25/26,Matchweek 24,Sun,Home,D,1.0,1.0,Crystal Palace,1.0,9.0,1.0,11.1,0.111,1.0,,,Nottingham Forest,for
+2026-02-01,11:00,76986,Premier League 25/26,25/26,Matchweek 24,Sun,Away,D,1.0,1.0,Nottingham Forest,1.0,14.0,3.0,21.4,0.071,0.333,,,Crystal Palace,for
+2026-02-01,13:30,76986,Premier League 25/26,25/26,Matchweek 24,Sun,Home,D,2.0,2.0,Manchester City,2.0,12.0,6.0,50.0,0.167,0.333,,,Tottenham Hotspur,for
+2026-02-01,13:30,76986,Premier League 25/26,25/26,Matchweek 24,Sun,Away,D,2.0,2.0,Tottenham Hotspur,2.0,15.0,3.0,20.0,0.133,0.667,,,Manchester City,for
+2026-02-02,17:00,76986,Premier League 25/26,25/26,Matchweek 24,Mon,Home,W,3.0,0.0,Burnley,3.0,14.0,5.0,35.7,0.214,0.6,,,Sunderland,for
+2026-02-02,17:00,76986,Premier League 25/26,25/26,Matchweek 24,Mon,Away,L,0.0,3.0,Sunderland,0.0,5.0,0.0,0.0,0.0,,,,Burnley,for
+2026-02-06,17:00,76986,Premier League 25/26,25/26,Matchweek 25,Fri,Home,W,3.0,1.0,Nottingham Forest,3.0,14.0,5.0,35.7,0.214,0.6,,,Leeds United,for
+2026-02-06,17:00,76986,Premier League 25/26,25/26,Matchweek 25,Fri,Away,L,1.0,3.0,Leeds United,1.0,16.0,6.0,37.5,0.062,0.167,,,Nottingham Forest,for
+2026-02-07,09:30,76986,Premier League 25/26,25/26,Matchweek 25,Sat,Home,W,2.0,0.0,Tottenham Hotspur,2.0,23.0,10.0,43.5,0.087,0.2,,,Manchester Utd,for
+2026-02-07,09:30,76986,Premier League 25/26,25/26,Matchweek 25,Sat,Away,L,0.0,2.0,Manchester Utd,0.0,7.0,1.0,14.3,0.0,0.0,,,Tottenham Hotspur,for
+2026-02-07,12:00,76986,Premier League 25/26,25/26,Matchweek 25,Sat,Home,W,3.0,0.0,Sunderland,3.0,16.0,5.0,31.2,0.188,0.6,,,Arsenal,for
+2026-02-07,12:00,76986,Premier League 25/26,25/26,Matchweek 25,Sat,Away,L,0.0,3.0,Arsenal,0.0,5.0,3.0,60.0,0.0,0.0,,,Sunderland,for
+2026-02-07,12:00,76986,Premier League 25/26,25/26,Matchweek 25,Sat,Home,L,1.0,3.0,Chelsea,1.0,11.0,3.0,27.3,0.091,0.333,,,Wolves,for
+2026-02-07,12:00,76986,Premier League 25/26,25/26,Matchweek 25,Sat,Away,W,3.0,1.0,Wolves,3.0,15.0,6.0,40.0,0.2,0.5,,,Chelsea,for
+2026-02-07,12:00,76986,Premier League 25/26,25/26,Matchweek 25,Sat,Home,D,1.0,1.0,Aston Villa,1.0,20.0,9.0,45.0,0.05,0.111,,,Bournemouth,for
+2026-02-07,12:00,76986,Premier League 25/26,25/26,Matchweek 25,Sat,Away,D,1.0,1.0,Bournemouth,1.0,7.0,4.0,57.1,0.143,0.25,,,Aston Villa,for
+2026-02-07,12:00,76986,Premier League 25/26,25/26,Matchweek 25,Sat,Home,L,1.0,2.0,Everton,1.0,13.0,3.0,23.1,0.077,0.333,,,Fulham,for
+2026-02-07,12:00,76986,Premier League 25/26,25/26,Matchweek 25,Sat,Away,W,2.0,1.0,Fulham,2.0,16.0,3.0,18.8,0.125,0.667,,,Everton,for
+2026-02-07,12:00,76986,Premier League 25/26,25/26,Matchweek 25,Sat,Home,L,0.0,2.0,West Ham United,0.0,18.0,5.0,27.8,0.0,0.0,,,Burnley,for
+2026-02-07,12:00,76986,Premier League 25/26,25/26,Matchweek 25,Sat,Away,W,2.0,0.0,Burnley,2.0,6.0,4.0,66.7,0.333,0.5,,,West Ham United,for
+2026-02-07,14:30,76986,Premier League 25/26,25/26,Matchweek 25,Sat,Home,L,2.0,3.0,Brentford,2.0,16.0,4.0,25.0,0.125,0.5,,,Newcastle United,for
+2026-02-07,14:30,76986,Premier League 25/26,25/26,Matchweek 25,Sat,Away,W,3.0,2.0,Newcastle United,3.0,11.0,5.0,45.5,0.273,0.6,,,Brentford,for
+2026-02-08,11:00,76986,Premier League 25/26,25/26,Matchweek 25,Sun,Home,L,0.0,1.0,Crystal Palace,0.0,7.0,2.0,28.6,0.0,0.0,,,Brighton,for
+2026-02-08,11:00,76986,Premier League 25/26,25/26,Matchweek 25,Sun,Away,W,1.0,0.0,Brighton,1.0,7.0,4.0,57.1,0.143,0.25,,,Crystal Palace,for
+2026-02-08,13:30,76986,Premier League 25/26,25/26,Matchweek 25,Sun,Home,L,1.0,2.0,Manchester City,1.0,15.0,4.0,26.7,0.067,0.25,,,Liverpool FC,for
+2026-02-08,13:30,76986,Premier League 25/26,25/26,Matchweek 25,Sun,Away,W,2.0,1.0,Liverpool FC,2.0,17.0,7.0,41.2,0.118,0.286,,,Manchester City,for
+2026-02-10,16:30,76986,Premier League 25/26,25/26,Matchweek 26,Tue,Home,D,2.0,2.0,Leeds United,2.0,19.0,4.0,21.1,0.105,0.5,,,Chelsea,for
+2026-02-10,16:30,76986,Premier League 25/26,25/26,Matchweek 26,Tue,Away,D,2.0,2.0,Chelsea,2.0,4.0,2.0,50.0,0.5,1.0,,,Leeds United,for
+2026-02-10,16:30,76986,Premier League 25/26,25/26,Matchweek 26,Tue,Home,L,1.0,2.0,Newcastle United,1.0,16.0,2.0,12.5,0.062,0.5,,,Tottenham Hotspur,for
+2026-02-10,16:30,76986,Premier League 25/26,25/26,Matchweek 26,Tue,Away,W,2.0,1.0,Tottenham Hotspur,2.0,21.0,5.0,23.8,0.095,0.4,,,Newcastle United,for
+2026-02-10,16:30,76986,Premier League 25/26,25/26,Matchweek 26,Tue,Home,L,1.0,2.0,Bournemouth,1.0,16.0,6.0,37.5,0.062,0.167,,,Everton,for
+2026-02-10,16:30,76986,Premier League 25/26,25/26,Matchweek 26,Tue,Away,W,2.0,1.0,Everton,2.0,11.0,4.0,36.4,0.182,0.5,,,Bournemouth,for
+2026-02-10,17:15,76986,Premier League 25/26,25/26,Matchweek 26,Tue,Home,D,1.0,1.0,Manchester Utd,1.0,7.0,3.0,42.9,0.143,0.333,,,West Ham United,for
+2026-02-10,17:15,76986,Premier League 25/26,25/26,Matchweek 26,Tue,Away,D,1.0,1.0,West Ham United,1.0,9.0,3.0,33.3,0.111,0.333,,,Manchester Utd,for
+2026-02-11,16:30,76986,Premier League 25/26,25/26,Matchweek 26,Wed,Home,W,3.0,0.0,Fulham,3.0,13.0,5.0,38.5,0.231,0.6,,,Manchester City,for
+2026-02-11,16:30,76986,Premier League 25/26,25/26,Matchweek 26,Wed,Away,L,0.0,3.0,Manchester City,0.0,14.0,3.0,21.4,0.0,0.0,,,Fulham,for
+2026-02-11,16:30,76986,Premier League 25/26,25/26,Matchweek 26,Wed,Home,W,1.0,0.0,Brighton,1.0,15.0,1.0,6.7,0.067,1.0,,,Aston Villa,for
+2026-02-11,16:30,76986,Premier League 25/26,25/26,Matchweek 26,Wed,Away,L,0.0,1.0,Aston Villa,0.0,9.0,3.0,33.3,0.0,0.0,,,Brighton,for
+2026-02-11,16:30,76986,Premier League 25/26,25/26,Matchweek 26,Wed,Home,D,0.0,0.0,Wolves,0.0,35.0,10.0,28.6,0.0,0.0,,,Nottingham Forest,for
+2026-02-11,16:30,76986,Premier League 25/26,25/26,Matchweek 26,Wed,Away,D,0.0,0.0,Nottingham Forest,0.0,7.0,3.0,42.9,0.0,0.0,,,Wolves,for
+2026-02-11,16:30,76986,Premier League 25/26,25/26,Matchweek 26,Wed,Home,L,2.0,3.0,Burnley,2.0,21.0,3.0,14.3,0.095,0.667,,,Crystal Palace,for
+2026-02-11,16:30,76986,Premier League 25/26,25/26,Matchweek 26,Wed,Away,W,3.0,2.0,Crystal Palace,3.0,8.0,3.0,37.5,0.375,1.0,,,Burnley,for
+2026-02-11,17:15,76986,Premier League 25/26,25/26,Matchweek 26,Wed,Home,L,0.0,1.0,Liverpool FC,0.0,11.0,2.0,18.2,0.0,0.0,,,Sunderland,for
+2026-02-11,17:15,76986,Premier League 25/26,25/26,Matchweek 26,Wed,Away,W,1.0,0.0,Sunderland,1.0,23.0,3.0,13.0,0.043,0.333,,,Liverpool FC,for
+2026-02-12,17:00,76986,Premier League 25/26,25/26,Matchweek 26,Thu,Home,D,1.0,1.0,Arsenal,1.0,12.0,3.0,25.0,0.083,0.333,,,Brentford,for
+2026-02-12,17:00,76986,Premier League 25/26,25/26,Matchweek 26,Thu,Away,D,1.0,1.0,Brentford,1.0,7.0,2.0,28.6,0.143,0.5,,,Arsenal,for
+2026-02-18,17:00,76986,Premier League 25/26,25/26,Matchweek 31,Wed,Home,D,2.0,2.0,Arsenal,2.0,5.0,2.0,40.0,0.4,1.0,,,Wolves,for
+2026-02-18,17:00,76986,Premier League 25/26,25/26,Matchweek 31,Wed,Away,D,2.0,2.0,Wolves,2.0,10.0,4.0,40.0,0.2,0.5,,,Arsenal,for
+2026-02-21,12:00,76986,Premier League 25/26,25/26,Matchweek 27,Sat,Home,D,1.0,1.0,Burnley,1.0,12.0,2.0,16.7,0.083,0.5,,,Chelsea,for
+2026-02-21,12:00,76986,Premier League 25/26,25/26,Matchweek 27,Sat,Away,D,1.0,1.0,Chelsea,1.0,12.0,4.0,33.3,0.083,0.25,,,Burnley,for
+2026-02-21,12:00,76986,Premier League 25/26,25/26,Matchweek 27,Sat,Home,D,1.0,1.0,Leeds United,1.0,16.0,4.0,25.0,0.062,0.25,,,Aston Villa,for
+2026-02-21,12:00,76986,Premier League 25/26,25/26,Matchweek 27,Sat,Away,D,1.0,1.0,Aston Villa,1.0,14.0,4.0,28.6,0.071,0.25,,,Leeds United,for
+2026-02-21,12:00,76986,Premier League 25/26,25/26,Matchweek 27,Sat,Home,L,0.0,2.0,Brighton,0.0,13.0,3.0,23.1,0.0,0.0,,,Brentford,for
+2026-02-21,12:00,76986,Premier League 25/26,25/26,Matchweek 27,Sat,Away,W,2.0,0.0,Brentford,2.0,11.0,7.0,63.6,0.182,0.286,,,Brighton,for
+2026-02-21,14:30,76986,Premier League 25/26,25/26,Matchweek 27,Sat,Home,D,0.0,0.0,Bournemouth,0.0,20.0,3.0,15.0,0.0,0.0,,,West Ham United,for
+2026-02-21,14:30,76986,Premier League 25/26,25/26,Matchweek 27,Sat,Away,D,0.0,0.0,West Ham United,0.0,10.0,5.0,50.0,0.0,0.0,,,Bournemouth,for
+2026-02-21,17:00,76986,Premier League 25/26,25/26,Matchweek 27,Sat,Home,W,2.0,1.0,Newcastle United,2.0,15.0,7.0,46.7,0.133,0.286,,,Manchester City,for
+2026-02-21,17:00,76986,Premier League 25/26,25/26,Matchweek 27,Sat,Away,L,1.0,2.0,Manchester City,1.0,13.0,7.0,53.8,0.077,0.143,,,Newcastle United,for
+2026-02-22,11:00,76986,Premier League 25/26,25/26,Matchweek 27,Sun,Home,L,0.0,1.0,Liverpool FC,0.0,18.0,2.0,11.1,0.0,0.0,,,Nottingham Forest,for
+2026-02-22,11:00,76986,Premier League 25/26,25/26,Matchweek 27,Sun,Away,W,1.0,0.0,Nottingham Forest,1.0,10.0,4.0,40.0,0.1,0.25,,,Liverpool FC,for
+2026-02-22,11:00,76986,Premier League 25/26,25/26,Matchweek 27,Sun,Home,W,1.0,0.0,Wolves,1.0,14.0,3.0,21.4,0.071,0.333,,,Crystal Palace,for
+2026-02-22,11:00,76986,Premier League 25/26,25/26,Matchweek 27,Sun,Away,L,0.0,1.0,Crystal Palace,0.0,12.0,7.0,58.3,0.0,0.0,,,Wolves,for
+2026-02-22,11:00,76986,Premier League 25/26,25/26,Matchweek 27,Sun,Home,L,1.0,3.0,Fulham,1.0,12.0,2.0,16.7,0.083,0.5,,,Sunderland,for
+2026-02-22,11:00,76986,Premier League 25/26,25/26,Matchweek 27,Sun,Away,W,3.0,1.0,Sunderland,3.0,12.0,4.0,33.3,0.25,0.75,,,Fulham,for
+2026-02-22,13:30,76986,Premier League 25/26,25/26,Matchweek 27,Sun,Home,L,1.0,4.0,Arsenal,1.0,6.0,5.0,83.3,0.167,0.2,,,Tottenham Hotspur,for
+2026-02-22,13:30,76986,Premier League 25/26,25/26,Matchweek 27,Sun,Away,W,4.0,1.0,Tottenham Hotspur,4.0,20.0,7.0,35.0,0.2,0.571,,,Arsenal,for
+2026-02-23,17:00,76986,Premier League 25/26,25/26,Matchweek 27,Mon,Home,L,0.0,1.0,Manchester Utd,0.0,12.0,4.0,33.3,0.0,0.0,,,Everton,for
+2026-02-23,17:00,76986,Premier League 25/26,25/26,Matchweek 27,Mon,Away,W,1.0,0.0,Everton,1.0,11.0,3.0,27.3,0.091,0.333,,,Manchester Utd,for
+2026-02-27,17:00,76986,Premier League 25/26,25/26,Matchweek 28,Fri,Home,W,2.0,0.0,Aston Villa,2.0,9.0,2.0,22.2,0.222,1.0,,,Wolves,for
+2026-02-27,17:00,76986,Premier League 25/26,25/26,Matchweek 28,Fri,Away,L,0.0,2.0,Wolves,0.0,14.0,5.0,35.7,0.0,0.0,,,Aston Villa,for
+2026-02-28,09:30,76986,Premier League 25/26,25/26,Matchweek 28,Sat,Home,D,1.0,1.0,Sunderland,1.0,21.0,5.0,23.8,0.048,0.2,,,Bournemouth,for
+2026-02-28,09:30,76986,Premier League 25/26,25/26,Matchweek 28,Sat,Away,D,1.0,1.0,Bournemouth,1.0,8.0,4.0,50.0,0.125,0.25,,,Sunderland,for
+2026-02-28,12:00,76986,Premier League 25/26,25/26,Matchweek 28,Sat,Home,W,5.0,2.0,West Ham United,5.0,18.0,7.0,38.9,0.278,0.714,,,Liverpool FC,for
+2026-02-28,12:00,76986,Premier League 25/26,25/26,Matchweek 28,Sat,Away,L,2.0,5.0,Liverpool FC,2.0,11.0,4.0,36.4,0.182,0.5,,,West Ham United,for
+2026-02-28,12:00,76986,Premier League 25/26,25/26,Matchweek 28,Sat,Home,L,2.0,3.0,Everton,2.0,17.0,7.0,41.2,0.118,0.286,,,Newcastle United,for
+2026-02-28,12:00,76986,Premier League 25/26,25/26,Matchweek 28,Sat,Away,W,3.0,2.0,Newcastle United,3.0,9.0,5.0,55.6,0.333,0.6,,,Everton,for
+2026-02-28,12:00,76986,Premier League 25/26,25/26,Matchweek 28,Sat,Home,L,3.0,4.0,Brentford,3.0,12.0,3.0,25.0,0.25,1.0,,,Burnley,for
+2026-02-28,12:00,76986,Premier League 25/26,25/26,Matchweek 28,Sat,Away,W,4.0,3.0,Burnley,4.0,16.0,7.0,43.8,0.25,0.571,,,Brentford,for
+2026-02-28,14:30,76986,Premier League 25/26,25/26,Matchweek 28,Sat,Home,L,0.0,1.0,Manchester City,0.0,14.0,2.0,14.3,0.0,0.0,,,Leeds United,for
+2026-02-28,14:30,76986,Premier League 25/26,25/26,Matchweek 28,Sat,Away,W,1.0,0.0,Leeds United,1.0,14.0,5.0,35.7,0.071,0.2,,,Manchester City,for
+2026-03-01,11:00,76986,Premier League 25/26,25/26,Matchweek 28,Sun,Home,W,2.0,1.0,Crystal Palace,2.0,20.0,11.0,55.0,0.1,0.182,,,Manchester Utd,for
+2026-03-01,11:00,76986,Premier League 25/26,25/26,Matchweek 28,Sun,Away,L,1.0,2.0,Manchester Utd,1.0,8.0,3.0,37.5,0.125,0.333,,,Crystal Palace,for
+2026-03-01,11:00,76986,Premier League 25/26,25/26,Matchweek 28,Sun,Home,W,2.0,1.0,Tottenham Hotspur,2.0,18.0,4.0,22.2,0.111,0.5,,,Fulham,for
+2026-03-01,11:00,76986,Premier League 25/26,25/26,Matchweek 28,Sun,Away,L,1.0,2.0,Fulham,1.0,13.0,1.0,7.7,0.077,1.0,,,Tottenham Hotspur,for
+2026-03-01,11:00,76986,Premier League 25/26,25/26,Matchweek 28,Sun,Home,W,2.0,1.0,Nottingham Forest,2.0,14.0,7.0,50.0,0.143,0.286,,,Brighton,for
+2026-03-01,11:00,76986,Premier League 25/26,25/26,Matchweek 28,Sun,Away,L,1.0,2.0,Brighton,1.0,13.0,4.0,30.8,0.077,0.25,,,Nottingham Forest,for
+2026-03-01,13:30,76986,Premier League 25/26,25/26,Matchweek 28,Sun,Home,W,2.0,1.0,Chelsea,2.0,12.0,5.0,41.7,0.167,0.4,,,Arsenal,for
+2026-03-01,13:30,76986,Premier League 25/26,25/26,Matchweek 28,Sun,Away,L,1.0,2.0,Arsenal,1.0,9.0,3.0,33.3,0.111,0.333,,,Chelsea,for
+2026-03-03,16:30,76986,Premier League 25/26,25/26,Matchweek 29,Tue,Home,D,0.0,0.0,Brentford,0.0,13.0,2.0,15.4,0.0,0.0,,,Bournemouth,for
+2026-03-03,16:30,76986,Premier League 25/26,25/26,Matchweek 29,Tue,Away,D,0.0,0.0,Bournemouth,0.0,5.0,2.0,40.0,0.0,0.0,,,Brentford,for
+2026-03-03,16:30,76986,Premier League 25/26,25/26,Matchweek 29,Tue,Home,W,2.0,0.0,Burnley,2.0,14.0,5.0,35.7,0.143,0.4,,,Everton,for
+2026-03-03,16:30,76986,Premier League 25/26,25/26,Matchweek 29,Tue,Away,L,0.0,2.0,Everton,0.0,5.0,2.0,40.0,0.0,0.0,,,Burnley,for
+2026-03-03,16:30,76986,Premier League 25/26,25/26,Matchweek 29,Tue,Home,L,0.0,1.0,Sunderland,0.0,18.0,4.0,22.2,0.0,0.0,,,Leeds United,for
+2026-03-03,16:30,76986,Premier League 25/26,25/26,Matchweek 29,Tue,Away,W,1.0,0.0,Leeds United,1.0,3.0,1.0,33.3,0.333,1.0,,,Sunderland,for
+2026-03-03,17:15,76986,Premier League 25/26,25/26,Matchweek 29,Tue,Home,W,2.0,1.0,Liverpool FC,2.0,4.0,3.0,75.0,0.5,0.667,,,Wolves,for
+2026-03-03,17:15,76986,Premier League 25/26,25/26,Matchweek 29,Tue,Away,L,1.0,2.0,Wolves,1.0,20.0,7.0,35.0,0.05,0.143,,,Liverpool FC,for
+2026-03-04,16:30,76986,Premier League 25/26,25/26,Matchweek 29,Wed,Home,D,2.0,2.0,Nottingham Forest,2.0,21.0,7.0,33.3,0.095,0.286,,,Manchester City,for
+2026-03-04,16:30,76986,Premier League 25/26,25/26,Matchweek 29,Wed,Away,D,2.0,2.0,Manchester City,2.0,9.0,4.0,44.4,0.222,0.5,,,Nottingham Forest,for
+2026-03-04,16:30,76986,Premier League 25/26,25/26,Matchweek 29,Wed,Home,L,0.0,1.0,Arsenal,0.0,11.0,3.0,27.3,0.0,0.0,,,Brighton,for
+2026-03-04,16:30,76986,Premier League 25/26,25/26,Matchweek 29,Wed,Away,W,1.0,0.0,Brighton,1.0,7.0,2.0,28.6,0.143,0.5,,,Arsenal,for
+2026-03-04,16:30,76986,Premier League 25/26,25/26,Matchweek 29,Wed,Home,L,1.0,4.0,Chelsea,1.0,9.0,4.0,44.4,0.111,0.25,,,Aston Villa,for
+2026-03-04,16:30,76986,Premier League 25/26,25/26,Matchweek 29,Wed,Away,W,4.0,1.0,Aston Villa,4.0,15.0,8.0,53.3,0.267,0.5,,,Chelsea,for
+2026-03-04,16:30,76986,Premier League 25/26,25/26,Matchweek 29,Wed,Home,L,0.0,1.0,West Ham United,0.0,13.0,5.0,38.5,0.0,0.0,,,Fulham,for
+2026-03-04,16:30,76986,Premier League 25/26,25/26,Matchweek 29,Wed,Away,W,1.0,0.0,Fulham,1.0,9.0,3.0,33.3,0.111,0.333,,,West Ham United,for
+2026-03-04,17:15,76986,Premier League 25/26,25/26,Matchweek 29,Wed,Home,W,2.0,1.0,Manchester Utd,2.0,12.0,5.0,41.7,0.167,0.4,,,Newcastle United,for
+2026-03-04,17:15,76986,Premier League 25/26,25/26,Matchweek 29,Wed,Away,L,1.0,2.0,Newcastle United,1.0,14.0,5.0,35.7,0.071,0.2,,,Manchester Utd,for
+2026-03-05,17:00,76986,Premier League 25/26,25/26,Matchweek 29,Thu,Home,L,1.0,3.0,Crystal Palace,1.0,12.0,4.0,33.3,0.083,0.25,,,Tottenham Hotspur,for
+2026-03-05,17:00,76986,Premier League 25/26,25/26,Matchweek 29,Thu,Away,W,3.0,1.0,Tottenham Hotspur,3.0,9.0,4.0,44.4,0.333,0.75,,,Crystal Palace,for
+2026-03-14,12:00,76986,Premier League 25/26,25/26,Matchweek 30,Sat,Home,L,0.0,1.0,Brighton,0.0,14.0,4.0,28.6,0.0,0.0,,,Sunderland,for
+2026-03-14,12:00,76986,Premier League 25/26,25/26,Matchweek 30,Sat,Away,W,1.0,0.0,Sunderland,1.0,12.0,4.0,33.3,0.083,0.25,,,Brighton,for
+2026-03-14,12:00,76986,Premier League 25/26,25/26,Matchweek 30,Sat,Home,D,0.0,0.0,Bournemouth,0.0,15.0,2.0,13.3,0.0,0.0,,,Burnley,for
+2026-03-14,12:00,76986,Premier League 25/26,25/26,Matchweek 30,Sat,Away,D,0.0,0.0,Burnley,0.0,22.0,3.0,13.6,0.0,0.0,,,Bournemouth,for
+2026-03-14,14:30,76986,Premier League 25/26,25/26,Matchweek 30,Sat,Home,W,2.0,0.0,Everton,2.0,25.0,7.0,28.0,0.08,0.286,,,Arsenal,for
+2026-03-14,14:30,76986,Premier League 25/26,25/26,Matchweek 30,Sat,Away,L,0.0,2.0,Arsenal,0.0,9.0,3.0,33.3,0.0,0.0,,,Everton,for
+2026-03-14,14:30,76986,Premier League 25/26,25/26,Matchweek 30,Sat,Home,L,0.0,1.0,Newcastle United,0.0,22.0,3.0,13.6,0.0,0.0,,,Chelsea,for
+2026-03-14,14:30,76986,Premier League 25/26,25/26,Matchweek 30,Sat,Away,W,1.0,0.0,Chelsea,1.0,7.0,5.0,71.4,0.143,0.2,,,Newcastle United,for
+2026-03-14,17:00,76986,Premier League 25/26,25/26,Matchweek 30,Sat,Home,D,1.0,1.0,Manchester City,1.0,1.0,1.0,100.0,1.0,1.0,,,West Ham United,for
+2026-03-14,17:00,76986,Premier League 25/26,25/26,Matchweek 30,Sat,Away,D,1.0,1.0,West Ham United,1.0,24.0,6.0,25.0,0.042,0.167,,,Manchester City,for
+2026-03-15,11:00,76986,Premier League 25/26,25/26,Matchweek 30,Sun,Home,W,3.0,1.0,Aston Villa,3.0,16.0,6.0,37.5,0.188,0.5,,,Manchester Utd,for
+2026-03-15,11:00,76986,Premier League 25/26,25/26,Matchweek 30,Sun,Away,L,1.0,3.0,Manchester Utd,1.0,9.0,2.0,22.2,0.111,0.5,,,Aston Villa,for
+2026-03-15,11:00,76986,Premier League 25/26,25/26,Matchweek 30,Sun,Home,D,0.0,0.0,Fulham,0.0,11.0,2.0,18.2,0.0,0.0,,,Nottingham Forest,for
+2026-03-15,11:00,76986,Premier League 25/26,25/26,Matchweek 30,Sun,Away,D,0.0,0.0,Nottingham Forest,0.0,6.0,1.0,16.7,0.0,0.0,,,Fulham,for
+2026-03-15,11:00,76986,Premier League 25/26,25/26,Matchweek 30,Sun,Home,D,0.0,0.0,Leeds United,0.0,12.0,0.0,0.0,0.0,,,,Crystal Palace,for
+2026-03-15,11:00,76986,Premier League 25/26,25/26,Matchweek 30,Sun,Away,D,0.0,0.0,Crystal Palace,0.0,10.0,3.0,30.0,0.0,0.0,,,Leeds United,for
+2026-03-15,13:30,76986,Premier League 25/26,25/26,Matchweek 30,Sun,Home,D,1.0,1.0,Tottenham Hotspur,1.0,17.0,4.0,23.5,0.059,0.25,,,Liverpool FC,for
+2026-03-15,13:30,76986,Premier League 25/26,25/26,Matchweek 30,Sun,Away,D,1.0,1.0,Liverpool FC,1.0,13.0,7.0,53.8,0.077,0.143,,,Tottenham Hotspur,for
+2026-03-16,17:00,76986,Premier League 25/26,25/26,Matchweek 30,Mon,Home,D,2.0,2.0,Wolves,2.0,10.0,3.0,30.0,0.2,0.667,,,Brentford,for
+2026-03-16,17:00,76986,Premier League 25/26,25/26,Matchweek 30,Mon,Away,D,2.0,2.0,Brentford,2.0,13.0,4.0,30.8,0.154,0.5,,,Wolves,for
+2026-03-20,17:00,76986,Premier League 25/26,25/26,Matchweek 31,Fri,Home,D,2.0,2.0,Manchester Utd,2.0,16.0,5.0,31.2,0.125,0.4,,,Bournemouth,for
+2026-03-20,17:00,76986,Premier League 25/26,25/26,Matchweek 31,Fri,Away,D,2.0,2.0,Bournemouth,2.0,14.0,5.0,35.7,0.143,0.4,,,Manchester Utd,for
+2026-03-21,09:45,76986,Premier League 25/26,25/26,Matchweek 31,Sat,Home,W,2.0,1.0,Liverpool FC,2.0,16.0,7.0,43.8,0.125,0.286,,,Brighton,for
+2026-03-21,09:45,76986,Premier League 25/26,25/26,Matchweek 31,Sat,Away,L,1.0,2.0,Brighton,1.0,12.0,5.0,41.7,0.083,0.2,,,Liverpool FC,for
+2026-03-21,12:00,76986,Premier League 25/26,25/26,Matchweek 31,Sat,Home,,,,Crystal Palace,,,,,,,,,Manchester City,for
+2026-03-21,12:00,76986,Premier League 25/26,25/26,Matchweek 31,Sat,Away,,,,Manchester City,,,,,,,,,Crystal Palace,for
+2026-03-21,12:00,76986,Premier League 25/26,25/26,Matchweek 31,Sat,Home,W,3.0,1.0,Burnley,3.0,22.0,6.0,27.3,0.136,0.5,,,Fulham,for
+2026-03-21,12:00,76986,Premier League 25/26,25/26,Matchweek 31,Sat,Away,L,1.0,3.0,Fulham,1.0,9.0,5.0,55.6,0.111,0.2,,,Burnley,for
+2026-03-21,14:30,76986,Premier League 25/26,25/26,Matchweek 31,Sat,Home,W,3.0,0.0,Chelsea,3.0,10.0,9.0,90.0,0.3,0.333,,,Everton,for
+2026-03-21,14:30,76986,Premier League 25/26,25/26,Matchweek 31,Sat,Away,L,0.0,3.0,Everton,0.0,12.0,4.0,33.3,0.0,0.0,,,Chelsea,for
+2026-03-21,17:00,76986,Premier League 25/26,25/26,Matchweek 31,Sat,Home,D,0.0,0.0,Brentford,0.0,14.0,4.0,28.6,0.0,0.0,,,Leeds United,for
+2026-03-21,17:00,76986,Premier League 25/26,25/26,Matchweek 31,Sat,Away,D,0.0,0.0,Leeds United,0.0,6.0,2.0,33.3,0.0,0.0,,,Brentford,for
+2026-03-22,09:00,76986,Premier League 25/26,25/26,Matchweek 31,Sun,Home,L,1.0,2.0,Sunderland,1.0,16.0,4.0,25.0,0.062,0.25,,,Newcastle United,for
+2026-03-22,09:00,76986,Premier League 25/26,25/26,Matchweek 31,Sun,Away,W,2.0,1.0,Newcastle United,2.0,17.0,7.0,41.2,0.118,0.286,,,Sunderland,for
+2026-03-22,11:15,76986,Premier League 25/26,25/26,Matchweek 31,Sun,Home,L,0.0,3.0,Nottingham Forest,0.0,14.0,3.0,21.4,0.0,0.0,,,Tottenham Hotspur,for
+2026-03-22,11:15,76986,Premier League 25/26,25/26,Matchweek 31,Sun,Away,W,3.0,0.0,Tottenham Hotspur,3.0,8.0,7.0,87.5,0.375,0.429,,,Nottingham Forest,for
+2026-03-22,11:15,76986,Premier League 25/26,25/26,Matchweek 31,Sun,Home,W,2.0,0.0,West Ham United,2.0,23.0,7.0,30.4,0.087,0.286,,,Aston Villa,for
+2026-03-22,11:15,76986,Premier League 25/26,25/26,Matchweek 31,Sun,Away,L,0.0,2.0,Aston Villa,0.0,9.0,1.0,11.1,0.0,0.0,,,West Ham United,for
+2026-04-10,16:00,76986,Premier League 25/26,25/26,Matchweek 32,Fri,Home,W,4.0,0.0,Wolves,4.0,18.0,7.0,38.9,0.222,0.571,,,West Ham United,for
+2026-04-10,16:00,76986,Premier League 25/26,25/26,Matchweek 32,Fri,Away,L,0.0,4.0,West Ham United,0.0,14.0,3.0,21.4,0.0,0.0,,,Wolves,for
+2026-04-11,08:30,76986,Premier League 25/26,25/26,Matchweek 32,Sat,Home,L,1.0,2.0,Bournemouth,1.0,15.0,3.0,20.0,0.067,0.333,,,Arsenal,for
+2026-04-11,08:30,76986,Premier League 25/26,25/26,Matchweek 32,Sat,Away,W,2.0,1.0,Arsenal,2.0,8.0,3.0,37.5,0.25,0.667,,,Bournemouth,for
+2026-04-11,11:00,76986,Premier League 25/26,25/26,Matchweek 32,Sat,Home,D,2.0,2.0,Everton,2.0,17.0,4.0,23.5,0.118,0.5,,,Brentford,for
+2026-04-11,11:00,76986,Premier League 25/26,25/26,Matchweek 32,Sat,Away,D,2.0,2.0,Brentford,2.0,14.0,7.0,50.0,0.143,0.286,,,Everton,for
+2026-04-11,11:00,76986,Premier League 25/26,25/26,Matchweek 32,Sat,Home,L,0.0,2.0,Brighton,0.0,10.0,5.0,50.0,0.0,0.0,,,Burnley,for
+2026-04-11,11:00,76986,Premier League 25/26,25/26,Matchweek 32,Sat,Away,W,2.0,0.0,Burnley,2.0,13.0,6.0,46.2,0.154,0.333,,,Brighton,for
+2026-04-11,13:30,76986,Premier League 25/26,25/26,Matchweek 32,Sat,Home,W,2.0,0.0,Fulham,2.0,18.0,5.0,27.8,0.111,0.4,,,Liverpool FC,for
+2026-04-11,13:30,76986,Premier League 25/26,25/26,Matchweek 32,Sat,Away,L,0.0,2.0,Liverpool FC,0.0,19.0,4.0,21.1,0.0,0.0,,,Fulham,for
+2026-04-12,10:00,76986,Premier League 25/26,25/26,Matchweek 32,Sun,Home,W,1.0,0.0,Tottenham Hotspur,1.0,13.0,2.0,15.4,0.077,0.5,,,Sunderland,for
+2026-04-12,10:00,76986,Premier League 25/26,25/26,Matchweek 32,Sun,Away,L,0.0,1.0,Sunderland,0.0,11.0,7.0,63.6,0.0,0.0,,,Tottenham Hotspur,for
+2026-04-12,10:00,76986,Premier League 25/26,25/26,Matchweek 32,Sun,Home,D,1.0,1.0,Aston Villa,1.0,15.0,4.0,26.7,0.067,0.25,,,Nottingham Forest,for
+2026-04-12,10:00,76986,Premier League 25/26,25/26,Matchweek 32,Sun,Away,D,1.0,1.0,Nottingham Forest,1.0,12.0,5.0,41.7,0.083,0.2,,,Aston Villa,for
+2026-04-12,10:00,76986,Premier League 25/26,25/26,Matchweek 32,Sun,Home,W,2.0,1.0,Newcastle United,2.0,11.0,5.0,45.5,0.182,0.4,,,Crystal Palace,for
+2026-04-12,10:00,76986,Premier League 25/26,25/26,Matchweek 32,Sun,Away,L,1.0,2.0,Crystal Palace,1.0,7.0,3.0,42.9,0.143,0.333,,,Newcastle United,for
+2026-04-12,12:30,76986,Premier League 25/26,25/26,Matchweek 32,Sun,Home,L,0.0,3.0,Manchester City,0.0,12.0,3.0,25.0,0.0,0.0,,,Chelsea,for
+2026-04-12,12:30,76986,Premier League 25/26,25/26,Matchweek 32,Sun,Away,W,3.0,0.0,Chelsea,3.0,18.0,8.0,44.4,0.167,0.375,,,Manchester City,for
+2026-04-13,16:00,76986,Premier League 25/26,25/26,Matchweek 32,Mon,Home,L,1.0,2.0,Leeds United,1.0,20.0,9.0,45.0,0.05,0.111,,,Manchester Utd,for
+2026-04-13,16:00,76986,Premier League 25/26,25/26,Matchweek 32,Mon,Away,W,2.0,1.0,Manchester Utd,2.0,15.0,6.0,40.0,0.133,0.333,,,Leeds United,for
+2026-04-18,08:30,76986,Premier League 25/26,25/26,Matchweek 33,Sat,Home,D,0.0,0.0,Fulham,0.0,13.0,4.0,30.8,0.0,0.0,,,Brentford,for
+2026-04-18,08:30,76986,Premier League 25/26,25/26,Matchweek 33,Sat,Away,D,0.0,0.0,Brentford,0.0,11.0,0.0,0.0,0.0,,,,Fulham,for
+2026-04-18,11:00,76986,Premier League 25/26,25/26,Matchweek 33,Sat,Home,L,1.0,2.0,Bournemouth,1.0,12.0,3.0,25.0,0.083,0.333,,,Newcastle United,for
+2026-04-18,11:00,76986,Premier League 25/26,25/26,Matchweek 33,Sat,Away,W,2.0,1.0,Newcastle United,2.0,12.0,3.0,25.0,0.167,0.667,,,Bournemouth,for
+2026-04-18,11:00,76986,Premier League 25/26,25/26,Matchweek 33,Sat,Home,W,3.0,0.0,Wolves,3.0,17.0,6.0,35.3,0.176,0.5,,,Leeds United,for
+2026-04-18,11:00,76986,Premier League 25/26,25/26,Matchweek 33,Sat,Away,L,0.0,3.0,Leeds United,0.0,7.0,2.0,28.6,0.0,0.0,,,Wolves,for
+2026-04-18,13:30,76986,Premier League 25/26,25/26,Matchweek 33,Sat,Home,D,2.0,2.0,Brighton,2.0,13.0,6.0,46.2,0.154,0.333,,,Tottenham Hotspur,for
+2026-04-18,13:30,76986,Premier League 25/26,25/26,Matchweek 33,Sat,Away,D,2.0,2.0,Tottenham Hotspur,2.0,10.0,3.0,30.0,0.2,0.667,,,Brighton,for
+2026-04-18,16:00,76986,Premier League 25/26,25/26,Matchweek 33,Sat,Home,L,0.0,1.0,Manchester Utd,0.0,21.0,3.0,14.3,0.0,0.0,,,Chelsea,for
+2026-04-18,16:00,76986,Premier League 25/26,25/26,Matchweek 33,Sat,Away,W,1.0,0.0,Chelsea,1.0,4.0,1.0,25.0,0.25,1.0,,,Manchester Utd,for
+2026-04-19,10:00,76986,Premier League 25/26,25/26,Matchweek 33,Sun,Home,L,1.0,2.0,Liverpool FC,1.0,10.0,4.0,40.0,0.1,0.25,,,Everton,for
+2026-04-19,10:00,76986,Premier League 25/26,25/26,Matchweek 33,Sun,Away,W,2.0,1.0,Everton,2.0,14.0,6.0,42.9,0.143,0.333,,,Liverpool FC,for
+2026-04-19,10:00,76986,Premier League 25/26,25/26,Matchweek 33,Sun,Home,W,4.0,3.0,Sunderland,4.0,15.0,7.0,46.7,0.267,0.571,,,Aston Villa,for
+2026-04-19,10:00,76986,Premier League 25/26,25/26,Matchweek 33,Sun,Away,L,3.0,4.0,Aston Villa,3.0,10.0,7.0,70.0,0.3,0.429,,,Sunderland,for
+2026-04-19,10:00,76986,Premier League 25/26,25/26,Matchweek 33,Sun,Home,W,4.0,1.0,Burnley,4.0,10.0,4.0,40.0,0.4,1.0,,,Nottingham Forest,for
+2026-04-19,10:00,76986,Premier League 25/26,25/26,Matchweek 33,Sun,Away,L,1.0,4.0,Nottingham Forest,1.0,4.0,3.0,75.0,0.25,0.333,,,Burnley,for
+2026-04-19,12:30,76986,Premier League 25/26,25/26,Matchweek 33,Sun,Home,W,2.0,1.0,Arsenal,2.0,15.0,5.0,33.3,0.133,0.4,,,Manchester City,for
+2026-04-19,12:30,76986,Premier League 25/26,25/26,Matchweek 33,Sun,Away,L,1.0,2.0,Manchester City,1.0,9.0,3.0,33.3,0.111,0.333,,,Arsenal,for
+2026-04-20,16:00,76986,Premier League 25/26,25/26,Matchweek 33,Mon,Home,D,0.0,0.0,West Ham United,0.0,9.0,1.0,11.1,0.0,0.0,,,Crystal Palace,for
+2026-04-20,16:00,76986,Premier League 25/26,25/26,Matchweek 33,Mon,Away,D,0.0,0.0,Crystal Palace,0.0,9.0,4.0,44.4,0.0,0.0,,,West Ham United,for
+2026-04-21,16:00,76986,Premier League 25/26,25/26,Matchweek 34,Tue,Home,W,3.0,0.0,Chelsea,3.0,15.0,9.0,60.0,0.2,0.333,,,Brighton,for
+2026-04-21,16:00,76986,Premier League 25/26,25/26,Matchweek 34,Tue,Away,L,0.0,3.0,Brighton,0.0,6.0,0.0,0.0,0.0,,,,Chelsea,for
+2026-04-22,16:00,76986,Premier League 25/26,25/26,Matchweek 34,Wed,Home,L,0.0,1.0,Manchester City,0.0,9.0,1.0,11.1,0.0,0.0,,,Burnley,for
+2026-04-22,16:00,76986,Premier League 25/26,25/26,Matchweek 34,Wed,Away,W,1.0,0.0,Burnley,1.0,28.0,9.0,32.1,0.036,0.111,,,Manchester City,for
+2026-04-22,16:00,76986,Premier League 25/26,25/26,Matchweek 34,Wed,Home,D,2.0,2.0,Leeds United,2.0,17.0,7.0,41.2,0.118,0.286,,,Bournemouth,for
+2026-04-22,16:00,76986,Premier League 25/26,25/26,Matchweek 34,Wed,Away,D,2.0,2.0,Bournemouth,2.0,10.0,3.0,30.0,0.2,0.667,,,Leeds United,for
+2026-04-24,16:00,76986,Premier League 25/26,25/26,Matchweek 34,Fri,Home,L,0.0,5.0,Nottingham Forest,0.0,14.0,4.0,28.6,0.0,0.0,,,Sunderland,for
+2026-04-24,16:00,76986,Premier League 25/26,25/26,Matchweek 34,Fri,Away,W,5.0,0.0,Sunderland,5.0,10.0,6.0,60.0,0.5,0.833,,,Nottingham Forest,for
+2026-04-25,08:30,76986,Premier League 25/26,25/26,Matchweek 34,Sat,Home,W,1.0,0.0,Aston Villa,1.0,13.0,6.0,46.2,0.077,0.167,,,Fulham,for
+2026-04-25,08:30,76986,Premier League 25/26,25/26,Matchweek 34,Sat,Away,L,0.0,1.0,Fulham,0.0,10.0,1.0,10.0,0.0,0.0,,,Aston Villa,for
+2026-04-25,11:00,76986,Premier League 25/26,25/26,Matchweek 34,Sat,Home,W,3.0,1.0,Crystal Palace,3.0,9.0,3.0,33.3,0.333,1.0,,,Liverpool FC,for
+2026-04-25,11:00,76986,Premier League 25/26,25/26,Matchweek 34,Sat,Away,L,1.0,3.0,Liverpool FC,1.0,14.0,7.0,50.0,0.071,0.143,,,Crystal Palace,for
+2026-04-25,11:00,76986,Premier League 25/26,25/26,Matchweek 34,Sat,Home,L,0.0,1.0,Tottenham Hotspur,0.0,11.0,2.0,18.2,0.0,0.0,,,Wolves,for
+2026-04-25,11:00,76986,Premier League 25/26,25/26,Matchweek 34,Sat,Away,W,1.0,0.0,Wolves,1.0,11.0,2.0,18.2,0.091,0.5,,,Tottenham Hotspur,for
+2026-04-25,11:00,76986,Premier League 25/26,25/26,Matchweek 34,Sat,Home,W,2.0,1.0,Everton,2.0,10.0,3.0,30.0,0.2,0.667,,,West Ham United,for
+2026-04-25,11:00,76986,Premier League 25/26,25/26,Matchweek 34,Sat,Away,L,1.0,2.0,West Ham United,1.0,11.0,3.0,27.3,0.091,0.333,,,Everton,for
+2026-04-25,13:30,76986,Premier League 25/26,25/26,Matchweek 34,Sat,Home,W,1.0,0.0,Newcastle United,1.0,11.0,4.0,36.4,0.091,0.25,,,Arsenal,for
+2026-04-25,13:30,76986,Premier League 25/26,25/26,Matchweek 34,Sat,Away,L,0.0,1.0,Arsenal,0.0,13.0,3.0,23.1,0.0,0.0,,,Newcastle United,for
+2026-04-27,16:00,76986,Premier League 25/26,25/26,Matchweek 34,Mon,Home,W,2.0,1.0,Brentford,2.0,11.0,6.0,54.5,0.182,0.333,,,Manchester Utd,for
+2026-04-27,16:00,76986,Premier League 25/26,25/26,Matchweek 34,Mon,Away,L,1.0,2.0,Manchester Utd,1.0,12.0,4.0,33.3,0.083,0.25,,,Brentford,for
+2026-05-01,16:00,76986,Premier League 25/26,25/26,Matchweek 35,Fri,Home,W,3.0,1.0,Burnley,3.0,18.0,8.0,44.4,0.167,0.375,,,Leeds United,for
+2026-05-01,16:00,76986,Premier League 25/26,25/26,Matchweek 35,Fri,Away,L,1.0,3.0,Leeds United,1.0,9.0,3.0,33.3,0.111,0.333,,,Burnley,for
+2026-05-02,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Home,W,3.0,1.0,Brighton,3.0,13.0,6.0,46.2,0.231,0.5,,,Newcastle United,for
+2026-05-02,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Away,L,1.0,3.0,Newcastle United,1.0,13.0,4.0,30.8,0.077,0.25,,,Brighton,for
+2026-05-02,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Home,W,3.0,0.0,West Ham United,3.0,14.0,6.0,42.9,0.214,0.5,,,Brentford,for
+2026-05-02,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Away,L,0.0,3.0,Brentford,0.0,13.0,4.0,30.8,0.0,0.0,,,West Ham United,for
+2026-05-02,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Home,D,1.0,1.0,Sunderland,1.0,20.0,7.0,35.0,0.05,0.143,,,Wolves,for
+2026-05-02,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Away,D,1.0,1.0,Wolves,1.0,10.0,2.0,20.0,0.1,0.5,,,Sunderland,for
+2026-05-02,13:30,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Home,W,3.0,0.0,Fulham,3.0,18.0,9.0,50.0,0.167,0.333,,,Arsenal,for
+2026-05-02,13:30,76986,Premier League 25/26,25/26,Matchweek 35,Sat,Away,L,0.0,3.0,Arsenal,0.0,10.0,1.0,10.0,0.0,0.0,,,Fulham,for
+2026-05-03,10:00,76986,Premier League 25/26,25/26,Matchweek 35,Sun,Home,W,3.0,0.0,Crystal Palace,3.0,16.0,5.0,31.2,0.188,0.6,,,Bournemouth,for
+2026-05-03,10:00,76986,Premier League 25/26,25/26,Matchweek 35,Sun,Away,L,0.0,3.0,Bournemouth,0.0,7.0,1.0,14.3,0.0,0.0,,,Crystal Palace,for
+2026-05-03,11:30,76986,Premier League 25/26,25/26,Matchweek 35,Sun,Home,W,3.0,2.0,Liverpool FC,3.0,18.0,6.0,33.3,0.167,0.5,,,Manchester Utd,for
+2026-05-03,11:30,76986,Premier League 25/26,25/26,Matchweek 35,Sun,Away,L,2.0,3.0,Manchester Utd,2.0,13.0,5.0,38.5,0.154,0.4,,,Liverpool FC,for
+2026-05-03,15:00,76986,Premier League 25/26,25/26,Matchweek 35,Sun,Home,L,1.0,2.0,Tottenham Hotspur,1.0,5.0,1.0,20.0,0.2,1.0,,,Aston Villa,for
+2026-05-03,15:00,76986,Premier League 25/26,25/26,Matchweek 35,Sun,Away,W,2.0,1.0,Aston Villa,2.0,10.0,5.0,50.0,0.2,0.4,,,Tottenham Hotspur,for
+2026-05-04,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Mon,Home,L,1.0,3.0,Nottingham Forest,1.0,21.0,5.0,23.8,0.048,0.2,,,Chelsea,for
+2026-05-04,11:00,76986,Premier League 25/26,25/26,Matchweek 35,Mon,Away,W,3.0,1.0,Chelsea,3.0,6.0,4.0,66.7,0.5,0.75,,,Nottingham Forest,for
+2026-05-04,16:00,76986,Premier League 25/26,25/26,Matchweek 35,Mon,Home,D,3.0,3.0,Manchester City,3.0,14.0,6.0,42.9,0.214,0.5,,,Everton,for
+2026-05-04,16:00,76986,Premier League 25/26,25/26,Matchweek 35,Mon,Away,D,3.0,3.0,Everton,3.0,21.0,4.0,19.0,0.143,0.75,,,Manchester City,for

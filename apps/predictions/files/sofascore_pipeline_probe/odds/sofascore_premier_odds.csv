@@ -1,0 +1,11 @@
+source_url,date,time,local_team,away_team,decimal_home_win,decimal_draw,decimal_away_win,decimal_home_or_draw,decimal_draw_or_away,decimal_home_or_away,decimal_btts_yes,decimal_btts_no,season_id,season_name
+https://www.sofascore.com/leeds-united-burnley/gsJ,2026-05-01,16:00,Leeds United,Burnley,1.38,4.75,8.5,1.0833,3.0,1.1818,2.0,1.75,76986,Premier League 25/26
+https://www.sofascore.com/newcastle-united-brighton-and-hove-albion/FsO,2026-05-02,11:00,Newcastle United,Brighton,2.7,3.7,2.4,1.5333,1.4444,1.2857,1.5714,2.25,76986,Premier League 25/26
+https://www.sofascore.com/brentford-west-ham-united/Msab,2026-05-02,11:00,Brentford,West Ham United,1.85,3.9,3.8,1.25,1.9091,1.25,1.5333,2.375,76986,Premier League 25/26
+https://www.sofascore.com/sunderland-wolverhampton/dsQ,2026-05-02,11:00,Wolves,Sunderland,3.8,3.5,1.95,1.8,1.25,1.2857,1.8,1.95,76986,Premier League 25/26
+https://www.sofascore.com/fulham-arsenal/RsT,2026-05-02,13:30,Arsenal,Fulham,1.45,4.5,7.0,1.1,2.625,1.1818,2.05,1.7,76986,Premier League 25/26
+https://www.sofascore.com/bournemouth-crystal-palace/hkb,2026-05-03,10:00,Bournemouth,Crystal Palace,1.62,4.1,5.25,1.1667,2.25,1.2222,1.7,2.05,76986,Premier League 25/26
+https://www.sofascore.com/liverpool-manchester-united/KU,2026-05-03,11:30,Manchester Utd,Liverpool FC,2.2,3.8,2.9,1.4,1.6667,1.25,1.4444,2.625,76986,Premier League 25/26
+https://www.sofascore.com/aston-villa-tottenham-hotspur/IP,2026-05-03,15:00,Aston Villa,Tottenham Hotspur,2.1,3.6,3.3,1.3333,1.7,1.2857,1.6154,2.2,76986,Premier League 25/26
+https://www.sofascore.com/chelsea-nottingham-forest/osN,2026-05-04,11:00,Chelsea,Nottingham Forest,1.67,4.0,5.0,1.1667,2.15,1.2222,1.6667,2.1,76986,Premier League 25/26
+https://www.sofascore.com/everton-manchester-city/rY,2026-05-04,16:00,Everton,Manchester City,5.75,4.75,1.48,2.625,1.1429,1.1818,1.75,2.0,76986,Premier League 25/26

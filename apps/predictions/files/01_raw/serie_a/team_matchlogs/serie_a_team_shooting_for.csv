@@ -1,0 +1,697 @@
+date,time,round,day,venue,result,gf,ga,opponent,gls,sh,sot,sotpct,g_per_sh,g_per_sot,pk,pkatt,unnamed__17_level_0_match_report,team,table_side
+2025-08-24,20:45 (15:45),Matchweek 1,Sun,Home,D,1.0,1.0,Pisa,1.0,21.0,6.0,28.6,0.05,0.17,0.0,0.0,,Atalanta,for
+2025-08-30,18:30 (13:30),Matchweek 2,Sat,Away,D,1.0,1.0,Parma,1.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,,Atalanta,for
+2025-09-14,15:00 (10:00),Matchweek 3,Sun,Home,W,4.0,1.0,Lecce,4.0,19.0,8.0,42.1,0.21,0.5,0.0,0.0,,Atalanta,for
+2025-09-21,15:00 (10:00),Matchweek 4,Sun,Away,W,3.0,0.0,Torino,3.0,9.0,5.0,55.6,0.33,0.6,0.0,0.0,,Atalanta,for
+2025-09-27,18:00 (13:00),Matchweek 5,Sat,Away,D,1.0,1.0,Juventus,1.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,,Atalanta,for
+2025-10-04,20:45 (15:45),Matchweek 6,Sat,Home,D,1.0,1.0,Como,1.0,16.0,4.0,25.0,0.06,0.25,0.0,0.0,,Atalanta,for
+2025-10-19,18:00 (13:00),Matchweek 7,Sun,Home,D,0.0,0.0,Lazio,0.0,16.0,6.0,37.5,0.0,0.0,0.0,0.0,,Atalanta,for
+2025-10-25,20:45 (15:45),Matchweek 8,Sat,Away,D,1.0,1.0,Cremonese,1.0,20.0,6.0,30.0,0.05,0.17,0.0,0.0,,Atalanta,for
+2025-10-28,20:45 (16:45),Matchweek 9,Tue,Home,D,1.0,1.0,Milan,1.0,17.0,3.0,17.6,0.06,0.33,0.0,0.0,,Atalanta,for
+2025-11-01,15:00 (11:00),Matchweek 10,Sat,Away,L,0.0,1.0,Udinese,0.0,5.0,0.0,0.0,0.0,,0.0,0.0,,Atalanta,for
+2025-11-09,12:30 (08:30),Matchweek 11,Sun,Home,L,0.0,3.0,Sassuolo,0.0,14.0,2.0,14.3,0.0,0.0,0.0,0.0,,Atalanta,for
+2025-11-22,20:45 (16:45),Matchweek 12,Sat,Away,L,1.0,3.0,Napoli,1.0,14.0,3.0,21.4,0.07,0.33,0.0,0.0,,Atalanta,for
+2025-11-30,18:00 (14:00),Matchweek 13,Sun,Home,W,2.0,0.0,Fiorentina,2.0,21.0,9.0,42.9,0.1,0.22,0.0,0.0,,Atalanta,for
+2025-12-06,20:45 (16:45),Matchweek 14,Sat,Away,L,1.0,3.0,Hellas Verona,1.0,12.0,5.0,41.7,0.0,0.0,1.0,1.0,,Atalanta,for
+2025-12-13,20:45 (16:45),Matchweek 15,Sat,Home,W,2.0,1.0,Cagliari,2.0,17.0,8.0,47.1,0.12,0.25,0.0,0.0,,Atalanta,for
+2025-12-21,20:45 (16:45),Matchweek 16,Sun,Away,W,1.0,0.0,Genoa,1.0,16.0,4.0,25.0,0.06,0.25,0.0,0.0,,Atalanta,for
+2025-12-28,20:45 (16:45),Matchweek 17,Sun,Home,L,0.0,1.0,Inter,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,,Atalanta,for
+2026-01-03,20:45 (16:45),Matchweek 18,Sat,Home,W,1.0,0.0,Roma,1.0,13.0,2.0,15.4,0.08,0.5,0.0,0.0,,Atalanta,for
+2026-01-07,18:30 (14:30),Matchweek 19,Wed,Away,W,2.0,0.0,Bologna,2.0,11.0,5.0,45.5,0.18,0.4,0.0,0.0,,Atalanta,for
+2026-01-10,20:45 (16:45),Matchweek 20,Sat,Home,W,2.0,0.0,Torino,2.0,18.0,5.0,27.8,0.11,0.4,0.0,0.0,,Atalanta,for
+2026-01-16,20:45 (16:45),Matchweek 21,Fri,Away,D,1.0,1.0,Pisa,1.0,9.0,4.0,44.4,0.11,0.25,0.0,0.0,,Atalanta,for
+2026-01-25,15:00 (11:00),Matchweek 22,Sun,Home,W,4.0,0.0,Parma,4.0,21.0,9.0,42.9,0.14,0.33,1.0,1.0,,Atalanta,for
+2026-02-01,15:00 (11:00),Matchweek 23,Sun,Away,D,0.0,0.0,Como,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,,Atalanta,for
+2026-02-09,18:30 (14:30),Matchweek 24,Mon,Home,W,2.0,1.0,Cremonese,2.0,29.0,9.0,31.0,0.07,0.22,0.0,0.0,,Atalanta,for
+2026-02-14,18:00 (14:00),Matchweek 25,Sat,Away,W,2.0,0.0,Lazio,2.0,12.0,5.0,41.7,0.08,0.2,1.0,1.0,,Atalanta,for
+2026-02-22,15:00 (11:00),Matchweek 26,Sun,Home,W,2.0,1.0,Napoli,2.0,10.0,7.0,70.0,0.2,0.29,0.0,0.0,,Atalanta,for
+2026-03-01,15:00 (11:00),Matchweek 27,Sun,Away,L,1.0,2.0,Sassuolo,1.0,26.0,7.0,26.9,0.04,0.14,0.0,0.0,,Atalanta,for
+2026-03-07,18:00 (14:00),Matchweek 28,Sat,Home,D,2.0,2.0,Udinese,2.0,22.0,4.0,18.2,0.09,0.5,0.0,0.0,,Atalanta,for
+2026-03-14,15:00 (11:00),Matchweek 29,Sat,Away,D,1.0,1.0,Inter,1.0,8.0,3.0,37.5,0.13,0.33,0.0,0.0,,Atalanta,for
+2026-03-22,15:00 (11:00),Matchweek 30,Sun,Home,W,1.0,0.0,Hellas Verona,1.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,,Atalanta,for
+2026-04-06,15:00 (10:00),Matchweek 31,Mon,Away,W,3.0,0.0,Lecce,3.0,16.0,6.0,37.5,0.19,0.5,0.0,0.0,,Atalanta,for
+2026-04-11,20:45 (15:45),Matchweek 32,Sat,Home,L,0.0,1.0,Juventus,0.0,22.0,3.0,13.6,0.0,0.0,0.0,0.0,,Atalanta,for
+2026-04-18,20:45 (15:45),Matchweek 33,Sat,Away,D,1.0,1.0,Roma,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Atalanta,for
+For Atalanta,For Atalanta,For Atalanta,For Atalanta,For Atalanta,For Atalanta,,,For Atalanta,,,,,,,,,,Atalanta,for
+2025-08-23,20:45 (15:45),Matchweek 1,Sat,Away,L,0.0,1.0,Roma,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,,Bologna,for
+2025-08-30,18:30 (13:30),Matchweek 2,Sat,Home,W,1.0,0.0,Como,1.0,15.0,2.0,13.3,0.07,0.5,0.0,0.0,,Bologna,for
+2025-09-14,20:45 (15:45),Matchweek 3,Sun,Away,L,0.0,1.0,Milan,0.0,5.0,0.0,0.0,0.0,,0.0,0.0,,Bologna,for
+2025-09-20,15:00 (10:00),Matchweek 4,Sat,Home,W,2.0,1.0,Genoa,2.0,14.0,6.0,42.9,0.07,0.17,1.0,1.0,,Bologna,for
+2025-09-28,18:00 (13:00),Matchweek 5,Sun,Away,D,2.0,2.0,Lecce,2.0,14.0,5.0,35.7,0.07,0.2,1.0,1.0,,Bologna,for
+2025-10-05,15:00 (10:00),Matchweek 6,Sun,Home,W,4.0,0.0,Pisa,4.0,24.0,7.0,29.2,0.17,0.57,0.0,0.0,,Bologna,for
+2025-10-19,15:00 (10:00),Matchweek 7,Sun,Away,W,2.0,0.0,Cagliari,2.0,10.0,7.0,70.0,0.2,0.29,0.0,0.0,,Bologna,for
+2025-10-26,18:00 (14:00),Matchweek 8,Sun,Away,D,2.0,2.0,Fiorentina,2.0,6.0,3.0,50.0,0.33,0.67,0.0,0.0,,Bologna,for
+2025-10-29,20:45 (16:45),Matchweek 9,Wed,Home,D,0.0,0.0,Torino,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,,Bologna,for
+2025-11-02,18:00 (14:00),Matchweek 10,Sun,Away,W,3.0,1.0,Parma,3.0,22.0,6.0,27.3,0.14,0.5,0.0,0.0,,Bologna,for
+2025-11-09,15:00 (11:00),Matchweek 11,Sun,Home,W,2.0,0.0,Napoli,2.0,11.0,4.0,36.4,0.18,0.5,0.0,0.0,,Bologna,for
+2025-11-22,15:00 (11:00),Matchweek 12,Sat,Away,W,3.0,0.0,Udinese,3.0,10.0,5.0,50.0,0.3,0.6,0.0,1.0,,Bologna,for
+2025-12-01,20:45 (16:45),Matchweek 13,Mon,Home,L,1.0,3.0,Cremonese,1.0,29.0,7.0,24.1,0.0,0.0,1.0,1.0,,Bologna,for
+2025-12-07,18:00 (14:00),Matchweek 14,Sun,Away,D,1.0,1.0,Lazio,1.0,13.0,6.0,46.2,0.08,0.17,0.0,0.0,,Bologna,for
+2025-12-14,20:45 (16:45),Matchweek 15,Sun,Home,L,0.0,1.0,Juventus,0.0,12.0,4.0,33.3,0.0,0.0,0.0,0.0,,Bologna,for
+2025-12-28,18:00 (14:00),Matchweek 17,Sun,Home,D,1.0,1.0,Sassuolo,1.0,16.0,6.0,37.5,0.06,0.17,0.0,0.0,,Bologna,for
+2026-01-04,20:45 (16:45),Matchweek 18,Sun,Away,L,1.0,3.0,Inter,1.0,6.0,2.0,33.3,0.17,0.5,0.0,0.0,,Bologna,for
+2026-01-07,18:30 (14:30),Matchweek 19,Wed,Home,L,0.0,2.0,Atalanta,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,,Bologna,for
+2026-01-10,15:00 (11:00),Matchweek 20,Sat,Away,D,1.0,1.0,Como,1.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,,Bologna,for
+2026-01-15,18:30 (14:30),Matchweek 16,Thu,Away,W,3.0,2.0,Hellas Verona,3.0,14.0,5.0,35.7,0.21,0.6,0.0,0.0,,Bologna,for
+2026-01-18,15:00 (11:00),Matchweek 21,Sun,Home,L,1.0,2.0,Fiorentina,1.0,18.0,3.0,16.7,0.06,0.33,0.0,0.0,,Bologna,for
+2026-01-25,15:00 (11:00),Matchweek 22,Sun,Away,L,2.0,3.0,Genoa,1.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,,Bologna,for
+2026-02-03,20:45 (16:45),Matchweek 23,Tue,Home,L,0.0,3.0,Milan,0.0,13.0,2.0,15.4,0.0,0.0,0.0,0.0,,Bologna,for
+2026-02-08,12:30 (08:30),Matchweek 24,Sun,Home,L,0.0,1.0,Parma,0.0,16.0,2.0,12.5,0.0,0.0,0.0,0.0,,Bologna,for
+2026-02-15,18:00 (14:00),Matchweek 25,Sun,Away,W,2.0,1.0,Torino,2.0,14.0,6.0,42.9,0.14,0.33,0.0,0.0,,Bologna,for
+2026-02-23,20:45 (16:45),Matchweek 26,Mon,Home,W,1.0,0.0,Udinese,1.0,11.0,6.0,54.5,0.0,0.0,1.0,1.0,,Bologna,for
+2026-03-02,18:30 (14:30),Matchweek 27,Mon,Away,W,1.0,0.0,Pisa,1.0,8.0,1.0,12.5,0.13,1.0,0.0,0.0,,Bologna,for
+2026-03-08,15:00 (11:00),Matchweek 28,Sun,Home,L,1.0,2.0,Hellas Verona,1.0,19.0,2.0,10.5,0.05,0.5,0.0,0.0,,Bologna,for
+2026-03-15,15:00 (11:00),Matchweek 29,Sun,Away,W,1.0,0.0,Sassuolo,1.0,16.0,3.0,18.8,0.06,0.33,0.0,0.0,,Bologna,for
+2026-03-22,15:00 (11:00),Matchweek 30,Sun,Home,L,0.0,2.0,Lazio,0.0,15.0,4.0,26.7,0.0,0.0,0.0,1.0,,Bologna,for
+2026-04-05,15:00 (10:00),Matchweek 31,Sun,Away,W,2.0,1.0,Cremonese,2.0,14.0,7.0,50.0,0.14,0.29,0.0,0.0,,Bologna,for
+2026-04-12,18:00 (13:00),Matchweek 32,Sun,Home,W,2.0,0.0,Lecce,2.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,,Bologna,for
+2026-04-19,20:45 (15:45),Matchweek 33,Sun,Away,L,0.0,2.0,Juventus,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,,Bologna,for
+2026-04-25,18:00 (13:00),Matchweek 34,Sat,Home,L,0.0,2.0,Roma,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,,Bologna,for
+For Bologna,For Bologna,For Bologna,For Bologna,For Bologna,For Bologna,,,For Bologna,,,,,,,,,,Bologna,for
+2025-08-24,18:30 (13:30),Matchweek 1,Sun,Home,D,1.0,1.0,Fiorentina,1.0,14.0,6.0,42.9,0.07,0.17,0.0,0.0,,Cagliari,for
+2025-08-30,20:45 (15:45),Matchweek 2,Sat,Away,L,0.0,1.0,Napoli,0.0,10.0,1.0,10.0,0.0,0.0,0.0,0.0,,Cagliari,for
+2025-09-13,15:00 (10:00),Matchweek 3,Sat,Home,W,2.0,0.0,Parma,2.0,12.0,5.0,41.7,0.17,0.4,0.0,0.0,,Cagliari,for
+2025-09-19,20:45 (15:45),Matchweek 4,Fri,Away,W,2.0,1.0,Lecce,2.0,15.0,6.0,40.0,0.07,0.17,1.0,1.0,,Cagliari,for
+2025-09-27,20:45 (15:45),Matchweek 5,Sat,Home,L,0.0,2.0,Inter,0.0,6.0,0.0,0.0,0.0,,0.0,0.0,,Cagliari,for
+2025-10-05,12:30 (07:30),Matchweek 6,Sun,Away,D,1.0,1.0,Udinese,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Cagliari,for
+2025-10-19,15:00 (10:00),Matchweek 7,Sun,Home,L,0.0,2.0,Bologna,0.0,4.0,3.0,75.0,0.0,0.0,0.0,0.0,,Cagliari,for
+2025-10-26,15:00 (11:00),Matchweek 8,Sun,Away,D,2.0,2.0,Hellas Verona,2.0,7.0,3.0,42.9,0.29,0.67,0.0,0.0,,Cagliari,for
+2025-10-30,18:30 (14:30),Matchweek 9,Thu,Home,L,1.0,2.0,Sassuolo,1.0,8.0,1.0,12.5,0.13,1.0,0.0,0.0,,Cagliari,for
+2025-11-03,20:45 (16:45),Matchweek 10,Mon,Away,L,0.0,2.0,Lazio,0.0,17.0,5.0,29.4,0.0,0.0,0.0,0.0,,Cagliari,for
+2025-11-08,15:00 (11:00),Matchweek 11,Sat,Away,D,0.0,0.0,Como,0.0,4.0,2.0,50.0,0.0,0.0,0.0,0.0,,Cagliari,for
+2025-11-22,15:00 (11:00),Matchweek 12,Sat,Home,D,3.0,3.0,Genoa,3.0,11.0,5.0,45.5,0.27,0.6,0.0,0.0,,Cagliari,for
+2025-11-29,18:00 (14:00),Matchweek 13,Sat,Away,L,1.0,2.0,Juventus,1.0,5.0,3.0,60.0,0.2,0.33,0.0,0.0,,Cagliari,for
+2025-12-07,15:00 (11:00),Matchweek 14,Sun,Home,W,1.0,0.0,Roma,1.0,15.0,8.0,53.3,0.07,0.13,0.0,0.0,,Cagliari,for
+2025-12-13,20:45 (16:45),Matchweek 15,Sat,Away,L,1.0,2.0,Atalanta,1.0,8.0,1.0,12.5,0.13,1.0,0.0,0.0,,Cagliari,for
+2025-12-21,12:30 (08:30),Matchweek 16,Sun,Home,D,2.0,2.0,Pisa,2.0,14.0,5.0,35.7,0.14,0.4,0.0,0.0,,Cagliari,for
+2025-12-27,15:00 (11:00),Matchweek 17,Sat,Away,W,2.0,1.0,Torino,2.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,,Cagliari,for
+2026-01-02,20:45 (16:45),Matchweek 18,Fri,Home,L,0.0,1.0,Milan,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,,Cagliari,for
+2026-01-08,18:30 (14:30),Matchweek 19,Thu,Away,D,2.0,2.0,Cremonese,2.0,21.0,5.0,23.8,0.1,0.4,0.0,0.0,,Cagliari,for
+2026-01-12,18:30 (14:30),Matchweek 20,Mon,Away,L,0.0,3.0,Genoa,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,,Cagliari,for
+2026-01-17,20:45 (16:45),Matchweek 21,Sat,Home,W,1.0,0.0,Juventus,1.0,3.0,1.0,33.3,0.33,1.0,0.0,0.0,,Cagliari,for
+2026-01-24,18:00 (14:00),Matchweek 22,Sat,Away,W,2.0,1.0,Fiorentina,2.0,10.0,6.0,60.0,0.2,0.33,0.0,0.0,,Cagliari,for
+2026-01-31,20:45 (16:45),Matchweek 23,Sat,Home,W,4.0,0.0,Hellas Verona,4.0,13.0,7.0,53.8,0.31,0.57,0.0,0.0,,Cagliari,for
+2026-02-09,20:45 (16:45),Matchweek 24,Mon,Away,L,0.0,2.0,Roma,0.0,3.0,1.0,33.3,0.0,0.0,0.0,0.0,,Cagliari,for
+2026-02-16,20:45 (16:45),Matchweek 25,Mon,Home,L,0.0,2.0,Lecce,0.0,11.0,0.0,0.0,0.0,,0.0,0.0,,Cagliari,for
+2026-02-21,20:45 (16:45),Matchweek 26,Sat,Home,D,0.0,0.0,Lazio,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,,Cagliari,for
+2026-02-27,20:45 (16:45),Matchweek 27,Fri,Away,D,1.0,1.0,Parma,1.0,11.0,5.0,45.5,0.09,0.2,0.0,0.0,,Cagliari,for
+2026-03-07,15:00 (11:00),Matchweek 28,Sat,Home,L,1.0,2.0,Como,1.0,8.0,3.0,37.5,0.13,0.33,0.0,0.0,,Cagliari,for
+2026-03-15,15:00 (11:00),Matchweek 29,Sun,Away,L,1.0,3.0,Pisa,1.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,,Cagliari,for
+2026-03-20,18:30 (14:30),Matchweek 30,Fri,Home,L,0.0,1.0,Napoli,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,,Cagliari,for
+2026-04-04,15:00 (10:00),Matchweek 31,Sat,Away,L,1.0,2.0,Sassuolo,1.0,11.0,3.0,27.3,0.0,0.0,1.0,1.0,,Cagliari,for
+2026-04-11,15:00 (10:00),Matchweek 32,Sat,Home,W,1.0,0.0,Cremonese,1.0,17.0,5.0,29.4,0.06,0.2,0.0,0.0,,Cagliari,for
+2026-04-17,20:45 (15:45),Matchweek 33,Fri,Away,L,0.0,3.0,Inter,0.0,10.0,1.0,10.0,0.0,0.0,0.0,0.0,,Cagliari,for
+For Cagliari,For Cagliari,For Cagliari,For Cagliari,For Cagliari,For Cagliari,,,For Cagliari,,,,,,,,,,Cagliari,for
+2025-08-24,18:30 (13:30),Matchweek 1,Sun,Home,W,2.0,0.0,Lazio,2.0,19.0,6.0,31.6,0.11,0.33,0.0,0.0,,Como,for
+2025-08-30,18:30 (13:30),Matchweek 2,Sat,Away,L,0.0,1.0,Bologna,0.0,13.0,2.0,15.4,0.0,0.0,0.0,0.0,,Como,for
+2025-09-15,20:45 (15:45),Matchweek 3,Mon,Home,D,1.0,1.0,Genoa,1.0,13.0,4.0,30.8,0.08,0.25,0.0,0.0,,Como,for
+2025-09-21,18:00 (13:00),Matchweek 4,Sun,Away,W,2.0,1.0,Fiorentina,2.0,19.0,7.0,36.8,0.11,0.29,0.0,0.0,,Como,for
+2025-09-27,15:00 (10:00),Matchweek 5,Sat,Home,D,1.0,1.0,Cremonese,1.0,14.0,6.0,42.9,0.07,0.17,0.0,0.0,,Como,for
+2025-10-04,20:45 (15:45),Matchweek 6,Sat,Away,D,1.0,1.0,Atalanta,1.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,,Como,for
+2025-10-19,12:30 (07:30),Matchweek 7,Sun,Home,W,2.0,0.0,Juventus,2.0,12.0,6.0,50.0,0.17,0.33,0.0,0.0,,Como,for
+2025-10-25,15:00 (10:00),Matchweek 8,Sat,Away,D,0.0,0.0,Parma,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,,Como,for
+2025-10-29,18:30 (14:30),Matchweek 9,Wed,Home,W,3.0,1.0,Hellas Verona,3.0,15.0,5.0,33.3,0.2,0.6,0.0,0.0,,Como,for
+2025-11-01,18:00 (14:00),Matchweek 10,Sat,Away,D,0.0,0.0,Napoli,0.0,14.0,2.0,14.3,0.0,0.0,0.0,1.0,,Como,for
+2025-11-08,15:00 (11:00),Matchweek 11,Sat,Home,D,0.0,0.0,Cagliari,0.0,10.0,6.0,60.0,0.0,0.0,0.0,0.0,,Como,for
+2025-11-24,18:30 (14:30),Matchweek 12,Mon,Away,W,5.0,1.0,Torino,5.0,15.0,7.0,46.7,0.33,0.71,0.0,0.0,,Como,for
+2025-11-28,20:45 (16:45),Matchweek 13,Fri,Home,W,2.0,0.0,Sassuolo,2.0,18.0,13.0,72.2,0.11,0.15,0.0,0.0,,Como,for
+2025-12-06,18:00 (14:00),Matchweek 14,Sat,Away,L,0.0,4.0,Inter,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,,Como,for
+2025-12-15,20:45 (16:45),Matchweek 15,Mon,Away,L,0.0,1.0,Roma,0.0,13.0,1.0,7.7,0.0,0.0,0.0,0.0,,Como,for
+2025-12-27,15:00 (11:00),Matchweek 17,Sat,Away,W,3.0,0.0,Lecce,3.0,12.0,6.0,50.0,0.25,0.5,0.0,0.0,,Como,for
+2026-01-03,12:30 (08:30),Matchweek 18,Sat,Home,W,1.0,0.0,Udinese,1.0,15.0,3.0,20.0,0.0,0.0,1.0,1.0,,Como,for
+2026-01-06,15:00 (11:00),Matchweek 19,Tue,Away,W,3.0,0.0,Pisa,3.0,15.0,7.0,46.7,0.13,0.29,1.0,1.0,,Como,for
+2026-01-10,15:00 (11:00),Matchweek 20,Sat,Home,D,1.0,1.0,Bologna,1.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,,Como,for
+2026-01-15,20:45 (16:45),Matchweek 16,Thu,Home,L,1.0,3.0,Milan,1.0,18.0,8.0,44.4,0.06,0.13,0.0,0.0,,Como,for
+2026-01-19,20:45 (16:45),Matchweek 21,Mon,Away,W,3.0,0.0,Lazio,3.0,11.0,6.0,54.5,0.27,0.5,0.0,1.0,,Como,for
+2026-01-24,15:00 (11:00),Matchweek 22,Sat,Home,W,6.0,0.0,Torino,6.0,17.0,7.0,41.2,0.29,0.71,1.0,1.0,,Como,for
+2026-02-01,15:00 (11:00),Matchweek 23,Sun,Home,D,0.0,0.0,Atalanta,0.0,28.0,9.0,32.1,0.0,0.0,0.0,1.0,,Como,for
+2026-02-14,15:00 (11:00),Matchweek 25,Sat,Home,L,1.0,2.0,Fiorentina,0.0,16.0,3.0,18.8,0.0,0.0,0.0,0.0,,Como,for
+2026-02-18,20:45 (16:45),Matchweek 24,Wed,Away,D,1.0,1.0,Milan,1.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,,Como,for
+2026-02-21,15:00 (11:00),Matchweek 26,Sat,Away,W,2.0,0.0,Juventus,2.0,11.0,2.0,18.2,0.18,1.0,0.0,0.0,,Como,for
+2026-02-28,15:00 (11:00),Matchweek 27,Sat,Home,W,3.0,1.0,Lecce,3.0,12.0,7.0,58.3,0.25,0.43,0.0,0.0,,Como,for
+2026-03-07,15:00 (11:00),Matchweek 28,Sat,Away,W,2.0,1.0,Cagliari,2.0,8.0,2.0,25.0,0.25,1.0,0.0,0.0,,Como,for
+2026-03-15,18:00 (14:00),Matchweek 29,Sun,Home,W,2.0,1.0,Roma,2.0,22.0,7.0,31.8,0.09,0.29,0.0,0.0,,Como,for
+2026-03-22,12:30 (08:30),Matchweek 30,Sun,Home,W,5.0,0.0,Pisa,5.0,14.0,7.0,50.0,0.36,0.71,0.0,0.0,,Como,for
+2026-04-06,12:30 (07:30),Matchweek 31,Mon,Away,D,0.0,0.0,Udinese,0.0,12.0,4.0,33.3,0.0,0.0,0.0,0.0,,Como,for
+2026-04-12,20:45 (15:45),Matchweek 32,Sun,Home,L,3.0,4.0,Inter,3.0,24.0,8.0,33.3,0.08,0.25,1.0,1.0,,Como,for
+2026-04-17,18:30 (13:30),Matchweek 33,Fri,Away,L,1.0,2.0,Sassuolo,1.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,,Como,for
+2026-04-26,15:00 (10:00),Matchweek 34,Sun,Away,W,2.0,0.0,Genoa,2.0,8.0,2.0,25.0,0.25,1.0,0.0,0.0,,Como,for
+For Como,For Como,For Como,For Como,For Como,For Como,,,For Como,,,,,,,,,,Como,for
+2025-08-23,20:45 (15:45),Matchweek 1,Sat,Away,W,2.0,1.0,Milan,2.0,4.0,3.0,75.0,0.5,0.67,0.0,0.0,,Cremonese,for
+2025-08-29,18:30 (13:30),Matchweek 2,Fri,Home,W,3.0,2.0,Sassuolo,3.0,11.0,6.0,54.5,0.18,0.33,1.0,1.0,,Cremonese,for
+2025-09-15,18:30 (13:30),Matchweek 3,Mon,Away,D,0.0,0.0,Hellas Verona,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,,Cremonese,for
+2025-09-21,15:00 (10:00),Matchweek 4,Sun,Home,D,0.0,0.0,Parma,0.0,3.0,1.0,33.3,0.0,0.0,0.0,0.0,,Cremonese,for
+2025-09-27,15:00 (10:00),Matchweek 5,Sat,Away,D,1.0,1.0,Como,1.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,,Cremonese,for
+2025-10-04,18:00 (13:00),Matchweek 6,Sat,Away,L,1.0,4.0,Inter,1.0,3.0,2.0,66.7,0.33,0.5,0.0,0.0,,Cremonese,for
+2025-10-20,20:45 (15:45),Matchweek 7,Mon,Home,D,1.0,1.0,Udinese,1.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,,Cremonese,for
+2025-10-25,20:45 (15:45),Matchweek 8,Sat,Home,D,1.0,1.0,Atalanta,1.0,9.0,5.0,55.6,0.11,0.2,0.0,0.0,,Cremonese,for
+2025-10-29,20:45 (16:45),Matchweek 9,Wed,Away,W,2.0,0.0,Genoa,2.0,11.0,4.0,36.4,0.18,0.5,0.0,0.0,,Cremonese,for
+2025-11-01,20:45 (16:45),Matchweek 10,Sat,Home,L,1.0,2.0,Juventus,1.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,,Cremonese,for
+2025-11-07,20:45 (16:45),Matchweek 11,Fri,Away,L,0.0,1.0,Pisa,0.0,13.0,3.0,23.1,0.0,0.0,0.0,0.0,,Cremonese,for
+2025-11-23,15:00 (11:00),Matchweek 12,Sun,Home,L,1.0,3.0,Roma,1.0,9.0,4.0,44.4,0.11,0.25,0.0,0.0,,Cremonese,for
+2025-12-01,20:45 (16:45),Matchweek 13,Mon,Away,W,3.0,1.0,Bologna,3.0,10.0,5.0,50.0,0.3,0.6,0.0,0.0,,Cremonese,for
+2025-12-07,12:30 (08:30),Matchweek 14,Sun,Home,W,2.0,0.0,Lecce,2.0,11.0,4.0,36.4,0.09,0.25,1.0,1.0,,Cremonese,for
+2025-12-13,15:00 (11:00),Matchweek 15,Sat,Away,L,0.0,1.0,Torino,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,,Cremonese,for
+2025-12-20,18:00 (14:00),Matchweek 16,Sat,Away,D,0.0,0.0,Lazio,0.0,9.0,2.0,22.2,0.0,0.0,0.0,0.0,,Cremonese,for
+2025-12-28,15:00 (11:00),Matchweek 17,Sun,Home,L,0.0,2.0,Napoli,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,,Cremonese,for
+2026-01-04,15:00 (11:00),Matchweek 18,Sun,Away,L,0.0,1.0,Fiorentina,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,,Cremonese,for
+2026-01-08,18:30 (14:30),Matchweek 19,Thu,Home,D,2.0,2.0,Cagliari,2.0,12.0,5.0,41.7,0.17,0.4,0.0,0.0,,Cremonese,for
+2026-01-12,20:45 (16:45),Matchweek 20,Mon,Away,L,0.0,5.0,Juventus,0.0,9.0,2.0,22.2,0.0,0.0,0.0,0.0,,Cremonese,for
+2026-01-19,18:30 (14:30),Matchweek 21,Mon,Home,D,0.0,0.0,Hellas Verona,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,,Cremonese,for
+2026-01-25,12:30 (08:30),Matchweek 22,Sun,Away,L,0.0,1.0,Sassuolo,0.0,10.0,4.0,40.0,0.0,0.0,0.0,0.0,,Cremonese,for
+2026-02-01,18:00 (14:00),Matchweek 23,Sun,Home,L,0.0,2.0,Inter,0.0,9.0,3.0,33.3,0.0,0.0,0.0,0.0,,Cremonese,for
+2026-02-09,18:30 (14:30),Matchweek 24,Mon,Away,L,1.0,2.0,Atalanta,1.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,,Cremonese,for
+2026-02-15,15:00 (11:00),Matchweek 25,Sun,Home,D,0.0,0.0,Genoa,0.0,19.0,8.0,42.1,0.0,0.0,0.0,0.0,,Cremonese,for
+2026-02-22,20:45 (16:45),Matchweek 26,Sun,Away,L,0.0,3.0,Roma,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,Cremonese,for
+2026-03-01,12:30 (08:30),Matchweek 27,Sun,Home,L,0.0,2.0,Milan,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,,Cremonese,for
+2026-03-08,12:30 (08:30),Matchweek 28,Sun,Away,L,1.0,2.0,Lecce,1.0,10.0,5.0,50.0,0.1,0.2,0.0,0.0,,Cremonese,for
+2026-03-16,20:45 (16:45),Matchweek 29,Mon,Home,L,1.0,4.0,Fiorentina,1.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,,Cremonese,for
+2026-03-21,15:00 (11:00),Matchweek 30,Sat,Away,W,2.0,0.0,Parma,2.0,7.0,4.0,57.1,0.29,0.5,0.0,0.0,,Cremonese,for
+2026-04-05,15:00 (10:00),Matchweek 31,Sun,Home,L,1.0,2.0,Bologna,1.0,9.0,3.0,33.3,0.0,0.0,1.0,1.0,,Cremonese,for
+2026-04-11,15:00 (10:00),Matchweek 32,Sat,Away,L,0.0,1.0,Cagliari,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,,Cremonese,for
+2026-04-19,12:30 (07:30),Matchweek 33,Sun,Home,D,0.0,0.0,Torino,0.0,14.0,4.0,28.6,0.0,0.0,0.0,0.0,,Cremonese,for
+2026-04-24,20:45 (15:45),Matchweek 34,Fri,Away,L,0.0,4.0,Napoli,0.0,7.0,4.0,57.1,0.0,0.0,0.0,0.0,,Cremonese,for
+For Cremonese,For Cremonese,For Cremonese,For Cremonese,For Cremonese,For Cremonese,,,For Cremonese,,,,,,,,,,Cremonese,for
+2025-08-24,18:30 (13:30),Matchweek 1,Sun,Away,D,1.0,1.0,Cagliari,1.0,4.0,1.0,25.0,0.25,1.0,0.0,0.0,,Fiorentina,for
+2025-08-31,18:30 (13:30),Matchweek 2,Sun,Away,D,0.0,0.0,Torino,0.0,16.0,4.0,25.0,0.0,0.0,0.0,0.0,,Fiorentina,for
+2025-09-13,20:45 (15:45),Matchweek 3,Sat,Home,L,1.0,3.0,Napoli,1.0,19.0,3.0,15.8,0.05,0.33,0.0,0.0,,Fiorentina,for
+2025-09-21,18:00 (13:00),Matchweek 4,Sun,Home,L,1.0,2.0,Como,1.0,8.0,1.0,12.5,0.13,1.0,0.0,0.0,,Fiorentina,for
+2025-09-28,15:00 (10:00),Matchweek 5,Sun,Away,D,0.0,0.0,Pisa,0.0,14.0,2.0,14.3,0.0,0.0,0.0,0.0,,Fiorentina,for
+2025-10-05,15:00 (10:00),Matchweek 6,Sun,Home,L,1.0,2.0,Roma,1.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,,Fiorentina,for
+2025-10-19,20:45 (15:45),Matchweek 7,Sun,Away,L,1.0,2.0,Milan,1.0,5.0,1.0,20.0,0.2,1.0,0.0,0.0,,Fiorentina,for
+2025-10-26,18:00 (14:00),Matchweek 8,Sun,Home,D,2.0,2.0,Bologna,2.0,19.0,7.0,36.8,0.0,0.0,2.0,2.0,,Fiorentina,for
+2025-10-29,20:45 (16:45),Matchweek 9,Wed,Away,L,0.0,3.0,Inter,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,,Fiorentina,for
+2025-11-02,15:00 (11:00),Matchweek 10,Sun,Home,L,0.0,1.0,Lecce,0.0,15.0,4.0,26.7,0.0,0.0,0.0,0.0,,Fiorentina,for
+2025-11-09,15:00 (11:00),Matchweek 11,Sun,Away,D,2.0,2.0,Genoa,2.0,7.0,3.0,42.9,0.14,0.33,1.0,1.0,,Fiorentina,for
+2025-11-22,18:00 (14:00),Matchweek 12,Sat,Home,D,1.0,1.0,Juventus,1.0,11.0,2.0,18.2,0.09,0.5,0.0,0.0,,Fiorentina,for
+2025-11-30,18:00 (14:00),Matchweek 13,Sun,Away,L,0.0,2.0,Atalanta,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,,Fiorentina,for
+2025-12-06,15:00 (11:00),Matchweek 14,Sat,Away,L,1.0,3.0,Sassuolo,1.0,9.0,1.0,11.1,0.0,0.0,1.0,1.0,,Fiorentina,for
+2025-12-14,15:00 (11:00),Matchweek 15,Sun,Home,L,1.0,2.0,Hellas Verona,0.0,20.0,4.0,20.0,0.0,0.0,0.0,0.0,,Fiorentina,for
+2025-12-21,18:00 (14:00),Matchweek 16,Sun,Home,W,5.0,1.0,Udinese,5.0,20.0,7.0,35.0,0.25,0.71,0.0,0.0,,Fiorentina,for
+2025-12-27,12:30 (08:30),Matchweek 17,Sat,Away,L,0.0,1.0,Parma,0.0,23.0,4.0,17.4,0.0,0.0,0.0,0.0,,Fiorentina,for
+2026-01-04,15:00 (11:00),Matchweek 18,Sun,Home,W,1.0,0.0,Cremonese,1.0,22.0,8.0,36.4,0.05,0.13,0.0,0.0,,Fiorentina,for
+2026-01-07,20:45 (16:45),Matchweek 19,Wed,Away,D,2.0,2.0,Lazio,2.0,8.0,5.0,62.5,0.13,0.2,1.0,1.0,,Fiorentina,for
+2026-01-11,15:00 (11:00),Matchweek 20,Sun,Home,D,1.0,1.0,Milan,1.0,20.0,7.0,35.0,0.05,0.14,0.0,0.0,,Fiorentina,for
+2026-01-18,15:00 (11:00),Matchweek 21,Sun,Away,W,2.0,1.0,Bologna,2.0,11.0,4.0,36.4,0.18,0.5,0.0,0.0,,Fiorentina,for
+2026-01-24,18:00 (14:00),Matchweek 22,Sat,Home,L,1.0,2.0,Cagliari,1.0,15.0,3.0,20.0,0.07,0.33,0.0,0.0,,Fiorentina,for
+2026-01-31,18:00 (14:00),Matchweek 23,Sat,Away,L,1.0,2.0,Napoli,1.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,,Fiorentina,for
+2026-02-07,20:45 (16:45),Matchweek 24,Sat,Home,D,2.0,2.0,Torino,2.0,21.0,5.0,23.8,0.1,0.4,0.0,0.0,,Fiorentina,for
+2026-02-14,15:00 (11:00),Matchweek 25,Sat,Away,W,2.0,1.0,Como,2.0,7.0,3.0,42.9,0.14,0.33,1.0,1.0,,Fiorentina,for
+2026-02-23,18:30 (14:30),Matchweek 26,Mon,Home,W,1.0,0.0,Pisa,1.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,,Fiorentina,for
+2026-03-02,20:45 (16:45),Matchweek 27,Mon,Away,L,0.0,3.0,Udinese,0.0,10.0,0.0,0.0,0.0,,0.0,0.0,,Fiorentina,for
+2026-03-08,15:00 (11:00),Matchweek 28,Sun,Home,D,0.0,0.0,Parma,0.0,12.0,1.0,8.3,0.0,0.0,0.0,0.0,,Fiorentina,for
+2026-03-16,20:45 (16:45),Matchweek 29,Mon,Away,W,4.0,1.0,Cremonese,4.0,13.0,6.0,46.2,0.31,0.67,0.0,0.0,,Fiorentina,for
+2026-03-22,20:45 (16:45),Matchweek 30,Sun,Home,D,1.0,1.0,Inter,1.0,16.0,6.0,37.5,0.06,0.17,0.0,0.0,,Fiorentina,for
+2026-04-04,18:00 (13:00),Matchweek 31,Sat,Away,W,1.0,0.0,Hellas Verona,1.0,5.0,1.0,20.0,0.2,1.0,0.0,0.0,,Fiorentina,for
+2026-04-13,20:45 (15:45),Matchweek 32,Mon,Home,W,1.0,0.0,Lazio,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Fiorentina,for
+2026-04-20,20:45 (15:45),Matchweek 33,Mon,Away,D,1.0,1.0,Lecce,1.0,5.0,3.0,60.0,0.2,0.33,0.0,0.0,,Fiorentina,for
+2026-04-26,12:30 (07:30),Matchweek 34,Sun,Home,D,0.0,0.0,Sassuolo,0.0,22.0,5.0,22.7,0.0,0.0,0.0,0.0,,Fiorentina,for
+For Fiorentina,For Fiorentina,For Fiorentina,For Fiorentina,For Fiorentina,For Fiorentina,,,For Fiorentina,,,,,,,,,,Fiorentina,for
+2025-08-23,18:30 (13:30),Matchweek 1,Sat,Home,D,0.0,0.0,Lecce,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,,Genoa,for
+2025-08-31,18:30 (13:30),Matchweek 2,Sun,Home,L,0.0,1.0,Juventus,0.0,10.0,1.0,10.0,0.0,0.0,0.0,0.0,,Genoa,for
+2025-09-15,20:45 (15:45),Matchweek 3,Mon,Away,D,1.0,1.0,Como,1.0,12.0,6.0,50.0,0.08,0.17,0.0,0.0,,Genoa,for
+2025-09-20,15:00 (10:00),Matchweek 4,Sat,Away,L,1.0,2.0,Bologna,1.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,,Genoa,for
+2025-09-29,20:45 (15:45),Matchweek 5,Mon,Home,L,0.0,3.0,Lazio,0.0,17.0,5.0,29.4,0.0,0.0,0.0,0.0,,Genoa,for
+2025-10-05,18:00 (13:00),Matchweek 6,Sun,Away,L,1.0,2.0,Napoli,1.0,6.0,1.0,16.7,0.17,1.0,0.0,0.0,,Genoa,for
+2025-10-19,15:00 (10:00),Matchweek 7,Sun,Home,D,0.0,0.0,Parma,0.0,23.0,7.0,30.4,0.0,0.0,0.0,1.0,,Genoa,for
+2025-10-26,12:30 (08:30),Matchweek 8,Sun,Away,L,1.0,2.0,Torino,1.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,,Genoa,for
+2025-10-29,20:45 (16:45),Matchweek 9,Wed,Home,L,0.0,2.0,Cremonese,0.0,15.0,1.0,6.7,0.0,0.0,0.0,0.0,,Genoa,for
+2025-11-03,18:30 (14:30),Matchweek 10,Mon,Away,W,2.0,1.0,Sassuolo,2.0,16.0,5.0,31.3,0.13,0.4,0.0,0.0,,Genoa,for
+2025-11-09,15:00 (11:00),Matchweek 11,Sun,Home,D,2.0,2.0,Fiorentina,2.0,10.0,6.0,60.0,0.2,0.33,0.0,1.0,,Genoa,for
+2025-11-22,15:00 (11:00),Matchweek 12,Sat,Away,D,3.0,3.0,Cagliari,3.0,13.0,8.0,61.5,0.23,0.38,0.0,0.0,,Genoa,for
+2025-11-29,15:00 (11:00),Matchweek 13,Sat,Home,W,2.0,1.0,Hellas Verona,2.0,15.0,4.0,26.7,0.13,0.5,0.0,0.0,,Genoa,for
+2025-12-08,18:00 (14:00),Matchweek 14,Mon,Away,W,2.0,1.0,Udinese,2.0,12.0,6.0,50.0,0.08,0.17,1.0,1.0,,Genoa,for
+2025-12-14,18:00 (14:00),Matchweek 15,Sun,Home,L,1.0,2.0,Inter,1.0,5.0,3.0,60.0,0.2,0.33,0.0,0.0,,Genoa,for
+2025-12-21,20:45 (16:45),Matchweek 16,Sun,Home,L,0.0,1.0,Atalanta,0.0,6.0,3.0,50.0,0.0,0.0,0.0,0.0,,Genoa,for
+2025-12-29,20:45 (16:45),Matchweek 17,Mon,Away,L,1.0,3.0,Roma,1.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,,Genoa,for
+2026-01-03,15:00 (11:00),Matchweek 18,Sat,Home,D,1.0,1.0,Pisa,1.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,,Genoa,for
+2026-01-08,20:45 (16:45),Matchweek 19,Thu,Away,D,1.0,1.0,Milan,1.0,7.0,2.0,28.6,0.14,0.5,0.0,1.0,,Genoa,for
+2026-01-12,18:30 (14:30),Matchweek 20,Mon,Home,W,3.0,0.0,Cagliari,3.0,11.0,7.0,63.6,0.27,0.43,0.0,0.0,,Genoa,for
+2026-01-18,12:30 (08:30),Matchweek 21,Sun,Away,D,0.0,0.0,Parma,0.0,11.0,3.0,27.3,0.0,0.0,0.0,0.0,,Genoa,for
+2026-01-25,15:00 (11:00),Matchweek 22,Sun,Home,W,3.0,2.0,Bologna,3.0,8.0,6.0,75.0,0.38,0.5,0.0,0.0,,Genoa,for
+2026-01-30,20:45 (16:45),Matchweek 23,Fri,Away,L,2.0,3.0,Lazio,2.0,16.0,4.0,25.0,0.06,0.25,1.0,1.0,,Genoa,for
+2026-02-07,18:00 (14:00),Matchweek 24,Sat,Home,L,2.0,3.0,Napoli,2.0,12.0,3.0,25.0,0.08,0.33,1.0,1.0,,Genoa,for
+2026-02-15,15:00 (11:00),Matchweek 25,Sun,Away,D,0.0,0.0,Cremonese,0.0,19.0,6.0,31.6,0.0,0.0,0.0,0.0,,Genoa,for
+2026-02-22,12:30 (08:30),Matchweek 26,Sun,Home,W,3.0,0.0,Torino,3.0,16.0,5.0,31.3,0.19,0.6,0.0,0.0,,Genoa,for
+2026-02-28,20:45 (16:45),Matchweek 27,Sat,Away,L,0.0,2.0,Inter,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,,Genoa,for
+2026-03-08,18:00 (14:00),Matchweek 28,Sun,Home,W,2.0,1.0,Roma,2.0,11.0,5.0,45.5,0.09,0.2,1.0,1.0,,Genoa,for
+2026-03-15,12:30 (08:30),Matchweek 29,Sun,Away,W,2.0,0.0,Hellas Verona,2.0,11.0,3.0,27.3,0.18,0.67,0.0,0.0,,Genoa,for
+2026-03-20,20:45 (16:45),Matchweek 30,Fri,Home,L,0.0,2.0,Udinese,0.0,18.0,2.0,11.1,0.0,0.0,0.0,0.0,,Genoa,for
+2026-04-06,18:00 (13:00),Matchweek 31,Mon,Away,L,0.0,2.0,Juventus,0.0,12.0,3.0,25.0,0.0,0.0,0.0,1.0,,Genoa,for
+2026-04-12,12:30 (07:30),Matchweek 32,Sun,Home,W,2.0,1.0,Sassuolo,2.0,14.0,7.0,50.0,0.14,0.29,0.0,0.0,,Genoa,for
+2026-04-19,18:00 (13:00),Matchweek 33,Sun,Away,W,2.0,1.0,Pisa,2.0,13.0,5.0,38.5,0.08,0.2,1.0,1.0,,Genoa,for
+2026-04-26,15:00 (10:00),Matchweek 34,Sun,Home,L,0.0,2.0,Como,0.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,,Genoa,for
+For Genoa,For Genoa,For Genoa,For Genoa,For Genoa,For Genoa,,,For Genoa,,,,,,,,,,Genoa,for
+2025-08-25,18:30 (13:30),Matchweek 1,Mon,Away,D,1.0,1.0,Udinese,1.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,,Hellas Verona,for
+2025-08-31,20:45 (15:45),Matchweek 2,Sun,Away,L,0.0,4.0,Lazio,0.0,12.0,4.0,33.3,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2025-09-15,18:30 (13:30),Matchweek 3,Mon,Home,D,0.0,0.0,Cremonese,0.0,20.0,9.0,45.0,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2025-09-20,18:00 (13:00),Matchweek 4,Sat,Home,D,1.0,1.0,Juventus,1.0,14.0,4.0,28.6,0.0,0.0,1.0,1.0,,Hellas Verona,for
+2025-09-28,15:00 (10:00),Matchweek 5,Sun,Away,L,0.0,2.0,Roma,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2025-10-03,20:45 (15:45),Matchweek 6,Fri,Home,L,0.0,1.0,Sassuolo,0.0,17.0,9.0,52.9,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2025-10-18,15:00 (10:00),Matchweek 7,Sat,Away,D,0.0,0.0,Pisa,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2025-10-26,15:00 (11:00),Matchweek 8,Sun,Home,D,2.0,2.0,Cagliari,2.0,10.0,6.0,60.0,0.2,0.33,0.0,0.0,,Hellas Verona,for
+2025-10-29,18:30 (14:30),Matchweek 9,Wed,Away,L,1.0,3.0,Como,1.0,13.0,9.0,69.2,0.08,0.11,0.0,0.0,,Hellas Verona,for
+2025-11-02,12:30 (08:30),Matchweek 10,Sun,Home,L,1.0,2.0,Inter,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Hellas Verona,for
+2025-11-08,15:00 (11:00),Matchweek 11,Sat,Away,D,0.0,0.0,Lecce,0.0,5.0,2.0,40.0,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2025-11-23,12:30 (08:30),Matchweek 12,Sun,Home,L,1.0,2.0,Parma,1.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,,Hellas Verona,for
+2025-11-29,15:00 (11:00),Matchweek 13,Sat,Away,L,1.0,2.0,Genoa,1.0,13.0,5.0,38.5,0.08,0.2,0.0,0.0,,Hellas Verona,for
+2025-12-06,20:45 (16:45),Matchweek 14,Sat,Home,W,3.0,1.0,Atalanta,3.0,12.0,7.0,58.3,0.25,0.43,0.0,0.0,,Hellas Verona,for
+2025-12-14,15:00 (11:00),Matchweek 15,Sun,Away,W,2.0,1.0,Fiorentina,2.0,13.0,3.0,23.1,0.15,0.67,0.0,0.0,,Hellas Verona,for
+2025-12-28,12:30 (08:30),Matchweek 17,Sun,Away,L,0.0,3.0,Milan,0.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2026-01-04,18:00 (14:00),Matchweek 18,Sun,Home,L,0.0,3.0,Torino,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2026-01-07,18:30 (14:30),Matchweek 19,Wed,Away,D,2.0,2.0,Napoli,2.0,11.0,4.0,36.4,0.09,0.25,1.0,1.0,,Hellas Verona,for
+2026-01-11,18:00 (14:00),Matchweek 20,Sun,Home,L,0.0,1.0,Lazio,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2026-01-15,18:30 (14:30),Matchweek 16,Thu,Home,L,2.0,3.0,Bologna,1.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,,Hellas Verona,for
+2026-01-19,18:30 (14:30),Matchweek 21,Mon,Away,D,0.0,0.0,Cremonese,0.0,11.0,4.0,36.4,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2026-01-26,20:45 (16:45),Matchweek 22,Mon,Home,L,1.0,3.0,Udinese,1.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,,Hellas Verona,for
+2026-01-31,20:45 (16:45),Matchweek 23,Sat,Away,L,0.0,4.0,Cagliari,0.0,8.0,3.0,37.5,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2026-02-06,20:45 (16:45),Matchweek 24,Fri,Home,D,0.0,0.0,Pisa,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,,Hellas Verona,for
+2026-02-15,15:00 (11:00),Matchweek 25,Sun,Away,L,1.0,2.0,Parma,1.0,4.0,1.0,25.0,0.0,0.0,1.0,1.0,,Hellas Verona,for
+2026-02-20,20:45 (16:45),Matchweek 26,Fri,Away,L,0.0,3.0,Sassuolo,0.0,12.0,1.0,8.3,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2026-02-28,18:00 (14:00),Matchweek 27,Sat,Home,L,1.0,2.0,Napoli,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Hellas Verona,for
+2026-03-08,15:00 (11:00),Matchweek 28,Sun,Away,W,2.0,1.0,Bologna,2.0,15.0,5.0,33.3,0.13,0.4,0.0,0.0,,Hellas Verona,for
+2026-03-15,12:30 (08:30),Matchweek 29,Sun,Home,L,0.0,2.0,Genoa,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2026-03-22,15:00 (11:00),Matchweek 30,Sun,Away,L,0.0,1.0,Atalanta,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2026-04-04,18:00 (13:00),Matchweek 31,Sat,Home,L,0.0,1.0,Fiorentina,0.0,21.0,8.0,38.1,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2026-04-11,15:00 (10:00),Matchweek 32,Sat,Away,L,1.0,2.0,Torino,1.0,18.0,4.0,22.2,0.06,0.25,0.0,0.0,,Hellas Verona,for
+2026-04-19,15:00 (10:00),Matchweek 33,Sun,Home,L,0.0,1.0,Milan,0.0,13.0,2.0,15.4,0.0,0.0,0.0,0.0,,Hellas Verona,for
+2026-04-25,20:45 (15:45),Matchweek 34,Sat,Home,D,0.0,0.0,Lecce,0.0,6.0,3.0,50.0,0.0,0.0,0.0,0.0,,Hellas Verona,for
+For Hellas Verona,For Hellas Verona,For Hellas Verona,For Hellas Verona,For Hellas Verona,For Hellas Verona,,,For Hellas Verona,,,,,,,,,,Hellas Verona,for
+2025-08-25,20:45 (15:45),Matchweek 1,Mon,Home,W,5.0,0.0,Torino,5.0,20.0,9.0,45.0,0.25,0.56,0.0,0.0,,Internazionale,for
+2025-08-31,20:45 (15:45),Matchweek 2,Sun,Home,L,1.0,2.0,Udinese,1.0,16.0,4.0,25.0,0.06,0.25,0.0,0.0,,Internazionale,for
+2025-09-13,18:00 (13:00),Matchweek 3,Sat,Away,L,3.0,4.0,Juventus,3.0,18.0,4.0,22.2,0.17,0.75,0.0,0.0,,Internazionale,for
+2025-09-21,20:45 (15:45),Matchweek 4,Sun,Home,W,2.0,1.0,Sassuolo,1.0,20.0,6.0,30.0,0.05,0.17,0.0,0.0,,Internazionale,for
+2025-09-27,20:45 (15:45),Matchweek 5,Sat,Away,W,2.0,0.0,Cagliari,2.0,20.0,5.0,25.0,0.1,0.4,0.0,0.0,,Internazionale,for
+2025-10-04,18:00 (13:00),Matchweek 6,Sat,Home,W,4.0,1.0,Cremonese,4.0,27.0,9.0,33.3,0.15,0.44,0.0,0.0,,Internazionale,for
+2025-10-18,20:45 (15:45),Matchweek 7,Sat,Away,W,1.0,0.0,Roma,1.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,,Internazionale,for
+2025-10-25,18:00 (13:00),Matchweek 8,Sat,Away,L,1.0,3.0,Napoli,1.0,15.0,3.0,20.0,0.0,0.0,1.0,1.0,,Internazionale,for
+2025-10-29,20:45 (16:45),Matchweek 9,Wed,Home,W,3.0,0.0,Fiorentina,3.0,22.0,8.0,36.4,0.09,0.25,1.0,1.0,,Internazionale,for
+2025-11-02,12:30 (08:30),Matchweek 10,Sun,Away,W,2.0,1.0,Hellas Verona,1.0,21.0,6.0,28.6,0.05,0.17,0.0,0.0,,Internazionale,for
+2025-11-09,20:45 (16:45),Matchweek 11,Sun,Home,W,2.0,0.0,Lazio,2.0,8.0,3.0,37.5,0.25,0.67,0.0,0.0,,Internazionale,for
+2025-11-23,20:45 (16:45),Matchweek 12,Sun,Home,L,0.0,1.0,Milan,0.0,20.0,6.0,30.0,0.0,0.0,0.0,1.0,,Internazionale,for
+2025-11-30,15:00 (11:00),Matchweek 13,Sun,Away,W,2.0,0.0,Pisa,2.0,14.0,3.0,21.4,0.14,0.67,0.0,0.0,,Internazionale,for
+2025-12-06,18:00 (14:00),Matchweek 14,Sat,Home,W,4.0,0.0,Como,4.0,11.0,7.0,63.6,0.36,0.57,0.0,0.0,,Internazionale,for
+2025-12-14,18:00 (14:00),Matchweek 15,Sun,Away,W,2.0,1.0,Genoa,2.0,18.0,8.0,44.4,0.11,0.25,0.0,0.0,,Internazionale,for
+2025-12-28,20:45 (16:45),Matchweek 17,Sun,Away,W,1.0,0.0,Atalanta,1.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,,Internazionale,for
+2026-01-04,20:45 (16:45),Matchweek 18,Sun,Home,W,3.0,1.0,Bologna,3.0,19.0,10.0,52.6,0.16,0.3,0.0,0.0,,Internazionale,for
+2026-01-07,20:45 (16:45),Matchweek 19,Wed,Away,W,2.0,0.0,Parma,2.0,26.0,8.0,30.8,0.08,0.25,0.0,0.0,,Internazionale,for
+2026-01-11,20:45 (16:45),Matchweek 20,Sun,Home,D,2.0,2.0,Napoli,2.0,13.0,4.0,30.8,0.08,0.25,1.0,1.0,,Internazionale,for
+2026-01-14,20:45 (16:45),Matchweek 16,Wed,Home,W,1.0,0.0,Lecce,1.0,21.0,7.0,33.3,0.05,0.14,0.0,0.0,,Internazionale,for
+2026-01-17,15:00 (11:00),Matchweek 21,Sat,Away,W,1.0,0.0,Udinese,1.0,14.0,5.0,35.7,0.07,0.2,0.0,0.0,,Internazionale,for
+2026-01-23,20:45 (16:45),Matchweek 22,Fri,Home,W,6.0,2.0,Pisa,6.0,34.0,14.0,41.2,0.15,0.36,1.0,1.0,,Internazionale,for
+2026-02-01,18:00 (14:00),Matchweek 23,Sun,Away,W,2.0,0.0,Cremonese,2.0,15.0,4.0,26.7,0.13,0.5,0.0,0.0,,Internazionale,for
+2026-02-08,18:00 (14:00),Matchweek 24,Sun,Away,W,5.0,0.0,Sassuolo,5.0,23.0,11.0,47.8,0.22,0.45,0.0,0.0,,Internazionale,for
+2026-02-14,20:45 (16:45),Matchweek 25,Sat,Home,W,3.0,2.0,Juventus,2.0,21.0,9.0,42.9,0.1,0.22,0.0,0.0,,Internazionale,for
+2026-02-21,18:00 (14:00),Matchweek 26,Sat,Away,W,2.0,0.0,Lecce,2.0,24.0,9.0,37.5,0.08,0.22,0.0,0.0,,Internazionale,for
+2026-02-28,20:45 (16:45),Matchweek 27,Sat,Home,W,2.0,0.0,Genoa,2.0,14.0,6.0,42.9,0.07,0.17,1.0,1.0,,Internazionale,for
+2026-03-08,20:45 (16:45),Matchweek 28,Sun,Away,L,0.0,1.0,Milan,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,,Internazionale,for
+2026-03-14,15:00 (11:00),Matchweek 29,Sat,Home,D,1.0,1.0,Atalanta,1.0,16.0,3.0,18.8,0.06,0.33,0.0,0.0,,Internazionale,for
+2026-03-22,20:45 (16:45),Matchweek 30,Sun,Away,D,1.0,1.0,Fiorentina,1.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,,Internazionale,for
+2026-04-05,20:45 (15:45),Matchweek 31,Sun,Home,W,5.0,2.0,Roma,5.0,17.0,9.0,52.9,0.29,0.56,0.0,0.0,,Internazionale,for
+2026-04-12,20:45 (15:45),Matchweek 32,Sun,Away,W,4.0,3.0,Como,4.0,7.0,5.0,71.4,0.57,0.8,0.0,0.0,,Internazionale,for
+2026-04-17,20:45 (15:45),Matchweek 33,Fri,Home,W,3.0,0.0,Cagliari,3.0,18.0,5.0,27.8,0.17,0.6,0.0,0.0,,Internazionale,for
+2026-04-26,18:00 (13:00),Matchweek 34,Sun,Away,D,2.0,2.0,Torino,2.0,14.0,5.0,35.7,0.14,0.4,0.0,0.0,,Internazionale,for
+For Internazionale,For Internazionale,For Internazionale,For Internazionale,For Internazionale,For Internazionale,,,For Internazionale,,,,,,,,,,Internazionale,for
+2025-08-24,20:45 (15:45),Matchweek 1,Sun,Home,W,2.0,0.0,Parma,2.0,25.0,8.0,32.0,0.08,0.25,0.0,0.0,,Juventus,for
+2025-08-31,18:30 (13:30),Matchweek 2,Sun,Away,W,1.0,0.0,Genoa,1.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,,Juventus,for
+2025-09-13,18:00 (13:00),Matchweek 3,Sat,Home,W,4.0,3.0,Inter,4.0,12.0,4.0,33.3,0.33,1.0,0.0,0.0,,Juventus,for
+2025-09-20,18:00 (13:00),Matchweek 4,Sat,Away,D,1.0,1.0,Hellas Verona,1.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,,Juventus,for
+2025-09-27,18:00 (13:00),Matchweek 5,Sat,Home,D,1.0,1.0,Atalanta,1.0,24.0,10.0,41.7,0.04,0.1,0.0,0.0,,Juventus,for
+2025-10-05,20:45 (15:45),Matchweek 6,Sun,Home,D,0.0,0.0,Milan,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,,Juventus,for
+2025-10-19,12:30 (07:30),Matchweek 7,Sun,Away,L,0.0,2.0,Como,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,,Juventus,for
+2025-10-26,20:45 (16:45),Matchweek 8,Sun,Away,L,0.0,1.0,Lazio,0.0,14.0,5.0,35.7,0.0,0.0,0.0,0.0,,Juventus,for
+2025-10-29,18:30 (14:30),Matchweek 9,Wed,Home,W,3.0,1.0,Udinese,3.0,25.0,11.0,44.0,0.04,0.09,2.0,2.0,,Juventus,for
+2025-11-01,20:45 (16:45),Matchweek 10,Sat,Away,W,2.0,1.0,Cremonese,2.0,15.0,5.0,33.3,0.13,0.4,0.0,0.0,,Juventus,for
+2025-11-08,18:00 (14:00),Matchweek 11,Sat,Home,D,0.0,0.0,Torino,0.0,22.0,6.0,27.3,0.0,0.0,0.0,0.0,,Juventus,for
+2025-11-22,18:00 (14:00),Matchweek 12,Sat,Away,D,1.0,1.0,Fiorentina,1.0,17.0,4.0,23.5,0.06,0.25,0.0,0.0,,Juventus,for
+2025-11-29,18:00 (14:00),Matchweek 13,Sat,Home,W,2.0,1.0,Cagliari,2.0,14.0,6.0,42.9,0.14,0.33,0.0,0.0,,Juventus,for
+2025-12-07,20:45 (16:45),Matchweek 14,Sun,Away,L,1.0,2.0,Napoli,1.0,5.0,2.0,40.0,0.2,0.5,0.0,0.0,,Juventus,for
+2025-12-14,20:45 (16:45),Matchweek 15,Sun,Away,W,1.0,0.0,Bologna,1.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,,Juventus,for
+2025-12-20,20:45 (16:45),Matchweek 16,Sat,Home,W,2.0,1.0,Roma,2.0,13.0,9.0,69.2,0.15,0.22,0.0,0.0,,Juventus,for
+2025-12-27,20:45 (16:45),Matchweek 17,Sat,Away,W,2.0,0.0,Pisa,2.0,15.0,7.0,46.7,0.13,0.29,0.0,0.0,,Juventus,for
+2026-01-03,18:00 (14:00),Matchweek 18,Sat,Home,D,1.0,1.0,Lecce,1.0,25.0,5.0,20.0,0.04,0.2,0.0,1.0,,Juventus,for
+2026-01-06,20:45 (16:45),Matchweek 19,Tue,Away,W,3.0,0.0,Sassuolo,2.0,17.0,10.0,58.8,0.12,0.2,0.0,0.0,,Juventus,for
+2026-01-12,20:45 (16:45),Matchweek 20,Mon,Home,W,5.0,0.0,Cremonese,4.0,18.0,11.0,61.1,0.22,0.36,0.0,1.0,,Juventus,for
+2026-01-17,20:45 (16:45),Matchweek 21,Sat,Away,L,0.0,1.0,Cagliari,0.0,21.0,5.0,23.8,0.0,0.0,0.0,0.0,,Juventus,for
+2026-01-25,18:00 (14:00),Matchweek 22,Sun,Home,W,3.0,0.0,Napoli,3.0,12.0,6.0,50.0,0.25,0.5,0.0,0.0,,Juventus,for
+2026-02-01,20:45 (16:45),Matchweek 23,Sun,Away,W,4.0,1.0,Parma,4.0,15.0,8.0,53.3,0.27,0.5,0.0,0.0,,Juventus,for
+2026-02-08,20:45 (16:45),Matchweek 24,Sun,Home,D,2.0,2.0,Lazio,2.0,34.0,8.0,23.5,0.06,0.25,0.0,0.0,,Juventus,for
+2026-02-14,20:45 (16:45),Matchweek 25,Sat,Away,L,2.0,3.0,Inter,2.0,10.0,8.0,80.0,0.2,0.25,0.0,0.0,,Juventus,for
+2026-02-21,15:00 (11:00),Matchweek 26,Sat,Home,L,0.0,2.0,Como,0.0,11.0,3.0,27.3,0.0,0.0,0.0,0.0,,Juventus,for
+2026-03-01,20:45 (16:45),Matchweek 27,Sun,Away,D,3.0,3.0,Roma,3.0,13.0,5.0,38.5,0.23,0.6,0.0,0.0,,Juventus,for
+2026-03-07,20:45 (16:45),Matchweek 28,Sat,Home,W,4.0,0.0,Pisa,4.0,25.0,7.0,28.0,0.16,0.57,0.0,0.0,,Juventus,for
+2026-03-14,20:45 (16:45),Matchweek 29,Sat,Away,W,1.0,0.0,Udinese,1.0,22.0,8.0,36.4,0.05,0.13,0.0,0.0,,Juventus,for
+2026-03-21,20:45 (16:45),Matchweek 30,Sat,Home,D,1.0,1.0,Sassuolo,1.0,18.0,8.0,44.4,0.06,0.13,0.0,1.0,,Juventus,for
+2026-04-06,18:00 (13:00),Matchweek 31,Mon,Home,W,2.0,0.0,Genoa,2.0,16.0,5.0,31.3,0.13,0.4,0.0,0.0,,Juventus,for
+2026-04-11,20:45 (15:45),Matchweek 32,Sat,Away,W,1.0,0.0,Atalanta,1.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,,Juventus,for
+2026-04-19,20:45 (15:45),Matchweek 33,Sun,Home,W,2.0,0.0,Bologna,2.0,14.0,4.0,28.6,0.14,0.5,0.0,0.0,,Juventus,for
+2026-04-26,20:45 (15:45),Matchweek 34,Sun,Away,D,0.0,0.0,Milan,0.0,10.0,5.0,50.0,0.0,0.0,0.0,0.0,,Juventus,for
+For Juventus,For Juventus,For Juventus,For Juventus,For Juventus,For Juventus,,,For Juventus,,,,,,,,,,Juventus,for
+2025-08-24,18:30 (13:30),Matchweek 1,Sun,Away,L,0.0,2.0,Como,0.0,5.0,1.0,20.0,0.0,0.0,0.0,0.0,,Lazio,for
+2025-08-31,20:45 (15:45),Matchweek 2,Sun,Home,W,4.0,0.0,Hellas Verona,4.0,22.0,6.0,27.3,0.18,0.67,0.0,0.0,,Lazio,for
+2025-09-14,18:00 (13:00),Matchweek 3,Sun,Away,L,0.0,1.0,Sassuolo,0.0,13.0,3.0,23.1,0.0,0.0,0.0,0.0,,Lazio,for
+2025-09-21,12:30 (07:30),Matchweek 4,Sun,Home,L,0.0,1.0,Roma,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,,Lazio,for
+2025-09-29,20:45 (15:45),Matchweek 5,Mon,Away,W,3.0,0.0,Genoa,3.0,9.0,6.0,66.7,0.33,0.5,0.0,0.0,,Lazio,for
+2025-10-04,15:00 (10:00),Matchweek 6,Sat,Home,D,3.0,3.0,Torino,3.0,9.0,4.0,44.4,0.22,0.5,1.0,1.0,,Lazio,for
+2025-10-19,18:00 (13:00),Matchweek 7,Sun,Away,D,0.0,0.0,Atalanta,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,,Lazio,for
+2025-10-26,20:45 (16:45),Matchweek 8,Sun,Home,W,1.0,0.0,Juventus,1.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,,Lazio,for
+2025-10-30,20:45 (16:45),Matchweek 9,Thu,Away,D,0.0,0.0,Pisa,0.0,11.0,6.0,54.5,0.0,0.0,0.0,0.0,,Lazio,for
+2025-11-03,20:45 (16:45),Matchweek 10,Mon,Home,W,2.0,0.0,Cagliari,2.0,8.0,3.0,37.5,0.25,0.67,0.0,0.0,,Lazio,for
+2025-11-09,20:45 (16:45),Matchweek 11,Sun,Away,L,0.0,2.0,Inter,0.0,8.0,5.0,62.5,0.0,0.0,0.0,0.0,,Lazio,for
+2025-11-23,18:00 (14:00),Matchweek 12,Sun,Home,W,2.0,0.0,Lecce,2.0,19.0,9.0,47.4,0.11,0.22,0.0,0.0,,Lazio,for
+2025-11-29,20:45 (16:45),Matchweek 13,Sat,Away,L,0.0,1.0,Milan,0.0,9.0,4.0,44.4,0.0,0.0,0.0,0.0,,Lazio,for
+2025-12-07,18:00 (14:00),Matchweek 14,Sun,Home,D,1.0,1.0,Bologna,1.0,16.0,9.0,56.3,0.06,0.11,0.0,0.0,,Lazio,for
+2025-12-13,18:00 (14:00),Matchweek 15,Sat,Away,W,1.0,0.0,Parma,1.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,,Lazio,for
+2025-12-20,18:00 (14:00),Matchweek 16,Sat,Home,D,0.0,0.0,Cremonese,0.0,8.0,2.0,25.0,0.0,0.0,0.0,0.0,,Lazio,for
+2025-12-27,18:00 (14:00),Matchweek 17,Sat,Away,D,1.0,1.0,Udinese,0.0,14.0,2.0,14.3,0.0,0.0,0.0,0.0,,Lazio,for
+2026-01-04,12:30 (08:30),Matchweek 18,Sun,Home,L,0.0,2.0,Napoli,0.0,5.0,0.0,0.0,0.0,,0.0,0.0,,Lazio,for
+2026-01-07,20:45 (16:45),Matchweek 19,Wed,Home,D,2.0,2.0,Fiorentina,2.0,17.0,9.0,52.9,0.06,0.11,1.0,1.0,,Lazio,for
+2026-01-11,18:00 (14:00),Matchweek 20,Sun,Away,W,1.0,0.0,Hellas Verona,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,,Lazio,for
+2026-01-19,20:45 (16:45),Matchweek 21,Mon,Home,L,0.0,3.0,Como,0.0,8.0,4.0,50.0,0.0,0.0,0.0,0.0,,Lazio,for
+2026-01-24,20:45 (16:45),Matchweek 22,Sat,Away,D,0.0,0.0,Lecce,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,,Lazio,for
+2026-01-30,20:45 (16:45),Matchweek 23,Fri,Home,W,3.0,2.0,Genoa,3.0,14.0,4.0,28.6,0.07,0.25,2.0,2.0,,Lazio,for
+2026-02-08,20:45 (16:45),Matchweek 24,Sun,Away,D,2.0,2.0,Juventus,2.0,9.0,2.0,22.2,0.22,1.0,0.0,0.0,,Lazio,for
+2026-02-14,18:00 (14:00),Matchweek 25,Sat,Home,L,0.0,2.0,Atalanta,0.0,18.0,5.0,27.8,0.0,0.0,0.0,0.0,,Lazio,for
+2026-02-21,20:45 (16:45),Matchweek 26,Sat,Away,D,0.0,0.0,Cagliari,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,,Lazio,for
+2026-03-01,18:00 (14:00),Matchweek 27,Sun,Away,L,0.0,2.0,Torino,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,,Lazio,for
+2026-03-09,20:45 (16:45),Matchweek 28,Mon,Home,W,2.0,1.0,Sassuolo,2.0,13.0,5.0,38.5,0.15,0.4,0.0,0.0,,Lazio,for
+2026-03-15,20:45 (16:45),Matchweek 29,Sun,Home,W,1.0,0.0,Milan,1.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,,Lazio,for
+2026-03-22,15:00 (11:00),Matchweek 30,Sun,Away,W,2.0,0.0,Bologna,2.0,9.0,5.0,55.6,0.22,0.4,0.0,0.0,,Lazio,for
+2026-04-04,20:45 (15:45),Matchweek 31,Sat,Home,D,1.0,1.0,Parma,1.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,,Lazio,for
+2026-04-13,20:45 (15:45),Matchweek 32,Mon,Away,L,0.0,1.0,Fiorentina,0.0,13.0,6.0,46.2,0.0,0.0,0.0,0.0,,Lazio,for
+2026-04-18,18:00 (13:00),Matchweek 33,Sat,Away,W,2.0,0.0,Napoli,2.0,14.0,7.0,50.0,0.14,0.29,0.0,1.0,,Lazio,for
+For Lazio,For Lazio,For Lazio,For Lazio,For Lazio,For Lazio,,,For Lazio,,,,,,,,,,Lazio,for
+2025-08-23,18:30 (13:30),Matchweek 1,Sat,Away,D,0.0,0.0,Genoa,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,,Lecce,for
+2025-08-29,20:45 (15:45),Matchweek 2,Fri,Home,L,0.0,2.0,Milan,0.0,7.0,2.0,28.6,0.0,0.0,0.0,0.0,,Lecce,for
+2025-09-14,15:00 (10:00),Matchweek 3,Sun,Away,L,1.0,4.0,Atalanta,1.0,12.0,3.0,25.0,0.08,0.33,0.0,0.0,,Lecce,for
+2025-09-19,20:45 (15:45),Matchweek 4,Fri,Home,L,1.0,2.0,Cagliari,1.0,11.0,5.0,45.5,0.09,0.2,0.0,0.0,,Lecce,for
+2025-09-28,18:00 (13:00),Matchweek 5,Sun,Home,D,2.0,2.0,Bologna,2.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,,Lecce,for
+2025-10-04,15:00 (10:00),Matchweek 6,Sat,Away,W,1.0,0.0,Parma,1.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,,Lecce,for
+2025-10-18,15:00 (10:00),Matchweek 7,Sat,Home,D,0.0,0.0,Sassuolo,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,,Lecce,for
+2025-10-25,15:00 (10:00),Matchweek 8,Sat,Away,L,2.0,3.0,Udinese,2.0,13.0,3.0,23.1,0.15,0.67,0.0,0.0,,Lecce,for
+2025-10-28,18:30 (14:30),Matchweek 9,Tue,Home,L,0.0,1.0,Napoli,0.0,7.0,2.0,28.6,0.0,0.0,0.0,1.0,,Lecce,for
+2025-11-02,15:00 (11:00),Matchweek 10,Sun,Away,W,1.0,0.0,Fiorentina,1.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,,Lecce,for
+2025-11-08,15:00 (11:00),Matchweek 11,Sat,Home,D,0.0,0.0,Hellas Verona,0.0,11.0,6.0,54.5,0.0,0.0,0.0,0.0,,Lecce,for
+2025-11-23,18:00 (14:00),Matchweek 12,Sun,Away,L,0.0,2.0,Lazio,0.0,5.0,1.0,20.0,0.0,0.0,0.0,0.0,,Lecce,for
+2025-11-30,12:30 (08:30),Matchweek 13,Sun,Home,W,2.0,1.0,Torino,2.0,10.0,2.0,20.0,0.2,1.0,0.0,0.0,,Lecce,for
+2025-12-07,12:30 (08:30),Matchweek 14,Sun,Away,L,0.0,2.0,Cremonese,0.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,,Lecce,for
+2025-12-12,20:45 (16:45),Matchweek 15,Fri,Home,W,1.0,0.0,Pisa,1.0,21.0,3.0,14.3,0.05,0.33,0.0,0.0,,Lecce,for
+2025-12-27,15:00 (11:00),Matchweek 17,Sat,Home,L,0.0,3.0,Como,0.0,11.0,5.0,45.5,0.0,0.0,0.0,0.0,,Lecce,for
+2026-01-03,18:00 (14:00),Matchweek 18,Sat,Away,D,1.0,1.0,Juventus,1.0,6.0,1.0,16.7,0.17,1.0,0.0,0.0,,Lecce,for
+2026-01-06,18:00 (14:00),Matchweek 19,Tue,Home,L,0.0,2.0,Roma,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,,Lecce,for
+2026-01-11,12:30 (08:30),Matchweek 20,Sun,Home,L,1.0,2.0,Parma,1.0,10.0,1.0,10.0,0.1,1.0,0.0,0.0,,Lecce,for
+2026-01-14,20:45 (16:45),Matchweek 16,Wed,Away,L,0.0,1.0,Inter,0.0,10.0,1.0,10.0,0.0,0.0,0.0,0.0,,Lecce,for
+2026-01-18,20:45 (16:45),Matchweek 21,Sun,Away,L,0.0,1.0,Milan,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,,Lecce,for
+2026-01-24,20:45 (16:45),Matchweek 22,Sat,Home,D,0.0,0.0,Lazio,0.0,15.0,2.0,13.3,0.0,0.0,0.0,0.0,,Lecce,for
+2026-02-01,12:30 (08:30),Matchweek 23,Sun,Away,L,0.0,1.0,Torino,0.0,14.0,2.0,14.3,0.0,0.0,0.0,0.0,,Lecce,for
+2026-02-08,15:00 (11:00),Matchweek 24,Sun,Home,W,2.0,1.0,Udinese,2.0,16.0,5.0,31.3,0.13,0.4,0.0,0.0,,Lecce,for
+2026-02-16,20:45 (16:45),Matchweek 25,Mon,Away,W,2.0,0.0,Cagliari,2.0,13.0,4.0,30.8,0.15,0.5,0.0,0.0,,Lecce,for
+2026-02-21,18:00 (14:00),Matchweek 26,Sat,Home,L,0.0,2.0,Inter,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,,Lecce,for
+2026-02-28,15:00 (11:00),Matchweek 27,Sat,Away,L,1.0,3.0,Como,1.0,5.0,2.0,40.0,0.2,0.5,0.0,0.0,,Lecce,for
+2026-03-08,12:30 (08:30),Matchweek 28,Sun,Home,W,2.0,1.0,Cremonese,2.0,9.0,3.0,33.3,0.11,0.33,1.0,1.0,,Lecce,for
+2026-03-14,18:00 (14:00),Matchweek 29,Sat,Away,L,1.0,2.0,Napoli,1.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,,Lecce,for
+2026-03-22,18:00 (14:00),Matchweek 30,Sun,Away,L,0.0,1.0,Roma,0.0,8.0,3.0,37.5,0.0,0.0,0.0,0.0,,Lecce,for
+2026-04-06,15:00 (10:00),Matchweek 31,Mon,Home,L,0.0,3.0,Atalanta,0.0,11.0,0.0,0.0,0.0,,0.0,0.0,,Lecce,for
+2026-04-12,18:00 (13:00),Matchweek 32,Sun,Away,L,0.0,2.0,Bologna,0.0,6.0,1.0,16.7,0.0,0.0,0.0,0.0,,Lecce,for
+2026-04-20,20:45 (15:45),Matchweek 33,Mon,Home,D,1.0,1.0,Fiorentina,1.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,,Lecce,for
+2026-04-25,20:45 (15:45),Matchweek 34,Sat,Away,D,0.0,0.0,Hellas Verona,0.0,12.0,2.0,16.7,0.0,0.0,0.0,0.0,,Lecce,for
+For Lecce,For Lecce,For Lecce,For Lecce,For Lecce,For Lecce,,,For Lecce,,,,,,,,,,Lecce,for
+2025-08-23,20:45 (15:45),Matchweek 1,Sat,Home,L,1.0,2.0,Cremonese,1.0,24.0,6.0,25.0,0.04,0.17,0.0,0.0,,Milan,for
+2025-08-29,20:45 (15:45),Matchweek 2,Fri,Away,W,2.0,0.0,Lecce,2.0,14.0,6.0,42.9,0.14,0.33,0.0,0.0,,Milan,for
+2025-09-14,20:45 (15:45),Matchweek 3,Sun,Home,W,1.0,0.0,Bologna,1.0,14.0,3.0,21.4,0.07,0.33,0.0,0.0,,Milan,for
+2025-09-20,20:45 (15:45),Matchweek 4,Sat,Away,W,3.0,0.0,Udinese,3.0,13.0,6.0,46.2,0.23,0.5,0.0,0.0,,Milan,for
+2025-09-28,20:45 (15:45),Matchweek 5,Sun,Home,W,2.0,1.0,Napoli,2.0,6.0,3.0,50.0,0.33,0.67,0.0,0.0,,Milan,for
+2025-10-05,20:45 (15:45),Matchweek 6,Sun,Away,D,0.0,0.0,Juventus,0.0,13.0,4.0,30.8,0.0,0.0,0.0,1.0,,Milan,for
+2025-10-19,20:45 (15:45),Matchweek 7,Sun,Home,W,2.0,1.0,Fiorentina,2.0,14.0,4.0,28.6,0.07,0.25,1.0,1.0,,Milan,for
+2025-10-24,20:45 (15:45),Matchweek 8,Fri,Home,D,2.0,2.0,Pisa,2.0,20.0,7.0,35.0,0.1,0.29,0.0,0.0,,Milan,for
+2025-10-28,20:45 (16:45),Matchweek 9,Tue,Away,D,1.0,1.0,Atalanta,1.0,6.0,1.0,16.7,0.17,1.0,0.0,0.0,,Milan,for
+2025-11-02,20:45 (16:45),Matchweek 10,Sun,Home,W,1.0,0.0,Roma,1.0,17.0,8.0,47.1,0.06,0.13,0.0,0.0,,Milan,for
+2025-11-08,20:45 (16:45),Matchweek 11,Sat,Away,D,2.0,2.0,Parma,2.0,9.0,5.0,55.6,0.11,0.2,1.0,1.0,,Milan,for
+2025-11-23,20:45 (16:45),Matchweek 12,Sun,Away,W,1.0,0.0,Inter,1.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,,Milan,for
+2025-11-29,20:45 (16:45),Matchweek 13,Sat,Home,W,1.0,0.0,Lazio,1.0,16.0,4.0,25.0,0.06,0.25,0.0,0.0,,Milan,for
+2025-12-08,20:45 (16:45),Matchweek 14,Mon,Away,W,3.0,2.0,Torino,3.0,17.0,6.0,35.3,0.18,0.5,0.0,0.0,,Milan,for
+2025-12-14,12:30 (08:30),Matchweek 15,Sun,Home,D,2.0,2.0,Sassuolo,2.0,13.0,5.0,38.5,0.15,0.4,0.0,0.0,,Milan,for
+2025-12-28,12:30 (08:30),Matchweek 17,Sun,Home,W,3.0,0.0,Hellas Verona,3.0,11.0,5.0,45.5,0.18,0.4,1.0,1.0,,Milan,for
+2026-01-02,20:45 (16:45),Matchweek 18,Fri,Away,W,1.0,0.0,Cagliari,1.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,,Milan,for
+2026-01-08,20:45 (16:45),Matchweek 19,Thu,Home,D,1.0,1.0,Genoa,1.0,32.0,8.0,25.0,0.03,0.13,0.0,0.0,,Milan,for
+2026-01-11,15:00 (11:00),Matchweek 20,Sun,Away,D,1.0,1.0,Fiorentina,1.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,,Milan,for
+2026-01-15,20:45 (16:45),Matchweek 16,Thu,Away,W,3.0,1.0,Como,3.0,7.0,4.0,57.1,0.29,0.5,1.0,1.0,,Milan,for
+2026-01-18,20:45 (16:45),Matchweek 21,Sun,Home,W,1.0,0.0,Lecce,1.0,20.0,6.0,30.0,0.05,0.17,0.0,0.0,,Milan,for
+2026-01-25,20:45 (16:45),Matchweek 22,Sun,Away,D,1.0,1.0,Roma,1.0,5.0,2.0,40.0,0.2,0.5,0.0,0.0,,Milan,for
+2026-02-03,20:45 (16:45),Matchweek 23,Tue,Away,W,3.0,0.0,Bologna,3.0,10.0,7.0,70.0,0.2,0.29,1.0,1.0,,Milan,for
+2026-02-13,20:45 (16:45),Matchweek 25,Fri,Away,W,2.0,1.0,Pisa,2.0,7.0,2.0,28.6,0.29,1.0,0.0,1.0,,Milan,for
+2026-02-18,20:45 (16:45),Matchweek 24,Wed,Home,D,1.0,1.0,Como,1.0,6.0,4.0,66.7,0.17,0.25,0.0,0.0,,Milan,for
+2026-02-22,18:00 (14:00),Matchweek 26,Sun,Home,L,0.0,1.0,Parma,0.0,25.0,6.0,24.0,0.0,0.0,0.0,0.0,,Milan,for
+2026-03-01,12:30 (08:30),Matchweek 27,Sun,Away,W,2.0,0.0,Cremonese,2.0,20.0,6.0,30.0,0.1,0.33,0.0,0.0,,Milan,for
+2026-03-08,20:45 (16:45),Matchweek 28,Sun,Home,W,1.0,0.0,Inter,1.0,9.0,2.0,22.2,0.11,0.5,0.0,0.0,,Milan,for
+2026-03-15,20:45 (16:45),Matchweek 29,Sun,Away,L,0.0,1.0,Lazio,0.0,17.0,3.0,17.6,0.0,0.0,0.0,0.0,,Milan,for
+2026-03-21,18:00 (14:00),Matchweek 30,Sat,Home,W,3.0,2.0,Torino,3.0,15.0,6.0,40.0,0.2,0.5,0.0,0.0,,Milan,for
+2026-04-06,20:45 (15:45),Matchweek 31,Mon,Away,L,0.0,1.0,Napoli,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,,Milan,for
+2026-04-11,18:00 (13:00),Matchweek 32,Sat,Home,L,0.0,3.0,Udinese,0.0,20.0,3.0,15.0,0.0,0.0,0.0,0.0,,Milan,for
+2026-04-19,15:00 (10:00),Matchweek 33,Sun,Away,W,1.0,0.0,Hellas Verona,1.0,6.0,3.0,50.0,0.17,0.33,0.0,0.0,,Milan,for
+2026-04-26,20:45 (15:45),Matchweek 34,Sun,Home,D,0.0,0.0,Juventus,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,,Milan,for
+For Milan,For Milan,For Milan,For Milan,For Milan,For Milan,,,For Milan,,,,,,,,,,Milan,for
+2025-08-23,18:30 (13:30),Matchweek 1,Sat,Away,W,2.0,0.0,Sassuolo,2.0,13.0,4.0,30.8,0.15,0.5,0.0,0.0,,Napoli,for
+2025-08-30,20:45 (15:45),Matchweek 2,Sat,Home,W,1.0,0.0,Cagliari,1.0,20.0,6.0,30.0,0.05,0.17,0.0,0.0,,Napoli,for
+2025-09-13,20:45 (15:45),Matchweek 3,Sat,Away,W,3.0,1.0,Fiorentina,3.0,14.0,9.0,64.3,0.14,0.22,1.0,1.0,,Napoli,for
+2025-09-22,20:45 (15:45),Matchweek 4,Mon,Home,W,3.0,2.0,Pisa,3.0,18.0,6.0,33.3,0.17,0.5,0.0,0.0,,Napoli,for
+2025-09-28,20:45 (15:45),Matchweek 5,Sun,Away,L,1.0,2.0,Milan,1.0,19.0,7.0,36.8,0.0,0.0,1.0,1.0,,Napoli,for
+2025-10-05,18:00 (13:00),Matchweek 6,Sun,Home,W,2.0,1.0,Genoa,2.0,12.0,5.0,41.7,0.17,0.4,0.0,0.0,,Napoli,for
+2025-10-18,18:00 (13:00),Matchweek 7,Sat,Away,L,0.0,1.0,Torino,0.0,22.0,5.0,22.7,0.0,0.0,0.0,0.0,,Napoli,for
+2025-10-25,18:00 (13:00),Matchweek 8,Sat,Home,W,3.0,1.0,Inter,3.0,7.0,3.0,42.9,0.29,0.67,1.0,1.0,,Napoli,for
+2025-10-28,18:30 (14:30),Matchweek 9,Tue,Away,W,1.0,0.0,Lecce,1.0,14.0,3.0,21.4,0.07,0.33,0.0,0.0,,Napoli,for
+2025-11-01,18:00 (14:00),Matchweek 10,Sat,Home,D,0.0,0.0,Como,0.0,13.0,8.0,61.5,0.0,0.0,0.0,0.0,,Napoli,for
+2025-11-09,15:00 (11:00),Matchweek 11,Sun,Away,L,0.0,2.0,Bologna,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,,Napoli,for
+2025-11-22,20:45 (16:45),Matchweek 12,Sat,Home,W,3.0,1.0,Atalanta,3.0,11.0,6.0,54.5,0.27,0.5,0.0,0.0,,Napoli,for
+2025-11-30,20:45 (16:45),Matchweek 13,Sun,Away,W,1.0,0.0,Roma,1.0,7.0,5.0,71.4,0.14,0.2,0.0,0.0,,Napoli,for
+2025-12-07,20:45 (16:45),Matchweek 14,Sun,Home,W,2.0,1.0,Juventus,2.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,,Napoli,for
+2025-12-14,15:00 (11:00),Matchweek 15,Sun,Away,L,0.0,1.0,Udinese,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,,Napoli,for
+2025-12-28,15:00 (11:00),Matchweek 17,Sun,Away,W,2.0,0.0,Cremonese,2.0,22.0,8.0,36.4,0.09,0.25,0.0,0.0,,Napoli,for
+2026-01-04,12:30 (08:30),Matchweek 18,Sun,Away,W,2.0,0.0,Lazio,2.0,14.0,3.0,21.4,0.14,0.67,0.0,0.0,,Napoli,for
+2026-01-07,18:30 (14:30),Matchweek 19,Wed,Home,D,2.0,2.0,Hellas Verona,2.0,15.0,4.0,26.7,0.13,0.5,0.0,0.0,,Napoli,for
+2026-01-11,20:45 (16:45),Matchweek 20,Sun,Away,D,2.0,2.0,Inter,2.0,7.0,3.0,42.9,0.29,0.67,0.0,0.0,,Napoli,for
+2026-01-14,18:30 (14:30),Matchweek 16,Wed,Home,D,0.0,0.0,Parma,0.0,16.0,4.0,25.0,0.0,0.0,0.0,0.0,,Napoli,for
+2026-01-17,18:00 (14:00),Matchweek 21,Sat,Home,W,1.0,0.0,Sassuolo,1.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,,Napoli,for
+2026-01-25,18:00 (14:00),Matchweek 22,Sun,Away,L,0.0,3.0,Juventus,0.0,9.0,1.0,11.1,0.0,0.0,0.0,0.0,,Napoli,for
+2026-01-31,18:00 (14:00),Matchweek 23,Sat,Home,W,2.0,1.0,Fiorentina,2.0,19.0,6.0,31.6,0.11,0.33,0.0,0.0,,Napoli,for
+2026-02-07,18:00 (14:00),Matchweek 24,Sat,Away,W,3.0,2.0,Genoa,3.0,14.0,5.0,35.7,0.14,0.4,1.0,1.0,,Napoli,for
+2026-02-15,20:45 (16:45),Matchweek 25,Sun,Home,D,2.0,2.0,Roma,2.0,11.0,7.0,63.6,0.18,0.29,0.0,0.0,,Napoli,for
+2026-02-22,15:00 (11:00),Matchweek 26,Sun,Away,L,1.0,2.0,Atalanta,1.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,,Napoli,for
+2026-02-28,18:00 (14:00),Matchweek 27,Sat,Away,W,2.0,1.0,Hellas Verona,2.0,8.0,5.0,62.5,0.25,0.4,0.0,0.0,,Napoli,for
+2026-03-06,20:45 (16:45),Matchweek 28,Fri,Home,W,2.0,1.0,Torino,2.0,14.0,9.0,64.3,0.14,0.22,0.0,0.0,,Napoli,for
+2026-03-14,18:00 (14:00),Matchweek 29,Sat,Home,W,2.0,1.0,Lecce,2.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,,Napoli,for
+2026-03-20,18:30 (14:30),Matchweek 30,Fri,Away,W,1.0,0.0,Cagliari,1.0,17.0,5.0,29.4,0.06,0.2,0.0,0.0,,Napoli,for
+2026-04-06,20:45 (15:45),Matchweek 31,Mon,Home,W,1.0,0.0,Milan,1.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,,Napoli,for
+2026-04-12,15:00 (10:00),Matchweek 32,Sun,Away,D,1.0,1.0,Parma,1.0,20.0,6.0,30.0,0.05,0.17,0.0,0.0,,Napoli,for
+2026-04-18,18:00 (13:00),Matchweek 33,Sat,Home,L,0.0,2.0,Lazio,0.0,12.0,0.0,0.0,0.0,,0.0,0.0,,Napoli,for
+2026-04-24,20:45 (15:45),Matchweek 34,Fri,Home,W,4.0,0.0,Cremonese,3.0,25.0,9.0,36.0,0.12,0.33,0.0,1.0,,Napoli,for
+For Napoli,For Napoli,For Napoli,For Napoli,For Napoli,For Napoli,,,For Napoli,,,,,,,,,,Napoli,for
+2025-08-24,20:45 (15:45),Matchweek 1,Sun,Away,L,0.0,2.0,Juventus,0.0,8.0,2.0,25.0,0.0,0.0,0.0,0.0,,Parma,for
+2025-08-30,18:30 (13:30),Matchweek 2,Sat,Home,D,1.0,1.0,Atalanta,1.0,7.0,3.0,42.9,0.14,0.33,0.0,0.0,,Parma,for
+2025-09-13,15:00 (10:00),Matchweek 3,Sat,Away,L,0.0,2.0,Cagliari,0.0,17.0,5.0,29.4,0.0,0.0,0.0,0.0,,Parma,for
+2025-09-21,15:00 (10:00),Matchweek 4,Sun,Away,D,0.0,0.0,Cremonese,0.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0,,Parma,for
+2025-09-29,18:30 (13:30),Matchweek 5,Mon,Home,W,2.0,1.0,Torino,2.0,13.0,2.0,15.4,0.08,0.5,1.0,1.0,,Parma,for
+2025-10-04,15:00 (10:00),Matchweek 6,Sat,Home,L,0.0,1.0,Lecce,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,,Parma,for
+2025-10-19,15:00 (10:00),Matchweek 7,Sun,Away,D,0.0,0.0,Genoa,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,,Parma,for
+2025-10-25,15:00 (10:00),Matchweek 8,Sat,Home,D,0.0,0.0,Como,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,,Parma,for
+2025-10-29,18:30 (14:30),Matchweek 9,Wed,Away,L,1.0,2.0,Roma,1.0,8.0,5.0,62.5,0.13,0.2,0.0,0.0,,Parma,for
+2025-11-02,18:00 (14:00),Matchweek 10,Sun,Home,L,1.0,3.0,Bologna,1.0,7.0,1.0,14.3,0.14,1.0,0.0,0.0,,Parma,for
+2025-11-08,20:45 (16:45),Matchweek 11,Sat,Home,D,2.0,2.0,Milan,2.0,14.0,4.0,28.6,0.14,0.5,0.0,0.0,,Parma,for
+2025-11-23,12:30 (08:30),Matchweek 12,Sun,Away,W,2.0,1.0,Hellas Verona,2.0,15.0,7.0,46.7,0.13,0.29,0.0,0.0,,Parma,for
+2025-11-29,15:00 (11:00),Matchweek 13,Sat,Home,L,0.0,2.0,Udinese,0.0,17.0,2.0,11.8,0.0,0.0,0.0,0.0,,Parma,for
+2025-12-08,15:00 (11:00),Matchweek 14,Mon,Away,W,1.0,0.0,Pisa,1.0,9.0,2.0,22.2,0.0,0.0,1.0,1.0,,Parma,for
+2025-12-13,18:00 (14:00),Matchweek 15,Sat,Home,L,0.0,1.0,Lazio,0.0,19.0,5.0,26.3,0.0,0.0,0.0,0.0,,Parma,for
+2025-12-27,12:30 (08:30),Matchweek 17,Sat,Home,W,1.0,0.0,Fiorentina,1.0,13.0,2.0,15.4,0.08,0.5,0.0,0.0,,Parma,for
+2026-01-03,15:00 (11:00),Matchweek 18,Sat,Away,D,1.0,1.0,Sassuolo,1.0,16.0,5.0,31.3,0.06,0.2,0.0,0.0,,Parma,for
+2026-01-07,20:45 (16:45),Matchweek 19,Wed,Home,L,0.0,2.0,Inter,0.0,4.0,0.0,0.0,0.0,,0.0,0.0,,Parma,for
+2026-01-11,12:30 (08:30),Matchweek 20,Sun,Away,W,2.0,1.0,Lecce,1.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,,Parma,for
+2026-01-14,18:30 (14:30),Matchweek 16,Wed,Away,D,0.0,0.0,Napoli,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,,Parma,for
+2026-01-18,12:30 (08:30),Matchweek 21,Sun,Home,D,0.0,0.0,Genoa,0.0,14.0,2.0,14.3,0.0,0.0,0.0,0.0,,Parma,for
+2026-01-25,15:00 (11:00),Matchweek 22,Sun,Away,L,0.0,4.0,Atalanta,0.0,15.0,2.0,13.3,0.0,0.0,0.0,0.0,,Parma,for
+2026-02-01,20:45 (16:45),Matchweek 23,Sun,Home,L,1.0,4.0,Juventus,0.0,10.0,4.0,40.0,0.0,0.0,0.0,0.0,,Parma,for
+2026-02-08,12:30 (08:30),Matchweek 24,Sun,Away,W,1.0,0.0,Bologna,1.0,5.0,1.0,20.0,0.2,1.0,0.0,0.0,,Parma,for
+2026-02-15,15:00 (11:00),Matchweek 25,Sun,Home,W,2.0,1.0,Hellas Verona,2.0,27.0,8.0,29.6,0.07,0.25,0.0,0.0,,Parma,for
+2026-02-22,18:00 (14:00),Matchweek 26,Sun,Away,W,1.0,0.0,Milan,1.0,9.0,3.0,33.3,0.11,0.33,0.0,0.0,,Parma,for
+2026-02-27,20:45 (16:45),Matchweek 27,Fri,Home,D,1.0,1.0,Cagliari,1.0,18.0,4.0,22.2,0.06,0.25,0.0,0.0,,Parma,for
+2026-03-08,15:00 (11:00),Matchweek 28,Sun,Away,D,0.0,0.0,Fiorentina,0.0,8.0,0.0,0.0,0.0,,0.0,0.0,,Parma,for
+2026-03-13,20:45 (16:45),Matchweek 29,Fri,Away,L,1.0,4.0,Torino,1.0,6.0,3.0,50.0,0.17,0.33,0.0,0.0,,Parma,for
+2026-03-21,15:00 (11:00),Matchweek 30,Sat,Home,L,0.0,2.0,Cremonese,0.0,8.0,1.0,12.5,0.0,0.0,0.0,0.0,,Parma,for
+2026-04-04,20:45 (15:45),Matchweek 31,Sat,Away,D,1.0,1.0,Lazio,1.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,,Parma,for
+2026-04-12,15:00 (10:00),Matchweek 32,Sun,Home,D,1.0,1.0,Napoli,1.0,3.0,2.0,66.7,0.33,0.5,0.0,0.0,,Parma,for
+2026-04-18,15:00 (10:00),Matchweek 33,Sat,Away,W,1.0,0.0,Udinese,1.0,10.0,1.0,10.0,0.1,1.0,0.0,0.0,,Parma,for
+2026-04-25,15:00 (10:00),Matchweek 34,Sat,Home,W,1.0,0.0,Pisa,1.0,15.0,5.0,33.3,0.07,0.2,0.0,0.0,,Parma,for
+For Parma,For Parma,For Parma,For Parma,For Parma,For Parma,,,For Parma,,,,,,,,,,Parma,for
+2025-08-24,20:45 (15:45),Matchweek 1,Sun,Away,D,1.0,1.0,Atalanta,0.0,11.0,2.0,18.2,0.0,0.0,0.0,0.0,,Pisa,for
+2025-08-30,20:45 (15:45),Matchweek 2,Sat,Home,L,0.0,1.0,Roma,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,,Pisa,for
+2025-09-14,15:00 (10:00),Matchweek 3,Sun,Home,L,0.0,1.0,Udinese,0.0,12.0,2.0,16.7,0.0,0.0,0.0,0.0,,Pisa,for
+2025-09-22,20:45 (15:45),Matchweek 4,Mon,Away,L,2.0,3.0,Napoli,2.0,15.0,6.0,40.0,0.07,0.17,1.0,1.0,,Pisa,for
+2025-09-28,15:00 (10:00),Matchweek 5,Sun,Home,D,0.0,0.0,Fiorentina,0.0,11.0,1.0,9.1,0.0,0.0,0.0,0.0,,Pisa,for
+2025-10-05,15:00 (10:00),Matchweek 6,Sun,Away,L,0.0,4.0,Bologna,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,,Pisa,for
+2025-10-18,15:00 (10:00),Matchweek 7,Sat,Home,D,0.0,0.0,Hellas Verona,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,,Pisa,for
+2025-10-24,20:45 (15:45),Matchweek 8,Fri,Away,D,2.0,2.0,Milan,2.0,8.0,2.0,25.0,0.13,0.5,1.0,1.0,,Pisa,for
+2025-10-30,20:45 (16:45),Matchweek 9,Thu,Home,D,0.0,0.0,Lazio,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,,Pisa,for
+2025-11-02,15:00 (11:00),Matchweek 10,Sun,Away,D,2.0,2.0,Torino,2.0,11.0,3.0,27.3,0.09,0.33,1.0,1.0,,Pisa,for
+2025-11-07,20:45 (16:45),Matchweek 11,Fri,Home,W,1.0,0.0,Cremonese,1.0,13.0,6.0,46.2,0.08,0.17,0.0,0.0,,Pisa,for
+2025-11-24,20:45 (16:45),Matchweek 12,Mon,Away,D,2.0,2.0,Sassuolo,2.0,10.0,3.0,30.0,0.1,0.33,1.0,1.0,,Pisa,for
+2025-11-30,15:00 (11:00),Matchweek 13,Sun,Home,L,0.0,2.0,Inter,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,,Pisa,for
+2025-12-08,15:00 (11:00),Matchweek 14,Mon,Home,L,0.0,1.0,Parma,0.0,14.0,2.0,14.3,0.0,0.0,0.0,0.0,,Pisa,for
+2025-12-12,20:45 (16:45),Matchweek 15,Fri,Away,L,0.0,1.0,Lecce,0.0,5.0,0.0,0.0,0.0,,0.0,0.0,,Pisa,for
+2025-12-21,12:30 (08:30),Matchweek 16,Sun,Away,D,2.0,2.0,Cagliari,2.0,15.0,3.0,20.0,0.07,0.33,1.0,1.0,,Pisa,for
+2025-12-27,20:45 (16:45),Matchweek 17,Sat,Home,L,0.0,2.0,Juventus,0.0,8.0,0.0,0.0,0.0,,0.0,0.0,,Pisa,for
+2026-01-03,15:00 (11:00),Matchweek 18,Sat,Away,D,1.0,1.0,Genoa,1.0,10.0,2.0,20.0,0.1,0.5,0.0,0.0,,Pisa,for
+2026-01-06,15:00 (11:00),Matchweek 19,Tue,Home,L,0.0,3.0,Como,0.0,10.0,4.0,40.0,0.0,0.0,0.0,1.0,,Pisa,for
+2026-01-10,15:00 (11:00),Matchweek 20,Sat,Away,D,2.0,2.0,Udinese,2.0,14.0,7.0,50.0,0.14,0.29,0.0,0.0,,Pisa,for
+2026-01-16,20:45 (16:45),Matchweek 21,Fri,Home,D,1.0,1.0,Atalanta,1.0,14.0,6.0,42.9,0.07,0.17,0.0,0.0,,Pisa,for
+2026-01-23,20:45 (16:45),Matchweek 22,Fri,Away,L,2.0,6.0,Inter,2.0,8.0,3.0,37.5,0.25,0.67,0.0,0.0,,Pisa,for
+2026-01-31,15:00 (11:00),Matchweek 23,Sat,Home,L,1.0,3.0,Sassuolo,1.0,15.0,6.0,40.0,0.07,0.17,0.0,0.0,,Pisa,for
+2026-02-06,20:45 (16:45),Matchweek 24,Fri,Away,D,0.0,0.0,Hellas Verona,0.0,11.0,3.0,27.3,0.0,0.0,0.0,0.0,,Pisa,for
+2026-02-13,20:45 (16:45),Matchweek 25,Fri,Home,L,1.0,2.0,Milan,1.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,,Pisa,for
+2026-02-23,18:30 (14:30),Matchweek 26,Mon,Away,L,0.0,1.0,Fiorentina,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,,Pisa,for
+2026-03-02,18:30 (14:30),Matchweek 27,Mon,Home,L,0.0,1.0,Bologna,0.0,6.0,3.0,50.0,0.0,0.0,0.0,0.0,,Pisa,for
+2026-03-07,20:45 (16:45),Matchweek 28,Sat,Away,L,0.0,4.0,Juventus,0.0,7.0,2.0,28.6,0.0,0.0,0.0,0.0,,Pisa,for
+2026-03-15,15:00 (11:00),Matchweek 29,Sun,Home,W,3.0,1.0,Cagliari,3.0,10.0,6.0,60.0,0.2,0.33,1.0,1.0,,Pisa,for
+2026-03-22,12:30 (08:30),Matchweek 30,Sun,Away,L,0.0,5.0,Como,0.0,7.0,0.0,0.0,0.0,,0.0,0.0,,Pisa,for
+2026-04-05,18:00 (13:00),Matchweek 31,Sun,Home,L,0.0,1.0,Torino,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,,Pisa,for
+2026-04-10,20:45 (15:45),Matchweek 32,Fri,Away,L,0.0,3.0,Roma,0.0,9.0,5.0,55.6,0.0,0.0,0.0,0.0,,Pisa,for
+2026-04-19,18:00 (13:00),Matchweek 33,Sun,Home,L,1.0,2.0,Genoa,1.0,12.0,4.0,33.3,0.08,0.25,0.0,0.0,,Pisa,for
+2026-04-25,15:00 (10:00),Matchweek 34,Sat,Away,L,0.0,1.0,Parma,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,,Pisa,for
+For Pisa,For Pisa,For Pisa,For Pisa,For Pisa,For Pisa,,,For Pisa,,,,,,,,,,Pisa,for
+2025-08-23,20:45 (15:45),Matchweek 1,Sat,Home,W,1.0,0.0,Bologna,1.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,,Roma,for
+2025-08-30,20:45 (15:45),Matchweek 2,Sat,Away,W,1.0,0.0,Pisa,1.0,10.0,5.0,50.0,0.1,0.2,0.0,0.0,,Roma,for
+2025-09-14,12:30 (07:30),Matchweek 3,Sun,Home,L,0.0,1.0,Torino,0.0,22.0,5.0,22.7,0.0,0.0,0.0,0.0,,Roma,for
+2025-09-21,12:30 (07:30),Matchweek 4,Sun,Away,W,1.0,0.0,Lazio,1.0,13.0,6.0,46.2,0.08,0.17,0.0,0.0,,Roma,for
+2025-09-28,15:00 (10:00),Matchweek 5,Sun,Home,W,2.0,0.0,Hellas Verona,2.0,10.0,5.0,50.0,0.2,0.4,0.0,0.0,,Roma,for
+2025-10-05,15:00 (10:00),Matchweek 6,Sun,Away,W,2.0,1.0,Fiorentina,2.0,8.0,3.0,37.5,0.25,0.67,0.0,0.0,,Roma,for
+2025-10-18,20:45 (15:45),Matchweek 7,Sat,Home,L,0.0,1.0,Inter,0.0,15.0,5.0,33.3,0.0,0.0,0.0,0.0,,Roma,for
+2025-10-26,15:00 (11:00),Matchweek 8,Sun,Away,W,1.0,0.0,Sassuolo,1.0,15.0,8.0,53.3,0.07,0.13,0.0,0.0,,Roma,for
+2025-10-29,18:30 (14:30),Matchweek 9,Wed,Home,W,2.0,1.0,Parma,2.0,18.0,6.0,33.3,0.11,0.33,0.0,0.0,,Roma,for
+2025-11-02,20:45 (16:45),Matchweek 10,Sun,Away,L,0.0,1.0,Milan,0.0,20.0,6.0,30.0,0.0,0.0,0.0,1.0,,Roma,for
+2025-11-09,18:00 (14:00),Matchweek 11,Sun,Home,W,2.0,0.0,Udinese,2.0,13.0,4.0,30.8,0.08,0.25,1.0,1.0,,Roma,for
+2025-11-23,15:00 (11:00),Matchweek 12,Sun,Away,W,3.0,1.0,Cremonese,3.0,12.0,6.0,50.0,0.25,0.5,0.0,0.0,,Roma,for
+2025-11-30,20:45 (16:45),Matchweek 13,Sun,Home,L,0.0,1.0,Napoli,0.0,8.0,2.0,25.0,0.0,0.0,0.0,0.0,,Roma,for
+2025-12-07,15:00 (11:00),Matchweek 14,Sun,Away,L,0.0,1.0,Cagliari,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,,Roma,for
+2025-12-15,20:45 (16:45),Matchweek 15,Mon,Home,W,1.0,0.0,Como,1.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,,Roma,for
+2025-12-20,20:45 (16:45),Matchweek 16,Sat,Away,L,1.0,2.0,Juventus,1.0,14.0,5.0,35.7,0.07,0.2,0.0,0.0,,Roma,for
+2025-12-29,20:45 (16:45),Matchweek 17,Mon,Home,W,3.0,1.0,Genoa,3.0,16.0,8.0,50.0,0.19,0.38,0.0,0.0,,Roma,for
+2026-01-03,20:45 (16:45),Matchweek 18,Sat,Away,L,0.0,1.0,Atalanta,0.0,10.0,4.0,40.0,0.0,0.0,0.0,0.0,,Roma,for
+2026-01-06,18:00 (14:00),Matchweek 19,Tue,Away,W,2.0,0.0,Lecce,2.0,10.0,3.0,30.0,0.2,0.67,0.0,0.0,,Roma,for
+2026-01-10,18:00 (14:00),Matchweek 20,Sat,Home,W,2.0,0.0,Sassuolo,2.0,26.0,6.0,23.1,0.08,0.33,0.0,0.0,,Roma,for
+2026-01-18,18:00 (14:00),Matchweek 21,Sun,Away,W,2.0,0.0,Torino,2.0,14.0,5.0,35.7,0.14,0.4,0.0,0.0,,Roma,for
+2026-01-25,20:45 (16:45),Matchweek 22,Sun,Home,D,1.0,1.0,Milan,1.0,15.0,7.0,46.7,0.0,0.0,1.0,1.0,,Roma,for
+2026-02-02,20:45 (16:45),Matchweek 23,Mon,Away,L,0.0,1.0,Udinese,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,,Roma,for
+2026-02-09,20:45 (16:45),Matchweek 24,Mon,Home,W,2.0,0.0,Cagliari,2.0,15.0,5.0,33.3,0.13,0.4,0.0,0.0,,Roma,for
+2026-02-15,20:45 (16:45),Matchweek 25,Sun,Away,D,2.0,2.0,Napoli,2.0,9.0,2.0,22.2,0.11,0.5,1.0,1.0,,Roma,for
+2026-02-22,20:45 (16:45),Matchweek 26,Sun,Home,W,3.0,0.0,Cremonese,3.0,23.0,5.0,21.7,0.13,0.6,0.0,0.0,,Roma,for
+2026-03-01,20:45 (16:45),Matchweek 27,Sun,Home,D,3.0,3.0,Juventus,3.0,11.0,5.0,45.5,0.27,0.6,0.0,0.0,,Roma,for
+2026-03-08,18:00 (14:00),Matchweek 28,Sun,Away,L,1.0,2.0,Genoa,1.0,8.0,1.0,12.5,0.13,1.0,0.0,0.0,,Roma,for
+2026-03-15,18:00 (14:00),Matchweek 29,Sun,Away,L,1.0,2.0,Como,1.0,3.0,1.0,33.3,0.0,0.0,1.0,1.0,,Roma,for
+2026-03-22,18:00 (14:00),Matchweek 30,Sun,Home,W,1.0,0.0,Lecce,1.0,14.0,2.0,14.3,0.07,0.5,0.0,0.0,,Roma,for
+2026-04-05,20:45 (15:45),Matchweek 31,Sun,Away,L,2.0,5.0,Inter,2.0,9.0,3.0,33.3,0.22,0.67,0.0,0.0,,Roma,for
+2026-04-10,20:45 (15:45),Matchweek 32,Fri,Home,W,3.0,0.0,Pisa,3.0,8.0,3.0,37.5,0.38,1.0,0.0,0.0,,Roma,for
+2026-04-18,20:45 (15:45),Matchweek 33,Sat,Home,D,1.0,1.0,Atalanta,1.0,19.0,9.0,47.4,0.05,0.11,0.0,0.0,,Roma,for
+2026-04-25,18:00 (13:00),Matchweek 34,Sat,Away,W,2.0,0.0,Bologna,2.0,7.0,2.0,28.6,0.29,1.0,0.0,0.0,,Roma,for
+For Roma,For Roma,For Roma,For Roma,For Roma,For Roma,,,For Roma,,,,,,,,,,Roma,for
+2025-08-23,18:30 (13:30),Matchweek 1,Sat,Home,L,0.0,2.0,Napoli,0.0,7.0,2.0,28.6,0.0,0.0,0.0,0.0,,Sassuolo,for
+2025-08-29,18:30 (13:30),Matchweek 2,Fri,Away,L,2.0,3.0,Cremonese,2.0,9.0,6.0,66.7,0.11,0.17,1.0,1.0,,Sassuolo,for
+2025-09-14,18:00 (13:00),Matchweek 3,Sun,Home,W,1.0,0.0,Lazio,1.0,10.0,3.0,30.0,0.1,0.33,0.0,0.0,,Sassuolo,for
+2025-09-21,20:45 (15:45),Matchweek 4,Sun,Away,L,1.0,2.0,Inter,1.0,9.0,5.0,55.6,0.11,0.2,0.0,0.0,,Sassuolo,for
+2025-09-28,12:30 (07:30),Matchweek 5,Sun,Home,W,3.0,1.0,Udinese,3.0,11.0,5.0,45.5,0.27,0.6,0.0,0.0,,Sassuolo,for
+2025-10-03,20:45 (15:45),Matchweek 6,Fri,Away,W,1.0,0.0,Hellas Verona,1.0,11.0,3.0,27.3,0.09,0.33,0.0,1.0,,Sassuolo,for
+2025-10-18,15:00 (10:00),Matchweek 7,Sat,Away,D,0.0,0.0,Lecce,0.0,9.0,2.0,22.2,0.0,0.0,0.0,0.0,,Sassuolo,for
+2025-10-26,15:00 (11:00),Matchweek 8,Sun,Home,L,0.0,1.0,Roma,0.0,11.0,1.0,9.1,0.0,0.0,0.0,0.0,,Sassuolo,for
+2025-10-30,18:30 (14:30),Matchweek 9,Thu,Away,W,2.0,1.0,Cagliari,2.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,,Sassuolo,for
+2025-11-03,18:30 (14:30),Matchweek 10,Mon,Home,L,1.0,2.0,Genoa,1.0,13.0,4.0,30.8,0.08,0.25,0.0,0.0,,Sassuolo,for
+2025-11-09,12:30 (08:30),Matchweek 11,Sun,Away,W,3.0,0.0,Atalanta,3.0,8.0,4.0,50.0,0.25,0.5,1.0,1.0,,Sassuolo,for
+2025-11-24,20:45 (16:45),Matchweek 12,Mon,Home,D,2.0,2.0,Pisa,2.0,22.0,7.0,31.8,0.09,0.29,0.0,0.0,,Sassuolo,for
+2025-11-28,20:45 (16:45),Matchweek 13,Fri,Away,L,0.0,2.0,Como,0.0,12.0,5.0,41.7,0.0,0.0,0.0,0.0,,Sassuolo,for
+2025-12-06,15:00 (11:00),Matchweek 14,Sat,Home,W,3.0,1.0,Fiorentina,3.0,13.0,5.0,38.5,0.23,0.6,0.0,0.0,,Sassuolo,for
+2025-12-14,12:30 (08:30),Matchweek 15,Sun,Away,D,2.0,2.0,Milan,2.0,8.0,3.0,37.5,0.25,0.67,0.0,0.0,,Sassuolo,for
+2025-12-21,15:00 (11:00),Matchweek 16,Sun,Home,L,0.0,1.0,Torino,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,,Sassuolo,for
+2025-12-28,18:00 (14:00),Matchweek 17,Sun,Away,D,1.0,1.0,Bologna,1.0,8.0,5.0,62.5,0.13,0.2,0.0,0.0,,Sassuolo,for
+2026-01-03,15:00 (11:00),Matchweek 18,Sat,Home,D,1.0,1.0,Parma,1.0,11.0,3.0,27.3,0.09,0.33,0.0,0.0,,Sassuolo,for
+2026-01-06,20:45 (16:45),Matchweek 19,Tue,Home,L,0.0,3.0,Juventus,0.0,6.0,2.0,33.3,0.0,0.0,0.0,0.0,,Sassuolo,for
+2026-01-10,18:00 (14:00),Matchweek 20,Sat,Away,L,0.0,2.0,Roma,0.0,5.0,3.0,60.0,0.0,0.0,0.0,0.0,,Sassuolo,for
+2026-01-17,18:00 (14:00),Matchweek 21,Sat,Away,L,0.0,1.0,Napoli,0.0,21.0,4.0,19.0,0.0,0.0,0.0,0.0,,Sassuolo,for
+2026-01-25,12:30 (08:30),Matchweek 22,Sun,Home,W,1.0,0.0,Cremonese,1.0,13.0,7.0,53.8,0.08,0.14,0.0,0.0,,Sassuolo,for
+2026-01-31,15:00 (11:00),Matchweek 23,Sat,Away,W,3.0,1.0,Pisa,2.0,21.0,5.0,23.8,0.1,0.4,0.0,0.0,,Sassuolo,for
+2026-02-08,18:00 (14:00),Matchweek 24,Sun,Home,L,0.0,5.0,Inter,0.0,7.0,2.0,28.6,0.0,0.0,0.0,0.0,,Sassuolo,for
+2026-02-15,12:30 (08:30),Matchweek 25,Sun,Away,W,2.0,1.0,Udinese,2.0,10.0,3.0,30.0,0.2,0.67,0.0,0.0,,Sassuolo,for
+2026-02-20,20:45 (16:45),Matchweek 26,Fri,Home,W,3.0,0.0,Hellas Verona,3.0,8.0,4.0,50.0,0.38,0.75,0.0,1.0,,Sassuolo,for
+2026-03-01,15:00 (11:00),Matchweek 27,Sun,Home,W,2.0,1.0,Atalanta,2.0,7.0,5.0,71.4,0.29,0.4,0.0,0.0,,Sassuolo,for
+2026-03-09,20:45 (16:45),Matchweek 28,Mon,Away,L,1.0,2.0,Lazio,1.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,,Sassuolo,for
+2026-03-15,15:00 (11:00),Matchweek 29,Sun,Home,L,0.0,1.0,Bologna,0.0,9.0,4.0,44.4,0.0,0.0,0.0,0.0,,Sassuolo,for
+2026-03-21,20:45 (16:45),Matchweek 30,Sat,Away,D,1.0,1.0,Juventus,1.0,7.0,1.0,14.3,0.14,1.0,0.0,0.0,,Sassuolo,for
+2026-04-04,15:00 (10:00),Matchweek 31,Sat,Home,W,2.0,1.0,Cagliari,2.0,9.0,2.0,22.2,0.22,1.0,0.0,0.0,,Sassuolo,for
+2026-04-12,12:30 (07:30),Matchweek 32,Sun,Away,L,1.0,2.0,Genoa,1.0,15.0,6.0,40.0,0.07,0.17,0.0,0.0,,Sassuolo,for
+2026-04-17,18:30 (13:30),Matchweek 33,Fri,Home,W,2.0,1.0,Como,2.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,,Sassuolo,for
+2026-04-26,12:30 (07:30),Matchweek 34,Sun,Away,D,0.0,0.0,Fiorentina,0.0,11.0,1.0,9.1,0.0,0.0,0.0,0.0,,Sassuolo,for
+For Sassuolo,For Sassuolo,For Sassuolo,For Sassuolo,For Sassuolo,For Sassuolo,,,For Sassuolo,,,,,,,,,,Sassuolo,for
+2025-08-25,20:45 (15:45),Matchweek 1,Mon,Away,L,0.0,5.0,Inter,0.0,12.0,4.0,33.3,0.0,0.0,0.0,0.0,,Torino,for
+2025-08-31,18:30 (13:30),Matchweek 2,Sun,Home,D,0.0,0.0,Fiorentina,0.0,7.0,4.0,57.1,0.0,0.0,0.0,0.0,,Torino,for
+2025-09-14,12:30 (07:30),Matchweek 3,Sun,Away,W,1.0,0.0,Roma,1.0,8.0,4.0,50.0,0.13,0.25,0.0,0.0,,Torino,for
+2025-09-21,15:00 (10:00),Matchweek 4,Sun,Home,L,0.0,3.0,Atalanta,0.0,11.0,5.0,45.5,0.0,0.0,0.0,1.0,,Torino,for
+2025-09-29,18:30 (13:30),Matchweek 5,Mon,Away,L,1.0,2.0,Parma,1.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,,Torino,for
+2025-10-04,15:00 (10:00),Matchweek 6,Sat,Away,D,3.0,3.0,Lazio,3.0,16.0,8.0,50.0,0.19,0.38,0.0,0.0,,Torino,for
+2025-10-18,18:00 (13:00),Matchweek 7,Sat,Home,W,1.0,0.0,Napoli,1.0,12.0,2.0,16.7,0.08,0.5,0.0,0.0,,Torino,for
+2025-10-26,12:30 (08:30),Matchweek 8,Sun,Home,W,2.0,1.0,Genoa,1.0,13.0,6.0,46.2,0.08,0.17,0.0,0.0,,Torino,for
+2025-10-29,20:45 (16:45),Matchweek 9,Wed,Away,D,0.0,0.0,Bologna,0.0,8.0,2.0,25.0,0.0,0.0,0.0,0.0,,Torino,for
+2025-11-02,15:00 (11:00),Matchweek 10,Sun,Home,D,2.0,2.0,Pisa,2.0,15.0,3.0,20.0,0.13,0.67,0.0,0.0,,Torino,for
+2025-11-08,18:00 (14:00),Matchweek 11,Sat,Away,D,0.0,0.0,Juventus,0.0,8.0,3.0,37.5,0.0,0.0,0.0,0.0,,Torino,for
+2025-11-24,18:30 (14:30),Matchweek 12,Mon,Home,L,1.0,5.0,Como,1.0,10.0,2.0,20.0,0.0,0.0,1.0,1.0,,Torino,for
+2025-11-30,12:30 (08:30),Matchweek 13,Sun,Away,L,1.0,2.0,Lecce,1.0,15.0,6.0,40.0,0.07,0.17,0.0,1.0,,Torino,for
+2025-12-08,20:45 (16:45),Matchweek 14,Mon,Home,L,2.0,3.0,Milan,2.0,8.0,4.0,50.0,0.13,0.25,1.0,1.0,,Torino,for
+2025-12-13,15:00 (11:00),Matchweek 15,Sat,Home,W,1.0,0.0,Cremonese,1.0,18.0,6.0,33.3,0.06,0.17,0.0,0.0,,Torino,for
+2025-12-21,15:00 (11:00),Matchweek 16,Sun,Away,W,1.0,0.0,Sassuolo,1.0,10.0,5.0,50.0,0.0,0.0,1.0,1.0,,Torino,for
+2025-12-27,15:00 (11:00),Matchweek 17,Sat,Home,L,1.0,2.0,Cagliari,1.0,19.0,10.0,52.6,0.05,0.1,0.0,0.0,,Torino,for
+2026-01-04,18:00 (14:00),Matchweek 18,Sun,Away,W,3.0,0.0,Hellas Verona,3.0,21.0,5.0,23.8,0.14,0.6,0.0,0.0,,Torino,for
+2026-01-07,20:45 (16:45),Matchweek 19,Wed,Home,L,1.0,2.0,Udinese,1.0,10.0,4.0,40.0,0.1,0.25,0.0,0.0,,Torino,for
+2026-01-10,20:45 (16:45),Matchweek 20,Sat,Away,L,0.0,2.0,Atalanta,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,,Torino,for
+2026-01-18,18:00 (14:00),Matchweek 21,Sun,Home,L,0.0,2.0,Roma,0.0,8.0,4.0,50.0,0.0,0.0,0.0,0.0,,Torino,for
+2026-01-24,15:00 (11:00),Matchweek 22,Sat,Away,L,0.0,6.0,Como,0.0,7.0,1.0,14.3,0.0,0.0,0.0,0.0,,Torino,for
+2026-02-01,12:30 (08:30),Matchweek 23,Sun,Home,W,1.0,0.0,Lecce,1.0,17.0,5.0,29.4,0.06,0.2,0.0,0.0,,Torino,for
+2026-02-07,20:45 (16:45),Matchweek 24,Sat,Away,D,2.0,2.0,Fiorentina,2.0,12.0,4.0,33.3,0.17,0.5,0.0,0.0,,Torino,for
+2026-02-15,18:00 (14:00),Matchweek 25,Sun,Home,L,1.0,2.0,Bologna,1.0,7.0,2.0,28.6,0.14,0.5,0.0,0.0,,Torino,for
+2026-02-22,12:30 (08:30),Matchweek 26,Sun,Away,L,0.0,3.0,Genoa,0.0,7.0,3.0,42.9,0.0,0.0,0.0,0.0,,Torino,for
+2026-03-01,18:00 (14:00),Matchweek 27,Sun,Home,W,2.0,0.0,Lazio,2.0,13.0,5.0,38.5,0.15,0.4,0.0,0.0,,Torino,for
+2026-03-06,20:45 (16:45),Matchweek 28,Fri,Away,L,1.0,2.0,Napoli,1.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,,Torino,for
+2026-03-13,20:45 (16:45),Matchweek 29,Fri,Home,W,4.0,1.0,Parma,3.0,15.0,6.0,40.0,0.2,0.5,0.0,0.0,,Torino,for
+2026-03-21,18:00 (14:00),Matchweek 30,Sat,Away,L,2.0,3.0,Milan,2.0,18.0,7.0,38.9,0.06,0.14,1.0,1.0,,Torino,for
+2026-04-05,18:00 (13:00),Matchweek 31,Sun,Away,W,1.0,0.0,Pisa,1.0,13.0,2.0,15.4,0.08,0.5,0.0,0.0,,Torino,for
+2026-04-11,15:00 (10:00),Matchweek 32,Sat,Home,W,2.0,1.0,Hellas Verona,2.0,11.0,2.0,18.2,0.18,1.0,0.0,0.0,,Torino,for
+2026-04-19,12:30 (07:30),Matchweek 33,Sun,Away,D,0.0,0.0,Cremonese,0.0,4.0,1.0,25.0,0.0,0.0,0.0,0.0,,Torino,for
+2026-04-26,18:00 (13:00),Matchweek 34,Sun,Home,D,2.0,2.0,Inter,2.0,14.0,2.0,14.3,0.07,0.5,1.0,1.0,,Torino,for
+For Torino,For Torino,For Torino,For Torino,For Torino,For Torino,,,For Torino,,,,,,,,,,Torino,for
+2025-08-25,18:30 (13:30),Matchweek 1,Mon,Home,D,1.0,1.0,Hellas Verona,1.0,14.0,4.0,28.6,0.07,0.25,0.0,0.0,,Udinese,for
+2025-08-31,20:45 (15:45),Matchweek 2,Sun,Away,W,2.0,1.0,Inter,2.0,10.0,5.0,50.0,0.1,0.2,1.0,1.0,,Udinese,for
+2025-09-14,15:00 (10:00),Matchweek 3,Sun,Away,W,1.0,0.0,Pisa,1.0,13.0,3.0,23.1,0.08,0.33,0.0,0.0,,Udinese,for
+2025-09-20,20:45 (15:45),Matchweek 4,Sat,Home,L,0.0,3.0,Milan,0.0,10.0,4.0,40.0,0.0,0.0,0.0,0.0,,Udinese,for
+2025-09-28,12:30 (07:30),Matchweek 5,Sun,Away,L,1.0,3.0,Sassuolo,1.0,12.0,5.0,41.7,0.08,0.2,0.0,0.0,,Udinese,for
+2025-10-05,12:30 (07:30),Matchweek 6,Sun,Home,D,1.0,1.0,Cagliari,1.0,23.0,4.0,17.4,0.04,0.25,0.0,0.0,,Udinese,for
+2025-10-20,20:45 (15:45),Matchweek 7,Mon,Away,D,1.0,1.0,Cremonese,1.0,8.0,1.0,12.5,0.13,1.0,0.0,0.0,,Udinese,for
+2025-10-25,15:00 (10:00),Matchweek 8,Sat,Home,W,3.0,2.0,Lecce,3.0,8.0,4.0,50.0,0.38,0.75,0.0,0.0,,Udinese,for
+2025-10-29,18:30 (14:30),Matchweek 9,Wed,Away,L,1.0,3.0,Juventus,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Udinese,for
+2025-11-01,15:00 (11:00),Matchweek 10,Sat,Home,W,1.0,0.0,Atalanta,1.0,11.0,5.0,45.5,0.09,0.2,0.0,0.0,,Udinese,for
+2025-11-09,18:00 (14:00),Matchweek 11,Sun,Away,L,0.0,2.0,Roma,0.0,10.0,4.0,40.0,0.0,0.0,0.0,0.0,,Udinese,for
+2025-11-22,15:00 (11:00),Matchweek 12,Sat,Home,L,0.0,3.0,Bologna,0.0,12.0,3.0,25.0,0.0,0.0,0.0,0.0,,Udinese,for
+2025-11-29,15:00 (11:00),Matchweek 13,Sat,Away,W,2.0,0.0,Parma,2.0,14.0,5.0,35.7,0.07,0.2,1.0,1.0,,Udinese,for
+2025-12-08,18:00 (14:00),Matchweek 14,Mon,Home,L,1.0,2.0,Genoa,1.0,23.0,6.0,26.1,0.04,0.17,0.0,0.0,,Udinese,for
+2025-12-14,15:00 (11:00),Matchweek 15,Sun,Home,W,1.0,0.0,Napoli,1.0,18.0,5.0,27.8,0.06,0.2,0.0,0.0,,Udinese,for
+2025-12-21,18:00 (14:00),Matchweek 16,Sun,Away,L,1.0,5.0,Fiorentina,1.0,11.0,4.0,36.4,0.09,0.25,0.0,0.0,,Udinese,for
+2025-12-27,18:00 (14:00),Matchweek 17,Sat,Home,D,1.0,1.0,Lazio,1.0,15.0,4.0,26.7,0.07,0.25,0.0,0.0,,Udinese,for
+2026-01-03,12:30 (08:30),Matchweek 18,Sat,Away,L,0.0,1.0,Como,0.0,3.0,0.0,0.0,0.0,,0.0,0.0,,Udinese,for
+2026-01-07,20:45 (16:45),Matchweek 19,Wed,Away,W,2.0,1.0,Torino,2.0,9.0,4.0,44.4,0.22,0.5,0.0,0.0,,Udinese,for
+2026-01-10,15:00 (11:00),Matchweek 20,Sat,Home,D,2.0,2.0,Pisa,2.0,11.0,2.0,18.2,0.09,0.5,1.0,1.0,,Udinese,for
+2026-01-17,15:00 (11:00),Matchweek 21,Sat,Home,L,0.0,1.0,Inter,0.0,5.0,1.0,20.0,0.0,0.0,0.0,0.0,,Udinese,for
+2026-01-26,20:45 (16:45),Matchweek 22,Mon,Away,W,3.0,1.0,Hellas Verona,3.0,20.0,7.0,35.0,0.15,0.43,0.0,0.0,,Udinese,for
+2026-02-02,20:45 (16:45),Matchweek 23,Mon,Home,W,1.0,0.0,Roma,1.0,7.0,4.0,57.1,0.14,0.25,0.0,0.0,,Udinese,for
+2026-02-08,15:00 (11:00),Matchweek 24,Sun,Away,L,1.0,2.0,Lecce,1.0,6.0,1.0,16.7,0.0,0.0,1.0,1.0,,Udinese,for
+2026-02-15,12:30 (08:30),Matchweek 25,Sun,Home,L,1.0,2.0,Sassuolo,1.0,8.0,2.0,25.0,0.13,0.5,0.0,0.0,,Udinese,for
+2026-02-23,20:45 (16:45),Matchweek 26,Mon,Away,L,0.0,1.0,Bologna,0.0,10.0,3.0,30.0,0.0,0.0,0.0,0.0,,Udinese,for
+2026-03-02,20:45 (16:45),Matchweek 27,Mon,Home,W,3.0,0.0,Fiorentina,3.0,10.0,7.0,70.0,0.2,0.29,1.0,1.0,,Udinese,for
+2026-03-07,18:00 (14:00),Matchweek 28,Sat,Away,D,2.0,2.0,Atalanta,2.0,8.0,2.0,25.0,0.25,1.0,0.0,0.0,,Udinese,for
+2026-03-14,20:45 (16:45),Matchweek 29,Sat,Home,L,0.0,1.0,Juventus,0.0,10.0,2.0,20.0,0.0,0.0,0.0,0.0,,Udinese,for
+2026-03-20,20:45 (16:45),Matchweek 30,Fri,Away,W,2.0,0.0,Genoa,2.0,6.0,4.0,66.7,0.33,0.5,0.0,0.0,,Udinese,for
+2026-04-06,12:30 (07:30),Matchweek 31,Mon,Home,D,0.0,0.0,Como,0.0,14.0,4.0,28.6,0.0,0.0,0.0,0.0,,Udinese,for
+2026-04-11,18:00 (13:00),Matchweek 32,Sat,Away,W,3.0,0.0,Milan,2.0,12.0,6.0,50.0,0.17,0.33,0.0,0.0,,Udinese,for
+2026-04-18,15:00 (10:00),Matchweek 33,Sat,Home,L,0.0,1.0,Parma,0.0,16.0,3.0,18.8,0.0,0.0,0.0,0.0,,Udinese,for
+For Udinese,For Udinese,For Udinese,For Udinese,For Udinese,For Udinese,,,For Udinese,,,,,,,,,,Udinese,for
