@@ -1,109 +1,109 @@
 target,market,feature
-over_15,Over 1.5 goles,gf_rolling3_away
-over_15,Over 1.5 goles,poss_rolling3_home
-over_15,Over 1.5 goles,xg_rolling3_away
-over_15,Over 1.5 goles,big_chances_scored_rolling3_away
+over_15,Over 1.5 goles,poss_rolling3_away
+over_15,Over 1.5 goles,sh_rolling3_home
+over_15,Over 1.5 goles,diff_sot_pct_rolling3
+over_15,Over 1.5 goles,xga_rolling3_home
+over_15,Over 1.5 goles,big_chances_allowed_rolling3_home
+over_15,Over 1.5 goles,big_chances_scored_allowed_rolling3_home
+over_15,Over 1.5 goles,fouls_allowed_rolling3_away
 over_15,Over 1.5 goles,diff_fouls_allowed_rolling3
-over_15,Over 1.5 goles,passes_rolling3_home
-over_15,Over 1.5 goles,passes_allowed_rolling3_home
-over_15,Over 1.5 goles,pass_accuracy_pct_rolling3_home
+over_15,Over 1.5 goles,passes_allowed_rolling3_away
+over_15,Over 1.5 goles,accurate_passes_allowed_rolling3_home
+over_15,Over 1.5 goles,pass_accuracy_pct_allowed_rolling3_away
+over_15,Over 1.5 goles,yellow_cards_allowed_rolling3_away
+over_15,Over 1.5 goles,diff_yellow_cards_allowed_rolling3
 over_15,Over 1.5 goles,red_cards_allowed_rolling3_away
-over_15,Over 1.5 goles,diff_red_cards_allowed_rolling3
-over_15,Over 1.5 goles,through_balls_rolling3_home
-over_15,Over 1.5 goles,ground_duels_won_rolling3_home
-over_15,Over 1.5 goles,successful_dribbles_rolling3_home
-over_15,Over 1.5 goles,clearances_rolling3_home
-over_15,Over 1.5 goles,goals_minus_xg_allowed_rolling3_home
-over_15,Over 1.5 goles,poss_rolling5_home
-over_15,Over 1.5 goles,sot_rolling5_home
-over_15,Over 1.5 goles,xg_rolling5_home
-over_15,Over 1.5 goles,xg_rolling5_away
-over_15,Over 1.5 goles,big_chances_rolling5_home
-over_15,Over 1.5 goles,big_chances_missed_rolling5_home
-over_15,Over 1.5 goles,corner_kicks_allowed_rolling5_away
-over_15,Over 1.5 goles,passes_rolling5_home
-over_15,Over 1.5 goles,passes_allowed_rolling5_home
-over_15,Over 1.5 goles,pass_accuracy_pct_rolling5_home
-over_15,Over 1.5 goles,pass_accuracy_pct_rolling5_away
-over_15,Over 1.5 goles,red_cards_allowed_rolling5_away
-over_15,Over 1.5 goles,goalkeeper_saves_allowed_rolling5_home
-over_15,Over 1.5 goles,through_balls_rolling5_home
-over_15,Over 1.5 goles,interceptions_rolling5_home
-over_15,Over 1.5 goles,clearances_rolling5_home
-over_15,Over 1.5 goles,table_ppg_prev_home
-over_15,Over 1.5 goles,table_gd_prev_home
-over_15,Over 1.5 goles,table_rank_pct_prev_home
+over_15,Over 1.5 goles,shots_off_target_rolling3_home
+over_15,Over 1.5 goles,diff_shots_off_target_rolling3
+over_15,Over 1.5 goles,touches_in_box_rolling3_home
+over_15,Over 1.5 goles,interceptions_allowed_rolling3_home
+over_15,Over 1.5 goles,diff_interceptions_allowed_rolling3
+over_15,Over 1.5 goles,xga_rolling5_home
+over_15,Over 1.5 goles,big_chances_allowed_rolling5_home
+over_15,Over 1.5 goles,big_chances_scored_allowed_rolling5_home
+over_15,Over 1.5 goles,diff_fouls_allowed_rolling5
+over_15,Over 1.5 goles,passes_rolling5_away
+over_15,Over 1.5 goles,passes_allowed_rolling5_away
+over_15,Over 1.5 goles,pass_accuracy_pct_allowed_rolling5_away
+over_15,Over 1.5 goles,yellow_cards_allowed_rolling5_away
+over_15,Over 1.5 goles,diff_yellow_cards_allowed_rolling5
+over_15,Over 1.5 goles,blocked_shots_rolling5_home
+over_15,Over 1.5 goles,interceptions_allowed_rolling5_home
+over_15,Over 1.5 goles,diff_interceptions_allowed_rolling5
+over_15,Over 1.5 goles,xg_per_sh_allowed_rolling5_home
 over_15,Over 1.5 goles,h2h_last10_away_goals_avg
+over_15,Over 1.5 goles,h2h_last10_btts_pct
 over_15,Over 1.5 goles,h2h_last5_away_goals_avg
-over_25,Over 2.5 goles,gf_rolling3_away
-over_25,Over 2.5 goles,poss_rolling3_home
-over_25,Over 2.5 goles,sot_rolling3_away
-over_25,Over 2.5 goles,xg_rolling3_away
-over_25,Over 2.5 goles,fouls_rolling3_away
-over_25,Over 2.5 goles,passes_rolling3_home
-over_25,Over 2.5 goles,pass_accuracy_pct_rolling3_home
-over_25,Over 2.5 goles,aerial_duels_won_rolling3_home
-over_25,Over 2.5 goles,gf_rolling5_away
-over_25,Over 2.5 goles,poss_rolling5_home
-over_25,Over 2.5 goles,sh_rolling5_home
-over_25,Over 2.5 goles,sh_rolling5_away
-over_25,Over 2.5 goles,sot_rolling5_home
-over_25,Over 2.5 goles,sot_rolling5_away
-over_25,Over 2.5 goles,xg_rolling5_home
-over_25,Over 2.5 goles,xg_rolling5_away
-over_25,Over 2.5 goles,big_chances_rolling5_home
-over_25,Over 2.5 goles,big_chances_rolling5_away
-over_25,Over 2.5 goles,big_chances_scored_rolling5_away
-over_25,Over 2.5 goles,big_chances_missed_rolling5_home
-over_25,Over 2.5 goles,fouls_rolling5_home
-over_25,Over 2.5 goles,passes_rolling5_home
-over_25,Over 2.5 goles,passes_allowed_rolling5_home
-over_25,Over 2.5 goles,pass_accuracy_pct_rolling5_home
-over_25,Over 2.5 goles,goalkeeper_saves_allowed_rolling5_home
-over_25,Over 2.5 goles,shots_inside_box_rolling5_away
-over_25,Over 2.5 goles,shots_outside_box_rolling5_home
-over_25,Over 2.5 goles,through_balls_rolling5_home
-over_25,Over 2.5 goles,through_balls_rolling5_away
-over_25,Over 2.5 goles,aerial_duels_won_rolling5_home
-over_25,Over 2.5 goles,interceptions_rolling5_home
-over_25,Over 2.5 goles,diff_interceptions_rolling5
-over_25,Over 2.5 goles,table_ppg_prev_home
-over_25,Over 2.5 goles,table_gd_prev_away
-over_25,Over 2.5 goles,table_rank_pct_prev_home
-over_25,Over 2.5 goles,table_rank_pct_prev_away
-btts,Ambos anotan,gf_rolling3_away
-btts,Ambos anotan,sot_rolling3_away
-btts,Ambos anotan,diff_sot_rolling3
-btts,Ambos anotan,diff_pass_accuracy_pct_rolling3
-btts,Ambos anotan,diff_red_cards_allowed_rolling3
-btts,Ambos anotan,shots_inside_box_rolling3_away
+over_15,Over 1.5 goles,h2h_last5_btts_pct
+over_25,Over 2.5 goles,ga_rolling3_home
+over_25,Over 2.5 goles,diff_ga_rolling3
+over_25,Over 2.5 goles,poss_rolling3_away
+over_25,Over 2.5 goles,sot_pct_rolling3_home
+over_25,Over 2.5 goles,diff_sot_pct_rolling3
+over_25,Over 2.5 goles,big_chances_scored_allowed_rolling3_home
+over_25,Over 2.5 goles,pass_accuracy_pct_allowed_rolling3_away
+over_25,Over 2.5 goles,tackles_rolling3_away
+over_25,Over 2.5 goles,red_cards_rolling3_home
+over_25,Over 2.5 goles,diff_red_cards_rolling3
+over_25,Over 2.5 goles,diff_accurate_long_balls_rolling3
+over_25,Over 2.5 goles,duel_win_pct_rolling3_home
+over_25,Over 2.5 goles,successful_dribbles_rolling3_home
+over_25,Over 2.5 goles,diff_successful_dribbles_rolling3
+over_25,Over 2.5 goles,interceptions_allowed_rolling3_home
+over_25,Over 2.5 goles,diff_interceptions_allowed_rolling3
+over_25,Over 2.5 goles,sot_per_sh_allowed_rolling3_home
+over_25,Over 2.5 goles,ga_rolling5_home
+over_25,Over 2.5 goles,passes_allowed_rolling5_away
+over_25,Over 2.5 goles,pass_accuracy_pct_allowed_rolling5_away
+over_25,Over 2.5 goles,diff_yellow_cards_rolling5
+over_25,Over 2.5 goles,red_cards_rolling5_home
+over_25,Over 2.5 goles,diff_red_cards_rolling5
+over_25,Over 2.5 goles,goalkeeper_saves_rolling5_away
+over_25,Over 2.5 goles,shots_off_target_allowed_rolling5_away
+over_25,Over 2.5 goles,through_balls_allowed_rolling5_home
+over_25,Over 2.5 goles,through_balls_allowed_rolling5_away
+over_25,Over 2.5 goles,diff_through_balls_allowed_rolling5
+over_25,Over 2.5 goles,duel_win_pct_rolling5_home
+over_25,Over 2.5 goles,dispossessed_allowed_rolling5_away
+over_25,Over 2.5 goles,successful_dribbles_allowed_rolling5_home
+over_25,Over 2.5 goles,interceptions_allowed_rolling5_home
+over_25,Over 2.5 goles,diff_interceptions_allowed_rolling5
+over_25,Over 2.5 goles,sot_per_sh_allowed_rolling5_home
+over_25,Over 2.5 goles,sot_per_sh_allowed_rolling5_away
+over_25,Over 2.5 goles,goals_minus_xg_allowed_rolling5_home
+btts,Ambos anotan,diff_ga_rolling3
+btts,Ambos anotan,diff_sot_pct_rolling3
+btts,Ambos anotan,diff_xga_rolling3
+btts,Ambos anotan,diff_big_chances_allowed_rolling3
+btts,Ambos anotan,big_chances_scored_allowed_rolling3_home
+btts,Ambos anotan,diff_big_chances_scored_allowed_rolling3
+btts,Ambos anotan,fouls_allowed_rolling3_away
+btts,Ambos anotan,offsides_rolling3_home
+btts,Ambos anotan,diff_offsides_rolling3
+btts,Ambos anotan,diff_offsides_allowed_rolling3
+btts,Ambos anotan,yellow_cards_allowed_rolling3_away
+btts,Ambos anotan,red_cards_rolling3_away
 btts,Ambos anotan,diff_shots_inside_box_rolling3
-btts,Ambos anotan,through_balls_allowed_rolling3_home
-btts,Ambos anotan,diff_aerial_duels_won_allowed_rolling3
+btts,Ambos anotan,diff_through_balls_allowed_rolling3
+btts,Ambos anotan,accurate_crosses_rolling3_home
+btts,Ambos anotan,diff_accurate_crosses_rolling3
+btts,Ambos anotan,dispossessed_rolling3_home
 btts,Ambos anotan,interceptions_allowed_rolling3_home
-btts,Ambos anotan,diff_interceptions_allowed_rolling3
-btts,Ambos anotan,gf_rolling5_away
-btts,Ambos anotan,corner_kicks_rolling5_away
-btts,Ambos anotan,diff_corner_kicks_rolling5
-btts,Ambos anotan,diff_pass_accuracy_pct_rolling5
-btts,Ambos anotan,red_cards_allowed_rolling5_away
-btts,Ambos anotan,diff_red_cards_allowed_rolling5
-btts,Ambos anotan,blocked_shots_allowed_rolling5_home
-btts,Ambos anotan,shots_inside_box_rolling5_away
-btts,Ambos anotan,diff_shots_inside_box_rolling5
-btts,Ambos anotan,shots_inside_box_allowed_rolling5_home
-btts,Ambos anotan,through_balls_allowed_rolling5_home
-btts,Ambos anotan,accurate_crosses_rolling5_away
-btts,Ambos anotan,accurate_crosses_allowed_rolling5_home
+btts,Ambos anotan,diff_ga_rolling5
+btts,Ambos anotan,big_chances_allowed_rolling5_away
+btts,Ambos anotan,diff_big_chances_scored_allowed_rolling5
+btts,Ambos anotan,fouls_allowed_rolling5_away
+btts,Ambos anotan,diff_fouls_allowed_rolling5
+btts,Ambos anotan,offsides_rolling5_home
+btts,Ambos anotan,diff_offsides_rolling5
+btts,Ambos anotan,yellow_cards_allowed_rolling5_away
+btts,Ambos anotan,shots_off_target_allowed_rolling5_away
+btts,Ambos anotan,accurate_long_balls_allowed_rolling5_home
+btts,Ambos anotan,ground_duels_won_rolling5_home
+btts,Ambos anotan,aerial_duels_won_rolling5_home
 btts,Ambos anotan,interceptions_allowed_rolling5_home
-btts,Ambos anotan,diff_winrate_rolling5
-btts,Ambos anotan,h2h_all_local_win_pct
-btts,Ambos anotan,h2h_all_local_goals_avg
-btts,Ambos anotan,h2h_all_away_goals_avg
-btts,Ambos anotan,h2h_last10_local_win_pct
-btts,Ambos anotan,h2h_last10_local_goals_avg
-btts,Ambos anotan,h2h_last10_away_goals_avg
-btts,Ambos anotan,h2h_last5_local_win_pct
-btts,Ambos anotan,h2h_last5_away_win_pct
-btts,Ambos anotan,h2h_last5_local_goals_avg
-btts,Ambos anotan,h2h_last5_away_goals_avg
+btts,Ambos anotan,interceptions_allowed_rolling5_away
+btts,Ambos anotan,goal_kicks_rolling5_away
+btts,Ambos anotan,xg_per_sh_rolling5_away
+btts,Ambos anotan,diff_xg_per_sh_rolling5
+btts,Ambos anotan,goals_minus_xg_allowed_rolling5_home

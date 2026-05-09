@@ -1,913 +1,293 @@
-source_url,date,time,local_team,away_team,decimal_home_win,decimal_draw,decimal_away_win,decimal_home_or_draw,decimal_draw_or_away,decimal_home_or_away,decimal_btts_yes,decimal_btts_no,decimal_over_15,decimal_under_15,decimal_over_25,decimal_under_25
-https://www.sofascore.com/nice-lille/THslI,2023-08-11,16:00,Nice,Lille,2.5,3.5,2.8,1.4,1.5,1.2857,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-de-reims-olympique-de-marseille/QHsHI,2023-08-12,12:00,Olympique de Marseille,Stade de Reims,1.8,3.8,4.3333,1.2,1.95,1.25,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/lorient-paris-saint-germain/UHsgI,2023-08-12,16:00,Paris Saint-Germain,Lorient,1.4,4.75,7.0,1.1,2.75,1.1818,2.0,1.75,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-brestois-rc-lens/YHspJ,2023-08-13,08:00,Stade Brestois,RC Lens,3.5,3.25,2.1,1.7,1.2857,1.3333,1.95,1.8,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/clermont-foot-as-monaco/dIsFI,2023-08-13,10:00,Clermont Foot,AS Monaco,3.0,3.4,2.38,1.5333,1.3636,1.3,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-nantes/XHsGI,2023-08-13,10:00,Nantes,Toulouse,3.0,3.4,2.3,1.5714,1.3636,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/le-havre-montpellier/RHsmI,2023-08-13,10:00,Montpellier,Le Havre,1.8,3.75,4.5,1.1818,1.95,1.25,2.0,1.75,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/stade-rennais-metz/bIsiI,2023-08-13,12:05,Stade Rennais,Metz,1.62,4.2,5.0,1.1667,2.25,1.2222,1.75,2.0,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/rc-strasbourg-olympique-lyonnais/ZHsjI,2023-08-13,15:45,RC Strasbourg,Olympique Lyonnais,2.45,3.6,2.7,1.4444,1.5333,1.2857,1.5714,2.25,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/metz-olympique-de-marseille/QHsbI,2023-08-18,16:00,Metz,Olympique de Marseille,4.75,4.0,1.7,2.1,1.1818,1.2222,1.7,2.05,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/olympique-lyonnais-montpellier/RHsZH,2023-08-19,14:00,Olympique Lyonnais,Montpellier,1.85,4.0,3.6,1.2857,1.9091,1.2222,1.5,2.5,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/toulouse-paris-saint-germain/YMTc,2023-08-19,16:00,Toulouse,Paris Saint-Germain,4.5,4.0,1.7,2.1,1.1818,1.2222,1.5714,2.25,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/nantes-lille/THsXH,2023-08-20,08:00,Lille,Nantes,1.4,5.0,7.0,1.1,2.75,1.1667,1.95,1.8,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/nice-lorient/gIslI,2023-08-20,10:00,Lorient,Nice,3.25,3.4,2.25,1.6154,1.3333,1.3,1.75,2.0,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/stade-de-reims-clermont-foot/FIsHI,2023-08-20,10:00,Stade de Reims,Clermont Foot,1.8333,3.75,4.0,1.25,1.8333,1.25,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-brestois-le-havre/mIspJ,2023-08-20,10:00,Le Havre,Stade Brestois,2.8,3.1,2.75,1.4,1.4,1.3636,2.05,1.7,1.5,2.625,2.5,1.5333
-https://www.sofascore.com/rc-strasbourg-as-monaco/dIsjI,2023-08-20,14:00,AS Monaco,RC Strasbourg,1.75,4.2,4.2,1.2222,2.0,1.2222,1.5714,2.25,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/stade-rennais-rc-lens/YHsiI,2023-08-20,15:45,RC Lens,Stade Rennais,2.38,3.5,2.88,1.4,1.5333,1.2857,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/as-monaco-nantes/XHsdI,2023-08-25,16:00,Nantes,AS Monaco,4.75,4.0,1.73,1.9091,1.2222,1.25,1.6154,2.2,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/stade-brestois-olympique-de-marseille/QHspJ,2023-08-26,14:00,Olympique de Marseille,Stade Brestois,1.5,4.2,6.5,1.1,2.5,1.2222,1.8,1.95,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/rc-lens-paris-saint-germain/UHsYH,2023-08-26,16:00,Paris Saint-Germain,RC Lens,1.55,4.3333,5.75,1.1429,2.375,1.2,1.7,2.05,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/le-havre-stade-rennais/iIsmI,2023-08-27,08:00,Stade Rennais,Le Havre,1.44,4.5,7.0,1.1,2.625,1.1818,1.95,1.8,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/toulouse-rc-strasbourg/jIsGI,2023-08-27,10:00,RC Strasbourg,Toulouse,2.1,3.4,3.5,1.2857,1.7,1.3,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-de-reims-montpellier/RHsHI,2023-08-27,10:00,Montpellier,Stade de Reims,2.2,3.5,3.2,1.3636,1.6667,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/clermont-foot-metz/bIsFI,2023-08-27,10:00,Clermont Foot,Metz,1.95,3.6,3.8,1.25,1.8,1.2857,1.8,1.95,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/lorient-lille/THsgI,2023-08-27,12:05,Lorient,Lille,4.0,3.6,1.91,1.8333,1.2222,1.2857,1.8,1.95,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/nice-olympique-lyonnais/ZHslI,2023-08-27,15:45,Nice,Olympique Lyonnais,1.91,3.6,3.8,1.25,1.8333,1.2857,1.6154,2.2,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/nantes-olympique-de-marseille/QHsXH,2023-09-01,16:00,Nantes,Olympique de Marseille,5.5,4.0,1.6,2.3,1.1429,1.2222,1.7,2.05,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/stade-brestois-stade-rennais/iIspJ,2023-09-02,12:00,Stade Brestois,Stade Rennais,3.75,3.5,2.05,1.7273,1.25,1.2857,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/as-monaco-rc-lens/YHsdI,2023-09-02,16:00,AS Monaco,RC Lens,2.0,4.0,3.25,1.3,1.8,1.25,1.5714,2.25,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/toulouse-clermont-foot/FIsGI,2023-09-03,08:00,Toulouse,Clermont Foot,2.2,3.5,3.2,1.3636,1.6667,1.2857,1.75,2.0,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/lille-montpellier/RHsTH,2023-09-03,10:00,Lille,Montpellier,2.0,3.6,3.5,1.25,1.8333,1.25,1.6154,2.2,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/le-havre-lorient/gIsmI,2023-09-03,10:00,Le Havre,Lorient,2.4,3.2,3.1,1.3636,1.5333,1.3636,1.95,1.8,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/stade-de-reims-metz/bIsHI,2023-09-03,10:00,Metz,Stade de Reims,4.5,3.8,1.75,2.0,1.1818,1.25,1.7,2.05,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/nice-rc-strasbourg/jIslI,2023-09-03,12:05,Nice,RC Strasbourg,1.91,3.4,4.2,1.2222,1.8333,1.3,1.9091,1.9091,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/olympique-lyonnais-paris-saint-germain/UHsZH,2023-09-03,15:45,Olympique Lyonnais,Paris Saint-Germain,5.25,4.2,1.6,2.3,1.1667,1.2222,1.5714,2.25,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/nice-paris-saint-germain/UHslI,2023-09-15,16:00,Paris Saint-Germain,Nice,1.55,4.5,5.5,1.1429,2.375,1.1818,1.7,2.05,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/stade-rennais-lille/THsiI,2023-09-16,12:00,Stade Rennais,Lille,2.15,3.5,3.25,1.3333,1.6667,1.2857,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/metz-rc-lens/YHsbI,2023-09-16,16:00,RC Lens,Metz,1.5,4.3333,6.0,1.125,2.5,1.2,1.8,1.95,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/lorient-as-monaco/dIsgI,2023-09-17,08:00,Lorient,AS Monaco,4.75,4.0,1.7,2.1,1.1818,1.2222,1.6154,2.2,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/rc-strasbourg-montpellier/RHsjI,2023-09-17,10:00,RC Strasbourg,Montpellier,2.8,3.5,2.45,1.5333,1.4,1.2857,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/clermont-foot-nantes/XHsFI,2023-09-17,10:00,Clermont Foot,Nantes,1.83,3.75,4.2,1.2222,1.9091,1.25,1.9091,1.9091,1.3,3.5,2.0,1.8
-https://www.sofascore.com/stade-brestois-stade-de-reims/HIspJ,2023-09-17,10:00,Stade de Reims,Stade Brestois,1.91,3.5,4.0,1.2222,1.8333,1.2857,1.7,2.05,1.25,4.0,1.9091,1.9091
-https://www.sofascore.com/toulouse-olympique-de-marseille/QHsGI,2023-09-17,12:05,Olympique de Marseille,Toulouse,1.45,4.75,6.0,1.125,2.625,1.1818,1.75,2.0,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/le-havre-olympique-lyonnais/ZHsmI,2023-09-17,15:45,Olympique Lyonnais,Le Havre,1.67,4.0,4.75,1.1818,2.15,1.2222,1.6667,2.1,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/nice-as-monaco/dIslI,2023-09-22,16:00,AS Monaco,Nice,2.25,3.6,2.9,1.4,1.6154,1.2857,1.5714,2.25,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/lorient-nantes/XHsgI,2023-09-23,12:00,Nantes,Lorient,2.3,3.25,3.2,1.3636,1.5714,1.3333,1.9091,1.9091,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/stade-brestois-olympique-lyonnais/ZHspJ,2023-09-23,16:00,Stade Brestois,Olympique Lyonnais,2.6,3.3,2.7,1.4444,1.5,1.3333,1.6667,2.1,1.25,4.0,1.9091,1.9091
-https://www.sofascore.com/rc-strasbourg-metz/bIsjI,2023-09-24,08:00,Metz,RC Strasbourg,3.0,3.2,2.38,1.5333,1.3636,1.3636,1.95,1.8,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/toulouse-rc-lens/YHsGI,2023-09-24,10:00,RC Lens,Toulouse,1.45,4.2,7.0,1.1,2.625,1.2222,1.9091,1.9091,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/clermont-foot-le-havre/mIsFI,2023-09-24,10:00,Le Havre,Clermont Foot,2.45,3.1,3.0,1.3636,1.5333,1.3636,2.0,1.75,1.4444,2.75,2.375,1.5714
-https://www.sofascore.com/stade-rennais-montpellier/RHsiI,2023-09-24,12:05,Montpellier,Stade Rennais,2.63,3.4,2.6,1.5,1.4444,1.3,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/paris-saint-germain-olympique-de-marseille/QHsUH,2023-09-24,15:45,Paris Saint-Germain,Olympique de Marseille,1.5,4.5,6.5,1.1111,2.5,1.1818,1.6667,2.1,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/stade-de-reims-lille/THsHI,2023-09-26,16:00,Lille,Stade de Reims,1.91,3.75,3.8,1.25,1.8333,1.25,1.7,2.05,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/rc-strasbourg-rc-lens/YHsjI,2023-09-29,16:00,RC Strasbourg,RC Lens,3.5,3.4,2.1,1.7,1.2857,1.3,1.8,1.95,1.3,3.5,2.0,1.8
-https://www.sofascore.com/clermont-foot-paris-saint-germain/UHsFI,2023-09-30,12:00,Clermont Foot,Paris Saint-Germain,7.0,4.75,1.44,2.75,1.1,1.1818,1.8,1.95,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/as-monaco-olympique-de-marseille/QHsdI,2023-09-30,16:00,AS Monaco,Olympique de Marseille,2.4,3.8,2.7,1.4444,1.5333,1.25,1.4444,2.625,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/stade-de-reims-olympique-lyonnais/ZHsHI,2023-10-01,08:00,Stade de Reims,Olympique Lyonnais,1.95,3.8,3.5,1.2857,1.8,1.25,1.6154,2.2,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/le-havre-lille/THsmI,2023-10-01,10:00,Le Havre,Lille,4.5,3.6,1.83,1.9091,1.1818,1.2857,1.95,1.8,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/stade-brestois-nice/lIspJ,2023-10-01,10:00,Nice,Stade Brestois,1.75,3.8,4.2,1.2222,2.0,1.25,1.9091,1.9091,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/toulouse-metz/bIsGI,2023-10-01,10:00,Toulouse,Metz,1.91,3.6,4.0,1.2222,1.8333,1.2857,1.8,1.95,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/lorient-montpellier/RHsgI,2023-10-01,12:05,Lorient,Montpellier,3.1,3.6,2.25,1.6154,1.3636,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-rennais-nantes/XHsiI,2023-10-01,15:45,Stade Rennais,Nantes,1.6,4.2,5.5,1.1429,2.3,1.2222,1.8,1.95,1.25,4.0,1.8,2.0
-https://www.sofascore.com/rc-strasbourg-nantes/XHsjI,2023-10-06,16:00,RC Strasbourg,Nantes,2.25,3.3,3.25,1.3333,1.6154,1.3333,1.95,1.8,1.4,3.0,2.15,1.6667
-https://www.sofascore.com/nice-metz/bIslI,2023-10-07,12:00,Metz,Nice,6.0,4.0,1.57,2.3,1.125,1.2222,2.0,1.75,1.3,3.5,1.95,1.85
-https://www.sofascore.com/stade-de-reims-as-monaco/dIsHI,2023-10-07,16:00,Stade de Reims,AS Monaco,2.55,3.75,2.55,1.5,1.5,1.25,1.4444,2.625,1.1667,5.0,1.5,2.5
-https://www.sofascore.com/le-havre-olympique-de-marseille/QHsmI,2023-10-08,08:00,Olympique de Marseille,Le Havre,1.45,4.75,6.5,1.1111,2.625,1.1818,1.8,1.95,1.2,4.5,1.65,2.2
-https://www.sofascore.com/lorient-olympique-lyonnais/ZHsgI,2023-10-08,10:00,Olympique Lyonnais,Lorient,1.73,3.8,4.5,1.1818,2.05,1.25,1.6667,2.1,1.2222,4.3333,1.6667,2.15
-https://www.sofascore.com/stade-brestois-toulouse/GIspJ,2023-10-08,10:00,Stade Brestois,Toulouse,1.7,3.75,5.0,1.1667,2.1,1.25,1.95,1.8,1.3,3.5,1.95,1.85
-https://www.sofascore.com/clermont-foot-montpellier/RHsFI,2023-10-08,10:00,Montpellier,Clermont Foot,1.95,3.75,3.75,1.25,1.8,1.25,1.8,1.95,1.3,3.5,1.95,1.85
-https://www.sofascore.com/rc-lens-lille/THsYH,2023-10-08,12:05,RC Lens,Lille,2.3,3.5,3.0,1.3636,1.5714,1.2857,1.75,2.0,1.3,3.5,1.95,1.85
-https://www.sofascore.com/stade-rennais-paris-saint-germain/UHsiI,2023-10-08,15:45,Stade Rennais,Paris Saint-Germain,4.0,3.8,1.85,1.9091,1.2222,1.25,1.5714,2.25,1.2,4.5,1.6,2.3
-https://www.sofascore.com/le-havre-rc-lens/YHsmI,2023-10-20,16:00,Le Havre,RC Lens,4.3333,3.5,1.85,1.9091,1.2,1.2857,1.95,1.8,1.3636,3.2,2.1,1.7
-https://www.sofascore.com/rc-strasbourg-paris-saint-germain/UHsjI,2023-10-21,12:00,Paris Saint-Germain,RC Strasbourg,1.18,7.5,13.0,1.05,4.3333,1.1,2.0,1.75,1.1429,5.5,1.4444,2.7
-https://www.sofascore.com/nice-olympique-de-marseille/QHslI,2023-10-21,16:00,Nice,Olympique de Marseille,2.25,3.4,3.25,1.3636,1.5714,1.3333,1.8,1.95,1.3333,3.4,2.05,1.75
-https://www.sofascore.com/stade-rennais-lorient/gIsiI,2023-10-22,08:00,Lorient,Stade Rennais,3.75,3.75,1.85,1.9091,1.25,1.25,1.8,1.95,1.3,3.5,1.95,1.85
-https://www.sofascore.com/stade-brestois-lille/THspJ,2023-10-22,10:00,Lille,Stade Brestois,1.8,3.5,4.75,1.1818,1.95,1.2857,1.8,1.95,1.3,3.5,2.0,1.8
-https://www.sofascore.com/stade-de-reims-toulouse/GIsHI,2023-10-22,10:00,Toulouse,Stade de Reims,2.63,3.4,2.55,1.5,1.4444,1.3,1.7,2.05,1.2857,3.75,1.95,1.85
-https://www.sofascore.com/nantes-montpellier/RHsXH,2023-10-22,10:00,Nantes,Montpellier,3.1,3.5,2.25,1.6154,1.3636,1.2857,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/as-monaco-metz/bIsdI,2023-10-22,12:05,AS Monaco,Metz,1.3333,5.5,9.0,1.0714,3.25,1.1429,1.75,2.0,1.125,6.0,1.4444,2.7
-https://www.sofascore.com/clermont-foot-olympique-lyonnais/ZHsFI,2023-10-22,15:45,Olympique Lyonnais,Clermont Foot,1.85,3.6,4.2,1.2222,1.9091,1.2857,1.8,1.95,1.2857,3.75,1.9,1.9
-https://www.sofascore.com/clermont-foot-nice/lIsFI,2023-10-27,16:00,Clermont Foot,Nice,4.0,3.3,2.0,1.8,1.2222,1.3333,2.0,1.75,1.4,3.0,2.25,1.6154
-https://www.sofascore.com/stade-de-reims-lorient/gIsHI,2023-10-28,12:00,Stade de Reims,Lorient,1.73,4.0,4.5,1.1818,2.05,1.2222,1.75,2.0,1.25,4.0,1.75,2.05
-https://www.sofascore.com/rc-lens-nantes/XHsYH,2023-10-28,16:00,RC Lens,Nantes,1.57,4.2,5.5,1.1429,2.3,1.2222,1.8,1.95,1.2222,4.3333,1.7,2.1
-https://www.sofascore.com/stade-brestois-paris-saint-germain/UHspJ,2023-10-29,09:00,Stade Brestois,Paris Saint-Germain,5.5,4.5,1.53,2.375,1.1429,1.1818,1.6667,2.1,1.2,4.5,1.6,2.3
-https://www.sofascore.com/as-monaco-lille/THsdI,2023-10-29,11:00,Lille,AS Monaco,2.38,3.75,2.7,1.4444,1.5333,1.25,1.5,2.5,1.1667,5.0,1.5714,2.35
-https://www.sofascore.com/toulouse-montpellier/RHGI,2023-10-29,11:00,Montpellier,Toulouse,1.8,3.8,4.2,1.2222,1.95,1.25,1.75,2.0,1.25,4.0,1.8,2.0
-https://www.sofascore.com/le-havre-metz/bIsmI,2023-10-29,11:00,Metz,Le Havre,2.8,3.1,2.7,1.4444,1.4,1.3636,1.95,1.8,1.4,3.0,2.25,1.6154
-https://www.sofascore.com/rc-strasbourg-stade-rennais/iIsjI,2023-10-29,13:05,Stade Rennais,RC Strasbourg,1.44,4.5,7.5,1.1,2.625,1.1818,2.05,1.7,1.2857,3.75,1.8,2.0
-https://www.sofascore.com/olympique-lyonnais-olympique-de-marseille/QHsZH,2023-10-29,16:45,Olympique de Marseille,Olympique Lyonnais,1.62,4.0,5.25,1.1667,2.25,1.2222,1.7,2.05,1.2,4.5,1.6667,2.15
-https://www.sofascore.com/paris-saint-germain-montpellier/RHUH,2023-11-03,17:00,Paris Saint-Germain,Montpellier,1.29,6.0,9.0,1.0714,3.5,1.125,1.5714,2.25,,,,
-https://www.sofascore.com/lorient-rc-lens/YHsgI,2023-11-04,13:00,Lorient,RC Lens,5.0,4.0,1.67,2.15,1.1667,1.2222,1.8,1.95,,,,
-https://www.sofascore.com/lille-olympique-de-marseille/QHsTH,2023-11-04,17:00,Olympique de Marseille,Lille,1.91,3.6,4.0,1.2222,1.8333,1.2857,1.75,2.0,1.2857,3.75,1.85,1.95
-https://www.sofascore.com/metz-olympique-lyonnais/ZHsbI,2023-11-05,09:00,Olympique Lyonnais,Metz,1.67,3.8,5.5,1.1429,2.15,1.25,1.75,2.0,1.2222,4.3333,1.75,2.05
-https://www.sofascore.com/stade-de-reims-nantes/XHsHI,2023-11-05,11:00,Nantes,Stade de Reims,2.8,3.25,2.55,1.5,1.4,1.3333,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/toulouse-le-havre/mIsGI,2023-11-05,11:00,Toulouse,Le Havre,2.05,3.3,3.8,1.25,1.7273,1.3333,1.95,1.8,1.3636,3.2,2.15,1.6667
-https://www.sofascore.com/clermont-foot-rc-strasbourg/jIsFI,2023-11-05,11:00,RC Strasbourg,Clermont Foot,2.38,3.1,3.2,1.3636,1.5333,1.3636,1.95,1.8,1.4,3.0,2.3,1.6
-https://www.sofascore.com/stade-brestois-as-monaco/dIspJ,2023-11-05,13:05,AS Monaco,Stade Brestois,1.83,3.8,4.3333,1.2,1.9091,1.25,1.6667,2.1,1.2222,4.3333,1.7,2.1
-https://www.sofascore.com/nice-stade-rennais/iIslI,2023-11-05,16:45,Nice,Stade Rennais,2.1,3.2,3.6,1.2857,1.7,1.3636,1.95,1.8,1.4,3.0,2.15,1.6667
-https://www.sofascore.com/nice-montpellier/RHslI,2023-11-10,17:00,Montpellier,Nice,3.4,3.3,2.15,1.6667,1.3,1.3333,1.75,2.0,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/stade-de-reims-paris-saint-germain/UHsHI,2023-11-11,13:00,Stade de Reims,Paris Saint-Germain,5.0,4.3333,1.6,2.3,1.1667,1.2,1.6667,2.1,1.2,4.5,1.5714,2.35
-https://www.sofascore.com/le-havre-as-monaco/dIsmI,2023-11-11,17:00,Le Havre,AS Monaco,4.5,4.0,1.73,2.05,1.1818,1.2222,1.7,2.05,1.2222,4.3333,1.7,2.1
-https://www.sofascore.com/stade-brestois-rc-strasbourg/jIspJ,2023-11-12,09:00,Stade Brestois,RC Strasbourg,1.91,3.4,4.0,1.2222,1.8333,1.3,1.95,1.8,,,,
-https://www.sofascore.com/toulouse-lille/THsGI,2023-11-12,11:00,Lille,Toulouse,1.55,4.3333,5.75,1.1429,2.375,1.2,1.95,1.8,1.2857,3.75,1.8,2.0
-https://www.sofascore.com/metz-nantes/XHsbI,2023-11-12,11:00,Metz,Nantes,3.3,3.2,2.3,1.5714,1.3333,1.3636,1.9091,1.9091,1.3636,3.2,2.15,1.6667
-https://www.sofascore.com/clermont-foot-lorient/gIsFI,2023-11-12,11:00,Clermont Foot,Lorient,2.2,3.3,3.4,1.3,1.6667,1.3333,1.9091,1.9091,1.3636,3.2,2.1,1.7
-https://www.sofascore.com/stade-rennais-olympique-lyonnais/ZHsiI,2023-11-12,13:05,Stade Rennais,Olympique Lyonnais,1.83,4.0,4.0,1.2222,1.9091,1.2222,1.6667,2.1,1.2222,4.3333,1.7,2.1
-https://www.sofascore.com/rc-lens-olympique-de-marseille/QHsYH,2023-11-12,16:45,RC Lens,Olympique de Marseille,2.3,3.4,3.1,1.3636,1.5714,1.3,1.7,2.05,1.2857,3.75,1.9,1.9
-https://www.sofascore.com/as-monaco-paris-saint-germain/UHsdI,2023-11-24,17:00,Paris Saint-Germain,AS Monaco,1.45,5.0,5.75,1.1429,2.625,1.1667,1.5,2.5,1.1111,6.5,1.3636,3.1
-https://www.sofascore.com/clermont-foot-rc-lens/YHsFI,2023-11-25,13:00,Clermont Foot,RC Lens,3.8,3.6,1.95,1.8,1.25,1.2857,1.9091,1.9091,1.3636,3.2,2.075,1.7273
-https://www.sofascore.com/rc-strasbourg-olympique-de-marseille/QHsjI,2023-11-25,17:00,RC Strasbourg,Olympique de Marseille,4.0,3.6,1.91,1.8333,1.2222,1.2857,1.8,1.95,1.3,3.5,1.95,1.85
-https://www.sofascore.com/toulouse-nice/lIsGI,2023-11-26,09:00,Nice,Toulouse,1.53,4.2,6.0,1.125,2.375,1.2222,1.95,1.8,1.3,3.5,1.95,1.85
-https://www.sofascore.com/le-havre-nantes/XHsmI,2023-11-26,11:00,Nantes,Le Havre,2.05,3.4,3.6,1.25,1.8,1.3,1.95,1.8,1.3636,3.2,2.15,1.6667
-https://www.sofascore.com/stade-brestois-montpellier/RHspJ,2023-11-26,11:00,Montpellier,Stade Brestois,2.2,3.4,3.3,1.3333,1.6667,1.3,1.75,2.0,1.3,3.5,1.95,1.85
-https://www.sofascore.com/lorient-metz/bIsgI,2023-11-26,11:00,Lorient,Metz,2.05,3.4,3.8,1.2857,1.7,1.3,1.95,1.8,1.4,3.0,2.25,1.6154
-https://www.sofascore.com/stade-de-reims-stade-rennais/iIsHI,2023-11-26,13:05,Stade Rennais,Stade de Reims,2.2,3.5,3.3,1.3333,1.6667,1.2857,1.7,2.05,1.2857,3.75,1.9,1.9
-https://www.sofascore.com/olympique-lyonnais-lille/THsZH,2023-11-26,16:45,Olympique Lyonnais,Lille,2.8,3.4,2.45,1.5333,1.4,1.3,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/clermont-foot-montpellier/RHsFI,2023-11-29,15:00,Montpellier,Clermont Foot,1.85,3.6,4.2,1.2222,1.9091,1.2857,1.75,2.0,1.3,3.5,1.9,1.9
-https://www.sofascore.com/stade-de-reims-rc-strasbourg/jIsHI,2023-12-01,17:00,Stade de Reims,RC Strasbourg,1.7,3.75,5.0,1.1667,2.1,1.25,1.8,1.95,1.2857,3.75,1.85,1.95
-https://www.sofascore.com/olympique-lyonnais-rc-lens/YHsZH,2023-12-02,13:00,RC Lens,Olympique Lyonnais,1.75,3.8,4.75,1.1818,2.0,1.25,1.75,2.0,1.25,4.0,1.8,2.0
-https://www.sofascore.com/nice-nantes/XHslI,2023-12-02,17:00,Nantes,Nice,3.6,3.2,2.15,1.6667,1.2857,1.3636,2.0,1.75,1.4444,2.75,2.35,1.5714
-https://www.sofascore.com/le-havre-paris-saint-germain/UHsmI,2023-12-03,09:00,Le Havre,Paris Saint-Germain,8.0,4.75,1.4,3.0,1.0833,1.1667,1.8,1.95,1.1667,5.0,1.5714,2.35
-https://www.sofascore.com/as-monaco-montpellier/RHsdI,2023-12-03,11:00,AS Monaco,Montpellier,1.65,4.0,5.0,1.1667,2.2,1.2222,1.6154,2.2,1.1667,5.0,1.5714,2.35
-https://www.sofascore.com/toulouse-lorient/gIsGI,2023-12-03,11:00,Toulouse,Lorient,2.0,3.2,4.0,1.2222,1.8,1.3636,1.8,1.95,1.3,3.5,2.0,1.8
-https://www.sofascore.com/stade-brestois-clermont-foot/FIspJ,2023-12-03,11:00,Stade Brestois,Clermont Foot,1.73,3.75,5.0,1.1667,2.05,1.25,1.95,1.8,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/metz-lille/THsbI,2023-12-03,13:05,Lille,Metz,1.4,4.5,8.5,1.0833,2.75,1.1818,2.0,1.75,1.25,4.0,1.75,2.05
-https://www.sofascore.com/stade-rennais-olympique-de-marseille/QHsiI,2023-12-03,16:45,Olympique de Marseille,Stade Rennais,1.95,3.8,3.75,1.25,1.8,1.25,1.75,2.0,1.2857,3.75,1.85,1.95
-https://www.sofascore.com/olympique-lyonnais-olympique-de-marseille/QHsZH,2023-12-06,17:00,Olympique de Marseille,Olympique Lyonnais,1.8,3.75,4.3333,1.2,1.95,1.25,1.6667,2.1,1.2222,4.3333,1.7273,2.075
-https://www.sofascore.com/stade-brestois-rc-strasbourg/jIspJ,2023-12-07,16:30,Stade Brestois,RC Strasbourg,1.85,3.5,4.3333,1.1667,2.1,1.25,2.0,1.75,1.3636,3.2,2.1,1.7
-https://www.sofascore.com/rc-lens-montpellier/RHsYH,2023-12-08,17:00,Montpellier,RC Lens,3.5,3.4,2.1,1.7,1.2857,1.3,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/stade-rennais-as-monaco/dIsiI,2023-12-09,13:00,Stade Rennais,AS Monaco,2.63,3.6,2.5,1.5,1.4444,1.2857,1.5333,2.375,1.2222,4.3333,1.6667,2.15
-https://www.sofascore.com/nantes-paris-saint-germain/UHsXH,2023-12-09,17:00,Paris Saint-Germain,Nantes,1.25,6.5,10.0,1.0625,3.75,1.1111,1.6154,2.2,1.1,7.0,1.3333,3.4
-https://www.sofascore.com/stade-de-reims-nice/lIsHI,2023-12-10,09:00,Nice,Stade de Reims,1.95,3.4,4.0,1.2222,1.8,1.3,1.95,1.8,1.3636,3.2,2.15,1.6667
-https://www.sofascore.com/clermont-foot-lille/THsFI,2023-12-10,11:00,Clermont Foot,Lille,4.3333,3.5,1.85,1.9091,1.2,1.2857,1.9091,1.9091,1.3,3.5,1.95,1.85
-https://www.sofascore.com/le-havre-rc-strasbourg/jIsmI,2023-12-10,11:00,RC Strasbourg,Le Havre,2.4,3.1,3.3,1.3333,1.5333,1.3636,2.0,1.75,1.4444,2.75,2.35,1.5714
-https://www.sofascore.com/stade-brestois-metz/bIspJ,2023-12-10,11:00,Metz,Stade Brestois,3.75,3.2,2.15,1.6667,1.25,1.3636,1.95,1.8,1.4,3.0,2.25,1.6154
-https://www.sofascore.com/toulouse-olympique-lyonnais/ZHsGI,2023-12-10,13:05,Olympique Lyonnais,Toulouse,1.75,3.75,4.75,1.1818,2.0,1.25,1.6154,2.2,1.2,4.5,1.65,2.2
-https://www.sofascore.com/lorient-olympique-de-marseille/QHsgI,2023-12-10,16:45,Lorient,Olympique de Marseille,4.5,3.75,1.75,2.0,1.1818,1.25,1.9091,1.9091,1.3,3.5,1.95,1.85
-https://www.sofascore.com/as-monaco-olympique-lyonnais/ZHsdI,2023-12-15,17:00,AS Monaco,Olympique Lyonnais,1.73,4.0,4.5,1.1818,2.05,1.2222,1.6154,2.2,1.1667,5.0,1.5714,2.35
-https://www.sofascore.com/le-havre-nice/lIsmI,2023-12-16,13:00,Le Havre,Nice,4.3333,3.1,2.0,1.8,1.2,1.3636,2.25,1.5714,1.5714,2.375,2.7,1.4444
-https://www.sofascore.com/stade-de-reims-rc-lens/YHsHI,2023-12-16,17:00,RC Lens,Stade de Reims,2.3,3.3,3.1,1.3636,1.5714,1.3333,1.75,2.0,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/stade-brestois-nantes/XHspJ,2023-12-17,09:00,Nantes,Stade Brestois,2.75,3.1,2.75,1.4,1.4,1.3636,1.95,1.8,1.4444,2.75,2.35,1.5714
-https://www.sofascore.com/toulouse-stade-rennais/iIsGI,2023-12-17,11:00,Toulouse,Stade Rennais,3.25,3.4,2.2,1.6667,1.3333,1.3,1.8,1.95,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/rc-strasbourg-lorient/gIsjI,2023-12-17,11:00,Lorient,RC Strasbourg,2.4,3.2,3.1,1.3636,1.5333,1.3636,1.9091,1.9091,1.4,3.0,2.2,1.65
-https://www.sofascore.com/metz-montpellier/RHsbI,2023-12-17,11:00,Metz,Montpellier,3.3,3.25,2.25,1.6154,1.3333,1.3333,1.8,1.95,1.3636,3.2,2.075,1.7273
-https://www.sofascore.com/clermont-foot-olympique-de-marseille/QHsFI,2023-12-17,13:05,Olympique de Marseille,Clermont Foot,1.44,4.5,7.0,1.1,2.625,1.1818,2.05,1.7,1.2857,3.75,1.85,1.95
-https://www.sofascore.com/paris-saint-germain-lille/THsUH,2023-12-17,16:45,Lille,Paris Saint-Germain,4.0,3.8,1.83,1.9091,1.2222,1.25,1.5333,2.375,1.1667,5.0,1.5714,2.35
-https://www.sofascore.com/metz-paris-saint-germain/UHsbI,2023-12-20,17:00,Paris Saint-Germain,Metz,1.14,8.0,19.0,1.02,5.5,1.0833,2.2,1.6154,1.1111,6.5,1.4,2.875
-https://www.sofascore.com/montpellier-olympique-de-marseille/QHsRH,2023-12-20,17:00,Montpellier,Olympique de Marseille,4.0,3.6,1.95,1.8,1.2222,1.2857,1.75,2.0,1.2857,3.75,1.85,1.95
-https://www.sofascore.com/toulouse-as-monaco/dIsGI,2023-12-20,17:00,Toulouse,AS Monaco,3.8,4.0,1.85,1.9091,1.25,1.2222,1.5714,2.25,1.2,4.5,1.6,2.3
-https://www.sofascore.com/olympique-lyonnais-nantes/XHsZH,2023-12-20,17:00,Olympique Lyonnais,Nantes,1.73,3.6,4.75,1.1818,2.05,1.2857,1.9091,1.9091,1.3,3.5,1.95,1.85
-https://www.sofascore.com/nice-rc-lens/YHslI,2023-12-20,17:00,Nice,RC Lens,2.25,3.25,3.3,1.3333,1.6154,1.3333,1.95,1.8,1.4,3.0,2.15,1.6667
-https://www.sofascore.com/rc-strasbourg-lille/THsjI,2023-12-20,17:00,RC Strasbourg,Lille,3.6,3.4,2.05,1.7273,1.2857,1.3,1.8,1.95,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/clermont-foot-stade-rennais/iIsFI,2023-12-20,17:00,Clermont Foot,Stade Rennais,3.1,3.25,2.38,1.5333,1.3636,1.3333,1.95,1.8,1.4444,2.75,2.3,1.6
-https://www.sofascore.com/stade-brestois-lorient/gIspJ,2023-12-20,17:00,Stade Brestois,Lorient,1.7,3.75,5.25,1.1667,2.1,1.25,1.9091,1.9091,1.3,3.5,1.95,1.85
-https://www.sofascore.com/stade-de-reims-le-havre/mIsHI,2023-12-20,17:00,Stade de Reims,Le Havre,1.73,3.8,4.75,1.1818,2.05,1.25,1.95,1.8,1.3,3.5,1.9,1.9
-https://www.sofascore.com/rc-strasbourg-olympique-de-marseille/QHsjI,2024-01-12,17:00,Olympique de Marseille,RC Strasbourg,1.6,4.0,5.5,1.1429,2.3,1.2222,2.05,1.7,1.3333,3.4,2.05,1.75
-https://www.sofascore.com/stade-de-reims-as-monaco/dIsHI,2024-01-13,13:00,AS Monaco,Stade de Reims,1.65,4.0,5.0,1.1667,2.2,1.2222,1.6667,2.1,1.2,4.5,1.6154,2.25
-https://www.sofascore.com/nice-stade-rennais/iIslI,2024-01-13,17:00,Stade Rennais,Nice,2.38,3.2,3.2,1.3636,1.5333,1.3636,2.0,1.75,1.4444,2.75,2.3,1.6
-https://www.sofascore.com/lorient-lille/THsgI,2024-01-14,09:00,Lille,Lorient,1.29,5.75,9.0,1.0714,3.5,1.1429,2.2,1.6154,1.2222,4.3333,1.7,2.1
-https://www.sofascore.com/toulouse-metz/bIsGI,2024-01-14,11:00,Metz,Toulouse,2.9,3.25,2.45,1.5333,1.4,1.3333,2.0,1.75,1.4444,2.75,2.35,1.5714
-https://www.sofascore.com/clermont-foot-nantes/XHsFI,2024-01-14,11:00,Nantes,Clermont Foot,1.85,3.6,4.0,1.2222,1.9091,1.2857,1.95,1.8,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/stade-brestois-montpellier/RHspJ,2024-01-14,11:00,Stade Brestois,Montpellier,1.75,3.75,4.75,1.1818,2.0,1.25,1.95,1.8,1.3333,3.4,2.05,1.75
-https://www.sofascore.com/le-havre-olympique-lyonnais/ZHsmI,2024-01-14,13:05,Le Havre,Olympique Lyonnais,3.1,3.2,2.4,1.5333,1.3636,1.3636,1.9091,1.9091,1.4,3.0,2.25,1.6154
-https://www.sofascore.com/rc-lens-paris-saint-germain/UHsYH,2024-01-14,16:45,RC Lens,Paris Saint-Germain,3.4,4.0,1.95,1.8,1.3,1.2222,1.6154,2.2,1.2,4.5,1.65,2.2
-https://www.sofascore.com/stade-rennais-olympique-lyonnais/ZHsiI,2024-01-26,17:00,Olympique Lyonnais,Stade Rennais,2.4,3.4,2.88,1.4,1.5333,1.3,1.75,2.0,1.3,3.5,1.95,1.85
-https://www.sofascore.com/nice-metz/bIslI,2024-01-27,13:00,Nice,Metz,1.5,4.2,7.0,1.0833,2.625,1.2222,2.5,1.5,1.4444,2.75,2.3,1.6
-https://www.sofascore.com/as-monaco-olympique-de-marseille/QHsdI,2024-01-27,17:00,Olympique de Marseille,AS Monaco,2.38,3.6,2.8,1.4,1.5333,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.075
-https://www.sofascore.com/lille-montpellier/RHsTH,2024-01-28,09:00,Montpellier,Lille,4.0,3.5,1.91,1.8333,1.2222,1.2857,1.8,1.95,1.3,3.5,1.95,1.85
-https://www.sofascore.com/stade-de-reims-nantes/XHsHI,2024-01-28,11:00,Stade de Reims,Nantes,2.1,3.3,3.75,1.25,1.7273,1.3,1.9091,1.9091,1.3333,3.4,2.05,1.75
-https://www.sofascore.com/clermont-foot-rc-strasbourg/jIsFI,2024-01-28,11:00,Clermont Foot,RC Strasbourg,3.0,3.3,2.4,1.5333,1.3636,1.3333,1.8,1.95,1.3636,3.2,2.075,1.7273
-https://www.sofascore.com/le-havre-lorient/gIsmI,2024-01-28,11:00,Lorient,Le Havre,3.1,3.1,2.5,1.5,1.3636,1.3636,2.05,1.7,1.5,2.625,2.5,1.5
-https://www.sofascore.com/toulouse-rc-lens/YHsGI,2024-01-28,13:05,Toulouse,RC Lens,3.3,3.6,2.15,1.6667,1.3333,1.2857,1.75,2.0,1.2857,3.75,1.9,1.9
-https://www.sofascore.com/stade-brestois-paris-saint-germain/UHspJ,2024-01-28,16:45,Paris Saint-Germain,Stade Brestois,1.44,5.0,6.0,1.125,2.625,1.1667,1.8,1.95,1.1667,5.0,1.5333,2.4
-https://www.sofascore.com/rc-strasbourg-paris-saint-germain/UHsjI,2024-02-02,17:00,RC Strasbourg,Paris Saint-Germain,5.75,4.75,1.5,2.5,1.1429,1.1818,1.6667,2.1,1.1667,5.0,1.5714,2.35
-https://www.sofascore.com/stade-rennais-montpellier/RHsiI,2024-02-03,13:00,Stade Rennais,Montpellier,1.53,4.0,7.0,1.1,2.375,1.2222,2.05,1.7,1.2857,3.75,1.95,1.85
-https://www.sofascore.com/rc-lens-nantes/XHsYH,2024-02-03,17:00,Nantes,RC Lens,3.6,3.4,2.1,1.7,1.2857,1.3,1.8,1.95,1.3333,3.4,2.05,1.75
-https://www.sofascore.com/le-havre-as-monaco/dIsmI,2024-02-04,09:00,AS Monaco,Le Havre,1.57,4.0,5.75,1.1429,2.3,1.2222,1.8,1.95,1.2222,4.3333,1.7273,2.075
-https://www.sofascore.com/clermont-foot-lille/THsFI,2024-02-04,11:00,Lille,Clermont Foot,1.4,4.75,7.5,1.1,2.75,1.1818,2.05,1.7,1.2857,3.75,1.85,1.95
-https://www.sofascore.com/stade-de-reims-toulouse/GIsHI,2024-02-04,11:00,Stade de Reims,Toulouse,1.85,3.4,4.5,1.1818,1.9091,1.3,1.8,1.95,1.2857,3.75,1.95,1.85
-https://www.sofascore.com/lorient-metz/bIsgI,2024-02-04,11:00,Metz,Lorient,2.0,3.1,4.2,1.2222,1.8,1.3636,2.2,1.6154,1.5333,2.5,2.6,1.475
-https://www.sofascore.com/olympique-lyonnais-olympique-de-marseille/QHsZH,2024-02-04,16:45,Olympique Lyonnais,Olympique de Marseille,2.8,3.4,2.55,1.5,1.4,1.3,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/metz-olympique-de-marseille/QHsbI,2024-02-09,17:00,Olympique de Marseille,Metz,1.4,4.75,7.5,1.1,2.75,1.1818,2.1,1.6667,1.2857,3.75,1.85,1.95
-https://www.sofascore.com/rc-strasbourg-rc-lens/YHsjI,2024-02-10,13:00,RC Lens,RC Strasbourg,1.65,3.8,5.5,1.1429,2.2,1.25,1.9091,1.9091,1.2857,3.75,1.9,1.9
-https://www.sofascore.com/paris-saint-germain-lille/THsUH,2024-02-10,17:00,Paris Saint-Germain,Lille,1.75,3.8,4.5,1.1818,2.0,1.25,1.75,2.0,1.25,4.0,1.8,2.0
-https://www.sofascore.com/le-havre-stade-rennais/iIsmI,2024-02-11,09:00,Le Havre,Stade Rennais,3.75,3.4,2.05,1.7273,1.25,1.3,1.95,1.8,1.4,3.0,2.2,1.65
-https://www.sofascore.com/toulouse-nantes/XHsGI,2024-02-11,11:00,Toulouse,Nantes,2.1,3.4,3.5,1.2857,1.7,1.3,1.8,1.95,1.3,3.5,2.0,1.8
-https://www.sofascore.com/stade-brestois-clermont-foot/FIspJ,2024-02-11,11:00,Clermont Foot,Stade Brestois,3.5,3.3,2.15,1.6667,1.2857,1.3333,1.9091,1.9091,1.3636,3.2,2.15,1.6667
-https://www.sofascore.com/stade-de-reims-lorient/gIsHI,2024-02-11,11:00,Lorient,Stade de Reims,3.8,3.6,1.95,1.8,1.25,1.2857,1.8,1.95,1.2857,3.75,1.85,1.95
-https://www.sofascore.com/olympique-lyonnais-montpellier/RHsZH,2024-02-11,13:05,Montpellier,Olympique Lyonnais,2.75,3.3,2.6,1.5,1.4,1.3333,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/nice-as-monaco/dIslI,2024-02-11,16:45,Nice,AS Monaco,2.25,3.3,3.25,1.3636,1.5333,1.3333,1.9091,1.9091,1.3636,3.2,2.1,1.7
-https://www.sofascore.com/nice-olympique-lyonnais/ZHslI,2024-02-16,17:00,Olympique Lyonnais,Nice,2.7,3.2,2.7,1.4444,1.4444,1.3636,1.9091,1.9091,1.4,3.0,2.2,1.65
-https://www.sofascore.com/le-havre-lille/THsmI,2024-02-17,13:00,Lille,Le Havre,1.45,4.5,7.5,1.1,2.625,1.1818,2.25,1.5714,1.3333,3.4,2.05,1.75
-https://www.sofascore.com/nantes-paris-saint-germain/UHsXH,2024-02-17,17:00,Nantes,Paris Saint-Germain,6.5,4.5,1.5,2.5,1.1111,1.2,1.8,1.95,1.2222,4.3333,1.7,2.1
-https://www.sofascore.com/rc-strasbourg-lorient/gIsjI,2024-02-18,09:00,RC Strasbourg,Lorient,1.7,3.8,5.0,1.1667,2.1,1.25,1.9091,1.9091,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/toulouse-as-monaco/dIsGI,2024-02-18,11:00,AS Monaco,Toulouse,1.55,4.2,6.5,1.1429,2.3,1.2222,1.8,1.95,1.2222,4.3333,1.7273,2.075
-https://www.sofascore.com/clermont-foot-stade-rennais/iIsFI,2024-02-18,11:00,Stade Rennais,Clermont Foot,1.6,4.0,5.75,1.1429,2.3,1.2222,1.9091,1.9091,1.2857,3.75,1.85,1.95
-https://www.sofascore.com/metz-montpellier/RHsbI,2024-02-18,11:00,Montpellier,Metz,1.65,4.0,5.25,1.1667,2.2,1.2222,2.05,1.7,1.3636,3.2,2.05,1.75
-https://www.sofascore.com/stade-de-reims-rc-lens/YHsHI,2024-02-18,13:05,Stade de Reims,RC Lens,2.15,3.25,3.6,1.2857,1.6667,1.3333,1.8,1.95,1.3333,3.4,2.05,1.75
-https://www.sofascore.com/stade-brestois-olympique-de-marseille/QHspJ,2024-02-18,16:45,Stade Brestois,Olympique de Marseille,2.45,3.1,3.1,1.3636,1.5333,1.3636,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/metz-olympique-lyonnais/ZHsbI,2024-02-23,17:00,Metz,Olympique Lyonnais,3.8,3.5,1.91,1.8333,1.25,1.2857,1.9091,1.9091,1.3333,3.4,2.05,1.75
-https://www.sofascore.com/lorient-nantes/XHsgI,2024-02-24,13:00,Lorient,Nantes,2.88,3.2,2.55,1.5,1.3636,1.3636,2.0,1.75,1.4444,2.75,2.4,1.5333
-https://www.sofascore.com/stade-brestois-rc-strasbourg/jIspJ,2024-02-24,17:00,RC Strasbourg,Stade Brestois,2.63,3.1,2.88,1.4444,1.4,1.3636,1.9091,1.9091,1.3636,3.2,2.15,1.6667
-https://www.sofascore.com/as-monaco-rc-lens/YHsdI,2024-02-25,09:00,RC Lens,AS Monaco,2.3,3.5,3.0,1.3636,1.5714,1.2857,1.6154,2.2,1.2222,4.3333,1.7,2.1
-https://www.sofascore.com/toulouse-lille/THsGI,2024-02-25,11:00,Toulouse,Lille,4.0,3.5,2.0,1.8,1.2222,1.2857,1.8,1.95,1.3,3.5,2.0,1.8
-https://www.sofascore.com/clermont-foot-nice/lIsFI,2024-02-25,11:00,Nice,Clermont Foot,1.4,4.75,8.0,1.1,2.75,1.1818,2.1,1.6667,1.2857,3.75,1.85,1.95
-https://www.sofascore.com/stade-de-reims-le-havre/mIsHI,2024-02-25,11:00,Le Havre,Stade de Reims,3.4,3.3,2.2,1.6667,1.3,1.3333,1.8,1.95,1.3333,3.4,2.075,1.7273
-https://www.sofascore.com/stade-rennais-paris-saint-germain/UHsiI,2024-02-25,13:05,Paris Saint-Germain,Stade Rennais,1.36,5.25,8.0,1.0833,3.25,1.1429,1.7,2.05,1.125,6.0,1.4444,2.7
-https://www.sofascore.com/montpellier-olympique-de-marseille/QHsRH,2024-02-25,16:45,Olympique de Marseille,Montpellier,1.7,4.0,4.75,1.1818,2.1,1.2222,1.7,2.05,1.2222,4.3333,1.7,2.1
-https://www.sofascore.com/as-monaco-paris-saint-germain/UHsdI,2024-03-01,17:00,AS Monaco,Paris Saint-Germain,3.2,3.8,2.05,1.8,1.3333,1.2222,1.4,2.75,1.125,6.0,1.4,2.875
-https://www.sofascore.com/stade-de-reims-lille/THsHI,2024-03-02,13:00,Stade de Reims,Lille,2.88,3.4,2.45,1.5333,1.4,1.3,1.6667,2.1,1.25,4.0,1.85,1.95
-https://www.sofascore.com/clermont-foot-olympique-de-marseille/QHsFI,2024-03-02,17:00,Clermont Foot,Olympique de Marseille,5.25,4.0,1.62,2.25,1.1667,1.2222,1.8,1.95,1.2222,4.3333,1.7,2.1
-https://www.sofascore.com/toulouse-nice/lIsGI,2024-03-03,09:00,Toulouse,Nice,3.3,3.2,2.3,1.5714,1.3333,1.3636,1.95,1.8,1.4,3.0,2.2,1.65
-https://www.sofascore.com/stade-brestois-le-havre/mIspJ,2024-03-03,11:00,Stade Brestois,Le Havre,1.6,3.75,6.0,1.1111,2.3,1.25,2.25,1.5714,1.4,3.0,2.25,1.6154
-https://www.sofascore.com/metz-nantes/XHsbI,2024-03-03,11:00,Nantes,Metz,1.85,3.4,4.75,1.1818,1.9091,1.3,2.2,1.6154,1.5,2.625,2.4,1.5333
-https://www.sofascore.com/rc-strasbourg-montpellier/RHsjI,2024-03-03,11:00,Montpellier,RC Strasbourg,2.05,3.5,3.6,1.25,1.8,1.2857,1.7,2.05,1.25,4.0,1.75,2.05
-https://www.sofascore.com/stade-rennais-lorient/gIsiI,2024-03-03,13:05,Stade Rennais,Lorient,1.45,4.3333,7.0,1.1,2.625,1.2,1.95,1.8,1.25,4.0,1.75,2.05
-https://www.sofascore.com/olympique-lyonnais-rc-lens/YHsZH,2024-03-03,16:45,Olympique Lyonnais,RC Lens,2.55,3.3,2.8,1.4,1.5,1.3333,1.75,2.0,1.3,3.5,1.95,1.85
-https://www.sofascore.com/nice-montpellier/RHslI,2024-03-08,17:00,Nice,Montpellier,1.73,3.75,4.75,1.1818,2.0,1.25,1.75,2.0,1.25,4.0,1.8,2.0
-https://www.sofascore.com/lorient-olympique-lyonnais/ZHsgI,2024-03-09,13:00,Lorient,Olympique Lyonnais,3.5,3.4,2.15,1.6667,1.2857,1.3,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/stade-brestois-rc-lens/YHspJ,2024-03-09,17:00,RC Lens,Stade Brestois,2.15,3.2,3.75,1.25,1.6667,1.3636,2.0,1.75,1.4,3.0,2.25,1.6154
-https://www.sofascore.com/stade-de-reims-paris-saint-germain/UHsHI,2024-03-10,09:00,Paris Saint-Germain,Stade de Reims,1.5,4.75,6.5,1.1111,2.5,1.1818,1.7,2.05,1.1667,5.0,1.5714,2.35
-https://www.sofascore.com/rc-strasbourg-as-monaco/dIsjI,2024-03-10,11:00,RC Strasbourg,AS Monaco,3.4,3.75,2.05,1.7273,1.3,1.25,1.5714,2.25,1.2,4.5,1.6,2.3
-https://www.sofascore.com/toulouse-le-havre/mIsGI,2024-03-10,11:00,Le Havre,Toulouse,2.88,3.0,2.63,1.4444,1.4,1.3636,1.95,1.8,1.4444,2.75,2.35,1.5714
-https://www.sofascore.com/clermont-foot-metz/bIsFI,2024-03-10,11:00,Metz,Clermont Foot,2.15,3.3,3.5,1.2857,1.6667,1.3333,1.95,1.8,1.4,3.0,2.2,1.65
-https://www.sofascore.com/stade-rennais-lille/THsiI,2024-03-10,13:05,Lille,Stade Rennais,2.0,3.3,4.0,1.2222,1.8,1.3333,1.95,1.8,1.3636,3.2,2.15,1.6667
-https://www.sofascore.com/nantes-olympique-de-marseille/QHsXH,2024-03-10,16:45,Olympique de Marseille,Nantes,1.5,4.0,7.0,1.1,2.5,1.2222,2.1,1.6667,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/toulouse-olympique-lyonnais/ZHsGI,2024-03-15,17:00,Toulouse,Olympique Lyonnais,2.75,3.25,2.7,1.4444,1.4,1.3333,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/rc-strasbourg-nantes/XHsjI,2024-03-16,13:00,Nantes,RC Strasbourg,2.15,3.25,3.6,1.2857,1.6667,1.3333,1.9091,1.9091,1.3636,3.2,2.15,1.6667
-https://www.sofascore.com/nice-rc-lens/YHslI,2024-03-16,17:00,RC Lens,Nice,2.05,3.3,3.8,1.2222,1.8,1.3333,1.95,1.8,1.3636,3.2,2.075,1.7273
-https://www.sofascore.com/stade-brestois-lille/THspJ,2024-03-17,09:00,Stade Brestois,Lille,2.45,3.0,3.3,1.3333,1.5333,1.3636,2.1,1.6667,1.5,2.625,2.5,1.5
-https://www.sofascore.com/lorient-as-monaco/dIsgI,2024-03-17,11:00,AS Monaco,Lorient,1.36,5.25,8.5,1.0833,3.0,1.1667,1.6667,2.1,1.125,6.0,1.4444,2.7
-https://www.sofascore.com/stade-de-reims-metz/bIsHI,2024-03-17,11:00,Stade de Reims,Metz,1.75,3.6,4.75,1.1818,2.0,1.2857,1.95,1.8,1.2857,3.75,1.95,1.85
-https://www.sofascore.com/clermont-foot-le-havre/mIsFI,2024-03-17,11:00,Clermont Foot,Le Havre,2.75,3.25,2.63,1.4444,1.4,1.3333,1.95,1.8,1.4,3.0,2.25,1.6154
-https://www.sofascore.com/stade-rennais-olympique-de-marseille/QHsiI,2024-03-17,13:05,Stade Rennais,Olympique de Marseille,2.7,3.4,2.6,1.5,1.4444,1.3,1.6154,2.2,1.25,4.0,1.75,2.05
-https://www.sofascore.com/paris-saint-germain-montpellier/RHUH,2024-03-17,16:45,Montpellier,Paris Saint-Germain,6.5,4.75,1.44,2.625,1.1111,1.1818,1.6154,2.2,1.125,6.0,1.4444,2.7
-https://www.sofascore.com/rc-lens-lille/THsYH,2024-03-29,17:00,Lille,RC Lens,2.05,3.3,3.8,1.25,1.7,1.3333,1.8,1.95,1.3333,3.4,2.05,1.75
-https://www.sofascore.com/as-monaco-metz/bIsdI,2024-03-30,13:00,Metz,AS Monaco,5.25,4.2,1.62,2.2,1.1667,1.2222,1.6667,2.1,1.2,4.5,1.65,2.2
-https://www.sofascore.com/stade-de-reims-olympique-lyonnais/ZHsHI,2024-03-30,17:00,Olympique Lyonnais,Stade de Reims,2.05,3.5,3.6,1.2857,1.7273,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.15
-https://www.sofascore.com/stade-brestois-lorient/gIspJ,2024-03-31,08:00,Lorient,Stade Brestois,4.0,3.3,2.0,1.7273,1.2222,1.3636,2.0,1.75,1.4444,2.75,2.35,1.5714
-https://www.sofascore.com/nice-nantes/XHslI,2024-03-31,10:00,Nice,Nantes,1.85,3.3,4.75,1.1818,1.9091,1.3333,2.1,1.6667,1.4444,2.75,2.35,1.5714
-https://www.sofascore.com/toulouse-clermont-foot/FIsGI,2024-03-31,10:00,Clermont Foot,Toulouse,3.6,3.5,2.05,1.7273,1.2857,1.2857,1.8,1.95,1.3,3.5,1.95,1.85
-https://www.sofascore.com/le-havre-montpellier/RHsmI,2024-03-31,10:00,Le Havre,Montpellier,2.7,3.25,2.7,1.4444,1.4444,1.3333,1.8,1.95,1.3636,3.2,2.075,1.7273
-https://www.sofascore.com/rc-strasbourg-stade-rennais/iIsjI,2024-03-31,12:05,RC Strasbourg,Stade Rennais,3.1,3.5,2.25,1.6154,1.3636,1.2857,1.7,2.05,1.3,3.5,1.95,1.85
-https://www.sofascore.com/paris-saint-germain-olympique-de-marseille/QHsUH,2024-03-31,15:45,Olympique de Marseille,Paris Saint-Germain,3.6,3.75,1.95,1.8,1.2857,1.25,1.6154,2.2,1.2222,4.3333,1.7,2.1
-https://www.sofascore.com/lille-olympique-de-marseille/QHsTH,2024-04-05,16:00,Lille,Olympique de Marseille,1.91,3.6,4.0,1.2222,1.8333,1.2857,1.75,2.0,1.3,3.5,1.95,1.85
-https://www.sofascore.com/le-havre-rc-lens/YHsmI,2024-04-06,12:00,RC Lens,Le Havre,1.5,4.2,7.0,1.1,2.5,1.2222,2.05,1.7,1.3,3.5,1.95,1.85
-https://www.sofascore.com/clermont-foot-paris-saint-germain/UHsFI,2024-04-06,16:00,Paris Saint-Germain,Clermont Foot,1.3,5.75,9.0,1.0833,3.4,1.1429,1.95,1.8,1.1667,5.0,1.5333,2.4
-https://www.sofascore.com/stade-brestois-metz/bIspJ,2024-04-07,08:00,Stade Brestois,Metz,1.55,4.0,7.0,1.0833,2.5,1.2222,2.25,1.5714,1.3636,3.2,2.075,1.7273
-https://www.sofascore.com/stade-de-reims-nice/lIsHI,2024-04-07,10:00,Stade de Reims,Nice,2.6,3.1,2.88,1.4,1.5,1.3636,1.9091,1.9091,1.3636,3.2,2.1,1.7
-https://www.sofascore.com/toulouse-rc-strasbourg/jIsGI,2024-04-07,10:00,Toulouse,RC Strasbourg,2.15,3.5,3.3,1.3333,1.6667,1.2857,1.75,2.0,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/lorient-montpellier/RHsgI,2024-04-07,10:00,Montpellier,Lorient,1.8,3.8,4.2,1.2222,1.95,1.25,1.6667,2.1,1.2222,4.3333,1.7,2.1
-https://www.sofascore.com/stade-rennais-as-monaco/dIsiI,2024-04-07,12:05,AS Monaco,Stade Rennais,1.75,4.2,4.0,1.2222,2.0,1.2222,1.5,2.5,1.1429,5.5,1.5,2.5
-https://www.sofascore.com/olympique-lyonnais-nantes/XHsZH,2024-04-07,15:45,Nantes,Olympique Lyonnais,3.5,3.3,2.15,1.6667,1.2857,1.3333,1.8,1.95,1.3636,3.2,2.075,1.7273
-https://www.sofascore.com/metz-rc-lens/YHsbI,2024-04-12,16:00,Metz,RC Lens,6.0,4.0,1.57,2.3,1.125,1.2222,1.95,1.8,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-de-reims-rc-strasbourg/jIsHI,2024-04-13,12:00,RC Strasbourg,Stade de Reims,2.45,3.4,2.88,1.4,1.5333,1.3,1.6667,2.1,1.25,4.0,1.9091,1.9091
-https://www.sofascore.com/toulouse-stade-rennais/iIsGI,2024-04-13,16:00,Stade Rennais,Toulouse,1.8,3.6,4.3333,1.2,1.95,1.2857,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/le-havre-nantes/XHsmI,2024-04-14,08:00,Le Havre,Nantes,2.5,2.9,3.25,1.3333,1.5,1.4,2.1,1.6667,1.5333,2.5,2.75,1.4444
-https://www.sofascore.com/clermont-foot-montpellier/RHsFI,2024-04-14,10:00,Clermont Foot,Montpellier,3.25,3.5,2.15,1.6667,1.3333,1.2857,1.5714,2.25,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/stade-brestois-olympique-lyonnais/ZHspJ,2024-04-14,15:45,Olympique Lyonnais,Stade Brestois,2.05,3.4,3.75,1.25,1.7273,1.3,1.8,1.95,1.3,3.5,2.0,1.8
-https://www.sofascore.com/nice-lorient/gIslI,2024-04-19,16:00,Nice,Lorient,1.55,4.3333,5.75,1.1429,2.375,1.2,1.95,1.8,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-rennais-nantes/XHsiI,2024-04-20,12:00,Nantes,Stade Rennais,2.9,3.2,2.5,1.5,1.4,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154
-https://www.sofascore.com/clermont-foot-rc-lens/YHsFI,2024-04-20,16:00,RC Lens,Clermont Foot,1.4,4.5,8.5,1.0833,2.75,1.1818,1.95,1.8,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/rc-strasbourg-lille/THsjI,2024-04-21,10:00,Lille,RC Strasbourg,1.6,4.0,5.75,1.1429,2.3,1.2222,1.95,1.8,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-de-reims-montpellier/RHsHI,2024-04-21,10:00,Stade de Reims,Montpellier,2.15,3.6,3.1,1.3636,1.6667,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/le-havre-metz/bIsmI,2024-04-21,10:00,Le Havre,Metz,2.15,3.1,3.75,1.25,1.6667,1.3636,2.1,1.6667,1.5,2.625,2.5,1.5333
-https://www.sofascore.com/stade-brestois-as-monaco/dIspJ,2024-04-21,12:05,Stade Brestois,AS Monaco,2.55,3.6,2.63,1.4444,1.5,1.2857,1.5333,2.375,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/toulouse-olympique-de-marseille/QHsGI,2024-04-21,14:15,Toulouse,Olympique de Marseille,2.63,3.25,2.63,1.4444,1.4444,1.3333,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/olympique-lyonnais-paris-saint-germain/UHsZH,2024-04-21,16:00,Paris Saint-Germain,Olympique Lyonnais,1.62,4.5,4.3333,1.1818,2.3,1.1818,1.5333,2.375,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/lorient-paris-saint-germain/UHsgI,2024-04-24,14:00,Lorient,Paris Saint-Germain,6.5,5.0,1.44,2.625,1.1111,1.1667,1.6154,2.2,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/nice-olympique-de-marseille/QHslI,2024-04-24,16:00,Olympique de Marseille,Nice,2.3,3.2,3.4,1.2857,1.6667,1.3333,1.95,1.8,1.4,3.0,2.3,1.6154
-https://www.sofascore.com/as-monaco-lille/THsdI,2024-04-24,16:00,AS Monaco,Lille,2.3,3.6,2.8,1.4,1.5714,1.2857,1.5714,2.25,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/nantes-montpellier/RHsXH,2024-04-26,16:00,Montpellier,Nantes,1.95,3.5,3.75,1.25,1.8,1.2857,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/le-havre-paris-saint-germain/UHsmI,2024-04-27,16:00,Paris Saint-Germain,Le Havre,1.33,6.0,7.0,1.1,3.25,1.125,1.8,1.95,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/metz-lille/THsbI,2024-04-28,08:00,Metz,Lille,5.5,3.8,1.62,2.3,1.1429,1.25,1.95,1.8,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/nice-rc-strasbourg/jIslI,2024-04-28,10:00,RC Strasbourg,Nice,3.2,3.3,2.3,1.5714,1.3636,1.3333,1.9091,1.9091,1.3636,3.2,2.2,1.6667
-https://www.sofascore.com/toulouse-lorient/gIsGI,2024-04-28,10:00,Lorient,Toulouse,2.4,3.5,2.8,1.4,1.5333,1.2857,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-de-reims-clermont-foot/FIsHI,2024-04-28,10:00,Clermont Foot,Stade de Reims,3.5,3.75,2.05,1.7273,1.2857,1.25,1.5714,2.25,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/stade-brestois-stade-rennais/iIspJ,2024-04-28,12:05,Stade Rennais,Stade Brestois,2.25,3.3,3.3,1.3333,1.6154,1.3333,1.9091,1.9091,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/as-monaco-olympique-lyonnais/ZHsdI,2024-04-28,14:00,Olympique Lyonnais,AS Monaco,2.4,4.0,2.6,1.5,1.5333,1.2222,1.3636,3.0,1.1,7.0,1.3636,3.2
-https://www.sofascore.com/rc-lens-olympique-de-marseille/QHsYH,2024-04-28,16:00,Olympique de Marseille,RC Lens,2.25,3.6,3.1,1.3636,1.6154,1.2857,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-montpellier/RHGI,2024-05-03,14:00,Toulouse,Montpellier,2.0,3.8,3.4,1.3,1.7273,1.25,1.5,2.5,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/lorient-rc-lens/YHsgI,2024-05-03,16:00,RC Lens,Lorient,1.44,5.0,6.5,1.1111,2.625,1.1667,1.75,2.0,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/le-havre-rc-strasbourg/jIsmI,2024-05-04,10:00,Le Havre,RC Strasbourg,2.55,3.25,2.88,1.4,1.5,1.3333,1.9091,1.9091,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/clermont-foot-as-monaco/dIsFI,2024-05-04,12:00,AS Monaco,Clermont Foot,1.3,6.5,7.5,1.1,3.4,1.1111,1.5333,2.375,1.0833,8.0,1.2857,3.75
-https://www.sofascore.com/stade-rennais-metz/bIsiI,2024-05-04,14:00,Metz,Stade Rennais,3.75,3.6,1.95,1.8,1.25,1.2857,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-brestois-nantes/XHspJ,2024-05-04,16:00,Stade Brestois,Nantes,1.67,3.6,5.5,1.1429,2.15,1.2857,2.0,1.75,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/olympique-lyonnais-lille/THsZH,2024-05-06,16:00,Lille,Olympique Lyonnais,2.05,3.8,3.25,1.3333,1.7273,1.25,1.5333,2.375,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/le-havre-nice/lIsmI,2024-05-10,16:00,Nice,Le Havre,1.57,4.0,6.5,1.1111,2.3,1.2222,2.0,1.75,1.3,3.5,2.0,1.8
-https://www.sofascore.com/stade-brestois-stade-de-reims/HIspJ,2024-05-10,16:00,Stade Brestois,Stade de Reims,1.6,4.2,5.5,1.1429,2.3,1.2222,1.7,2.05,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/toulouse-paris-saint-germain/YMTc,2024-05-12,16:00,Paris Saint-Germain,Toulouse,1.36,5.75,7.5,1.1,3.0,1.1429,1.5714,2.25,1.1,7.0,1.3636,3.2
-https://www.sofascore.com/lorient-olympique-de-marseille/QHsgI,2024-05-12,16:00,Olympique de Marseille,Lorient,1.44,4.5,7.5,1.1,2.625,1.1818,1.75,2.0,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/as-monaco-montpellier/RHsdI,2024-05-12,16:00,Montpellier,AS Monaco,4.0,4.3333,1.7,2.1,1.2222,1.2,1.3333,3.25,1.0833,8.0,1.2857,3.75
-https://www.sofascore.com/clermont-foot-olympique-lyonnais/ZHsFI,2024-05-12,16:00,Clermont Foot,Olympique Lyonnais,5.25,4.2,1.6,2.25,1.1667,1.2222,1.4444,2.625,1.1111,6.5,1.4,3.0
-https://www.sofascore.com/stade-rennais-rc-lens/YHsiI,2024-05-12,16:00,Stade Rennais,RC Lens,2.25,3.6,3.0,1.3636,1.6154,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/nantes-lille/THsXH,2024-05-12,16:00,Nantes,Lille,4.3333,3.6,1.83,1.95,1.1818,1.2857,1.9091,1.9091,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/rc-strasbourg-metz/bIsjI,2024-05-12,16:00,RC Strasbourg,Metz,2.1,3.6,3.3,1.3333,1.7,1.2857,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/nice-paris-saint-germain/UHslI,2024-05-15,16:00,Nice,Paris Saint-Germain,2.15,3.7,3.1,1.3333,1.7273,1.25,1.5,2.5,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/stade-de-reims-olympique-de-marseille/QHsHI,2024-05-15,16:00,Stade de Reims,Olympique de Marseille,3.9,3.7,1.9,1.9091,1.2222,1.25,1.5714,2.25,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/metz-paris-saint-germain/UHsbI,2024-05-19,16:00,Metz,Paris Saint-Germain,5.0,3.75,1.7,2.0,1.1818,1.2857,1.5,2.5,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/le-havre-olympique-de-marseille/QHsmI,2024-05-19,16:00,Le Havre,Olympique de Marseille,5.0,3.75,1.7,2.1,1.1667,1.25,1.7,2.05,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/as-monaco-nantes/XHsdI,2024-05-19,16:00,AS Monaco,Nantes,1.45,5.0,5.75,1.1429,2.625,1.1667,1.4444,2.625,1.1,7.0,1.3333,3.4
-https://www.sofascore.com/rc-strasbourg-olympique-lyonnais/ZHsjI,2024-05-19,16:00,Olympique Lyonnais,RC Strasbourg,1.3,5.25,9.5,1.0714,3.4,1.1667,1.7,2.05,1.125,6.0,1.4,3.0
-https://www.sofascore.com/nice-lille/THslI,2024-05-19,16:00,Lille,Nice,1.48,4.3333,6.25,1.125,2.625,1.2,1.8,1.95,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/rc-lens-montpellier/RHsYH,2024-05-19,16:00,RC Lens,Montpellier,1.33,5.5,8.0,1.0833,3.25,1.1429,1.6154,2.2,1.1,7.0,1.3636,3.2
-https://www.sofascore.com/stade-de-reims-stade-rennais/iIsHI,2024-05-19,16:00,Stade de Reims,Stade Rennais,3.0,3.4,2.38,1.5333,1.3636,1.3,1.4444,2.625,1.1429,5.5,1.5333,2.5
-https://www.sofascore.com/stade-brestois-toulouse/GIspJ,2024-05-19,16:00,Toulouse,Stade Brestois,3.0,3.6,2.3,1.5714,1.3636,1.2857,1.5333,2.375,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/clermont-foot-lorient/gIsFI,2024-05-19,16:00,Lorient,Clermont Foot,1.62,4.2,5.0,1.1667,2.25,1.2222,1.5,2.5,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/rodez-af-paris-fc/vwcsANc,2024-05-21,15:30,Rodez AF,Paris FC,2.3,3.3,3.1,1.3636,1.5714,1.3333,1.8,1.9091,1.3333,3.25,2.075,1.7273
-https://www.sofascore.com/rodez-af-saint-etienne/DIsANc,2024-05-24,15:30,Saint-Étienne,Rodez AF,1.75,3.7,4.75,1.1818,2.0,1.2857,1.6667,2.1,,,,
-https://www.sofascore.com/saint-etienne-metz/bIsDI,2024-05-30,15:30,Saint-Étienne,Metz,1.95,3.3,3.9,1.2222,1.8333,1.3333,1.8333,1.8333,1.3,3.4,2.0,1.8
-https://www.sofascore.com/saint-etienne-metz/bIsDI,2024-06-02,12:00,Metz,Saint-Étienne,2.55,3.3,2.7,1.4444,1.5,1.3333,1.6667,2.1,1.2857,3.5,1.9,1.9
-https://www.sofascore.com/le-havre-paris-saint-germain/UHsmI,2024-08-16,15:45,Le Havre,Paris Saint-Germain,7.0,4.75,1.42,2.75,1.1,1.1818,1.8,1.95,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-brestois-olympique-de-marseille/QHspJ,2024-08-17,12:00,Stade Brestois,Olympique de Marseille,3.3,3.3,2.25,1.6154,1.3333,1.3333,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-de-reims-lille/THsHI,2024-08-17,14:00,Stade de Reims,Lille,2.7,3.3,2.63,1.5,1.4,1.3333,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/saint-etienne-as-monaco/dIDI,2024-08-17,16:00,AS Monaco,Saint-Étienne,1.36,5.25,7.5,1.1,3.0,1.1667,1.7,2.05,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/nice-auxerre/WHslI,2024-08-18,10:00,Auxerre,Nice,2.9,3.3,2.4,1.5333,1.4,1.3333,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/angers-rc-lens/YHsJI,2024-08-18,12:00,Angers,RC Lens,6.5,3.9,1.55,2.375,1.1111,1.25,2.0,1.75,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/toulouse-nantes/XHsGI,2024-08-18,12:00,Toulouse,Nantes,2.05,3.4,3.8,1.25,1.8,1.3,1.95,1.8,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/rc-strasbourg-montpellier/RHsjI,2024-08-18,12:00,Montpellier,RC Strasbourg,1.95,3.5,3.8,1.3,1.7,1.3,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-rennais-olympique-lyonnais/ZHsiI,2024-08-18,15:45,Stade Rennais,Olympique Lyonnais,2.3,3.5,3.0,1.3636,1.5714,1.2857,1.6667,2.1,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/paris-saint-germain-montpellier/RHUH,2024-08-23,15:45,Paris Saint-Germain,Montpellier,1.22,7.0,11.0,1.05,4.0,1.1,1.8,1.95,1.1,7.0,1.3333,3.4
-https://www.sofascore.com/as-monaco-olympique-lyonnais/ZHsdI,2024-08-24,12:00,Olympique Lyonnais,AS Monaco,2.7,3.8,2.4,1.5333,1.4444,1.25,1.4444,2.625,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/angers-lille/THsJI,2024-08-24,14:00,Lille,Angers,1.33,5.0,9.0,1.0714,3.25,1.1667,2.2,1.6154,1.25,4.0,1.8,2.0
-https://www.sofascore.com/saint-etienne-le-havre/mIsDI,2024-08-24,16:00,Saint-Étienne,Le Havre,1.95,3.4,4.0,1.25,1.8,1.3333,2.0,1.75,1.4444,2.75,2.375,1.5714
-https://www.sofascore.com/stade-brestois-rc-lens/YHspJ,2024-08-25,10:00,RC Lens,Stade Brestois,1.85,3.5,4.3333,1.2,1.9091,1.2857,1.95,1.8,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/toulouse-nice/lIsGI,2024-08-25,12:00,Nice,Toulouse,2.1,3.1,3.8,1.25,1.7,1.3636,1.9091,1.9091,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/rc-strasbourg-stade-rennais/iIsjI,2024-08-25,12:00,RC Strasbourg,Stade Rennais,3.25,3.25,2.25,1.6154,1.3333,1.3333,1.8,1.95,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/nantes-auxerre/WHsXH,2024-08-25,12:00,Nantes,Auxerre,2.25,3.4,3.2,1.3636,1.6154,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-de-reims-olympique-de-marseille/QHsHI,2024-08-25,15:45,Olympique de Marseille,Stade de Reims,1.33,5.5,8.0,1.0833,3.25,1.1429,1.9091,1.9091,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/rc-strasbourg-olympique-lyonnais/ZHsjI,2024-08-30,15:45,Olympique Lyonnais,RC Strasbourg,2.0,3.6,3.6,1.2857,1.8,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-brestois-saint-etienne/DIspJ,2024-08-31,12:00,Stade Brestois,Saint-Étienne,1.73,4.0,4.75,1.1818,2.05,1.2222,1.9091,1.9091,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/nantes-montpellier/RHsXH,2024-08-31,14:00,Montpellier,Nantes,2.2,3.5,3.1,1.3636,1.6667,1.2857,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-olympique-de-marseille/QHsGI,2024-08-31,16:00,Toulouse,Olympique de Marseille,3.1,3.7,2.2,1.6667,1.3636,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/as-monaco-rc-lens/YHsdI,2024-09-01,10:00,AS Monaco,RC Lens,1.91,3.75,3.8,1.25,1.8333,1.25,1.6154,2.2,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/stade-de-reims-stade-rennais/iIsHI,2024-09-01,12:00,Stade de Reims,Stade Rennais,3.2,3.5,2.2,1.6667,1.3636,1.2857,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/angers-nice/lIsJI,2024-09-01,12:00,Angers,Nice,4.3333,3.4,1.9,1.8333,1.2,1.3333,2.05,1.7,1.4444,2.75,2.3,1.6154
-https://www.sofascore.com/le-havre-auxerre/WHsmI,2024-09-01,12:00,Le Havre,Auxerre,2.75,3.3,2.55,1.5,1.4,1.3333,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/paris-saint-germain-lille/THsUH,2024-09-01,15:45,Lille,Paris Saint-Germain,4.2,3.9,1.75,2.0,1.2222,1.25,1.6667,2.1,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/saint-etienne-lille/THsDI,2024-09-13,15:45,Saint-Étienne,Lille,5.25,3.6,1.7,2.1,1.1667,1.2857,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/nice-olympique-de-marseille/QHslI,2024-09-14,12:00,Olympique de Marseille,Nice,1.75,3.6,4.75,1.1818,1.9091,1.2857,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/as-monaco-auxerre/WHsdI,2024-09-14,14:00,Auxerre,AS Monaco,4.3333,3.8,1.75,2.0,1.2,1.25,1.5,2.5,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/stade-brestois-paris-saint-germain/UHspJ,2024-09-14,16:00,Paris Saint-Germain,Stade Brestois,1.3,5.75,8.5,1.0714,3.5,1.125,1.8,1.95,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/stade-rennais-montpellier/RHsiI,2024-09-15,10:00,Stade Rennais,Montpellier,1.44,4.75,6.5,1.1111,2.625,1.1818,1.6667,2.1,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/stade-de-reims-nantes/XHsHI,2024-09-15,12:00,Nantes,Stade de Reims,2.38,3.2,3.1,1.3636,1.5333,1.3636,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/toulouse-le-havre/mIsGI,2024-09-15,12:00,Toulouse,Le Havre,1.85,3.5,4.3333,1.2,1.9091,1.2857,1.95,1.8,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/angers-rc-strasbourg/jIsJI,2024-09-15,12:00,RC Strasbourg,Angers,1.62,4.0,5.25,1.1667,2.25,1.2222,1.95,1.8,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/olympique-lyonnais-rc-lens/YHsZH,2024-09-15,15:45,RC Lens,Olympique Lyonnais,1.75,3.9,4.3333,1.2,2.0,1.25,1.5714,2.25,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/saint-etienne-nice/lIsDI,2024-09-20,15:45,Nice,Saint-Étienne,1.48,4.2,7.0,1.1,2.625,1.2222,2.0,1.75,1.25,4.0,1.8,2.0
-https://www.sofascore.com/rc-strasbourg-lille/THsjI,2024-09-21,12:00,Lille,RC Strasbourg,1.55,4.3333,5.75,1.1429,2.375,1.2,1.8,1.95,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-rennais-rc-lens/YHsiI,2024-09-21,14:00,Stade Rennais,RC Lens,2.38,3.4,2.9,1.4,1.5333,1.3,1.8,1.95,1.3,3.5,2.0,1.8
-https://www.sofascore.com/stade-de-reims-paris-saint-germain/UHsHI,2024-09-21,16:00,Stade de Reims,Paris Saint-Germain,7.0,5.0,1.42,2.75,1.1,1.1667,1.6667,2.1,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/le-havre-as-monaco/dIsmI,2024-09-22,10:00,AS Monaco,Le Havre,1.42,4.75,7.0,1.1,2.75,1.1818,1.95,1.8,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/angers-nantes/XHsJI,2024-09-22,12:00,Angers,Nantes,3.2,3.3,2.3,1.5714,1.3636,1.3333,1.95,1.8,1.4444,2.75,2.3,1.6154
-https://www.sofascore.com/auxerre-montpellier/RHsWH,2024-09-22,12:00,Montpellier,Auxerre,2.25,3.4,3.2,1.3636,1.6154,1.3,1.5333,2.375,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/olympique-lyonnais-olympique-de-marseille/QHsZH,2024-09-22,15:45,Olympique Lyonnais,Olympique de Marseille,2.7,3.75,2.38,1.5333,1.4444,1.25,1.5333,2.375,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/stade-brestois-auxerre/WHspJ,2024-09-27,14:00,Auxerre,Stade Brestois,3.0,3.4,2.4,1.5333,1.3636,1.3,1.7,2.05,1.2857,3.75,1.85,1.95
-https://www.sofascore.com/stade-rennais-paris-saint-germain/UHsiI,2024-09-27,16:00,Paris Saint-Germain,Stade Rennais,1.38,5.0,7.0,1.1,3.0,1.1667,1.8,1.95,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/nice-rc-lens/YHslI,2024-09-28,12:00,RC Lens,Nice,1.9,3.5,4.3333,1.2,1.9091,1.2857,1.95,1.8,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/le-havre-lille/THsmI,2024-09-28,14:00,Le Havre,Lille,4.2,3.6,1.9,1.9091,1.2222,1.2857,1.9091,1.9091,1.3333,3.4,2.05,1.75
-https://www.sofascore.com/as-monaco-montpellier/RHsdI,2024-09-28,16:00,AS Monaco,Montpellier,1.25,6.25,11.0,1.05,3.75,1.125,1.6667,2.1,1.1,7.0,1.3333,3.4
-https://www.sofascore.com/toulouse-olympique-lyonnais/ZHsGI,2024-09-29,10:00,Toulouse,Olympique Lyonnais,2.3,3.5,3.0,1.3636,1.5714,1.2857,1.5714,2.25,1.2222,4.3333,1.7,2.1
-https://www.sofascore.com/saint-etienne-nantes/XHsDI,2024-09-29,12:00,Nantes,Saint-Étienne,1.8,3.75,4.3333,1.2,1.95,1.25,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/angers-stade-de-reims/HIsJI,2024-09-29,12:00,Angers,Stade de Reims,3.6,3.2,2.15,1.6667,1.2857,1.3636,1.9091,1.9091,1.3636,3.2,2.1,1.7
-https://www.sofascore.com/rc-strasbourg-olympique-de-marseille/QHsjI,2024-09-29,15:45,RC Strasbourg,Olympique de Marseille,3.1,3.8,2.15,1.6667,1.3636,1.25,1.5333,2.375,1.2,4.5,1.6154,2.25
-https://www.sofascore.com/angers-olympique-de-marseille/QHsJI,2024-10-04,15:45,Olympique de Marseille,Angers,1.27,5.75,11.0,1.05,3.5,1.1429,1.95,1.8,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/saint-etienne-auxerre/WHsDI,2024-10-05,12:00,Saint-Étienne,Auxerre,3.1,3.5,2.3,1.5714,1.3636,1.2857,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-lille/THsGI,2024-10-05,14:00,Lille,Toulouse,1.83,3.9,4.1,1.2222,1.95,1.25,1.8,1.95,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/stade-rennais-as-monaco/dIsiI,2024-10-05,16:00,Stade Rennais,AS Monaco,3.0,3.4,2.38,1.5333,1.3636,1.3,1.5714,2.25,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/olympique-lyonnais-nantes/XHsZH,2024-10-06,10:00,Olympique Lyonnais,Nantes,1.7,3.8,4.75,1.1818,2.1,1.25,1.6154,2.2,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/rc-strasbourg-rc-lens/YHsjI,2024-10-06,12:00,RC Strasbourg,RC Lens,2.7,3.3,2.6,1.5,1.4444,1.3333,1.6667,2.1,1.25,4.0,1.9091,1.9091
-https://www.sofascore.com/stade-brestois-le-havre/mIspJ,2024-10-06,12:00,Stade Brestois,Le Havre,1.83,3.6,4.3333,1.2,1.9091,1.2857,1.95,1.8,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/stade-de-reims-montpellier/RHsHI,2024-10-06,12:00,Stade de Reims,Montpellier,1.67,4.1,5.0,1.1667,2.15,1.2222,1.5714,2.25,1.1667,5.0,1.6154,2.3
-https://www.sofascore.com/nice-paris-saint-germain/UHslI,2024-10-06,15:45,Nice,Paris Saint-Germain,5.25,4.3333,1.57,2.3,1.1667,1.2,1.7,2.05,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/as-monaco-lille/THsdI,2024-10-18,15:45,AS Monaco,Lille,2.1,3.5,3.4,1.2857,1.8,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/stade-brestois-stade-rennais/iIspJ,2024-10-19,12:00,Stade Brestois,Stade Rennais,2.7,3.25,2.7,1.4,1.4444,1.3636,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/saint-etienne-rc-lens/YHsDI,2024-10-19,14:00,Saint-Étienne,RC Lens,6.0,4.2,1.55,2.375,1.125,1.2222,1.75,2.0,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/rc-strasbourg-paris-saint-germain/UHsjI,2024-10-19,16:00,Paris Saint-Germain,RC Strasbourg,1.29,5.75,9.5,1.0714,3.5,1.1429,1.6667,2.1,1.1,7.0,1.3636,3.2
-https://www.sofascore.com/le-havre-olympique-lyonnais/ZHsmI,2024-10-20,10:00,Le Havre,Olympique Lyonnais,5.0,3.9,1.7,2.15,1.1667,1.25,1.6667,2.1,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/nice-nantes/XHslI,2024-10-20,12:00,Nantes,Nice,2.75,3.1,2.7,1.4444,1.4,1.3636,1.8,1.95,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/angers-toulouse/GIsJI,2024-10-20,12:00,Toulouse,Angers,1.48,4.1,7.5,1.1,2.625,1.2222,2.0,1.75,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-de-reims-auxerre/WHsHI,2024-10-20,12:00,Auxerre,Stade de Reims,3.1,3.5,2.25,1.6154,1.3636,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/montpellier-olympique-de-marseille/QHsRH,2024-10-20,15:45,Montpellier,Olympique de Marseille,4.5,4.0,1.7,2.1,1.1818,1.2222,1.5333,2.375,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/le-havre-stade-rennais/iIsmI,2024-10-25,15:45,Stade Rennais,Le Havre,1.48,4.0,7.5,1.1,2.5,1.25,1.95,1.8,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/angers-saint-etienne/DIsJI,2024-10-26,12:00,Angers,Saint-Étienne,2.15,3.5,3.3,1.3333,1.6667,1.2857,1.75,2.0,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/stade-brestois-stade-de-reims/HIspJ,2024-10-26,14:00,Stade de Reims,Stade Brestois,1.85,3.5,4.3333,1.2,1.9091,1.2857,1.9091,1.9091,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/rc-lens-lille/THsYH,2024-10-26,16:00,RC Lens,Lille,2.05,3.4,3.7,1.3,1.6667,1.3333,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/olympique-lyonnais-auxerre/WHsZH,2024-10-27,11:00,Olympique Lyonnais,Auxerre,1.44,5.25,5.5,1.1429,2.625,1.1667,1.5714,2.25,1.125,6.0,1.4,3.0
-https://www.sofascore.com/nice-as-monaco/dIslI,2024-10-27,13:00,Nice,AS Monaco,4.0,3.7,1.85,1.9091,1.2222,1.2857,1.7,2.05,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-montpellier/RHGI,2024-10-27,13:00,Montpellier,Toulouse,3.2,3.7,2.1,1.7,1.3636,1.2857,1.5333,2.375,1.1667,5.0,1.6154,2.3
-https://www.sofascore.com/rc-strasbourg-nantes/XHsjI,2024-10-27,13:00,RC Strasbourg,Nantes,1.85,3.6,4.2,1.2222,1.9091,1.2857,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/paris-saint-germain-olympique-de-marseille/QHsUH,2024-10-27,16:45,Olympique de Marseille,Paris Saint-Germain,4.2,3.7,1.8,1.95,1.2222,1.2857,1.5,2.5,1.1429,5.5,1.5333,2.5
-https://www.sofascore.com/angers-as-monaco/dIsJI,2024-11-01,15:00,AS Monaco,Angers,1.22,6.5,11.0,1.05,3.75,1.125,1.8,1.95,1.1111,6.5,1.4,3.0
-https://www.sofascore.com/olympique-lyonnais-lille/THsZH,2024-11-01,17:00,Lille,Olympique Lyonnais,2.15,3.75,3.1,1.3636,1.6667,1.25,1.5,2.5,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/rc-lens-paris-saint-germain/UHsYH,2024-11-02,13:00,Paris Saint-Germain,RC Lens,1.42,5.0,6.25,1.1111,2.75,1.1667,1.7,2.05,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/stade-brestois-nice/lIspJ,2024-11-02,15:00,Stade Brestois,Nice,3.0,3.1,2.5,1.5,1.3636,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154
-https://www.sofascore.com/saint-etienne-rc-strasbourg/jIsDI,2024-11-02,17:00,Saint-Étienne,RC Strasbourg,3.7,3.8,1.91,1.8,1.2857,1.25,1.6154,2.2,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/stade-de-reims-toulouse/GIsHI,2024-11-03,11:00,Toulouse,Stade de Reims,1.85,3.5,4.3333,1.2,1.9091,1.2857,1.8,1.95,1.3,3.5,2.0,1.8
-https://www.sofascore.com/stade-rennais-auxerre/WHsiI,2024-11-03,13:00,Auxerre,Stade Rennais,3.25,3.6,2.1,1.7,1.3333,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/le-havre-montpellier/RHsmI,2024-11-03,13:00,Le Havre,Montpellier,2.15,3.5,3.3,1.3333,1.6667,1.2857,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/nantes-olympique-de-marseille/QHsXH,2024-11-03,16:45,Nantes,Olympique de Marseille,3.6,3.4,2.1,1.7,1.2857,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/auxerre-olympique-de-marseille/QHsWH,2024-11-08,16:45,Olympique de Marseille,Auxerre,1.45,4.75,6.5,1.1111,2.625,1.1818,1.7,2.05,1.1667,5.0,1.5,2.625
-https://www.sofascore.com/rc-strasbourg-as-monaco/dIsjI,2024-11-09,13:00,RC Strasbourg,AS Monaco,3.7,3.75,1.95,1.8,1.2857,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/rc-lens-nantes/XHsYH,2024-11-09,15:00,RC Lens,Nantes,1.62,3.8,5.5,1.1429,2.25,1.25,2.05,1.7,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/angers-paris-saint-germain/UHsJI,2024-11-09,17:00,Angers,Paris Saint-Germain,11.0,6.25,1.22,4.0,1.05,1.125,1.95,1.8,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/nice-lille/THslI,2024-11-10,11:00,Nice,Lille,2.3,3.25,3.25,1.3333,1.5714,1.3333,1.8,1.95,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/toulouse-stade-rennais/iIsGI,2024-11-10,13:00,Stade Rennais,Toulouse,2.3,3.4,3.0,1.3636,1.5714,1.3,1.8,1.95,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/stade-brestois-montpellier/RHspJ,2024-11-10,13:00,Montpellier,Stade Brestois,2.8,3.4,2.5,1.5,1.4,1.3,1.6667,2.1,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-de-reims-le-havre/mIsHI,2024-11-10,13:00,Le Havre,Stade de Reims,3.3,3.1,2.3,1.5714,1.3333,1.3636,1.8,1.95,1.3636,3.2,2.2,1.6667
-https://www.sofascore.com/saint-etienne-olympique-lyonnais/rbMb,2024-11-10,16:45,Olympique Lyonnais,Saint-Étienne,1.33,5.75,8.0,1.0833,3.25,1.1429,1.7,2.05,1.125,6.0,1.4,3.0
-https://www.sofascore.com/stade-brestois-as-monaco/dIspJ,2024-11-22,15:00,AS Monaco,Stade Brestois,1.53,4.1,6.25,1.1429,2.3,1.2222,1.9091,1.9091,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-paris-saint-germain/YMTc,2024-11-22,17:00,Paris Saint-Germain,Toulouse,1.4,5.25,6.5,1.1111,2.75,1.1667,1.7,2.05,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/rc-lens-olympique-de-marseille/QHsYH,2024-11-23,13:00,RC Lens,Olympique de Marseille,2.3,3.4,3.1,1.3636,1.5714,1.3,1.6667,2.1,1.25,4.0,1.9091,1.9091
-https://www.sofascore.com/saint-etienne-montpellier/RHsDI,2024-11-23,15:00,Saint-Étienne,Montpellier,2.38,3.3,3.0,1.3636,1.5333,1.3333,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-de-reims-olympique-lyonnais/ZHsHI,2024-11-23,17:00,Stade de Reims,Olympique Lyonnais,3.0,3.7,2.2,1.6667,1.3636,1.2857,1.5,2.5,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/stade-rennais-lille/THsiI,2024-11-24,11:00,Lille,Stade Rennais,1.85,3.6,4.2,1.2222,1.9091,1.2857,1.8,1.95,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/le-havre-nantes/XHsmI,2024-11-24,13:00,Nantes,Le Havre,1.91,3.3,4.2,1.2222,1.8333,1.3333,2.1,1.6667,1.4444,2.75,2.375,1.5714
-https://www.sofascore.com/angers-auxerre/WHsJI,2024-11-24,13:00,Auxerre,Angers,1.75,3.6,4.75,1.1818,2.0,1.2857,1.7,2.05,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/nice-rc-strasbourg/jIslI,2024-11-24,16:45,Nice,RC Strasbourg,1.73,3.75,4.75,1.1818,2.05,1.25,1.6667,2.1,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/stade-de-reims-rc-lens/YHsHI,2024-11-29,16:45,Stade de Reims,RC Lens,3.2,3.4,2.25,1.6154,1.3636,1.3,1.75,2.0,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/saint-etienne-stade-rennais/iIsDI,2024-11-30,13:00,Stade Rennais,Saint-Étienne,1.57,4.2,5.5,1.1429,2.3,1.2222,2.0,1.75,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/stade-brestois-rc-strasbourg/jIspJ,2024-11-30,15:00,Stade Brestois,RC Strasbourg,2.15,3.4,3.4,1.2857,1.7,1.3,1.7,2.05,1.3,3.5,2.0,1.8
-https://www.sofascore.com/nantes-paris-saint-germain/UHsXH,2024-11-30,17:00,Paris Saint-Germain,Nantes,1.18,7.0,13.0,1.04,4.5,1.1,2.1,1.6667,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/lille-montpellier/RHsTH,2024-12-01,11:00,Montpellier,Lille,5.0,3.7,1.7,2.05,1.1667,1.2857,1.75,2.0,1.25,4.0,1.8,2.0
-https://www.sofascore.com/nice-olympique-lyonnais/ZHslI,2024-12-01,13:00,Olympique Lyonnais,Nice,1.67,4.2,4.5,1.2,2.05,1.2222,1.5333,2.375,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/toulouse-auxerre/WHsGI,2024-12-01,13:00,Toulouse,Auxerre,1.62,3.7,5.5,1.1429,2.2,1.2857,1.75,2.0,1.25,4.0,1.8,2.0
-https://www.sofascore.com/angers-le-havre/mIsJI,2024-12-01,13:00,Le Havre,Angers,2.35,3.1,3.4,1.3,1.5714,1.3636,1.95,1.8,1.4444,2.75,2.375,1.5714
-https://www.sofascore.com/as-monaco-olympique-de-marseille/QHsdI,2024-12-01,16:45,Olympique de Marseille,AS Monaco,2.63,3.3,2.63,1.4444,1.4444,1.3333,1.5,2.5,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/stade-brestois-lille/THspJ,2024-12-06,15:00,Lille,Stade Brestois,1.65,3.7,6.0,1.1429,2.15,1.2857,1.95,1.8,1.3,3.5,2.0,1.8
-https://www.sofascore.com/auxerre-paris-saint-germain/UHsWH,2024-12-06,17:00,Auxerre,Paris Saint-Germain,9.5,5.75,1.29,3.5,1.0714,1.1429,1.6667,2.1,1.1111,6.5,1.3636,3.2
-https://www.sofascore.com/toulouse-as-monaco/dIsGI,2024-12-07,13:00,AS Monaco,Toulouse,1.85,3.8,4.1,1.2222,1.9091,1.25,1.6667,2.1,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/le-havre-nice/lIsmI,2024-12-07,15:00,Nice,Le Havre,1.6,3.75,6.0,1.125,2.3,1.25,1.95,1.8,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/angers-olympique-lyonnais/ZHsJI,2024-12-07,17:00,Angers,Olympique Lyonnais,5.5,4.1,1.6,2.375,1.1429,1.2222,1.6667,2.1,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/rc-lens-montpellier/RHsYH,2024-12-08,11:00,RC Lens,Montpellier,1.4,4.75,7.5,1.1,2.75,1.1818,1.95,1.8,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/stade-rennais-nantes/XHsiI,2024-12-08,13:00,Nantes,Stade Rennais,3.3,3.1,2.3,1.5714,1.3333,1.3636,2.05,1.7,1.5,2.625,2.5,1.5333
-https://www.sofascore.com/stade-de-reims-rc-strasbourg/jIsHI,2024-12-08,13:00,RC Strasbourg,Stade de Reims,2.55,3.3,2.75,1.4,1.5,1.3333,1.5714,2.25,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/saint-etienne-olympique-de-marseille/QHDI,2024-12-08,16:45,Saint-Étienne,Olympique de Marseille,6.0,4.2,1.53,2.375,1.125,1.2222,1.75,2.0,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/toulouse-saint-etienne/DIsGI,2024-12-13,16:45,Toulouse,Saint-Étienne,1.38,4.75,8.0,1.0833,2.75,1.1818,1.95,1.8,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/lille-olympique-de-marseille/QHsTH,2024-12-14,13:00,Olympique de Marseille,Lille,2.1,3.5,3.4,1.3333,1.6667,1.2857,1.75,2.0,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/rc-lens-auxerre/WHsYH,2024-12-14,15:00,Auxerre,RC Lens,4.5,3.8,1.75,2.0,1.1818,1.25,1.75,2.0,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-de-reims-as-monaco/dIsHI,2024-12-14,17:00,Stade de Reims,AS Monaco,3.6,3.6,2.0,1.6667,1.3636,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/nice-montpellier/RHslI,2024-12-15,11:00,Montpellier,Nice,2.7,3.75,2.38,1.5333,1.4444,1.25,1.5,2.5,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/angers-stade-rennais/iIsJI,2024-12-15,13:00,Stade Rennais,Angers,1.57,4.0,6.0,1.125,2.3,1.2222,2.05,1.7,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/stade-brestois-nantes/XHspJ,2024-12-15,13:00,Stade Brestois,Nantes,2.45,3.1,3.0,1.3636,1.5333,1.3636,2.05,1.7,1.5,2.625,2.5,1.5333
-https://www.sofascore.com/le-havre-rc-strasbourg/jIsmI,2024-12-15,13:00,Le Havre,RC Strasbourg,3.4,3.2,2.2,1.6667,1.3,1.3636,1.8,1.95,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/olympique-lyonnais-paris-saint-germain/UHsZH,2024-12-15,16:45,Paris Saint-Germain,Olympique Lyonnais,1.33,5.75,7.0,1.1,3.25,1.1429,1.6154,2.2,1.1111,6.5,1.3636,3.2
-https://www.sofascore.com/as-monaco-paris-saint-germain/UHsdI,2024-12-18,17:00,AS Monaco,Paris Saint-Germain,4.2,3.8,1.8,1.95,1.2222,1.25,1.5714,2.25,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/nice-stade-rennais/iIslI,2025-01-03,17:00,Nice,Stade Rennais,2.38,3.2,3.2,1.3636,1.5333,1.3636,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/stade-de-reims-saint-etienne/DIHI,2025-01-04,13:00,Saint-Étienne,Stade de Reims,3.8,3.5,1.95,1.8,1.25,1.2857,1.7,2.05,1.25,4.0,1.8,2.0
-https://www.sofascore.com/nantes-lille/THsXH,2025-01-04,15:00,Lille,Nantes,1.53,4.2,5.75,1.1429,2.375,1.2222,2.05,1.7,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/olympique-lyonnais-montpellier/RHsZH,2025-01-04,17:00,Olympique Lyonnais,Montpellier,1.33,5.5,7.5,1.1,3.25,1.1429,1.5714,2.25,1.1,7.0,1.3333,3.4
-https://www.sofascore.com/toulouse-rc-lens/YHsGI,2025-01-05,11:00,RC Lens,Toulouse,1.95,3.5,3.9,1.25,1.8,1.2857,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-brestois-angers/JIspJ,2025-01-05,11:00,Angers,Stade Brestois,3.4,3.3,2.2,1.6667,1.3,1.3333,1.95,1.8,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/rc-strasbourg-auxerre/WHsjI,2025-01-05,11:00,RC Strasbourg,Auxerre,1.8,3.8,4.1,1.2222,1.95,1.25,1.6154,2.2,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/le-havre-olympique-de-marseille/QHsmI,2025-01-05,16:45,Olympique de Marseille,Le Havre,1.3,5.25,9.5,1.0714,3.4,1.1667,2.2,1.6154,1.25,4.0,1.7273,2.1
-https://www.sofascore.com/as-monaco-nantes/XHsdI,2025-01-10,15:00,Nantes,AS Monaco,4.3333,3.6,1.8,1.8,1.25,1.2857,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/auxerre-lille/THsWH,2025-01-10,17:05,Auxerre,Lille,4.75,3.7,1.75,2.0,1.1818,1.2857,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-brestois-olympique-lyonnais/ZHspJ,2025-01-11,13:00,Stade Brestois,Olympique Lyonnais,3.6,3.5,2.05,1.8,1.2857,1.2857,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-de-reims-nice/lIsHI,2025-01-11,15:00,Stade de Reims,Nice,2.75,3.3,2.55,1.5,1.4,1.3333,1.7,2.05,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/stade-rennais-olympique-de-marseille/QHsiI,2025-01-11,17:05,Stade Rennais,Olympique de Marseille,3.2,3.2,2.35,1.5714,1.3636,1.3636,1.8,1.95,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/le-havre-rc-lens/YHsmI,2025-01-12,11:00,Le Havre,RC Lens,6.0,4.2,1.55,2.375,1.125,1.2222,1.9091,1.9091,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-rc-strasbourg/jIsGI,2025-01-12,13:15,Toulouse,RC Strasbourg,1.95,3.6,3.8,1.25,1.8333,1.2857,1.75,2.0,1.25,4.0,1.8,2.0
-https://www.sofascore.com/angers-montpellier/RHsJI,2025-01-12,13:15,Montpellier,Angers,2.15,3.5,3.3,1.3333,1.6667,1.2857,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/saint-etienne-paris-saint-germain/UHDI,2025-01-12,16:45,Paris Saint-Germain,Saint-Étienne,1.11,9.0,19.0,1.02,6.5,1.0714,1.75,2.0,1.05,11.0,1.2,4.5
-https://www.sofascore.com/as-monaco-montpellier/RHsdI,2025-01-17,15:00,Montpellier,AS Monaco,4.75,4.2,1.65,2.3,1.1667,1.2,1.5333,2.375,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/nice-lille/THslI,2025-01-17,17:05,Lille,Nice,2.1,3.4,3.5,1.25,1.8,1.2857,1.8,1.95,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/rc-lens-paris-saint-germain/UHsYH,2025-01-18,13:00,RC Lens,Paris Saint-Germain,3.8,3.75,1.85,1.9091,1.25,1.25,1.5,2.5,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/stade-brestois-stade-rennais/iIspJ,2025-01-18,15:00,Stade Rennais,Stade Brestois,1.95,3.2,4.2,1.2222,1.8,1.3636,2.05,1.7,1.4444,2.75,2.375,1.5714
-https://www.sofascore.com/toulouse-olympique-lyonnais/ZHsGI,2025-01-18,17:05,Olympique Lyonnais,Toulouse,1.85,3.8,3.9,1.25,1.9091,1.25,1.6667,2.1,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/saint-etienne-nantes/XHsDI,2025-01-19,11:00,Saint-Étienne,Nantes,3.1,3.25,2.38,1.5714,1.3636,1.3333,1.9091,1.9091,1.3333,3.4,2.2,1.6667
-https://www.sofascore.com/stade-de-reims-le-havre/mIsHI,2025-01-19,13:15,Stade de Reims,Le Havre,1.62,4.0,5.25,1.1818,2.05,1.25,1.95,1.8,1.3,3.5,2.0,1.8
-https://www.sofascore.com/angers-auxerre/WHsJI,2025-01-19,13:15,Angers,Auxerre,2.25,3.3,3.25,1.3333,1.6154,1.3333,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/rc-strasbourg-olympique-de-marseille/QHsjI,2025-01-19,16:45,Olympique de Marseille,RC Strasbourg,1.57,4.5,5.25,1.1667,2.3,1.1818,1.6154,2.2,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/saint-etienne-auxerre/WHsDI,2025-01-24,16:45,Auxerre,Saint-Étienne,1.91,3.6,3.9,1.2222,1.9091,1.2857,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-rennais-as-monaco/dIsiI,2025-01-25,13:00,AS Monaco,Stade Rennais,1.7,3.9,4.75,1.1818,2.1,1.25,1.7,2.05,1.25,4.0,1.8,2.0
-https://www.sofascore.com/rc-strasbourg-lille/THsjI,2025-01-25,15:00,RC Strasbourg,Lille,2.9,3.25,2.5,1.5,1.4,1.3333,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/stade-de-reims-paris-saint-germain/UHsHI,2025-01-25,17:05,Paris Saint-Germain,Stade de Reims,1.18,8.5,10.0,1.0625,4.5,1.0833,1.6667,2.1,1.0625,10.0,1.2222,4.3333
-https://www.sofascore.com/stade-brestois-le-havre/mIspJ,2025-01-26,11:00,Le Havre,Stade Brestois,3.4,3.2,2.3,1.5714,1.3,1.3636,1.9091,1.9091,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/olympique-lyonnais-nantes/XHsZH,2025-01-26,13:15,Nantes,Olympique Lyonnais,4.1,3.7,1.85,1.9091,1.2222,1.2857,1.7,2.05,1.25,4.0,1.8,2.0
-https://www.sofascore.com/angers-rc-lens/YHsJI,2025-01-26,13:15,RC Lens,Angers,1.5,4.2,6.5,1.1111,2.5,1.2222,1.95,1.8,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-montpellier/RHGI,2025-01-26,13:15,Toulouse,Montpellier,1.7,3.8,5.0,1.1667,2.15,1.25,1.8,1.95,1.25,4.0,1.8,2.0
-https://www.sofascore.com/nice-olympique-de-marseille/QHslI,2025-01-26,16:45,Nice,Olympique de Marseille,2.7,3.4,2.63,1.4444,1.4444,1.3,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/rc-lens-montpellier/RHsYH,2025-01-31,16:45,Montpellier,RC Lens,4.3333,3.7,1.85,1.9091,1.2,1.2857,1.7,2.05,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-brestois-paris-saint-germain/UHspJ,2025-02-01,13:00,Stade Brestois,Paris Saint-Germain,7.5,5.5,1.33,2.625,1.125,1.1818,1.7,2.05,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/as-monaco-auxerre/WHsdI,2025-02-01,15:00,AS Monaco,Auxerre,1.4,5.25,7.0,1.1111,2.75,1.1667,1.6667,2.1,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/saint-etienne-lille/THsDI,2025-02-01,17:05,Lille,Saint-Étienne,1.45,4.3333,7.0,1.1,2.625,1.2,1.95,1.8,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-nice/lIsGI,2025-02-02,11:00,Toulouse,Nice,2.9,3.3,2.4,1.5333,1.4,1.3333,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/rc-strasbourg-stade-rennais/iIsjI,2025-02-02,13:15,Stade Rennais,RC Strasbourg,2.2,3.5,3.3,1.3333,1.6667,1.2857,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-de-reims-nantes/XHsHI,2025-02-02,13:15,Stade de Reims,Nantes,2.2,3.3,3.4,1.3,1.6667,1.3333,1.95,1.8,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/angers-le-havre/mIsJI,2025-02-02,13:15,Angers,Le Havre,1.85,3.4,4.3333,1.2,1.9091,1.3,2.0,1.75,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/olympique-lyonnais-olympique-de-marseille/QHsZH,2025-02-02,16:45,Olympique de Marseille,Olympique Lyonnais,2.05,3.7,3.4,1.3,1.7273,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-brestois-nantes/XHspJ,2025-02-07,15:00,Nantes,Stade Brestois,2.5,3.1,3.0,1.3636,1.5,1.3636,1.9091,1.9091,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/as-monaco-paris-saint-germain/UHsdI,2025-02-07,17:05,Paris Saint-Germain,AS Monaco,1.45,5.25,5.75,1.125,2.75,1.1429,1.4444,2.625,1.0833,8.0,1.2857,3.75
-https://www.sofascore.com/nice-rc-lens/YHslI,2025-02-08,13:00,Nice,RC Lens,2.4,3.4,3.0,1.3636,1.5333,1.3,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/le-havre-lille/THsmI,2025-02-08,15:00,Lille,Le Havre,1.25,6.0,11.0,1.05,3.75,1.125,2.1,1.6667,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/saint-etienne-stade-rennais/iIsDI,2025-02-08,17:05,Saint-Étienne,Stade Rennais,3.2,3.5,2.2,1.6667,1.3636,1.2857,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-de-reims-olympique-lyonnais/ZHsHI,2025-02-09,11:00,Olympique Lyonnais,Stade de Reims,1.5,4.5,5.75,1.1429,2.5,1.1818,1.6667,2.1,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/rc-strasbourg-montpellier/RHsjI,2025-02-09,13:15,RC Strasbourg,Montpellier,1.73,4.0,4.5,1.1818,2.05,1.2222,1.7,2.05,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/toulouse-auxerre/WHsGI,2025-02-09,13:15,Auxerre,Toulouse,2.88,3.3,2.5,1.5,1.4,1.3333,1.75,2.0,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/angers-olympique-de-marseille/QHsJI,2025-02-09,16:45,Angers,Olympique de Marseille,5.25,4.2,1.6,2.3,1.1667,1.2222,1.75,2.0,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-brestois-auxerre/WHspJ,2025-02-14,16:45,Stade Brestois,Auxerre,2.15,3.3,3.6,1.3,1.6667,1.3333,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/saint-etienne-olympique-de-marseille/QHDI,2025-02-15,13:00,Olympique de Marseille,Saint-Étienne,1.22,7.5,9.5,1.0625,4.0,1.1,1.8,1.95,1.1111,6.5,1.3636,3.2
-https://www.sofascore.com/as-monaco-nantes/XHsdI,2025-02-15,15:00,AS Monaco,Nantes,1.48,4.5,6.25,1.125,2.625,1.1818,1.7,2.05,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/toulouse-paris-saint-germain/YMTc,2025-02-15,17:05,Toulouse,Paris Saint-Germain,5.75,4.3333,1.53,2.375,1.1429,1.2,1.7,2.05,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/olympique-lyonnais-montpellier/RHsZH,2025-02-16,11:00,Montpellier,Olympique Lyonnais,5.0,4.75,1.57,2.3,1.1667,1.1818,1.5333,2.375,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/rc-strasbourg-rc-lens/YHsjI,2025-02-16,13:15,RC Lens,RC Strasbourg,1.85,3.75,4.0,1.2222,1.9091,1.25,1.6667,2.1,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/le-havre-nice/lIsmI,2025-02-16,13:15,Le Havre,Nice,5.25,4.0,1.62,2.25,1.1667,1.2222,1.95,1.8,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/angers-stade-de-reims/HIsJI,2025-02-16,13:15,Stade de Reims,Angers,1.85,3.5,4.1,1.2222,1.9091,1.3,1.95,1.8,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/stade-rennais-lille/THsiI,2025-02-16,16:45,Stade Rennais,Lille,2.88,3.1,2.6,1.5,1.4,1.3636,1.9091,1.9091,1.4,3.0,2.3,1.6154
-https://www.sofascore.com/stade-de-reims-stade-rennais/iIsHI,2025-02-21,16:45,Stade Rennais,Stade de Reims,2.2,3.3,3.25,1.3333,1.6667,1.3,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/as-monaco-lille/THsdI,2025-02-22,13:00,Lille,AS Monaco,2.15,3.7,3.1,1.3636,1.6667,1.2857,1.5714,2.25,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/angers-saint-etienne/DIsJI,2025-02-22,15:00,Saint-Étienne,Angers,2.45,3.4,2.88,1.4,1.5333,1.3,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/auxerre-olympique-de-marseille/QHsWH,2025-02-22,17:05,Auxerre,Olympique de Marseille,5.5,4.3333,1.55,2.375,1.1429,1.2,1.75,2.0,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/rc-lens-nantes/XHsYH,2025-02-23,11:00,Nantes,RC Lens,3.4,3.4,2.2,1.6667,1.3,1.3,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/nice-montpellier/RHslI,2025-02-23,13:15,Nice,Montpellier,1.33,5.25,8.5,1.0833,3.25,1.1667,1.8,1.95,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/stade-brestois-rc-strasbourg/jIspJ,2025-02-23,13:15,RC Strasbourg,Stade Brestois,2.05,3.5,3.5,1.2857,1.7,1.3,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/toulouse-le-havre/mIsGI,2025-02-23,13:15,Le Havre,Toulouse,3.9,3.3,2.0,1.8,1.25,1.3333,1.95,1.8,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/olympique-lyonnais-paris-saint-germain/UHsZH,2025-02-23,16:45,Olympique Lyonnais,Paris Saint-Germain,5.5,4.5,1.5,2.5,1.1429,1.1818,1.5,2.5,1.125,6.0,1.4,3.0
-https://www.sofascore.com/stade-de-reims-as-monaco/dIsHI,2025-02-28,16:45,AS Monaco,Stade de Reims,1.36,5.0,8.0,1.0833,3.0,1.1667,1.6667,2.1,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/saint-etienne-nice/lIsDI,2025-03-01,13:00,Saint-Étienne,Nice,5.25,4.2,1.57,2.25,1.1667,1.2222,1.6667,2.1,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/le-havre-rc-lens/YHsmI,2025-03-01,15:00,RC Lens,Le Havre,1.42,4.75,7.0,1.1,2.75,1.1818,1.95,1.8,1.25,4.0,1.8,2.0
-https://www.sofascore.com/paris-saint-germain-lille/THsUH,2025-03-01,17:05,Paris Saint-Germain,Lille,1.33,5.25,8.5,1.0833,3.25,1.1667,1.9091,1.9091,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/stade-brestois-olympique-lyonnais/ZHspJ,2025-03-02,11:00,Olympique Lyonnais,Stade Brestois,1.67,3.9,4.75,1.1818,2.15,1.25,1.6667,2.1,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/stade-rennais-montpellier/RHsiI,2025-03-02,13:15,Montpellier,Stade Rennais,3.6,3.5,2.05,1.7273,1.2857,1.2857,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/angers-toulouse/GIsJI,2025-03-02,13:15,Angers,Toulouse,3.6,3.3,2.15,1.8,1.25,1.3,1.95,1.8,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/rc-strasbourg-auxerre/WHsjI,2025-03-02,13:15,Auxerre,RC Strasbourg,2.8,3.4,2.5,1.5333,1.4,1.3333,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/nantes-olympique-de-marseille/QHsXH,2025-03-02,16:45,Olympique de Marseille,Nantes,1.33,5.5,8.0,1.0833,3.25,1.1429,1.9091,1.9091,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/toulouse-as-monaco/dIsGI,2025-03-07,16:45,Toulouse,AS Monaco,3.2,3.5,2.2,1.6667,1.3636,1.3,1.6154,2.2,1.25,4.0,1.7273,2.1
-https://www.sofascore.com/stade-rennais-paris-saint-germain/UHsiI,2025-03-08,13:00,Stade Rennais,Paris Saint-Germain,4.75,4.1,1.67,2.2,1.1818,1.2222,1.5333,2.375,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/lille-montpellier/RHsTH,2025-03-08,15:00,Lille,Montpellier,1.42,4.5,7.5,1.1,2.75,1.1818,1.9091,1.9091,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/rc-lens-olympique-de-marseille/QHsYH,2025-03-08,17:05,Olympique de Marseille,RC Lens,1.5,4.3333,6.0,1.125,2.5,1.2,1.75,2.0,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/stade-brestois-angers/JIspJ,2025-03-09,11:00,Stade Brestois,Angers,1.67,3.7,5.25,1.1667,2.15,1.2857,1.9091,1.9091,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/rc-strasbourg-nantes/XHsjI,2025-03-09,13:15,Nantes,RC Strasbourg,2.88,3.4,2.45,1.5333,1.4,1.3,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-de-reims-auxerre/WHsHI,2025-03-09,13:15,Stade de Reims,Auxerre,2.38,3.4,3.0,1.3636,1.5333,1.3,1.7,2.05,1.3,3.5,2.0,1.8
-https://www.sofascore.com/saint-etienne-le-havre/mIsDI,2025-03-09,13:15,Le Havre,Saint-Étienne,2.25,3.4,3.2,1.3636,1.6154,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/nice-olympique-lyonnais/ZHslI,2025-03-09,16:45,Nice,Olympique Lyonnais,2.1,3.5,3.3,1.3333,1.7,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/nice-auxerre/WHslI,2025-03-14,16:45,Nice,Auxerre,1.57,4.2,5.5,1.1429,2.3,1.2222,1.8,1.95,1.25,4.0,1.8,2.0
-https://www.sofascore.com/nantes-lille/THsXH,2025-03-15,13:00,Nantes,Lille,4.2,3.2,1.95,1.8,1.2222,1.3636,1.9091,1.9091,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/angers-as-monaco/dIsJI,2025-03-15,15:00,Angers,AS Monaco,7.5,5.0,1.38,3.0,1.0833,1.1667,1.75,2.0,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/stade-rennais-rc-lens/YHsiI,2025-03-15,17:05,RC Lens,Stade Rennais,2.0,3.4,3.8,1.25,1.8,1.3,1.8,1.95,1.3,3.5,2.0,1.8
-https://www.sofascore.com/le-havre-olympique-lyonnais/ZHsmI,2025-03-16,11:00,Olympique Lyonnais,Le Havre,1.27,6.25,8.5,1.0833,3.75,1.125,1.9091,1.9091,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/stade-brestois-stade-de-reims/HIspJ,2025-03-16,13:15,Stade Brestois,Stade de Reims,1.65,3.9,5.25,1.1429,2.25,1.25,2.0,1.75,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/toulouse-rc-strasbourg/jIsGI,2025-03-16,13:15,RC Strasbourg,Toulouse,2.63,3.2,2.75,1.4,1.4444,1.3636,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/saint-etienne-montpellier/RHsDI,2025-03-16,13:15,Montpellier,Saint-Étienne,2.2,3.6,3.1,1.3636,1.6667,1.2857,1.5,2.5,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/paris-saint-germain-olympique-de-marseille/QHsUH,2025-03-16,16:45,Paris Saint-Germain,Olympique de Marseille,1.33,5.5,8.0,1.0833,3.25,1.1429,1.75,2.0,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/rc-strasbourg-olympique-lyonnais/ZHsjI,2025-03-28,16:45,RC Strasbourg,Olympique Lyonnais,2.63,3.6,2.5,1.5333,1.4,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/stade-de-reims-olympique-de-marseille/QHsHI,2025-03-29,13:00,Stade de Reims,Olympique de Marseille,4.75,4.0,1.65,2.2,1.1818,1.2222,1.8,1.95,1.25,4.0,1.8,2.0
-https://www.sofascore.com/saint-etienne-paris-saint-germain/UHDI,2025-03-29,15:00,Saint-Étienne,Paris Saint-Germain,11.0,6.5,1.22,4.0,1.05,1.1111,1.5714,2.25,1.0714,9.0,1.25,4.0
-https://www.sofascore.com/nice-as-monaco/dIslI,2025-03-29,17:05,AS Monaco,Nice,1.9,3.8,3.8,1.25,1.9091,1.25,1.5714,2.25,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/stade-brestois-toulouse/GIspJ,2025-03-30,10:00,Toulouse,Stade Brestois,2.0,3.4,3.8,1.25,1.8,1.3,1.9091,1.9091,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/angers-stade-rennais/iIsJI,2025-03-30,12:15,Angers,Stade Rennais,3.4,3.2,2.25,1.6667,1.2857,1.3636,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/le-havre-nantes/XHsmI,2025-03-30,12:15,Le Havre,Nantes,3.1,3.2,2.4,1.5333,1.3636,1.3636,1.8,1.95,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/auxerre-montpellier/RHsWH,2025-03-30,12:15,Auxerre,Montpellier,1.73,3.9,4.3333,1.2,2.05,1.25,1.6667,2.1,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/rc-lens-lille/THsYH,2025-03-30,15:45,Lille,RC Lens,1.95,3.3,4.1,1.25,1.8,1.3333,1.95,1.8,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/nice-nantes/XHslI,2025-04-04,15:45,Nice,Nantes,1.48,4.2,7.0,1.1,2.625,1.1818,1.9091,1.9091,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/angers-paris-saint-germain/UHsJI,2025-04-05,12:00,Paris Saint-Germain,Angers,1.14,8.0,19.0,1.02,5.5,1.0833,1.8,1.95,1.0625,10.0,1.25,4.0
-https://www.sofascore.com/stade-brestois-as-monaco/dIspJ,2025-04-05,14:00,Stade Brestois,AS Monaco,4.2,3.7,1.8,1.9091,1.2222,1.2857,1.5333,2.375,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/olympique-lyonnais-lille/THsZH,2025-04-05,16:05,Olympique Lyonnais,Lille,2.3,3.6,2.9,1.3636,1.6667,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/saint-etienne-rc-lens/YHsDI,2025-04-06,10:00,RC Lens,Saint-Étienne,1.57,4.1,5.5,1.1429,2.3,1.2222,1.6154,2.2,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/stade-rennais-auxerre/WHsiI,2025-04-06,12:15,Stade Rennais,Auxerre,1.75,3.7,4.5,1.2222,1.9091,1.2857,1.7,2.05,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-de-reims-rc-strasbourg/jIsHI,2025-04-06,12:15,Stade de Reims,RC Strasbourg,3.25,3.7,2.1,1.7273,1.2857,1.2857,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/le-havre-montpellier/RHsmI,2025-04-06,12:15,Montpellier,Le Havre,2.5,3.4,2.8,1.4,1.5333,1.3,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-olympique-de-marseille/QHsGI,2025-04-06,15:45,Olympique de Marseille,Toulouse,1.7,4.0,4.5,1.1818,2.1,1.2222,1.7,2.05,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/stade-de-reims-rc-lens/YHsHI,2025-04-11,15:45,RC Lens,Stade de Reims,1.57,3.9,6.0,1.125,2.3,1.25,1.8,1.95,1.25,4.0,1.8,2.0
-https://www.sofascore.com/as-monaco-olympique-de-marseille/QHsdI,2025-04-12,12:00,AS Monaco,Olympique de Marseille,1.9,4.0,3.6,1.2857,1.9091,1.2222,1.4444,2.625,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/toulouse-lille/THsGI,2025-04-12,14:00,Toulouse,Lille,3.2,3.25,2.3,1.5714,1.3636,1.3333,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/nice-rc-strasbourg/jIslI,2025-04-12,16:05,RC Strasbourg,Nice,2.88,3.4,2.45,1.5333,1.4,1.3,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-brestois-saint-etienne/DIspJ,2025-04-13,10:00,Saint-Étienne,Stade Brestois,3.4,3.6,2.05,1.8,1.2857,1.2857,1.5333,2.375,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/le-havre-stade-rennais/iIsmI,2025-04-13,12:15,Le Havre,Stade Rennais,3.6,3.3,2.1,1.7,1.2857,1.3333,1.8,1.95,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/angers-montpellier/RHsJI,2025-04-13,12:15,Angers,Montpellier,1.85,3.4,4.3333,1.2857,1.7,1.3333,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/olympique-lyonnais-auxerre/WHsZH,2025-04-13,15:45,Auxerre,Olympique Lyonnais,4.2,3.8,1.8,1.95,1.2222,1.25,1.5333,2.375,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/stade-rennais-nantes/XHsiI,2025-04-18,15:45,Stade Rennais,Nantes,1.75,3.7,4.75,1.1818,2.0,1.2857,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/le-havre-paris-saint-germain/UHsmI,2025-04-19,12:00,Paris Saint-Germain,Le Havre,1.18,8.0,13.0,1.04,4.5,1.0833,1.7,2.05,1.0714,9.0,1.25,4.0
-https://www.sofascore.com/rc-strasbourg-as-monaco/dIsjI,2025-04-19,14:00,AS Monaco,RC Strasbourg,1.55,4.5,5.25,1.1429,2.5,1.1818,1.5333,2.375,1.125,6.0,1.4444,2.75
-https://www.sofascore.com/montpellier-olympique-de-marseille/QHsRH,2025-04-19,16:05,Olympique de Marseille,Montpellier,1.14,8.5,13.0,1.04,5.5,1.0833,1.95,1.8,1.1,7.0,1.3333,3.4
-https://www.sofascore.com/auxerre-lille/THsWH,2025-04-20,10:00,Lille,Auxerre,1.33,5.0,9.0,1.0714,3.25,1.1667,2.0,1.75,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/stade-brestois-rc-lens/YHspJ,2025-04-20,12:15,Stade Brestois,RC Lens,2.3,3.3,3.2,1.3636,1.5714,1.3333,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/angers-nice/lIsJI,2025-04-20,12:15,Nice,Angers,1.38,5.0,8.0,1.0833,3.0,1.1667,2.05,1.7,1.25,4.0,1.7273,2.1
-https://www.sofascore.com/stade-de-reims-toulouse/GIsHI,2025-04-20,12:15,Stade de Reims,Toulouse,3.4,3.4,2.1,1.7,1.3,1.3,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/saint-etienne-olympique-lyonnais/rbMb,2025-04-20,15:45,Saint-Étienne,Olympique Lyonnais,4.75,4.3333,1.6154,2.3,1.1667,1.1818,1.5,2.5,1.125,6.0,1.4444,2.75
-https://www.sofascore.com/nantes-paris-saint-germain/UHsXH,2025-04-22,15:45,Nantes,Paris Saint-Germain,7.0,5.5,1.38,2.625,1.125,1.1667,1.6667,2.1,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/nice-paris-saint-germain/UHslI,2025-04-25,15:45,Paris Saint-Germain,Nice,1.55,4.75,5.0,1.1429,2.5,1.1818,1.5,2.5,1.125,6.0,1.4444,2.75
-https://www.sofascore.com/saint-etienne-rc-strasbourg/jIsDI,2025-04-26,12:00,RC Strasbourg,Saint-Étienne,1.53,4.5,5.5,1.1429,2.375,1.1818,1.6154,2.2,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/le-havre-as-monaco/dIsmI,2025-04-26,14:00,Le Havre,AS Monaco,7.5,5.25,1.38,3.0,1.0833,1.1667,1.8,1.95,1.1667,5.0,1.5,2.625
-https://www.sofascore.com/stade-rennais-olympique-lyonnais/ZHsiI,2025-04-26,16:05,Olympique Lyonnais,Stade Rennais,1.67,4.5,4.2,1.2,2.15,1.1818,1.5,2.5,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/angers-lille/THsJI,2025-04-27,10:00,Angers,Lille,7.5,4.3333,1.44,2.625,1.1,1.2,2.05,1.7,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/rc-lens-auxerre/WHsYH,2025-04-27,12:15,RC Lens,Auxerre,1.53,4.2,5.75,1.1429,2.375,1.2222,1.6154,2.2,1.1667,5.0,1.6154,2.3
-https://www.sofascore.com/toulouse-nantes/XHsGI,2025-04-27,12:15,Nantes,Toulouse,2.7,3.25,2.7,1.4444,1.4444,1.3333,1.8,1.95,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/stade-de-reims-montpellier/RHsHI,2025-04-27,12:15,Montpellier,Stade de Reims,4.2,3.6,1.85,1.9091,1.2222,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-brestois-olympique-de-marseille/QHspJ,2025-04-27,15:45,Olympique de Marseille,Stade Brestois,1.36,5.25,7.5,1.1,3.0,1.1667,1.7,2.05,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/stade-de-reims-nice/lIsHI,2025-05-02,15:45,Nice,Stade de Reims,1.38,4.75,7.5,1.1,3.0,1.1667,1.8,1.95,1.1667,5.0,1.5,2.625
-https://www.sofascore.com/rc-strasbourg-paris-saint-germain/UHsjI,2025-05-03,12:00,RC Strasbourg,Paris Saint-Germain,2.35,3.7,2.7,1.4,1.5714,1.25,1.4444,2.625,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/toulouse-stade-rennais/iIsGI,2025-05-03,14:00,Toulouse,Stade Rennais,2.1,3.4,3.5,1.3,1.7,1.3,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/saint-etienne-as-monaco/dIDI,2025-05-03,16:05,Saint-Étienne,AS Monaco,5.75,5.0,1.45,2.625,1.1429,1.1667,1.4444,2.625,1.1,7.0,1.3333,3.4
-https://www.sofascore.com/angers-nantes/XHsJI,2025-05-04,10:00,Nantes,Angers,2.0,3.4,3.9,1.2222,1.8,1.3,1.95,1.8,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/olympique-lyonnais-rc-lens/YHsZH,2025-05-04,12:15,Olympique Lyonnais,RC Lens,1.45,5.0,5.75,1.1429,2.625,1.1667,1.5333,2.375,1.125,6.0,1.4,3.0
-https://www.sofascore.com/stade-brestois-montpellier/RHspJ,2025-05-04,12:15,Stade Brestois,Montpellier,1.33,5.5,8.0,1.0833,3.25,1.1429,1.9091,1.9091,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/le-havre-auxerre/WHsmI,2025-05-04,12:15,Auxerre,Le Havre,2.4,3.4,2.75,1.4,1.5333,1.3,1.6154,2.2,1.25,4.0,1.7273,2.1
-https://www.sofascore.com/lille-olympique-de-marseille/QHsTH,2025-05-04,15:45,Lille,Olympique de Marseille,2.38,3.3,3.0,1.3636,1.5333,1.3333,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/paris-saint-germain-montpellier/RHUH,2025-05-10,16:00,Montpellier,Paris Saint-Germain,6.25,5.75,1.38,3.0,1.1111,1.1429,1.5,2.5,1.0833,8.0,1.3,3.5
-https://www.sofascore.com/as-monaco-olympique-lyonnais/ZHsdI,2025-05-10,16:00,AS Monaco,Olympique Lyonnais,1.8,4.3333,3.8,1.25,2.0,1.2,1.4,2.75,1.1111,6.5,1.3636,3.2
-https://www.sofascore.com/le-havre-olympique-de-marseille/QHsmI,2025-05-10,16:00,Le Havre,Olympique de Marseille,5.75,4.75,1.48,2.625,1.1429,1.1818,1.8,1.95,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/stade-brestois-lille/THspJ,2025-05-10,16:00,Stade Brestois,Lille,4.75,4.0,1.67,2.15,1.1818,1.2222,1.8,1.95,1.25,4.0,1.8,2.0
-https://www.sofascore.com/nice-stade-rennais/iIslI,2025-05-10,16:00,Stade Rennais,Nice,3.3,3.7,2.05,1.7,1.3636,1.2857,1.5333,2.375,1.1667,5.0,1.6154,2.3
-https://www.sofascore.com/toulouse-rc-lens/YHsGI,2025-05-10,16:00,Toulouse,RC Lens,2.25,3.6,3.1,1.3636,1.6154,1.2857,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/angers-rc-strasbourg/jIsJI,2025-05-10,16:00,Angers,RC Strasbourg,4.3333,3.75,1.8,1.95,1.2,1.25,1.75,2.0,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-de-reims-saint-etienne/DIHI,2025-05-10,16:00,Stade de Reims,Saint-Étienne,2.1,3.6,3.3,1.3333,1.7,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/nantes-auxerre/WHsXH,2025-05-10,16:00,Auxerre,Nantes,2.8,3.3,2.55,1.5,1.4,1.3333,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/usl-dunkerque-guingamp/eIstNc,2025-05-14,15:30,USL Dunkerque,Guingamp,2.38,3.1,3.1,1.3333,1.6154,1.3636,1.8,1.9091,1.3,3.4,2.0,1.8
-https://www.sofascore.com/winner-qualification-round-1-metz/bIstNc,2025-05-17,12:00,Metz,USL Dunkerque,1.9,3.5,4.2,1.2222,1.9091,1.2857,1.8,1.9091,1.2857,3.5,1.9,1.9
-https://www.sofascore.com/auxerre-paris-saint-germain/UHsWH,2025-05-17,16:00,Paris Saint-Germain,Auxerre,1.13,8.5,17.0,1.025,6.0,1.0833,1.8,1.95,1.0625,10.0,1.25,4.0
-https://www.sofascore.com/stade-rennais-olympique-de-marseille/QHsiI,2025-05-17,16:00,Olympique de Marseille,Stade Rennais,1.62,4.2,4.75,1.1818,2.3,1.2,1.5,2.5,1.125,6.0,1.4444,2.75
-https://www.sofascore.com/as-monaco-rc-lens/YHsdI,2025-05-17,16:00,RC Lens,AS Monaco,2.7,3.75,2.45,1.5333,1.4444,1.25,1.4444,2.625,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/angers-olympique-lyonnais/ZHsJI,2025-05-17,16:00,Olympique Lyonnais,Angers,1.17,8.0,13.0,1.04,5.0,1.0833,1.7,2.05,1.0714,9.0,1.25,4.0
-https://www.sofascore.com/stade-de-reims-lille/THsHI,2025-05-17,16:00,Lille,Stade de Reims,1.4,4.5,8.0,1.0833,3.0,1.1818,2.0,1.75,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-brestois-nice/lIspJ,2025-05-17,16:00,Nice,Stade Brestois,1.48,4.5,6.25,1.125,2.625,1.1818,1.6154,2.2,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/le-havre-rc-strasbourg/jIsmI,2025-05-17,16:00,RC Strasbourg,Le Havre,1.5,5.0,5.25,1.1429,2.625,1.1667,1.5714,2.25,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/nantes-montpellier/RHsXH,2025-05-17,16:00,Nantes,Montpellier,1.55,4.2,5.75,1.125,2.375,1.2,1.95,1.8,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-saint-etienne/DIsGI,2025-05-17,16:00,Saint-Étienne,Toulouse,2.2,4.0,2.8,1.4,1.6667,1.2222,1.5,2.5,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/16th-ligue-1-winner-qualification-round-2/bIsHI,2025-05-21,15:00,Metz,Stade de Reims,2.1,3.5,3.4,1.3,1.6667,1.3333,1.8333,1.8333,1.3333,3.25,2.1,1.7
-https://www.sofascore.com/16th-ligue-1-winner-qualification-round-2/bIsHI,2025-05-29,15:30,Stade de Reims,Metz,2.55,3.25,2.88,1.3636,1.5333,1.3636,1.8333,1.8333,1.3636,3.0,2.2,1.65
-https://www.sofascore.com/stade-rennais-olympique-de-marseille/QHsiI,2025-08-15,15:45,Stade Rennais,Olympique de Marseille,3.75,3.7,1.91,1.8333,1.25,1.2857,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/olympique-lyonnais-rc-lens/YHsZH,2025-08-16,12:00,RC Lens,Olympique Lyonnais,2.55,3.5,2.63,1.4444,1.5333,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/le-havre-as-monaco/dIsmI,2025-08-16,14:00,AS Monaco,Le Havre,1.22,7.0,11.0,1.05,4.0,1.1,1.95,1.8,1.125,6.0,1.4444,2.75
-https://www.sofascore.com/toulouse-nice/lIsGI,2025-08-16,16:05,Nice,Toulouse,2.0,3.4,3.9,1.2222,1.8333,1.3,1.8,1.95,1.3,3.5,2.0,1.8
-https://www.sofascore.com/stade-brestois-lille/THspJ,2025-08-17,10:00,Stade Brestois,Lille,2.55,3.1,2.9,1.4,1.5,1.3636,1.8,1.95,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/rc-strasbourg-metz/bIsjI,2025-08-17,12:15,Metz,RC Strasbourg,3.4,3.4,2.15,1.6667,1.3,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/lorient-auxerre/WHsgI,2025-08-17,12:15,Auxerre,Lorient,2.38,3.25,3.1,1.3636,1.5333,1.3333,1.8,1.95,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/paris-fc-angers/JIsvwc,2025-08-17,12:15,Angers,Paris FC,3.2,3.4,2.25,1.6154,1.3636,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/nantes-paris-saint-germain/UHsXH,2025-08-17,15:45,Nantes,Paris Saint-Germain,11.0,6.0,1.25,4.0,1.04,1.125,2.0,1.75,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/angers-paris-saint-germain/UHsJI,2025-08-22,15:45,Paris Saint-Germain,Angers,1.06,13.0,23.0,1.0125,10.0,1.04,2.375,1.5333,1.0714,9.0,1.25,4.0
-https://www.sofascore.com/paris-fc-olympique-de-marseille/QHsvwc,2025-08-23,12:00,Olympique de Marseille,Paris FC,1.4,5.25,6.5,1.1111,2.75,1.1667,1.7,2.05,1.1429,5.5,1.475,2.6
-https://www.sofascore.com/nice-auxerre/WHslI,2025-08-23,14:00,Nice,Auxerre,1.85,3.7,4.0,1.2,1.95,1.25,1.9091,1.9091,1.3,3.5,1.95,1.85
-https://www.sofascore.com/metz-olympique-lyonnais/ZHsbI,2025-08-23,16:05,Olympique Lyonnais,Metz,1.42,5.0,6.5,1.1111,2.75,1.1667,1.7,2.05,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/stade-rennais-lorient/gIsiI,2025-08-24,10:00,Lorient,Stade Rennais,2.75,3.3,2.55,1.5,1.4,1.3333,1.7,2.05,1.3,3.5,2.0,1.8
-https://www.sofascore.com/le-havre-rc-lens/YHsmI,2025-08-24,12:15,Le Havre,RC Lens,4.2,3.7,1.83,1.9091,1.2222,1.2857,1.7,2.05,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-brestois-toulouse/GIspJ,2025-08-24,12:15,Toulouse,Stade Brestois,2.2,3.4,3.2,1.3333,1.6667,1.3,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/rc-strasbourg-nantes/XHsjI,2025-08-24,12:15,RC Strasbourg,Nantes,1.73,3.5,5.25,1.1667,2.05,1.2857,1.8,1.95,1.3,3.5,1.95,1.85
-https://www.sofascore.com/as-monaco-lille/THsdI,2025-08-24,15:45,Lille,AS Monaco,3.1,3.6,2.2,1.6667,1.3636,1.2857,1.5714,2.25,1.2,4.5,1.65,2.2
-https://www.sofascore.com/stade-brestois-rc-lens/YHspJ,2025-08-29,15:45,RC Lens,Stade Brestois,1.91,3.6,3.75,1.25,1.8333,1.2857,1.6667,2.1,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/lorient-lille/THsgI,2025-08-30,12:00,Lorient,Lille,3.25,3.4,2.2,1.6667,1.3333,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/nantes-auxerre/WHsXH,2025-08-30,14:00,Nantes,Auxerre,2.35,3.25,3.0,1.3636,1.5714,1.3333,1.9091,1.9091,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/toulouse-paris-saint-germain/YMTc,2025-08-30,16:05,Toulouse,Paris Saint-Germain,8.0,5.25,1.33,3.25,1.0833,1.1667,1.9091,1.9091,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/angers-stade-rennais/iIsJI,2025-08-31,10:00,Angers,Stade Rennais,4.5,3.5,1.8,2.0,1.1818,1.2857,1.8,1.95,1.3,3.5,1.95,1.85
-https://www.sofascore.com/rc-strasbourg-as-monaco/dIsjI,2025-08-31,12:15,AS Monaco,RC Strasbourg,1.5,4.75,5.75,1.125,2.625,1.1667,1.7,2.05,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/le-havre-nice/lIsmI,2025-08-31,12:15,Le Havre,Nice,3.4,3.4,2.15,1.6667,1.3,1.3,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/paris-fc-metz/bIsvwc,2025-08-31,12:15,Paris FC,Metz,1.73,3.9,4.6,1.1818,2.05,1.25,1.9091,1.9091,1.3,3.5,1.95,1.85
-https://www.sofascore.com/olympique-lyonnais-olympique-de-marseille/QHsZH,2025-08-31,15:45,Olympique Lyonnais,Olympique de Marseille,2.9,3.5,2.35,1.5714,1.4,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.15
-https://www.sofascore.com/lorient-olympique-de-marseille/QHsgI,2025-09-12,15:45,Olympique de Marseille,Lorient,1.36,5.25,8.0,1.0833,3.25,1.1429,1.75,2.0,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/nice-nantes/XHslI,2025-09-13,12:00,Nice,Nantes,1.55,4.2,6.0,1.1429,2.3,1.2222,1.8,1.95,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/as-monaco-auxerre/WHsdI,2025-09-13,16:05,Auxerre,AS Monaco,5.0,4.5,1.57,2.3,1.1667,1.1818,1.5333,2.375,1.125,6.0,1.4444,2.75
-https://www.sofascore.com/toulouse-lille/THsGI,2025-09-14,10:00,Lille,Toulouse,1.8,3.7,4.3333,1.2,1.95,1.2857,1.9091,1.9091,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/rc-lens-paris-saint-germain/UHsYH,2025-09-14,12:15,Paris Saint-Germain,RC Lens,1.33,5.75,7.5,1.1,3.0,1.1429,1.5714,2.25,1.1111,6.5,1.3636,3.2
-https://www.sofascore.com/paris-fc-stade-brestois/pJsvwc,2025-09-14,12:15,Stade Brestois,Paris FC,2.45,3.4,2.88,1.4,1.5333,1.3,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/le-havre-rc-strasbourg/jIsmI,2025-09-14,12:15,RC Strasbourg,Le Havre,1.8,3.8,4.3333,1.2,1.95,1.25,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/angers-metz/bIsJI,2025-09-14,12:15,Metz,Angers,2.2,3.3,3.4,1.3,1.6667,1.3333,1.95,1.8,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/stade-rennais-olympique-lyonnais/ZHsiI,2025-09-14,15:45,Stade Rennais,Olympique Lyonnais,2.45,3.5,2.8,1.4,1.5333,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/angers-olympique-lyonnais/ZHsJI,2025-09-19,15:45,Olympique Lyonnais,Angers,1.45,4.5,6.5,1.1111,2.625,1.1818,1.9091,1.9091,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-rennais-nantes/XHsiI,2025-09-20,12:00,Nantes,Stade Rennais,3.9,3.4,2.0,1.8,1.2222,1.3,1.8,1.95,1.3,3.5,2.0,1.8
-https://www.sofascore.com/rc-lens-lille/THsYH,2025-09-20,16:05,RC Lens,Lille,2.3,3.5,3.0,1.3636,1.6154,1.2857,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/paris-fc-rc-strasbourg/jIsvwc,2025-09-21,10:00,Paris FC,RC Strasbourg,2.45,3.5,2.8,1.4,1.5,1.3,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/as-monaco-metz/bIsdI,2025-09-21,12:15,AS Monaco,Metz,1.33,6.0,7.0,1.0833,3.4,1.125,1.7,2.05,1.1111,6.5,1.3636,3.2
-https://www.sofascore.com/toulouse-auxerre/WHsGI,2025-09-21,12:15,Auxerre,Toulouse,3.4,3.25,2.25,1.6154,1.3,1.3333,1.8,1.95,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/le-havre-lorient/gIsmI,2025-09-21,12:15,Le Havre,Lorient,2.2,3.25,3.4,1.3,1.6667,1.3333,2.0,1.75,1.4444,2.75,2.375,1.5714
-https://www.sofascore.com/paris-saint-germain-olympique-de-marseille/QHsUH,2025-09-22,15:00,Olympique de Marseille,Paris Saint-Germain,4.0,3.9,1.83,1.9091,1.2222,1.25,1.5714,2.25,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/rc-strasbourg-olympique-de-marseille/QHsjI,2025-09-26,15:45,RC Strasbourg,Olympique de Marseille,3.25,3.5,2.15,1.6667,1.3636,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/lorient-as-monaco/dIsgI,2025-09-27,12:00,Lorient,AS Monaco,4.5,3.9,1.73,1.9091,1.2222,1.25,1.5714,2.25,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/toulouse-nantes/XHsGI,2025-09-27,14:00,Toulouse,Nantes,1.8,3.5,4.5,1.1818,1.9091,1.2857,1.9091,1.9091,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/auxerre-paris-saint-germain/UHsWH,2025-09-27,16:05,Paris Saint-Germain,Auxerre,1.18,7.5,13.0,1.05,4.3333,1.1,1.95,1.8,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/paris-fc-nice/lIsvwc,2025-09-28,10:00,Nice,Paris FC,2.1,3.5,3.4,1.3,1.7,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/olympique-lyonnais-lille/THsZH,2025-09-28,12:15,Lille,Olympique Lyonnais,2.35,3.5,3.0,1.3636,1.5714,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-brestois-angers/JIspJ,2025-09-28,12:15,Angers,Stade Brestois,3.3,3.0,2.38,1.5333,1.3333,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154
-https://www.sofascore.com/le-havre-metz/bIsmI,2025-09-28,12:15,Metz,Le Havre,2.7,3.25,2.7,1.4,1.5,1.3333,1.7,2.05,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/stade-rennais-rc-lens/YHsiI,2025-09-28,15:45,Stade Rennais,RC Lens,2.63,3.5,2.55,1.5,1.4,1.2857,1.5714,2.25,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/paris-fc-lorient/gIsvwc,2025-10-03,15:45,Paris FC,Lorient,1.75,3.7,4.75,1.1818,2.0,1.25,1.6667,2.1,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/metz-olympique-de-marseille/QHsbI,2025-10-04,12:00,Metz,Olympique de Marseille,5.75,4.3333,1.53,2.375,1.1429,1.2,1.75,2.0,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/stade-brestois-nantes/XHspJ,2025-10-04,14:00,Stade Brestois,Nantes,1.95,3.5,3.9,1.2222,1.8333,1.2857,1.8,1.95,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/rc-lens-auxerre/WHsYH,2025-10-04,16:05,Auxerre,RC Lens,3.3,3.8,2.05,1.7273,1.3333,1.25,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-olympique-lyonnais/ZHsGI,2025-10-05,10:00,Olympique Lyonnais,Toulouse,2.0,3.4,3.8,1.25,1.8,1.3,1.8,1.95,1.3,3.5,2.0,1.8
-https://www.sofascore.com/nice-as-monaco/dIslI,2025-10-05,12:15,AS Monaco,Nice,1.85,3.75,4.0,1.2222,1.9091,1.25,1.5,2.5,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/le-havre-stade-rennais/iIsmI,2025-10-05,12:15,Le Havre,Stade Rennais,3.0,3.6,2.25,1.6154,1.3636,1.2857,1.7,2.05,1.2857,3.75,1.8,2.0
-https://www.sofascore.com/angers-rc-strasbourg/jIsJI,2025-10-05,12:15,RC Strasbourg,Angers,1.8,3.7,4.5,1.1818,2.0,1.2857,1.95,1.8,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/paris-saint-germain-lille/THsUH,2025-10-05,15:45,Lille,Paris Saint-Germain,3.3,3.4,2.1,1.7,1.3333,1.3,1.5333,2.375,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/rc-strasbourg-paris-saint-germain/UHsjI,2025-10-17,15:45,Paris Saint-Germain,RC Strasbourg,1.36,5.0,8.0,1.0833,3.25,1.1429,1.6154,2.2,1.125,6.0,1.4444,2.75
-https://www.sofascore.com/nice-olympique-lyonnais/ZHslI,2025-10-18,12:00,Nice,Olympique Lyonnais,2.2,3.5,3.2,1.3636,1.6667,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/angers-as-monaco/dIsJI,2025-10-18,14:00,Angers,AS Monaco,5.5,4.1,1.6,2.25,1.1667,1.2222,1.75,2.0,1.25,4.0,1.8,2.0
-https://www.sofascore.com/le-havre-olympique-de-marseille/QHsmI,2025-10-18,16:05,Olympique de Marseille,Le Havre,1.33,5.0,9.0,1.0714,3.25,1.1667,1.95,1.8,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/paris-fc-rc-lens/YHsvwc,2025-10-19,10:00,RC Lens,Paris FC,1.75,3.9,4.2,1.2222,2.0,1.25,1.6154,2.2,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/stade-brestois-lorient/gIspJ,2025-10-19,12:15,Lorient,Stade Brestois,2.7,3.2,2.7,1.5,1.4,1.3636,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/stade-rennais-auxerre/WHsiI,2025-10-19,12:15,Stade Rennais,Auxerre,1.8,3.7,4.3333,1.1818,1.95,1.2857,1.7,2.05,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-metz/bIsGI,2025-10-19,12:15,Toulouse,Metz,1.55,4.0,6.0,1.125,2.5,1.2222,1.8,1.95,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/nantes-lille/THsXH,2025-10-19,15:45,Nantes,Lille,5.5,3.9,1.62,2.25,1.1429,1.25,1.8,1.95,1.25,4.0,1.8,2.0
-https://www.sofascore.com/paris-fc-nantes/XHsvwc,2025-10-24,15:45,Paris FC,Nantes,1.57,4.1,5.75,1.125,2.375,1.2222,1.9091,1.9091,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-brestois-paris-saint-germain/UHspJ,2025-10-25,12:00,Stade Brestois,Paris Saint-Germain,7.5,5.5,1.33,3.25,1.1,1.1429,1.7,2.05,1.125,6.0,1.4444,2.75
-https://www.sofascore.com/toulouse-as-monaco/dIsGI,2025-10-25,14:00,AS Monaco,Toulouse,2.05,3.7,3.4,1.3,1.7273,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/rc-lens-olympique-de-marseille/QHsYH,2025-10-25,16:05,RC Lens,Olympique de Marseille,2.7,3.6,2.5,1.4444,1.5,1.2857,1.5714,2.25,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/metz-lille/THsbI,2025-10-26,11:00,Lille,Metz,1.27,6.25,9.5,1.0625,3.75,1.125,1.9091,1.9091,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/nice-stade-rennais/iIslI,2025-10-26,13:15,Stade Rennais,Nice,2.0,3.6,3.6,1.2857,1.8,1.2857,1.6154,2.2,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/angers-lorient/gIsJI,2025-10-26,13:15,Angers,Lorient,2.55,3.0,3.1,1.4,1.4444,1.3636,2.0,1.75,1.4444,2.75,2.375,1.5714
-https://www.sofascore.com/le-havre-auxerre/WHsmI,2025-10-26,13:15,Auxerre,Le Havre,2.1,3.3,3.6,1.2857,1.7,1.3333,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/rc-strasbourg-olympique-lyonnais/ZHsjI,2025-10-26,16:45,Olympique Lyonnais,RC Strasbourg,1.9,3.7,3.9,1.25,1.9091,1.2857,1.6154,2.2,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/lorient-paris-saint-germain/UHsgI,2025-10-29,15:00,Lorient,Paris Saint-Germain,11.0,7.0,1.22,3.75,1.0714,1.1111,1.9091,1.9091,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/nice-lille/THslI,2025-10-29,15:00,Nice,Lille,3.5,3.75,2.0,1.9091,1.25,1.25,1.5714,2.25,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/metz-rc-lens/YHsbI,2025-10-29,15:00,Metz,RC Lens,5.75,5.0,1.45,2.625,1.125,1.1667,1.75,2.0,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/stade-brestois-le-havre/mIspJ,2025-10-29,15:00,Le Havre,Stade Brestois,2.8,3.1,2.7,1.4444,1.4,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154
-https://www.sofascore.com/angers-olympique-de-marseille/QHsJI,2025-10-29,17:05,Olympique de Marseille,Angers,1.25,6.5,9.5,1.0714,3.75,1.1111,2.1,1.6667,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/as-monaco-nantes/XHsdI,2025-10-29,17:05,Nantes,AS Monaco,4.5,4.0,1.7,2.1,1.1818,1.2222,1.6667,2.1,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/paris-fc-olympique-lyonnais/ZHsvwc,2025-10-29,17:05,Paris FC,Olympique Lyonnais,2.63,3.5,2.55,1.5,1.4,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/toulouse-stade-rennais/iIsGI,2025-10-29,17:05,Toulouse,Stade Rennais,1.91,3.6,3.9,1.25,1.8333,1.2857,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/rc-strasbourg-auxerre/WHsjI,2025-10-29,17:05,RC Strasbourg,Auxerre,1.7,3.8,4.75,1.1818,2.1,1.25,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/nice-paris-saint-germain/UHslI,2025-11-01,13:00,Paris Saint-Germain,Nice,1.17,8.0,15.0,1.0303,5.5,1.0833,2.0,1.75,1.1,7.0,1.3636,3.2
-https://www.sofascore.com/paris-fc-as-monaco/dIsvwc,2025-11-01,15:00,AS Monaco,Paris FC,1.62,4.2,5.0,1.1818,2.2,1.2222,1.5714,2.25,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/auxerre-olympique-de-marseille/QHsWH,2025-11-01,17:05,Auxerre,Olympique de Marseille,5.0,3.8,1.7,2.1,1.1667,1.25,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/rc-strasbourg-stade-rennais/iIsjI,2025-11-02,11:00,Stade Rennais,RC Strasbourg,2.7,3.5,2.5,1.5,1.4444,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/angers-lille/THsJI,2025-11-02,13:15,Lille,Angers,1.42,4.75,7.0,1.1,2.75,1.1818,2.0,1.75,1.25,4.0,1.8,2.0
-https://www.sofascore.com/lorient-rc-lens/YHsgI,2025-11-02,13:15,RC Lens,Lorient,1.5,4.3333,6.25,1.125,2.375,1.2222,1.8,1.95,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/metz-nantes/XHsbI,2025-11-02,13:15,Nantes,Metz,2.1,3.6,3.3,1.2857,1.7273,1.2857,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-le-havre/mIsGI,2025-11-02,13:15,Toulouse,Le Havre,1.7,3.6,5.0,1.1667,2.1,1.2857,1.95,1.8,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/stade-brestois-olympique-lyonnais/ZHspJ,2025-11-02,16:45,Stade Brestois,Olympique Lyonnais,3.4,3.4,2.15,1.6667,1.3,1.3,1.8,1.95,1.3,3.5,2.0,1.8
-https://www.sofascore.com/paris-fc-stade-rennais/iIsvwc,2025-11-07,16:45,Paris FC,Stade Rennais,2.25,3.6,3.0,1.3636,1.6154,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-brestois-olympique-de-marseille/QHspJ,2025-11-08,13:00,Olympique de Marseille,Stade Brestois,1.45,4.75,6.5,1.1111,2.625,1.1818,1.8,1.95,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/le-havre-nantes/XHsmI,2025-11-08,15:00,Le Havre,Nantes,1.85,3.4,4.5,1.1818,1.9091,1.3,1.95,1.8,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/as-monaco-rc-lens/YHsdI,2025-11-08,17:05,AS Monaco,RC Lens,1.95,4.0,3.5,1.3,1.8,1.2222,1.5,2.5,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/toulouse-lorient/gIsGI,2025-11-09,11:00,Lorient,Toulouse,3.0,3.3,2.38,1.5333,1.3636,1.3333,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/rc-strasbourg-lille/THsjI,2025-11-09,13:15,RC Strasbourg,Lille,2.6,3.7,2.5,1.5333,1.4444,1.2857,1.5333,2.375,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/nice-metz/bIslI,2025-11-09,13:15,Metz,Nice,3.0,3.6,2.25,1.6154,1.3636,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/angers-auxerre/WHsJI,2025-11-09,13:15,Angers,Auxerre,2.6,3.0,3.0,1.3636,1.5,1.3636,2.05,1.7,1.5,2.625,2.625,1.5
-https://www.sofascore.com/olympique-lyonnais-paris-saint-germain/UHsZH,2025-11-09,16:45,Olympique Lyonnais,Paris Saint-Germain,5.5,4.1,1.6,2.3,1.1429,1.2222,1.8,1.95,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/nice-olympique-de-marseille/QHslI,2025-11-21,16:45,Nice,Olympique de Marseille,3.6,3.75,1.95,1.8,1.2857,1.25,1.5714,2.25,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/rc-strasbourg-rc-lens/YHsjI,2025-11-22,13:00,RC Lens,RC Strasbourg,2.1,3.7,3.3,1.3333,1.7,1.2857,1.5333,2.375,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/stade-rennais-as-monaco/dIsiI,2025-11-22,15:00,Stade Rennais,AS Monaco,2.4,3.7,2.7,1.4,1.5714,1.2857,1.4444,2.625,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/le-havre-paris-saint-germain/UHsmI,2025-11-22,17:05,Paris Saint-Germain,Le Havre,1.22,6.5,9.5,1.05,4.0,1.1111,2.1,1.6667,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/olympique-lyonnais-auxerre/WHsZH,2025-11-23,11:00,Auxerre,Olympique Lyonnais,4.0,3.3,2.0,1.8,1.25,1.3,1.8,1.95,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/stade-brestois-metz/bIspJ,2025-11-23,13:15,Stade Brestois,Metz,1.8,3.8,4.2,1.2222,1.95,1.25,1.6667,2.1,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/angers-toulouse/GIsJI,2025-11-23,13:15,Toulouse,Angers,1.7,3.6,5.5,1.1429,2.2,1.2857,2.05,1.7,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/lorient-nantes/XHsgI,2025-11-23,13:15,Nantes,Lorient,3.0,3.3,2.38,1.5333,1.3636,1.3333,1.75,2.0,1.3,3.5,2.0,1.8
-https://www.sofascore.com/paris-fc-lille/THsvwc,2025-11-23,16:45,Lille,Paris FC,1.67,3.9,5.0,1.1667,2.15,1.25,1.75,2.0,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-rennais-metz/bIsiI,2025-11-28,16:45,Metz,Stade Rennais,3.6,3.75,1.95,1.9091,1.25,1.25,1.5333,2.375,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/as-monaco-paris-saint-germain/UHsdI,2025-11-29,13:00,AS Monaco,Paris Saint-Germain,4.75,4.5,1.62,2.15,1.1818,1.2,1.4,2.75,1.1111,6.5,1.4,3.0
-https://www.sofascore.com/paris-fc-auxerre/WHsvwc,2025-11-29,15:00,Paris FC,Auxerre,1.91,3.4,4.1,1.2,1.9091,1.2857,1.8,1.95,1.3,3.5,2.0,1.8
-https://www.sofascore.com/toulouse-olympique-de-marseille/QHsGI,2025-11-29,17:05,Olympique de Marseille,Toulouse,1.6,4.1,5.25,1.1667,2.25,1.2222,1.75,2.0,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-brestois-rc-strasbourg/jIspJ,2025-11-30,11:00,RC Strasbourg,Stade Brestois,1.8,3.8,4.3333,1.2,1.95,1.25,1.6154,2.2,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/le-havre-lille/THsmI,2025-11-30,13:15,Le Havre,Lille,4.5,3.7,1.8,1.9091,1.2,1.2857,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/nice-lorient/gIslI,2025-11-30,13:15,Lorient,Nice,2.4,3.4,2.9,1.3636,1.5714,1.3,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/angers-rc-lens/YHsJI,2025-11-30,13:15,Angers,RC Lens,5.0,3.9,1.7,2.1,1.1667,1.25,1.8,1.95,1.25,4.0,1.8,2.0
-https://www.sofascore.com/olympique-lyonnais-nantes/XHsZH,2025-11-30,16:45,Olympique Lyonnais,Nantes,1.4,4.75,8.0,1.0833,2.75,1.1818,1.95,1.8,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-brestois-as-monaco/dIspJ,2025-12-05,15:00,Stade Brestois,AS Monaco,3.4,3.9,2.0,1.8,1.3333,1.25,1.5,2.5,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/lille-olympique-de-marseille/QHsTH,2025-12-05,17:00,Lille,Olympique de Marseille,2.4,3.5,2.9,1.4,1.5333,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/rc-lens-nantes/XHsYH,2025-12-06,13:00,Nantes,RC Lens,4.75,3.9,1.7,2.05,1.1818,1.25,1.7,2.05,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-rc-strasbourg/jIsGI,2025-12-06,15:00,Toulouse,RC Strasbourg,2.55,3.3,2.8,1.4,1.5,1.3333,1.75,2.0,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/stade-rennais-paris-saint-germain/UHsiI,2025-12-06,17:05,Paris Saint-Germain,Stade Rennais,1.29,6.5,8.0,1.0833,3.5,1.1111,1.6154,2.2,1.1,7.0,1.3333,3.4
-https://www.sofascore.com/angers-nice/lIsJI,2025-12-07,11:00,Nice,Angers,1.85,3.6,4.2,1.2222,1.9091,1.2857,1.8,1.95,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/paris-fc-le-havre/mIsvwc,2025-12-07,13:15,Le Havre,Paris FC,2.8,3.2,2.63,1.5,1.4,1.3636,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/metz-auxerre/WHsbI,2025-12-07,13:15,Auxerre,Metz,2.0,3.5,3.8,1.25,1.8,1.2857,1.8,1.95,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/lorient-olympique-lyonnais/ZHsgI,2025-12-07,16:45,Lorient,Olympique Lyonnais,3.7,3.4,2.05,1.7273,1.25,1.3,1.9091,1.9091,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/angers-nantes/XHsJI,2025-12-12,16:45,Angers,Nantes,2.15,3.2,3.6,1.2857,1.6667,1.3636,2.0,1.75,1.4444,2.75,2.375,1.5714
-https://www.sofascore.com/stade-brestois-stade-rennais/iIspJ,2025-12-13,13:00,Stade Rennais,Stade Brestois,1.85,3.8,4.0,1.2222,1.9091,1.25,1.7,2.05,1.25,4.0,1.8,2.0
-https://www.sofascore.com/metz-paris-saint-germain/UHsbI,2025-12-13,15:00,Metz,Paris Saint-Germain,10.0,7.0,1.22,3.75,1.0714,1.1,1.75,2.0,1.1,7.0,1.3636,3.2
-https://www.sofascore.com/paris-fc-toulouse/GIsvwc,2025-12-13,17:05,Paris FC,Toulouse,2.75,3.2,2.63,1.4444,1.4444,1.3636,1.8,1.95,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/le-havre-olympique-lyonnais/ZHsmI,2025-12-14,11:00,Olympique Lyonnais,Le Havre,1.62,4.1,5.0,1.1667,2.3,1.2222,1.95,1.8,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/auxerre-lille/THsWH,2025-12-14,13:15,Auxerre,Lille,4.0,3.2,2.0,1.8,1.2222,1.3333,1.95,1.8,1.4,3.0,2.3,1.6154
-https://www.sofascore.com/nice-rc-lens/YHslI,2025-12-14,13:15,RC Lens,Nice,1.45,4.75,6.25,1.125,2.625,1.1818,1.7,2.05,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/rc-strasbourg-lorient/gIsjI,2025-12-14,13:15,RC Strasbourg,Lorient,1.73,3.9,4.3333,1.2,2.05,1.25,1.75,2.0,1.25,4.0,1.8,2.0
-https://www.sofascore.com/as-monaco-olympique-de-marseille/QHsdI,2025-12-14,16:45,Olympique de Marseille,AS Monaco,2.05,3.5,3.5,1.2857,1.7273,1.2857,1.5714,2.25,1.2,4.5,1.7273,2.1
-https://www.sofascore.com/toulouse-rc-lens/YHsGI,2026-01-02,16:45,Toulouse,RC Lens,2.55,3.2,2.875,1.4,1.5,1.3636,1.8,1.95,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/as-monaco-olympique-lyonnais/ZHsdI,2026-01-03,13:00,AS Monaco,Olympique Lyonnais,2.1,3.7,3.25,1.3333,1.7,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/nice-rc-strasbourg/jIslI,2026-01-03,15:00,Nice,RC Strasbourg,3.1,3.4,2.25,1.6667,1.3333,1.2857,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-rennais-lille/THsiI,2026-01-03,17:05,Lille,Stade Rennais,1.7,4.0,4.75,1.1818,2.05,1.2222,1.6667,2.1,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/nantes-olympique-de-marseille/QHsXH,2026-01-04,11:00,Olympique de Marseille,Nantes,1.25,6.25,9.5,1.0714,3.75,1.125,1.8,1.95,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/stade-brestois-auxerre/WHspJ,2026-01-04,13:15,Stade Brestois,Auxerre,1.9,3.4,4.3333,1.2222,1.8,1.3,1.8,1.95,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/angers-le-havre/mIsJI,2026-01-04,13:15,Le Havre,Angers,2.375,3.2,3.1,1.3,1.6667,1.3333,1.95,1.8,1.3636,3.2,2.2,1.6667
-https://www.sofascore.com/lorient-metz/bIsgI,2026-01-04,13:15,Lorient,Metz,1.85,3.7,4.2,1.2,1.9091,1.2857,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/paris-fc-paris-saint-germain/UHsvwc,2026-01-04,16:45,Paris Saint-Germain,Paris FC,1.125,8.5,19.0,1.0152,6.0,1.0833,1.95,1.8,1.0833,8.0,1.2857,3.75
-https://www.sofascore.com/lorient-as-monaco/dIsgI,2026-01-16,15:00,AS Monaco,Lorient,1.65,4.2,4.75,1.1818,2.2,1.2222,1.6154,2.2,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/paris-saint-germain-lille/THsUH,2026-01-16,17:00,Paris Saint-Germain,Lille,1.27,6.25,9.0,1.0714,3.75,1.125,1.8,1.95,1.125,6.0,1.4444,2.75
-https://www.sofascore.com/rc-lens-auxerre/WHsYH,2026-01-17,13:00,RC Lens,Auxerre,1.45,4.3333,7.0,1.125,2.5,1.2222,1.9091,1.9091,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-nice/lIsGI,2026-01-17,15:00,Toulouse,Nice,1.91,3.5,4.0,1.25,1.8,1.2857,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/angers-olympique-de-marseille/QHsJI,2026-01-17,17:05,Angers,Olympique de Marseille,5.5,4.1,1.6,2.3,1.1429,1.2222,1.8,1.95,1.25,4.0,1.8,2.0
-https://www.sofascore.com/rc-strasbourg-metz/bIsjI,2026-01-18,11:00,RC Strasbourg,Metz,1.42,4.75,7.5,1.1,2.75,1.1818,1.9091,1.9091,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/stade-rennais-lorient/gIsiI,2026-01-24,13:00,Stade Rennais,Lorient,1.75,3.8,4.75,1.1818,2.0,1.25,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/le-havre-as-monaco/dIsmI,2026-01-24,15:00,Le Havre,AS Monaco,4.2,3.9,1.75,1.95,1.25,1.25,1.5333,2.375,1.1667,5.0,1.6154,2.3
-https://www.sofascore.com/rc-lens-olympique-de-marseille/QHsYH,2026-01-24,17:05,Olympique de Marseille,RC Lens,2.1,3.75,3.1,1.3636,1.7,1.25,1.4444,2.625,1.1429,5.5,1.5333,2.5
-https://www.sofascore.com/nice-nantes/XHslI,2026-01-25,11:00,Nantes,Nice,2.75,3.4,2.55,1.5,1.4,1.3,1.6667,2.1,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/metz-olympique-lyonnais/ZHsbI,2026-01-25,13:15,Metz,Olympique Lyonnais,5.0,3.8,1.67,2.1,1.1818,1.25,1.75,2.0,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-brestois-toulouse/GIspJ,2026-01-25,13:15,Stade Brestois,Toulouse,2.8,3.0,2.7,1.4444,1.4,1.3636,1.9091,1.9091,1.4,3.0,2.3,1.6154
-https://www.sofascore.com/paris-fc-angers/JIsvwc,2026-01-25,13:15,Paris FC,Angers,1.9,3.25,4.5,1.1818,1.9091,1.3333,1.95,1.8,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/rc-strasbourg-lille/THsjI,2026-01-25,16:45,Lille,RC Strasbourg,2.5,3.1,2.9,1.4,1.5,1.3636,1.8,1.95,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/le-havre-rc-lens/YHsmI,2026-01-30,16:45,RC Lens,Le Havre,1.42,4.75,7.0,1.125,2.625,1.1818,1.75,2.0,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/paris-fc-olympique-de-marseille/QHsvwc,2026-01-31,13:00,Paris FC,Olympique de Marseille,4.1,3.9,1.8,2.0,1.2222,1.2222,1.6667,2.1,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/lorient-nantes/XHsgI,2026-01-31,15:00,Lorient,Nantes,1.85,3.4,4.3333,1.2,1.9091,1.3,1.9091,1.9091,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/stade-rennais-as-monaco/dIsiI,2026-01-31,17:05,AS Monaco,Stade Rennais,1.95,3.9,3.5,1.2857,1.8,1.25,1.4444,2.625,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/olympique-lyonnais-lille/THsZH,2026-02-01,11:00,Olympique Lyonnais,Lille,2.25,3.5,3.1,1.3636,1.6154,1.2857,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/stade-brestois-nice/lIspJ,2026-02-01,13:15,Nice,Stade Brestois,2.3,3.3,3.25,1.3333,1.5714,1.3333,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/toulouse-auxerre/WHsGI,2026-02-01,13:15,Toulouse,Auxerre,1.75,3.6,5.0,1.1818,2.0,1.2857,2.0,1.75,1.3636,3.2,2.2,1.6667
-https://www.sofascore.com/angers-metz/bIsJI,2026-02-01,13:15,Angers,Metz,2.2,3.2,3.4,1.2857,1.6667,1.3333,1.9091,1.9091,1.3636,3.2,2.2,1.6667
-https://www.sofascore.com/rc-strasbourg-paris-saint-germain/UHsjI,2026-02-01,16:45,RC Strasbourg,Paris Saint-Germain,4.75,4.3333,1.65,2.25,1.1667,1.2,1.6154,2.2,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/metz-lille/THsbI,2026-02-06,16:45,Metz,Lille,6.5,4.3333,1.5,2.375,1.1429,1.2,1.8,1.95,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/stade-rennais-rc-lens/YHsiI,2026-02-07,13:00,RC Lens,Stade Rennais,1.55,4.3333,5.5,1.1429,2.3,1.2,1.5714,2.25,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/stade-brestois-lorient/gIspJ,2026-02-07,15:00,Stade Brestois,Lorient,2.38,3.0,3.3,1.3,1.5714,1.3636,1.8,1.95,1.3636,3.2,2.2,1.6667
-https://www.sofascore.com/olympique-lyonnais-nantes/XHsZH,2026-02-07,17:05,Nantes,Olympique Lyonnais,4.75,3.8,1.73,2.05,1.1818,1.25,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/nice-as-monaco/dIslI,2026-02-08,11:00,Nice,AS Monaco,3.2,3.7,2.15,1.7,1.3333,1.25,1.4444,2.625,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/le-havre-rc-strasbourg/jIsmI,2026-02-08,13:15,Le Havre,RC Strasbourg,4.2,3.6,1.85,1.9091,1.2222,1.2857,1.8,1.95,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/angers-toulouse/GIsJI,2026-02-08,13:15,Angers,Toulouse,3.8,3.1,2.1,1.6667,1.2857,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154
-https://www.sofascore.com/paris-fc-auxerre/WHsvwc,2026-02-08,13:15,Auxerre,Paris FC,2.5,3.3,2.88,1.4,1.5,1.3333,1.8,1.95,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/paris-saint-germain-olympique-de-marseille/QHsUH,2026-02-08,16:45,Paris Saint-Germain,Olympique de Marseille,1.44,5.0,6.0,1.125,2.625,1.1667,1.5333,2.375,1.1111,6.5,1.4,3.0
-https://www.sofascore.com/stade-rennais-paris-saint-germain/UHsiI,2026-02-13,15:00,Stade Rennais,Paris Saint-Germain,7.5,5.25,1.38,3.25,1.0833,1.1429,1.5714,2.25,1.1,7.0,1.3636,3.2
-https://www.sofascore.com/as-monaco-nantes/XHsdI,2026-02-13,17:05,AS Monaco,Nantes,1.45,4.75,6.5,1.1,2.75,1.1818,1.7,2.05,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/rc-strasbourg-olympique-de-marseille/QHsjI,2026-02-14,13:00,Olympique de Marseille,RC Strasbourg,1.91,3.8,3.6,1.2857,1.8333,1.25,1.5714,2.25,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/stade-brestois-lille/THspJ,2026-02-14,15:00,Lille,Stade Brestois,1.62,3.9,5.75,1.125,2.3,1.25,1.95,1.8,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/paris-fc-rc-lens/YHsvwc,2026-02-14,17:05,Paris FC,RC Lens,3.9,3.6,1.91,1.8333,1.25,1.2857,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/toulouse-le-havre/mIsGI,2026-02-15,11:00,Le Havre,Toulouse,3.4,3.1,2.3,1.5333,1.3333,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154
-https://www.sofascore.com/angers-lorient/gIsJI,2026-02-15,13:15,Lorient,Angers,1.91,3.2,4.5,1.2,1.8,1.3636,2.0,1.75,1.4,3.0,2.3,1.6154
-https://www.sofascore.com/metz-auxerre/WHsbI,2026-02-15,13:15,Metz,Auxerre,3.0,3.0,2.55,1.5,1.3636,1.3636,1.8,1.95,1.3636,3.2,2.2,1.6667
-https://www.sofascore.com/nice-olympique-lyonnais/ZHslI,2026-02-15,16:45,Olympique Lyonnais,Nice,1.83,3.75,4.2,1.2222,1.9091,1.25,1.6667,2.1,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/stade-brestois-olympique-de-marseille/QHspJ,2026-02-20,16:45,Stade Brestois,Olympique de Marseille,3.9,3.75,1.85,1.9091,1.25,1.25,1.6154,2.2,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/as-monaco-rc-lens/YHsdI,2026-02-21,13:00,RC Lens,AS Monaco,1.75,4.1,4.0,1.2,2.1,1.2222,1.5,2.5,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/paris-fc-toulouse/GIsvwc,2026-02-21,15:00,Toulouse,Paris FC,2.0,3.3,3.9,1.25,1.8,1.3333,1.95,1.8,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/metz-paris-saint-germain/UHsbI,2026-02-21,17:05,Paris Saint-Germain,Metz,1.14,8.5,13.0,1.04,5.5,1.0714,1.8,1.95,1.0714,9.0,1.25,4.0
-https://www.sofascore.com/stade-rennais-auxerre/WHsiI,2026-02-22,11:00,Auxerre,Stade Rennais,2.88,3.4,2.45,1.5333,1.4,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/angers-lille/THsJI,2026-02-22,13:15,Angers,Lille,4.5,3.5,1.83,1.9091,1.1818,1.2857,1.95,1.8,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/nice-lorient/gIslI,2026-02-22,13:15,Nice,Lorient,2.25,3.4,3.1,1.3636,1.6154,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/le-havre-nantes/XHsmI,2026-02-22,13:15,Nantes,Le Havre,2.4,3.2,3.0,1.3636,1.5333,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154
-https://www.sofascore.com/rc-strasbourg-olympique-lyonnais/ZHsjI,2026-02-22,16:45,RC Strasbourg,Olympique Lyonnais,2.35,3.4,3.0,1.3636,1.5714,1.3,1.6667,2.1,1.25,4.0,1.8,2.0
-https://www.sofascore.com/rc-strasbourg-rc-lens/YHsjI,2026-02-27,16:45,RC Strasbourg,RC Lens,2.2,3.5,3.1,1.3636,1.6667,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/toulouse-stade-rennais/iIsGI,2026-02-28,13:00,Stade Rennais,Toulouse,1.91,3.6,3.8,1.2857,1.8,1.2857,1.7,2.05,1.25,4.0,1.8,2.0
-https://www.sofascore.com/angers-as-monaco/dIsJI,2026-02-28,15:00,AS Monaco,Angers,1.44,4.75,7.0,1.1,2.625,1.1818,1.75,2.0,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/le-havre-paris-saint-germain/UHsmI,2026-02-28,17:05,Le Havre,Paris Saint-Germain,9.0,6.25,1.29,3.5,1.0714,1.125,1.95,1.8,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/paris-fc-nice/lIsvwc,2026-03-01,11:00,Paris FC,Nice,2.4,3.4,2.9,1.4,1.5333,1.3,1.6667,2.1,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/nantes-lille/THsXH,2026-03-01,13:15,Lille,Nantes,1.5,4.2,6.5,1.125,2.375,1.2222,1.9091,1.9091,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-brestois-metz/bIspJ,2026-03-01,13:15,Metz,Stade Brestois,3.6,3.4,2.1,1.6667,1.3,1.3,1.75,2.0,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/lorient-auxerre/WHsgI,2026-03-01,13:15,Lorient,Auxerre,2.15,3.2,3.6,1.2857,1.6667,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154
-https://www.sofascore.com/olympique-lyonnais-olympique-de-marseille/QHsZH,2026-03-01,16:45,Olympique de Marseille,Olympique Lyonnais,1.91,3.7,3.75,1.25,1.8333,1.2857,1.7,2.05,1.25,4.0,1.8,2.0
-https://www.sofascore.com/as-monaco-paris-saint-germain/UHsdI,2026-03-06,16:45,Paris Saint-Germain,AS Monaco,1.36,5.5,7.0,1.0833,3.4,1.1429,1.5714,2.25,1.0833,8.0,1.3,3.5
-https://www.sofascore.com/angers-nantes/XHsJI,2026-03-07,13:00,Nantes,Angers,2.2,2.9,3.75,1.25,1.6667,1.4,2.1,1.6667,1.5333,2.5,2.75,1.4444
-https://www.sofascore.com/rc-strasbourg-auxerre/WHsjI,2026-03-07,15:00,Auxerre,RC Strasbourg,3.5,3.25,2.15,1.7273,1.25,1.3333,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/toulouse-olympique-de-marseille/QHsGI,2026-03-07,17:05,Toulouse,Olympique de Marseille,2.9,3.4,2.1,1.6154,1.3636,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/metz-rc-lens/YHsbI,2026-03-08,11:00,RC Lens,Metz,1.25,6.0,11.0,1.05,3.75,1.125,1.95,1.8,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/lorient-lille/THsgI,2026-03-08,13:15,Lille,Lorient,1.53,4.2,6.25,1.125,2.375,1.2222,1.95,1.8,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/nice-stade-rennais/iIslI,2026-03-08,13:15,Nice,Stade Rennais,2.63,3.5,2.55,1.5,1.4444,1.2857,1.5333,2.375,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/stade-brestois-le-havre/mIspJ,2026-03-08,13:15,Stade Brestois,Le Havre,1.85,3.4,4.3333,1.2,1.9091,1.3,1.95,1.8,1.3636,3.2,2.2,1.6667
-https://www.sofascore.com/paris-fc-olympique-lyonnais/ZHsvwc,2026-03-08,16:45,Olympique Lyonnais,Paris FC,1.85,3.4,4.5,1.1429,2.3,1.25,1.9091,1.9091,1.25,4.0,1.8,2.0
-https://www.sofascore.com/auxerre-olympique-de-marseille/QHsWH,2026-03-13,16:45,Olympique de Marseille,Auxerre,1.44,4.5,7.0,1.1,2.625,1.1818,1.95,1.8,1.25,4.0,1.8,2.0
-https://www.sofascore.com/lorient-rc-lens/YHsgI,2026-03-14,13:00,Lorient,RC Lens,5.0,4.1,1.65,2.2,1.1667,1.2222,1.75,2.0,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/angers-nice/lIsJI,2026-03-14,15:00,Angers,Nice,3.25,3.2,2.3,1.5714,1.3333,1.3636,1.9091,1.9091,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/stade-brestois-as-monaco/dIspJ,2026-03-14,17:05,AS Monaco,Stade Brestois,1.62,4.1,5.25,1.1429,2.3,1.2222,1.7,2.05,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/paris-fc-rc-strasbourg/jIsvwc,2026-03-15,11:00,RC Strasbourg,Paris FC,1.67,3.9,5.25,1.1667,2.15,1.25,1.75,2.0,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/le-havre-olympique-lyonnais/ZHsmI,2026-03-15,13:15,Le Havre,Olympique Lyonnais,3.3,3.3,2.2,1.6667,1.3333,1.3333,1.8,1.95,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/toulouse-metz/bIsGI,2026-03-15,13:15,Metz,Toulouse,3.7,3.5,2.0,1.8,1.25,1.2857,1.8,1.95,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/stade-rennais-lille/THsiI,2026-03-15,16:45,Stade Rennais,Lille,2.2,3.3,3.4,1.3333,1.6667,1.3333,1.7,2.05,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/angers-rc-lens/YHsJI,2026-03-20,16:45,RC Lens,Angers,1.22,6.5,12.0,1.05,4.0,1.1111,2.05,1.7,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/toulouse-lorient/gIsGI,2026-03-21,13:00,Toulouse,Lorient,1.75,3.3,5.25,1.1667,2.0,1.3333,1.9091,1.9091,1.3333,3.4,2.0,1.8
-https://www.sofascore.com/stade-brestois-auxerre/WHspJ,2026-03-21,15:00,Auxerre,Stade Brestois,2.35,3.1,3.4,1.3,1.5714,1.3636,1.95,1.8,1.4444,2.75,2.375,1.5714
-https://www.sofascore.com/nice-paris-saint-germain/UHslI,2026-03-21,17:05,Nice,Paris Saint-Germain,6.5,4.75,1.44,2.625,1.1111,1.1818,1.6154,2.2,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/as-monaco-olympique-lyonnais/ZHsdI,2026-03-22,11:00,Olympique Lyonnais,AS Monaco,2.7,3.5,2.5,1.5,1.4444,1.2857,1.5333,2.375,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/lille-olympique-de-marseille/QHsTH,2026-03-22,13:15,Olympique de Marseille,Lille,1.9,3.7,3.9,1.25,1.9091,1.2857,1.7,2.05,1.25,4.0,1.8,2.0
-https://www.sofascore.com/stade-rennais-metz/bIsiI,2026-03-22,13:15,Stade Rennais,Metz,1.33,5.5,8.5,1.0833,3.25,1.1429,1.9091,1.9091,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/paris-fc-le-havre/mIsvwc,2026-03-22,13:15,Paris FC,Le Havre,1.95,3.2,4.1,1.2222,1.8,1.3636,1.95,1.8,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/rc-strasbourg-nantes/XHsjI,2026-03-22,16:45,Nantes,RC Strasbourg,3.5,3.4,2.1,1.7,1.2857,1.3,1.75,2.0,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/toulouse-paris-saint-germain/YMTc,2026-04-03,15:45,Paris Saint-Germain,Toulouse,1.3,5.75,9.5,1.0714,3.4,1.1429,1.8,1.95,1.1429,5.5,1.4444,2.75
-https://www.sofascore.com/nice-rc-strasbourg/jIslI,2026-04-04,12:00,RC Strasbourg,Nice,1.95,3.75,3.7,1.25,1.8333,1.25,1.5333,2.375,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/stade-brestois-stade-rennais/iIspJ,2026-04-04,14:00,Stade Brestois,Stade Rennais,3.1,3.4,2.3,1.5714,1.3636,1.3,1.75,2.0,1.3,3.5,1.9091,1.9091
-https://www.sofascore.com/rc-lens-lille/THsYH,2026-04-04,16:05,Lille,RC Lens,2.9,3.4,2.35,1.5714,1.4,1.3,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/angers-olympique-lyonnais/ZHsJI,2026-04-05,10:00,Angers,Olympique Lyonnais,5.25,4.2,1.6,2.3,1.1667,1.2222,1.8,1.95,1.25,4.0,1.8,2.0
-https://www.sofascore.com/metz-nantes/XHsbI,2026-04-05,12:15,Metz,Nantes,2.8,3.4,2.55,1.5,1.4,1.3,1.8,1.95,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/paris-fc-lorient/gIsvwc,2026-04-05,12:15,Lorient,Paris FC,2.3,3.3,3.2,1.3636,1.5714,1.3333,1.8,1.95,1.3333,3.4,2.1,1.7273
-https://www.sofascore.com/le-havre-auxerre/WHsmI,2026-04-05,12:15,Le Havre,Auxerre,2.45,3.0,3.2,1.3636,1.5333,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154
-https://www.sofascore.com/as-monaco-olympique-de-marseille/QHsdI,2026-04-05,15:45,AS Monaco,Olympique de Marseille,2.0,3.7,3.5,1.2857,1.8,1.2857,1.5,2.5,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/paris-fc-as-monaco/dIsvwc,2026-04-10,14:00,Paris FC,AS Monaco,3.8,3.75,1.91,1.8333,1.25,1.25,1.5714,2.25,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/metz-olympique-de-marseille/QHsbI,2026-04-10,16:05,Olympique de Marseille,Metz,1.27,6.25,9.5,1.0714,3.75,1.125,1.75,2.0,1.1,7.0,1.3333,3.4
-https://www.sofascore.com/nantes-auxerre/WHsXH,2026-04-11,14:00,Auxerre,Nantes,1.91,3.4,4.2,1.2222,1.8333,1.3,2.0,1.75,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/angers-stade-rennais/iIsJI,2026-04-11,16:05,Stade Rennais,Angers,1.33,5.0,9.5,1.0714,3.25,1.1667,1.95,1.8,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/toulouse-lille/THsGI,2026-04-12,12:15,Toulouse,Lille,3.3,3.3,2.25,1.6154,1.3333,1.3333,1.95,1.8,1.4,3.0,2.2,1.6667
-https://www.sofascore.com/stade-brestois-rc-strasbourg/jIspJ,2026-04-12,12:15,Stade Brestois,RC Strasbourg,3.1,3.4,2.3,,,,,,,,,
-https://www.sofascore.com/le-havre-nice/lIsmI,2026-04-12,12:15,Nice,Le Havre,1.95,3.3,4.1,1.2222,1.8,1.3333,1.7,2.05,1.25,4.0,1.9091,1.9091
-https://www.sofascore.com/lorient-olympique-lyonnais/ZHsgI,2026-04-12,15:45,Olympique Lyonnais,Lorient,1.62,4.0,5.25,1.1667,2.25,1.2222,1.75,2.0,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/toulouse-rc-lens/YHsGI,2026-04-17,15:45,RC Lens,Toulouse,1.55,4.1,5.5,1.125,2.5,1.1818,1.75,2.0,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/lorient-olympique-de-marseille/QHsgI,2026-04-18,12:00,Lorient,Olympique de Marseille,4.3333,4.2,1.7,2.1,1.2,1.2222,1.5333,2.375,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/angers-le-havre/mIsJI,2026-04-18,14:00,Angers,Le Havre,3.3,3.1,2.38,1.5333,1.3333,1.3636,2.05,1.7,1.5,2.625,2.625,1.5
-https://www.sofascore.com/nice-lille/THslI,2026-04-18,16:05,Lille,Nice,1.53,4.5,5.75,1.1429,2.375,1.1818,1.8,1.95,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/as-monaco-auxerre/WHsdI,2026-04-19,10:00,AS Monaco,Auxerre,1.6,4.2,5.25,1.1667,2.3,1.2222,1.6667,2.1,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/rc-strasbourg-stade-rennais/iIsjI,2026-04-19,12:15,RC Strasbourg,Stade Rennais,3.1,3.9,2.15,1.7,1.3636,1.25,1.5714,2.25,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/stade-brestois-nantes/XHspJ,2026-04-19,12:15,Nantes,Stade Brestois,2.5,3.25,2.9,1.4,1.5,1.3333,1.9091,1.9091,1.3636,3.2,2.2,1.6667
-https://www.sofascore.com/paris-fc-metz/bIsvwc,2026-04-19,12:15,Metz,Paris FC,2.9,3.6,2.25,1.6154,1.3636,1.2857,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/olympique-lyonnais-paris-saint-germain/UHsZH,2026-04-19,15:45,Paris Saint-Germain,Olympique Lyonnais,1.33,5.5,8.0,1.0833,3.25,1.1429,1.75,2.0,1.1429,5.5,1.5,2.625
-https://www.sofascore.com/nantes-paris-saint-germain/UHsXH,2026-04-22,14:00,Paris Saint-Germain,Nantes,1.14,8.0,17.0,1.025,5.5,1.0833,2.0,1.75,1.1,7.0,1.3636,3.2
-https://www.sofascore.com/stade-brestois-rc-lens/YHspJ,2026-04-24,15:45,Stade Brestois,RC Lens,5.75,4.2,1.53,2.375,1.1429,1.2222,1.75,2.0,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/olympique-lyonnais-auxerre/WHsZH,2026-04-25,10:00,Olympique Lyonnais,Auxerre,1.67,3.9,5.0,1.1667,2.15,1.25,1.75,2.0,1.2222,4.3333,1.7273,2.1
-https://www.sofascore.com/angers-paris-saint-germain/UHsJI,2026-04-25,14:00,Angers,Paris Saint-Germain,10.0,6.0,1.25,3.75,1.0625,1.125,1.95,1.8,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/toulouse-as-monaco/dIsGI,2026-04-25,16:05,Toulouse,AS Monaco,4.3333,4.1,1.73,2.05,1.2,1.2222,1.5333,2.375,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/rc-strasbourg-lorient/gIsjI,2026-04-26,10:00,Lorient,RC Strasbourg,2.05,3.6,3.25,1.3333,1.7273,1.2857,1.6154,2.2,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/paris-fc-lille/THsvwc,2026-04-26,12:15,Paris FC,Lille,5.0,4.0,1.67,2.15,1.1667,1.2222,1.7,2.05,1.2222,4.3333,1.6667,2.2
-https://www.sofascore.com/stade-rennais-nantes/XHsiI,2026-04-26,12:15,Stade Rennais,Nantes,1.45,4.5,7.0,1.1,2.625,1.1818,1.8,1.95,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/le-havre-metz/bIsmI,2026-04-26,12:15,Le Havre,Metz,1.57,4.2,5.5,1.1429,2.3,1.2222,1.95,1.8,1.2857,3.75,1.8,2.0
-https://www.sofascore.com/nice-olympique-de-marseille/QHslI,2026-04-26,15:45,Olympique de Marseille,Nice,1.7,3.8,4.75,1.1818,2.1,1.25,1.6154,2.2,1.2,4.5,1.6667,2.2
-https://www.sofascore.com/nantes-olympique-de-marseille/QHsXH,2026-05-02,10:00,Nantes,Olympique de Marseille,3.9,3.8,1.9,1.9091,1.25,1.25,1.5333,2.375,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/lorient-paris-saint-germain/UHsgI,2026-05-02,12:00,Paris Saint-Germain,Lorient,1.33,5.75,7.5,1.1,3.0,1.1429,1.6667,2.1,1.125,6.0,1.4,3.0
-https://www.sofascore.com/as-monaco-metz/bIsdI,2026-05-02,14:00,Metz,AS Monaco,7.5,5.75,1.33,3.25,1.1,1.1429,1.5,2.5,1.0714,9.0,1.2857,3.75
-https://www.sofascore.com/nice-rc-lens/YHslI,2026-05-02,16:05,Nice,RC Lens,4.5,4.3333,1.67,2.15,1.1818,1.2,1.5714,2.25,1.1667,5.0,1.5333,2.5
-https://www.sofascore.com/le-havre-lille/THsmI,2026-05-03,10:00,Lille,Le Havre,1.42,4.75,7.5,1.1,2.75,1.1818,2.05,1.7,1.2857,3.75,1.9091,1.9091
-https://www.sofascore.com/toulouse-rc-strasbourg/jIsGI,2026-05-03,12:15,RC Strasbourg,Toulouse,2.88,3.5,2.4,1.5333,1.4,1.2857,1.6154,2.2,1.25,4.0,1.8,2.0
-https://www.sofascore.com/paris-fc-stade-brestois/pJsvwc,2026-05-03,12:15,Paris FC,Stade Brestois,2.0,3.5,3.8,1.25,1.8,1.2857,1.7,2.05,1.25,4.0,1.8,2.0
-https://www.sofascore.com/angers-auxerre/WHsJI,2026-05-03,12:15,Auxerre,Angers,1.67,3.7,5.5,1.1429,2.15,1.2857,2.0,1.75,1.3636,3.2,2.1,1.7273
-https://www.sofascore.com/stade-rennais-olympique-lyonnais/ZHsiI,2026-05-03,15:45,Olympique Lyonnais,Stade Rennais,2.15,3.7,3.1,1.3636,1.6667,1.2857,1.5333,2.375,1.2,4.5,1.6154,2.3
-https://www.sofascore.com/rc-lens-nantes/XHsYH,2026-05-08,15:45,RC Lens,Nantes,1.33,4.5,8.5,1.0833,3.25,1.1818,1.8,1.95,1.1667,5.0,1.5714,2.375
-https://www.sofascore.com/stade-brestois-paris-saint-germain/UHspJ,2026-05-10,16:00,Paris Saint-Germain,Stade Brestois,1.14,7.0,15.0,,,,,,,,,
-https://www.sofascore.com/le-havre-olympique-de-marseille/QHsmI,2026-05-10,16:00,Le Havre,Olympique de Marseille,3.9,3.6,1.83,,,,,,,,,
-https://www.sofascore.com/as-monaco-lille/THsdI,2026-05-10,16:00,AS Monaco,Lille,2.2,3.7,2.88,,,,,,,,,
-https://www.sofascore.com/toulouse-olympique-lyonnais/ZHsGI,2026-05-10,16:00,Toulouse,Olympique Lyonnais,3.8,3.6,1.85,,,,,,,,,
-https://www.sofascore.com/angers-rc-strasbourg/jIsJI,2026-05-10,16:00,Angers,RC Strasbourg,3.6,3.25,2.05,,,,,,,,,
-https://www.sofascore.com/nice-auxerre/WHslI,2026-05-10,16:00,Auxerre,Nice,2.38,3.4,2.8,,,,,,,,,
-https://www.sofascore.com/paris-fc-stade-rennais/iIsvwc,2026-05-10,16:00,Stade Rennais,Paris FC,1.45,4.5,6.0,,,,,,,,,
-https://www.sofascore.com/lorient-metz/bIsgI,2026-05-10,16:00,Metz,Lorient,3.0,3.6,2.15,,,,,,,,,
+source_url,date,time,local_team,away_team,decimal_home_win,decimal_draw,decimal_away_win,decimal_home_or_draw,decimal_draw_or_away,decimal_home_or_away,decimal_btts_yes,decimal_btts_no,decimal_over_15,decimal_under_15,decimal_over_25,decimal_under_25,season_id,season_name
+https://www.sofascore.com/stade-rennais-olympique-de-marseille/QHsiI,2025-08-15,15:45,Stade Rennais,Olympique de Marseille,3.75,3.7,1.91,1.8333,1.25,1.2857,1.6667,2.1,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/olympique-lyonnais-rc-lens/YHsZH,2025-08-16,12:00,RC Lens,Olympique Lyonnais,2.55,3.5,2.63,1.4444,1.5333,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-as-monaco/dIsmI,2025-08-16,14:00,AS Monaco,Le Havre,1.22,7.0,11.0,1.05,4.0,1.1,1.95,1.8,1.125,6.0,1.4444,2.75,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-nice/lIsGI,2025-08-16,16:05,Nice,Toulouse,2.0,3.4,3.9,1.2222,1.8333,1.3,1.8,1.95,1.3,3.5,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-lille/THspJ,2025-08-17,10:00,Stade Brestois,Lille,2.55,3.1,2.9,1.4,1.5,1.3636,1.8,1.95,1.3636,3.2,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-metz/bIsjI,2025-08-17,12:15,Metz,RC Strasbourg,3.4,3.4,2.15,1.6667,1.3,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-auxerre/WHsgI,2025-08-17,12:15,Auxerre,Lorient,2.38,3.25,3.1,1.3636,1.5333,1.3333,1.8,1.95,1.3333,3.4,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-angers/JIsvwc,2025-08-17,12:15,Angers,Paris FC,3.2,3.4,2.25,1.6154,1.3636,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/nantes-paris-saint-germain/UHsXH,2025-08-17,15:45,Nantes,Paris Saint-Germain,11.0,6.0,1.25,4.0,1.04,1.125,2.0,1.75,1.1429,5.5,1.4444,2.75,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-paris-saint-germain/UHsJI,2025-08-22,15:45,Paris Saint-Germain,Angers,1.06,13.0,23.0,1.0125,10.0,1.04,2.375,1.5333,1.0714,9.0,1.25,4.0,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-olympique-de-marseille/QHsvwc,2025-08-23,12:00,Olympique de Marseille,Paris FC,1.4,5.25,6.5,1.1111,2.75,1.1667,1.7,2.05,1.1429,5.5,1.475,2.6,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-auxerre/WHslI,2025-08-23,14:00,Nice,Auxerre,1.85,3.7,4.0,1.2,1.95,1.25,1.9091,1.9091,1.3,3.5,1.95,1.85,77356,Ligue 1 25/26
+https://www.sofascore.com/metz-olympique-lyonnais/ZHsbI,2025-08-23,16:05,Olympique Lyonnais,Metz,1.42,5.0,6.5,1.1111,2.75,1.1667,1.7,2.05,1.1667,5.0,1.5333,2.5,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-lorient/gIsiI,2025-08-24,10:00,Lorient,Stade Rennais,2.75,3.3,2.55,1.5,1.4,1.3333,1.7,2.05,1.3,3.5,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-rc-lens/YHsmI,2025-08-24,12:15,Le Havre,RC Lens,4.2,3.7,1.83,1.9091,1.2222,1.2857,1.7,2.05,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-toulouse/GIspJ,2025-08-24,12:15,Toulouse,Stade Brestois,2.2,3.4,3.2,1.3333,1.6667,1.3,1.75,2.0,1.3,3.5,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-nantes/XHsjI,2025-08-24,12:15,RC Strasbourg,Nantes,1.73,3.5,5.25,1.1667,2.05,1.2857,1.8,1.95,1.3,3.5,1.95,1.85,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-lille/THsdI,2025-08-24,15:45,Lille,AS Monaco,3.1,3.6,2.2,1.6667,1.3636,1.2857,1.5714,2.25,1.2,4.5,1.65,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-lille/THsgI,2025-08-30,12:00,Lorient,Lille,3.25,3.4,2.2,1.6667,1.3333,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/nantes-auxerre/WHsXH,2025-08-30,14:00,Nantes,Auxerre,2.35,3.25,3.0,1.3636,1.5714,1.3333,1.9091,1.9091,1.3333,3.4,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-paris-saint-germain/YMTc,2025-08-30,16:05,Toulouse,Paris Saint-Germain,8.0,5.25,1.33,3.25,1.0833,1.1667,1.9091,1.9091,1.1667,5.0,1.5714,2.375,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-stade-rennais/iIsJI,2025-08-31,10:00,Angers,Stade Rennais,4.5,3.5,1.8,2.0,1.1818,1.2857,1.8,1.95,1.3,3.5,1.95,1.85,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-as-monaco/dIsjI,2025-08-31,12:15,AS Monaco,RC Strasbourg,1.5,4.75,5.75,1.125,2.625,1.1667,1.7,2.05,1.1667,5.0,1.5333,2.5,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-nice/lIsmI,2025-08-31,12:15,Le Havre,Nice,3.4,3.4,2.15,1.6667,1.3,1.3,1.75,2.0,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-metz/bIsvwc,2025-08-31,12:15,Paris FC,Metz,1.73,3.9,4.6,1.1818,2.05,1.25,1.9091,1.9091,1.3,3.5,1.95,1.85,77356,Ligue 1 25/26
+https://www.sofascore.com/olympique-lyonnais-olympique-de-marseille/QHsZH,2025-08-31,15:45,Olympique Lyonnais,Olympique de Marseille,2.9,3.5,2.35,1.5714,1.4,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.15,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-olympique-de-marseille/QHsgI,2025-09-12,15:45,Olympique de Marseille,Lorient,1.36,5.25,8.0,1.0833,3.25,1.1429,1.75,2.0,1.1429,5.5,1.4444,2.75,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-nantes/XHslI,2025-09-13,12:00,Nice,Nantes,1.55,4.2,6.0,1.1429,2.3,1.2222,1.8,1.95,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-auxerre/WHsdI,2025-09-13,16:05,Auxerre,AS Monaco,5.0,4.5,1.57,2.3,1.1667,1.1818,1.5333,2.375,1.125,6.0,1.4444,2.75,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-lille/THsGI,2025-09-14,10:00,Lille,Toulouse,1.8,3.7,4.3333,1.2,1.95,1.2857,1.9091,1.9091,1.3,3.5,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-lens-paris-saint-germain/UHsYH,2025-09-14,12:15,Paris Saint-Germain,RC Lens,1.33,5.75,7.5,1.1,3.0,1.1429,1.5714,2.25,1.1111,6.5,1.3636,3.2,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-stade-brestois/pJsvwc,2025-09-14,12:15,Stade Brestois,Paris FC,2.45,3.4,2.88,1.4,1.5333,1.3,1.6154,2.2,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-rc-strasbourg/jIsmI,2025-09-14,12:15,RC Strasbourg,Le Havre,1.8,3.8,4.3333,1.2,1.95,1.25,1.8,1.95,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-metz/bIsJI,2025-09-14,12:15,Metz,Angers,2.2,3.3,3.4,1.3,1.6667,1.3333,1.95,1.8,1.4,3.0,2.2,1.6667,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-olympique-lyonnais/ZHsiI,2025-09-14,15:45,Stade Rennais,Olympique Lyonnais,2.45,3.5,2.8,1.4,1.5333,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-olympique-lyonnais/ZHsJI,2025-09-19,15:45,Olympique Lyonnais,Angers,1.45,4.5,6.5,1.1111,2.625,1.1818,1.9091,1.9091,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-nantes/XHsiI,2025-09-20,12:00,Nantes,Stade Rennais,3.9,3.4,2.0,1.8,1.2222,1.3,1.8,1.95,1.3,3.5,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-lens-lille/THsYH,2025-09-20,16:05,RC Lens,Lille,2.3,3.5,3.0,1.3636,1.6154,1.2857,1.6667,2.1,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-rc-strasbourg/jIsvwc,2025-09-21,10:00,Paris FC,RC Strasbourg,2.45,3.5,2.8,1.4,1.5,1.3,1.6154,2.2,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-metz/bIsdI,2025-09-21,12:15,AS Monaco,Metz,1.33,6.0,7.0,1.0833,3.4,1.125,1.7,2.05,1.1111,6.5,1.3636,3.2,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-auxerre/WHsGI,2025-09-21,12:15,Auxerre,Toulouse,3.4,3.25,2.25,1.6154,1.3,1.3333,1.8,1.95,1.3333,3.4,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-lorient/gIsmI,2025-09-21,12:15,Le Havre,Lorient,2.2,3.25,3.4,1.3,1.6667,1.3333,2.0,1.75,1.4444,2.75,2.375,1.5714,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-saint-germain-olympique-de-marseille/QHsUH,2025-09-22,15:00,Olympique de Marseille,Paris Saint-Germain,4.0,3.9,1.83,1.9091,1.2222,1.25,1.5714,2.25,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-olympique-de-marseille/QHsjI,2025-09-26,15:45,RC Strasbourg,Olympique de Marseille,3.25,3.5,2.15,1.6667,1.3636,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-as-monaco/dIsgI,2025-09-27,12:00,Lorient,AS Monaco,4.5,3.9,1.73,1.9091,1.2222,1.25,1.5714,2.25,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-nantes/XHsGI,2025-09-27,14:00,Toulouse,Nantes,1.8,3.5,4.5,1.1818,1.9091,1.2857,1.9091,1.9091,1.3333,3.4,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/auxerre-paris-saint-germain/UHsWH,2025-09-27,16:05,Paris Saint-Germain,Auxerre,1.18,7.5,13.0,1.05,4.3333,1.1,1.95,1.8,1.1429,5.5,1.4444,2.75,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-nice/lIsvwc,2025-09-28,10:00,Nice,Paris FC,2.1,3.5,3.4,1.3,1.7,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/olympique-lyonnais-lille/THsZH,2025-09-28,12:15,Lille,Olympique Lyonnais,2.35,3.5,3.0,1.3636,1.5714,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-angers/JIspJ,2025-09-28,12:15,Angers,Stade Brestois,3.3,3.0,2.38,1.5333,1.3333,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-metz/bIsmI,2025-09-28,12:15,Metz,Le Havre,2.7,3.25,2.7,1.4,1.5,1.3333,1.7,2.05,1.3,3.5,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-rc-lens/YHsiI,2025-09-28,15:45,Stade Rennais,RC Lens,2.63,3.5,2.55,1.5,1.4,1.2857,1.5714,2.25,1.2222,4.3333,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-lorient/gIsvwc,2025-10-03,15:45,Paris FC,Lorient,1.75,3.7,4.75,1.1818,2.0,1.25,1.6667,2.1,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/metz-olympique-de-marseille/QHsbI,2025-10-04,12:00,Metz,Olympique de Marseille,5.75,4.3333,1.53,2.375,1.1429,1.2,1.75,2.0,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-nantes/XHspJ,2025-10-04,14:00,Stade Brestois,Nantes,1.95,3.5,3.9,1.2222,1.8333,1.2857,1.8,1.95,1.3,3.5,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-lens-auxerre/WHsYH,2025-10-04,16:05,Auxerre,RC Lens,3.3,3.8,2.05,1.7273,1.3333,1.25,1.6667,2.1,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-olympique-lyonnais/ZHsGI,2025-10-05,10:00,Olympique Lyonnais,Toulouse,2.0,3.4,3.8,1.25,1.8,1.3,1.8,1.95,1.3,3.5,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-as-monaco/dIslI,2025-10-05,12:15,AS Monaco,Nice,1.85,3.75,4.0,1.2222,1.9091,1.25,1.5,2.5,1.1667,5.0,1.5714,2.375,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-stade-rennais/iIsmI,2025-10-05,12:15,Le Havre,Stade Rennais,3.0,3.6,2.25,1.6154,1.3636,1.2857,1.7,2.05,1.2857,3.75,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-rc-strasbourg/jIsJI,2025-10-05,12:15,RC Strasbourg,Angers,1.8,3.7,4.5,1.1818,2.0,1.2857,1.95,1.8,1.3333,3.4,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-saint-germain-lille/THsUH,2025-10-05,15:45,Lille,Paris Saint-Germain,3.3,3.4,2.1,1.7,1.3333,1.3,1.5333,2.375,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-paris-saint-germain/UHsjI,2025-10-17,15:45,Paris Saint-Germain,RC Strasbourg,1.36,5.0,8.0,1.0833,3.25,1.1429,1.6154,2.2,1.125,6.0,1.4444,2.75,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-olympique-lyonnais/ZHslI,2025-10-18,12:00,Nice,Olympique Lyonnais,2.2,3.5,3.2,1.3636,1.6667,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-as-monaco/dIsJI,2025-10-18,14:00,Angers,AS Monaco,5.5,4.1,1.6,2.25,1.1667,1.2222,1.75,2.0,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-olympique-de-marseille/QHsmI,2025-10-18,16:05,Olympique de Marseille,Le Havre,1.33,5.0,9.0,1.0714,3.25,1.1667,1.95,1.8,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-rc-lens/YHsvwc,2025-10-19,10:00,RC Lens,Paris FC,1.75,3.9,4.2,1.2222,2.0,1.25,1.6154,2.2,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-lorient/gIspJ,2025-10-19,12:15,Lorient,Stade Brestois,2.7,3.2,2.7,1.5,1.4,1.3636,1.75,2.0,1.3,3.5,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-auxerre/WHsiI,2025-10-19,12:15,Stade Rennais,Auxerre,1.8,3.7,4.3333,1.1818,1.95,1.2857,1.7,2.05,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-metz/bIsGI,2025-10-19,12:15,Toulouse,Metz,1.55,4.0,6.0,1.125,2.5,1.2222,1.8,1.95,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/nantes-lille/THsXH,2025-10-19,15:45,Nantes,Lille,5.5,3.9,1.62,2.25,1.1429,1.25,1.8,1.95,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-nantes/XHsvwc,2025-10-24,15:45,Paris FC,Nantes,1.57,4.1,5.75,1.125,2.375,1.2222,1.9091,1.9091,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-paris-saint-germain/UHspJ,2025-10-25,12:00,Stade Brestois,Paris Saint-Germain,7.5,5.5,1.33,3.25,1.1,1.1429,1.7,2.05,1.125,6.0,1.4444,2.75,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-as-monaco/dIsGI,2025-10-25,14:00,AS Monaco,Toulouse,2.05,3.7,3.4,1.3,1.7273,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-lens-olympique-de-marseille/QHsYH,2025-10-25,16:05,RC Lens,Olympique de Marseille,2.7,3.6,2.5,1.4444,1.5,1.2857,1.5714,2.25,1.2222,4.3333,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/metz-lille/THsbI,2025-10-26,11:00,Lille,Metz,1.27,6.25,9.5,1.0625,3.75,1.125,1.9091,1.9091,1.1429,5.5,1.4444,2.75,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-stade-rennais/iIslI,2025-10-26,13:15,Stade Rennais,Nice,2.0,3.6,3.6,1.2857,1.8,1.2857,1.6154,2.2,1.2222,4.3333,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-lorient/gIsJI,2025-10-26,13:15,Angers,Lorient,2.55,3.0,3.1,1.4,1.4444,1.3636,2.0,1.75,1.4444,2.75,2.375,1.5714,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-auxerre/WHsmI,2025-10-26,13:15,Auxerre,Le Havre,2.1,3.3,3.6,1.2857,1.7,1.3333,1.8,1.95,1.3333,3.4,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-olympique-lyonnais/ZHsjI,2025-10-26,16:45,Olympique Lyonnais,RC Strasbourg,1.9,3.7,3.9,1.25,1.9091,1.2857,1.6154,2.2,1.2222,4.3333,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-paris-saint-germain/UHsgI,2025-10-29,15:00,Lorient,Paris Saint-Germain,11.0,7.0,1.22,3.75,1.0714,1.1111,1.9091,1.9091,1.1429,5.5,1.4444,2.75,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-lille/THslI,2025-10-29,15:00,Nice,Lille,3.5,3.75,2.0,1.9091,1.25,1.25,1.5714,2.25,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/metz-rc-lens/YHsbI,2025-10-29,15:00,Metz,RC Lens,5.75,5.0,1.45,2.625,1.125,1.1667,1.75,2.0,1.1667,5.0,1.5714,2.375,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-le-havre/mIspJ,2025-10-29,15:00,Le Havre,Stade Brestois,2.8,3.1,2.7,1.4444,1.4,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-olympique-de-marseille/QHsJI,2025-10-29,17:05,Olympique de Marseille,Angers,1.25,6.5,9.5,1.0714,3.75,1.1111,2.1,1.6667,1.1667,5.0,1.5714,2.375,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-nantes/XHsdI,2025-10-29,17:05,Nantes,AS Monaco,4.5,4.0,1.7,2.1,1.1818,1.2222,1.6667,2.1,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-olympique-lyonnais/ZHsvwc,2025-10-29,17:05,Paris FC,Olympique Lyonnais,2.63,3.5,2.55,1.5,1.4,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-stade-rennais/iIsGI,2025-10-29,17:05,Toulouse,Stade Rennais,1.91,3.6,3.9,1.25,1.8333,1.2857,1.75,2.0,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-auxerre/WHsjI,2025-10-29,17:05,RC Strasbourg,Auxerre,1.7,3.8,4.75,1.1818,2.1,1.25,1.8,1.95,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-paris-saint-germain/UHslI,2025-11-01,13:00,Paris Saint-Germain,Nice,1.17,8.0,15.0,1.0303,5.5,1.0833,2.0,1.75,1.1,7.0,1.3636,3.2,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-as-monaco/dIsvwc,2025-11-01,15:00,AS Monaco,Paris FC,1.62,4.2,5.0,1.1818,2.2,1.2222,1.5714,2.25,1.1667,5.0,1.5714,2.375,77356,Ligue 1 25/26
+https://www.sofascore.com/auxerre-olympique-de-marseille/QHsWH,2025-11-01,17:05,Auxerre,Olympique de Marseille,5.0,3.8,1.7,2.1,1.1667,1.25,1.8,1.95,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-stade-rennais/iIsjI,2025-11-02,11:00,Stade Rennais,RC Strasbourg,2.7,3.5,2.5,1.5,1.4444,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-lille/THsJI,2025-11-02,13:15,Lille,Angers,1.42,4.75,7.0,1.1,2.75,1.1818,2.0,1.75,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-rc-lens/YHsgI,2025-11-02,13:15,RC Lens,Lorient,1.5,4.3333,6.25,1.125,2.375,1.2222,1.8,1.95,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/metz-nantes/XHsbI,2025-11-02,13:15,Nantes,Metz,2.1,3.6,3.3,1.2857,1.7273,1.2857,1.6667,2.1,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-le-havre/mIsGI,2025-11-02,13:15,Toulouse,Le Havre,1.7,3.6,5.0,1.1667,2.1,1.2857,1.95,1.8,1.3333,3.4,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-olympique-lyonnais/ZHspJ,2025-11-02,16:45,Stade Brestois,Olympique Lyonnais,3.4,3.4,2.15,1.6667,1.3,1.3,1.8,1.95,1.3,3.5,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-stade-rennais/iIsvwc,2025-11-07,16:45,Paris FC,Stade Rennais,2.25,3.6,3.0,1.3636,1.6154,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-olympique-de-marseille/QHspJ,2025-11-08,13:00,Olympique de Marseille,Stade Brestois,1.45,4.75,6.5,1.1111,2.625,1.1818,1.8,1.95,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-nantes/XHsmI,2025-11-08,15:00,Le Havre,Nantes,1.85,3.4,4.5,1.1818,1.9091,1.3,1.95,1.8,1.3636,3.2,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-rc-lens/YHsdI,2025-11-08,17:05,AS Monaco,RC Lens,1.95,4.0,3.5,1.3,1.8,1.2222,1.5,2.5,1.1429,5.5,1.5,2.625,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-lorient/gIsGI,2025-11-09,11:00,Lorient,Toulouse,3.0,3.3,2.38,1.5333,1.3636,1.3333,1.8,1.95,1.3333,3.4,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-lille/THsjI,2025-11-09,13:15,RC Strasbourg,Lille,2.6,3.7,2.5,1.5333,1.4444,1.2857,1.5333,2.375,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-metz/bIslI,2025-11-09,13:15,Metz,Nice,3.0,3.6,2.25,1.6154,1.3636,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-auxerre/WHsJI,2025-11-09,13:15,Angers,Auxerre,2.6,3.0,3.0,1.3636,1.5,1.3636,2.05,1.7,1.5,2.625,2.625,1.5,77356,Ligue 1 25/26
+https://www.sofascore.com/olympique-lyonnais-paris-saint-germain/UHsZH,2025-11-09,16:45,Olympique Lyonnais,Paris Saint-Germain,5.5,4.1,1.6,2.3,1.1429,1.2222,1.8,1.95,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-olympique-de-marseille/QHslI,2025-11-21,16:45,Nice,Olympique de Marseille,3.6,3.75,1.95,1.8,1.2857,1.25,1.5714,2.25,1.2222,4.3333,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-rc-lens/YHsjI,2025-11-22,13:00,RC Lens,RC Strasbourg,2.1,3.7,3.3,1.3333,1.7,1.2857,1.5333,2.375,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-as-monaco/dIsiI,2025-11-22,15:00,Stade Rennais,AS Monaco,2.4,3.7,2.7,1.4,1.5714,1.2857,1.4444,2.625,1.1667,5.0,1.5333,2.5,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-paris-saint-germain/UHsmI,2025-11-22,17:05,Paris Saint-Germain,Le Havre,1.22,6.5,9.5,1.05,4.0,1.1111,2.1,1.6667,1.1667,5.0,1.5333,2.5,77356,Ligue 1 25/26
+https://www.sofascore.com/olympique-lyonnais-auxerre/WHsZH,2025-11-23,11:00,Auxerre,Olympique Lyonnais,4.0,3.3,2.0,1.8,1.25,1.3,1.8,1.95,1.3333,3.4,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-metz/bIspJ,2025-11-23,13:15,Stade Brestois,Metz,1.8,3.8,4.2,1.2222,1.95,1.25,1.6667,2.1,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-toulouse/GIsJI,2025-11-23,13:15,Toulouse,Angers,1.7,3.6,5.5,1.1429,2.2,1.2857,2.05,1.7,1.3636,3.2,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-nantes/XHsgI,2025-11-23,13:15,Nantes,Lorient,3.0,3.3,2.38,1.5333,1.3636,1.3333,1.75,2.0,1.3,3.5,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-lille/THsvwc,2025-11-23,16:45,Lille,Paris FC,1.67,3.9,5.0,1.1667,2.15,1.25,1.75,2.0,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-metz/bIsiI,2025-11-28,16:45,Metz,Stade Rennais,3.6,3.75,1.95,1.9091,1.25,1.25,1.5333,2.375,1.1667,5.0,1.5714,2.375,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-paris-saint-germain/UHsdI,2025-11-29,13:00,AS Monaco,Paris Saint-Germain,4.75,4.5,1.62,2.15,1.1818,1.2,1.4,2.75,1.1111,6.5,1.4,3.0,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-auxerre/WHsvwc,2025-11-29,15:00,Paris FC,Auxerre,1.91,3.4,4.1,1.2,1.9091,1.2857,1.8,1.95,1.3,3.5,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-olympique-de-marseille/QHsGI,2025-11-29,17:05,Olympique de Marseille,Toulouse,1.6,4.1,5.25,1.1667,2.25,1.2222,1.75,2.0,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-rc-strasbourg/jIspJ,2025-11-30,11:00,RC Strasbourg,Stade Brestois,1.8,3.8,4.3333,1.2,1.95,1.25,1.6154,2.2,1.2222,4.3333,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-lille/THsmI,2025-11-30,13:15,Le Havre,Lille,4.5,3.7,1.8,1.9091,1.2,1.2857,1.75,2.0,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-lorient/gIslI,2025-11-30,13:15,Lorient,Nice,2.4,3.4,2.9,1.3636,1.5714,1.3,1.6154,2.2,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-rc-lens/YHsJI,2025-11-30,13:15,Angers,RC Lens,5.0,3.9,1.7,2.1,1.1667,1.25,1.8,1.95,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/olympique-lyonnais-nantes/XHsZH,2025-11-30,16:45,Olympique Lyonnais,Nantes,1.4,4.75,8.0,1.0833,2.75,1.1818,1.95,1.8,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-as-monaco/dIspJ,2025-12-05,15:00,Stade Brestois,AS Monaco,3.4,3.9,2.0,1.8,1.3333,1.25,1.5,2.5,1.1667,5.0,1.5714,2.375,77356,Ligue 1 25/26
+https://www.sofascore.com/lille-olympique-de-marseille/QHsTH,2025-12-05,17:00,Lille,Olympique de Marseille,2.4,3.5,2.9,1.4,1.5333,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-lens-nantes/XHsYH,2025-12-06,13:00,Nantes,RC Lens,4.75,3.9,1.7,2.05,1.1818,1.25,1.7,2.05,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-rc-strasbourg/jIsGI,2025-12-06,15:00,Toulouse,RC Strasbourg,2.55,3.3,2.8,1.4,1.5,1.3333,1.75,2.0,1.3333,3.4,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-paris-saint-germain/UHsiI,2025-12-06,17:05,Paris Saint-Germain,Stade Rennais,1.29,6.5,8.0,1.0833,3.5,1.1111,1.6154,2.2,1.1,7.0,1.3333,3.4,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-nice/lIsJI,2025-12-07,11:00,Nice,Angers,1.85,3.6,4.2,1.2222,1.9091,1.2857,1.8,1.95,1.3,3.5,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-le-havre/mIsvwc,2025-12-07,13:15,Le Havre,Paris FC,2.8,3.2,2.63,1.5,1.4,1.3636,1.8,1.95,1.3333,3.4,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/metz-auxerre/WHsbI,2025-12-07,13:15,Auxerre,Metz,2.0,3.5,3.8,1.25,1.8,1.2857,1.8,1.95,1.3,3.5,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-olympique-lyonnais/ZHsgI,2025-12-07,16:45,Lorient,Olympique Lyonnais,3.7,3.4,2.05,1.7273,1.25,1.3,1.9091,1.9091,1.3636,3.2,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-nantes/XHsJI,2025-12-12,16:45,Angers,Nantes,2.15,3.2,3.6,1.2857,1.6667,1.3636,2.0,1.75,1.4444,2.75,2.375,1.5714,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-stade-rennais/iIspJ,2025-12-13,13:00,Stade Rennais,Stade Brestois,1.85,3.8,4.0,1.2222,1.9091,1.25,1.7,2.05,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/metz-paris-saint-germain/UHsbI,2025-12-13,15:00,Metz,Paris Saint-Germain,10.0,7.0,1.22,3.75,1.0714,1.1,1.75,2.0,1.1,7.0,1.3636,3.2,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-toulouse/GIsvwc,2025-12-13,17:05,Paris FC,Toulouse,2.75,3.2,2.63,1.4444,1.4444,1.3636,1.8,1.95,1.3636,3.2,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-olympique-lyonnais/ZHsmI,2025-12-14,11:00,Olympique Lyonnais,Le Havre,1.62,4.1,5.0,1.1667,2.3,1.2222,1.95,1.8,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/auxerre-lille/THsWH,2025-12-14,13:15,Auxerre,Lille,4.0,3.2,2.0,1.8,1.2222,1.3333,1.95,1.8,1.4,3.0,2.3,1.6154,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-rc-lens/YHslI,2025-12-14,13:15,RC Lens,Nice,1.45,4.75,6.25,1.125,2.625,1.1818,1.7,2.05,1.1667,5.0,1.5333,2.5,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-lorient/gIsjI,2025-12-14,13:15,RC Strasbourg,Lorient,1.73,3.9,4.3333,1.2,2.05,1.25,1.75,2.0,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-olympique-de-marseille/QHsdI,2025-12-14,16:45,Olympique de Marseille,AS Monaco,2.05,3.5,3.5,1.2857,1.7273,1.2857,1.5714,2.25,1.2,4.5,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-rc-lens/YHsGI,2026-01-02,16:45,Toulouse,RC Lens,2.55,3.2,2.875,1.4,1.5,1.3636,1.8,1.95,1.3636,3.2,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-olympique-lyonnais/ZHsdI,2026-01-03,13:00,AS Monaco,Olympique Lyonnais,2.1,3.7,3.25,1.3333,1.7,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-rc-strasbourg/jIslI,2026-01-03,15:00,Nice,RC Strasbourg,3.1,3.4,2.25,1.6667,1.3333,1.2857,1.6154,2.2,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-lille/THsiI,2026-01-03,17:05,Lille,Stade Rennais,1.7,4.0,4.75,1.1818,2.05,1.2222,1.6667,2.1,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/nantes-olympique-de-marseille/QHsXH,2026-01-04,11:00,Olympique de Marseille,Nantes,1.25,6.25,9.5,1.0714,3.75,1.125,1.8,1.95,1.1429,5.5,1.4444,2.75,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-auxerre/WHspJ,2026-01-04,13:15,Stade Brestois,Auxerre,1.9,3.4,4.3333,1.2222,1.8,1.3,1.8,1.95,1.3333,3.4,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-le-havre/mIsJI,2026-01-04,13:15,Le Havre,Angers,2.375,3.2,3.1,1.3,1.6667,1.3333,1.95,1.8,1.3636,3.2,2.2,1.6667,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-metz/bIsgI,2026-01-04,13:15,Lorient,Metz,1.85,3.7,4.2,1.2,1.9091,1.2857,1.8,1.95,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-paris-saint-germain/UHsvwc,2026-01-04,16:45,Paris Saint-Germain,Paris FC,1.125,8.5,19.0,1.0152,6.0,1.0833,1.95,1.8,1.0833,8.0,1.2857,3.75,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-as-monaco/dIsgI,2026-01-16,15:00,AS Monaco,Lorient,1.65,4.2,4.75,1.1818,2.2,1.2222,1.6154,2.2,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-saint-germain-lille/THsUH,2026-01-16,17:00,Paris Saint-Germain,Lille,1.27,6.25,9.0,1.0714,3.75,1.125,1.8,1.95,1.125,6.0,1.4444,2.75,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-lens-auxerre/WHsYH,2026-01-17,13:00,RC Lens,Auxerre,1.45,4.3333,7.0,1.125,2.5,1.2222,1.9091,1.9091,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-nice/lIsGI,2026-01-17,15:00,Toulouse,Nice,1.91,3.5,4.0,1.25,1.8,1.2857,1.75,2.0,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-olympique-de-marseille/QHsJI,2026-01-17,17:05,Angers,Olympique de Marseille,5.5,4.1,1.6,2.3,1.1429,1.2222,1.8,1.95,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-metz/bIsjI,2026-01-18,11:00,RC Strasbourg,Metz,1.42,4.75,7.5,1.1,2.75,1.1818,1.9091,1.9091,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-stade-rennais/iIsmI,2026-01-18,13:15,Stade Rennais,Le Havre,1.65,4.1,5.0,1.1667,2.25,1.2222,1.6667,2.1,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-nantes/XHsvwc,2026-01-18,13:15,Nantes,Paris FC,2.6,3.2,2.88,1.4,1.4444,1.3636,1.75,2.0,1.3,3.5,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-olympique-lyonnais/ZHspJ,2026-01-18,16:45,Olympique Lyonnais,Stade Brestois,1.67,3.9,5.25,1.1667,2.15,1.25,1.9091,1.9091,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/auxerre-paris-saint-germain/UHsWH,2026-01-23,16:00,Auxerre,Paris Saint-Germain,9.0,5.25,1.33,3.0,1.0833,1.1667,1.9091,1.9091,1.1667,5.0,1.5714,2.375,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-lorient/gIsiI,2026-01-24,13:00,Stade Rennais,Lorient,1.75,3.8,4.75,1.1818,2.0,1.25,1.75,2.0,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-as-monaco/dIsmI,2026-01-24,15:00,Le Havre,AS Monaco,4.2,3.9,1.75,1.95,1.25,1.25,1.5333,2.375,1.1667,5.0,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-lens-olympique-de-marseille/QHsYH,2026-01-24,17:05,Olympique de Marseille,RC Lens,2.1,3.75,3.1,1.3636,1.7,1.25,1.4444,2.625,1.1429,5.5,1.5333,2.5,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-nantes/XHslI,2026-01-25,11:00,Nantes,Nice,2.75,3.4,2.55,1.5,1.4,1.3,1.6667,2.1,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/metz-olympique-lyonnais/ZHsbI,2026-01-25,13:15,Metz,Olympique Lyonnais,5.0,3.8,1.67,2.1,1.1818,1.25,1.75,2.0,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-angers/JIsvwc,2026-01-25,13:15,Paris FC,Angers,1.9,3.25,4.5,1.1818,1.9091,1.3333,1.95,1.8,1.3636,3.2,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-lille/THsjI,2026-01-25,16:45,Lille,RC Strasbourg,2.5,3.1,2.9,1.4,1.5,1.3636,1.8,1.95,1.3636,3.2,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-rc-lens/YHsmI,2026-01-30,16:45,RC Lens,Le Havre,1.42,4.75,7.0,1.125,2.625,1.1818,1.75,2.0,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-olympique-de-marseille/QHsvwc,2026-01-31,13:00,Paris FC,Olympique de Marseille,4.1,3.9,1.8,2.0,1.2222,1.2222,1.6667,2.1,1.2222,4.3333,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-nantes/XHsgI,2026-01-31,15:00,Lorient,Nantes,1.85,3.4,4.3333,1.2,1.9091,1.3,1.9091,1.9091,1.3333,3.4,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-as-monaco/dIsiI,2026-01-31,17:05,AS Monaco,Stade Rennais,1.95,3.9,3.5,1.2857,1.8,1.25,1.4444,2.625,1.1429,5.5,1.5,2.625,77356,Ligue 1 25/26
+https://www.sofascore.com/olympique-lyonnais-lille/THsZH,2026-02-01,11:00,Olympique Lyonnais,Lille,2.25,3.5,3.1,1.3636,1.6154,1.2857,1.7,2.05,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-nice/lIspJ,2026-02-01,13:15,Nice,Stade Brestois,2.3,3.3,3.25,1.3333,1.5714,1.3333,1.6667,2.1,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-auxerre/WHsGI,2026-02-01,13:15,Toulouse,Auxerre,1.75,3.6,5.0,1.1818,2.0,1.2857,2.0,1.75,1.3636,3.2,2.2,1.6667,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-metz/bIsJI,2026-02-01,13:15,Angers,Metz,2.2,3.2,3.4,1.2857,1.6667,1.3333,1.9091,1.9091,1.3636,3.2,2.2,1.6667,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-paris-saint-germain/UHsjI,2026-02-01,16:45,RC Strasbourg,Paris Saint-Germain,4.75,4.3333,1.65,2.25,1.1667,1.2,1.6154,2.2,1.1667,5.0,1.5714,2.375,77356,Ligue 1 25/26
+https://www.sofascore.com/metz-lille/THsbI,2026-02-06,16:45,Metz,Lille,6.5,4.3333,1.5,2.375,1.1429,1.2,1.8,1.95,1.2222,4.3333,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-rc-lens/YHsiI,2026-02-07,13:00,RC Lens,Stade Rennais,1.55,4.3333,5.5,1.1429,2.3,1.2,1.5714,2.25,1.1429,5.5,1.5,2.625,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-lorient/gIspJ,2026-02-07,15:00,Stade Brestois,Lorient,2.38,3.0,3.3,1.3,1.5714,1.3636,1.8,1.95,1.3636,3.2,2.2,1.6667,77356,Ligue 1 25/26
+https://www.sofascore.com/olympique-lyonnais-nantes/XHsZH,2026-02-07,17:05,Nantes,Olympique Lyonnais,4.75,3.8,1.73,2.05,1.1818,1.25,1.8,1.95,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-as-monaco/dIslI,2026-02-08,11:00,Nice,AS Monaco,3.2,3.7,2.15,1.7,1.3333,1.25,1.4444,2.625,1.1667,5.0,1.5333,2.5,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-rc-strasbourg/jIsmI,2026-02-08,13:15,Le Havre,RC Strasbourg,4.2,3.6,1.85,1.9091,1.2222,1.2857,1.8,1.95,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-toulouse/GIsJI,2026-02-08,13:15,Angers,Toulouse,3.8,3.1,2.1,1.6667,1.2857,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-auxerre/WHsvwc,2026-02-08,13:15,Auxerre,Paris FC,2.5,3.3,2.88,1.4,1.5,1.3333,1.8,1.95,1.3636,3.2,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-saint-germain-olympique-de-marseille/QHsUH,2026-02-08,16:45,Paris Saint-Germain,Olympique de Marseille,1.44,5.0,6.0,1.125,2.625,1.1667,1.5333,2.375,1.1111,6.5,1.4,3.0,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-paris-saint-germain/UHsiI,2026-02-13,15:00,Stade Rennais,Paris Saint-Germain,7.5,5.25,1.38,3.25,1.0833,1.1429,1.5714,2.25,1.1,7.0,1.3636,3.2,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-nantes/XHsdI,2026-02-13,17:05,AS Monaco,Nantes,1.45,4.75,6.5,1.1,2.75,1.1818,1.7,2.05,1.1667,5.0,1.5333,2.5,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-olympique-de-marseille/QHsjI,2026-02-14,13:00,Olympique de Marseille,RC Strasbourg,1.91,3.8,3.6,1.2857,1.8333,1.25,1.5714,2.25,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-lille/THspJ,2026-02-14,15:00,Lille,Stade Brestois,1.62,3.9,5.75,1.125,2.3,1.25,1.95,1.8,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-rc-lens/YHsvwc,2026-02-14,17:05,Paris FC,RC Lens,3.9,3.6,1.91,1.8333,1.25,1.2857,1.75,2.0,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-le-havre/mIsGI,2026-02-15,11:00,Le Havre,Toulouse,3.4,3.1,2.3,1.5333,1.3333,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-lorient/gIsJI,2026-02-15,13:15,Lorient,Angers,1.91,3.2,4.5,1.2,1.8,1.3636,2.0,1.75,1.4,3.0,2.3,1.6154,77356,Ligue 1 25/26
+https://www.sofascore.com/metz-auxerre/WHsbI,2026-02-15,13:15,Metz,Auxerre,3.0,3.0,2.55,1.5,1.3636,1.3636,1.8,1.95,1.3636,3.2,2.2,1.6667,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-olympique-lyonnais/ZHslI,2026-02-15,16:45,Olympique Lyonnais,Nice,1.83,3.75,4.2,1.2222,1.9091,1.25,1.6667,2.1,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-olympique-de-marseille/QHspJ,2026-02-20,16:45,Stade Brestois,Olympique de Marseille,3.9,3.75,1.85,1.9091,1.25,1.25,1.6154,2.2,1.2222,4.3333,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-rc-lens/YHsdI,2026-02-21,13:00,RC Lens,AS Monaco,1.75,4.1,4.0,1.2,2.1,1.2222,1.5,2.5,1.1429,5.5,1.5,2.625,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-toulouse/GIsvwc,2026-02-21,15:00,Toulouse,Paris FC,2.0,3.3,3.9,1.25,1.8,1.3333,1.95,1.8,1.4,3.0,2.2,1.6667,77356,Ligue 1 25/26
+https://www.sofascore.com/metz-paris-saint-germain/UHsbI,2026-02-21,17:05,Paris Saint-Germain,Metz,1.14,8.5,13.0,1.04,5.5,1.0714,1.8,1.95,1.0714,9.0,1.25,4.0,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-auxerre/WHsiI,2026-02-22,11:00,Auxerre,Stade Rennais,2.88,3.4,2.45,1.5333,1.4,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-lille/THsJI,2026-02-22,13:15,Angers,Lille,4.5,3.5,1.83,1.9091,1.1818,1.2857,1.95,1.8,1.3636,3.2,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-lorient/gIslI,2026-02-22,13:15,Nice,Lorient,2.25,3.4,3.1,1.3636,1.6154,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-nantes/XHsmI,2026-02-22,13:15,Nantes,Le Havre,2.4,3.2,3.0,1.3636,1.5333,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-olympique-lyonnais/ZHsjI,2026-02-22,16:45,RC Strasbourg,Olympique Lyonnais,2.35,3.4,3.0,1.3636,1.5714,1.3,1.6667,2.1,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-rc-lens/YHsjI,2026-02-27,16:45,RC Strasbourg,RC Lens,2.2,3.5,3.1,1.3636,1.6667,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-stade-rennais/iIsGI,2026-02-28,13:00,Stade Rennais,Toulouse,1.91,3.6,3.8,1.2857,1.8,1.2857,1.7,2.05,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-as-monaco/dIsJI,2026-02-28,15:00,AS Monaco,Angers,1.44,4.75,7.0,1.1,2.625,1.1818,1.75,2.0,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-paris-saint-germain/UHsmI,2026-02-28,17:05,Le Havre,Paris Saint-Germain,9.0,6.25,1.29,3.5,1.0714,1.125,1.95,1.8,1.1667,5.0,1.5333,2.5,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-nice/lIsvwc,2026-03-01,11:00,Paris FC,Nice,2.4,3.4,2.9,1.4,1.5333,1.3,1.6667,2.1,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/nantes-lille/THsXH,2026-03-01,13:15,Lille,Nantes,1.5,4.2,6.5,1.125,2.375,1.2222,1.9091,1.9091,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-metz/bIspJ,2026-03-01,13:15,Metz,Stade Brestois,3.6,3.4,2.1,1.6667,1.3,1.3,1.75,2.0,1.3,3.5,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-auxerre/WHsgI,2026-03-01,13:15,Lorient,Auxerre,2.15,3.2,3.6,1.2857,1.6667,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154,77356,Ligue 1 25/26
+https://www.sofascore.com/olympique-lyonnais-olympique-de-marseille/QHsZH,2026-03-01,16:45,Olympique de Marseille,Olympique Lyonnais,1.91,3.7,3.75,1.25,1.8333,1.2857,1.7,2.05,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-paris-saint-germain/UHsdI,2026-03-06,16:45,Paris Saint-Germain,AS Monaco,1.36,5.5,7.0,1.0833,3.4,1.1429,1.5714,2.25,1.0833,8.0,1.3,3.5,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-nantes/XHsJI,2026-03-07,13:00,Nantes,Angers,2.2,2.9,3.75,1.25,1.6667,1.4,2.1,1.6667,1.5333,2.5,2.75,1.4444,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-auxerre/WHsjI,2026-03-07,15:00,Auxerre,RC Strasbourg,3.5,3.25,2.15,1.7273,1.25,1.3333,1.75,2.0,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-olympique-de-marseille/QHsGI,2026-03-07,17:05,Toulouse,Olympique de Marseille,2.9,3.4,2.1,1.6154,1.3636,1.2857,1.5714,2.25,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/metz-rc-lens/YHsbI,2026-03-08,11:00,RC Lens,Metz,1.25,6.0,11.0,1.05,3.75,1.125,1.95,1.8,1.1429,5.5,1.5,2.625,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-lille/THsgI,2026-03-08,13:15,Lille,Lorient,1.53,4.2,6.25,1.125,2.375,1.2222,1.95,1.8,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-stade-rennais/iIslI,2026-03-08,13:15,Nice,Stade Rennais,2.63,3.5,2.55,1.5,1.4444,1.2857,1.5333,2.375,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-le-havre/mIspJ,2026-03-08,13:15,Stade Brestois,Le Havre,1.85,3.4,4.3333,1.2,1.9091,1.3,1.95,1.8,1.3636,3.2,2.2,1.6667,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-olympique-lyonnais/ZHsvwc,2026-03-08,16:45,Olympique Lyonnais,Paris FC,1.85,3.4,4.5,1.1429,2.3,1.25,1.9091,1.9091,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/auxerre-olympique-de-marseille/QHsWH,2026-03-13,16:45,Olympique de Marseille,Auxerre,1.44,4.5,7.0,1.1,2.625,1.1818,1.95,1.8,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-rc-lens/YHsgI,2026-03-14,13:00,Lorient,RC Lens,5.0,4.1,1.65,2.2,1.1667,1.2222,1.75,2.0,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-nice/lIsJI,2026-03-14,15:00,Angers,Nice,3.25,3.2,2.3,1.5714,1.3333,1.3636,1.9091,1.9091,1.4,3.0,2.2,1.6667,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-rc-strasbourg/jIsvwc,2026-03-15,11:00,RC Strasbourg,Paris FC,1.67,3.9,5.25,1.1667,2.15,1.25,1.75,2.0,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-olympique-lyonnais/ZHsmI,2026-03-15,13:15,Le Havre,Olympique Lyonnais,3.3,3.3,2.2,1.6667,1.3333,1.3333,1.8,1.95,1.3333,3.4,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-metz/bIsGI,2026-03-15,13:15,Metz,Toulouse,3.7,3.5,2.0,1.8,1.25,1.2857,1.8,1.95,1.3333,3.4,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-lille/THsiI,2026-03-15,16:45,Stade Rennais,Lille,2.2,3.3,3.4,1.3333,1.6667,1.3333,1.7,2.05,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-rc-lens/YHsJI,2026-03-20,16:45,RC Lens,Angers,1.22,6.5,12.0,1.05,4.0,1.1111,2.05,1.7,1.1429,5.5,1.5,2.625,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-lorient/gIsGI,2026-03-21,13:00,Toulouse,Lorient,1.75,3.3,5.25,1.1667,2.0,1.3333,1.9091,1.9091,1.3333,3.4,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-auxerre/WHspJ,2026-03-21,15:00,Auxerre,Stade Brestois,2.35,3.1,3.4,1.3,1.5714,1.3636,1.95,1.8,1.4444,2.75,2.375,1.5714,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-paris-saint-germain/UHslI,2026-03-21,17:05,Nice,Paris Saint-Germain,6.5,4.75,1.44,2.625,1.1111,1.1818,1.6154,2.2,1.1429,5.5,1.4444,2.75,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-olympique-lyonnais/ZHsdI,2026-03-22,11:00,Olympique Lyonnais,AS Monaco,2.7,3.5,2.5,1.5,1.4444,1.2857,1.5333,2.375,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/lille-olympique-de-marseille/QHsTH,2026-03-22,13:15,Olympique de Marseille,Lille,1.9,3.7,3.9,1.25,1.9091,1.2857,1.7,2.05,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-metz/bIsiI,2026-03-22,13:15,Stade Rennais,Metz,1.33,5.5,8.5,1.0833,3.25,1.1429,1.9091,1.9091,1.1667,5.0,1.5333,2.5,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-le-havre/mIsvwc,2026-03-22,13:15,Paris FC,Le Havre,1.95,3.2,4.1,1.2222,1.8,1.3636,1.95,1.8,1.3333,3.4,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-nantes/XHsjI,2026-03-22,16:45,Nantes,RC Strasbourg,3.5,3.4,2.1,1.7,1.2857,1.3,1.75,2.0,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-paris-saint-germain/YMTc,2026-04-03,15:45,Paris Saint-Germain,Toulouse,1.3,5.75,9.5,1.0714,3.4,1.1429,1.8,1.95,1.1429,5.5,1.4444,2.75,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-rc-strasbourg/jIslI,2026-04-04,12:00,RC Strasbourg,Nice,1.95,3.75,3.7,1.25,1.8333,1.25,1.5333,2.375,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-stade-rennais/iIspJ,2026-04-04,14:00,Stade Brestois,Stade Rennais,3.1,3.4,2.3,1.5714,1.3636,1.3,1.75,2.0,1.3,3.5,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-lens-lille/THsYH,2026-04-04,16:05,Lille,RC Lens,2.9,3.4,2.35,1.5714,1.4,1.3,1.6154,2.2,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-olympique-lyonnais/ZHsJI,2026-04-05,10:00,Angers,Olympique Lyonnais,5.25,4.2,1.6,2.3,1.1667,1.2222,1.8,1.95,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/metz-nantes/XHsbI,2026-04-05,12:15,Metz,Nantes,2.8,3.4,2.55,1.5,1.4,1.3,1.8,1.95,1.3636,3.2,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-lorient/gIsvwc,2026-04-05,12:15,Lorient,Paris FC,2.3,3.3,3.2,1.3636,1.5714,1.3333,1.8,1.95,1.3333,3.4,2.1,1.7273,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-auxerre/WHsmI,2026-04-05,12:15,Le Havre,Auxerre,2.45,3.0,3.2,1.3636,1.5333,1.3636,1.95,1.8,1.4,3.0,2.3,1.6154,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-olympique-de-marseille/QHsdI,2026-04-05,15:45,AS Monaco,Olympique de Marseille,2.0,3.7,3.5,1.2857,1.8,1.2857,1.5,2.5,1.1667,5.0,1.5714,2.375,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-as-monaco/dIsvwc,2026-04-10,14:00,Paris FC,AS Monaco,3.8,3.75,1.91,1.8333,1.25,1.25,1.5714,2.25,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/metz-olympique-de-marseille/QHsbI,2026-04-10,16:05,Olympique de Marseille,Metz,1.27,6.25,9.5,1.0714,3.75,1.125,1.75,2.0,1.1,7.0,1.3333,3.4,77356,Ligue 1 25/26
+https://www.sofascore.com/nantes-auxerre/WHsXH,2026-04-11,14:00,Auxerre,Nantes,1.91,3.4,4.2,1.2222,1.8333,1.3,2.0,1.75,1.4,3.0,2.2,1.6667,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-stade-rennais/iIsJI,2026-04-11,16:05,Stade Rennais,Angers,1.33,5.0,9.5,1.0714,3.25,1.1667,1.95,1.8,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-lille/THsGI,2026-04-12,12:15,Toulouse,Lille,3.3,3.3,2.25,1.6154,1.3333,1.3333,1.95,1.8,1.4,3.0,2.2,1.6667,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-rc-strasbourg/jIspJ,2026-04-12,12:15,Stade Brestois,RC Strasbourg,3.1,3.4,2.3,,,,,,,,,,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-nice/lIsmI,2026-04-12,12:15,Nice,Le Havre,1.95,3.3,4.1,1.2222,1.8,1.3333,1.7,2.05,1.25,4.0,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-olympique-lyonnais/ZHsgI,2026-04-12,15:45,Olympique Lyonnais,Lorient,1.62,4.0,5.25,1.1667,2.25,1.2222,1.75,2.0,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-rc-lens/YHsGI,2026-04-17,15:45,RC Lens,Toulouse,1.55,4.1,5.5,1.125,2.5,1.1818,1.75,2.0,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-olympique-de-marseille/QHsgI,2026-04-18,12:00,Lorient,Olympique de Marseille,4.3333,4.2,1.7,2.1,1.2,1.2222,1.5333,2.375,1.1429,5.5,1.5,2.625,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-le-havre/mIsJI,2026-04-18,14:00,Angers,Le Havre,3.3,3.1,2.38,1.5333,1.3333,1.3636,2.05,1.7,1.5,2.625,2.625,1.5,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-lille/THslI,2026-04-18,16:05,Lille,Nice,1.53,4.5,5.75,1.1429,2.375,1.1818,1.8,1.95,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-auxerre/WHsdI,2026-04-19,10:00,AS Monaco,Auxerre,1.6,4.2,5.25,1.1667,2.3,1.2222,1.6667,2.1,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-stade-rennais/iIsjI,2026-04-19,12:15,RC Strasbourg,Stade Rennais,3.1,3.9,2.15,1.7,1.3636,1.25,1.5714,2.25,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-nantes/XHspJ,2026-04-19,12:15,Nantes,Stade Brestois,2.5,3.25,2.9,1.4,1.5,1.3333,1.9091,1.9091,1.3636,3.2,2.2,1.6667,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-metz/bIsvwc,2026-04-19,12:15,Metz,Paris FC,2.9,3.6,2.25,1.6154,1.3636,1.2857,1.6154,2.2,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/olympique-lyonnais-paris-saint-germain/UHsZH,2026-04-19,15:45,Paris Saint-Germain,Olympique Lyonnais,1.33,5.5,8.0,1.0833,3.25,1.1429,1.75,2.0,1.1429,5.5,1.5,2.625,77356,Ligue 1 25/26
+https://www.sofascore.com/nantes-paris-saint-germain/UHsXH,2026-04-22,14:00,Paris Saint-Germain,Nantes,1.14,8.0,17.0,1.025,5.5,1.0833,2.0,1.75,1.1,7.0,1.3636,3.2,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-rc-lens/YHspJ,2026-04-24,15:45,Stade Brestois,RC Lens,5.75,4.2,1.53,2.375,1.1429,1.2222,1.75,2.0,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/olympique-lyonnais-auxerre/WHsZH,2026-04-25,10:00,Olympique Lyonnais,Auxerre,1.67,3.9,5.0,1.1667,2.15,1.25,1.75,2.0,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-paris-saint-germain/UHsJI,2026-04-25,14:00,Angers,Paris Saint-Germain,10.0,6.0,1.25,3.75,1.0625,1.125,1.95,1.8,1.1667,5.0,1.5333,2.5,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-as-monaco/dIsGI,2026-04-25,16:05,Toulouse,AS Monaco,4.3333,4.1,1.73,2.05,1.2,1.2222,1.5333,2.375,1.1667,5.0,1.5714,2.375,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-strasbourg-lorient/gIsjI,2026-04-26,10:00,Lorient,RC Strasbourg,2.05,3.6,3.25,1.3333,1.7273,1.2857,1.6154,2.2,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-lille/THsvwc,2026-04-26,12:15,Paris FC,Lille,5.0,4.0,1.67,2.15,1.1667,1.2222,1.7,2.05,1.2222,4.3333,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-nantes/XHsiI,2026-04-26,12:15,Stade Rennais,Nantes,1.45,4.5,7.0,1.1,2.625,1.1818,1.8,1.95,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-metz/bIsmI,2026-04-26,12:15,Le Havre,Metz,1.57,4.2,5.5,1.1429,2.3,1.2222,1.95,1.8,1.2857,3.75,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-olympique-de-marseille/QHslI,2026-04-26,15:45,Olympique de Marseille,Nice,1.7,3.8,4.75,1.1818,2.1,1.25,1.6154,2.2,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/nantes-olympique-de-marseille/QHsXH,2026-05-02,10:00,Nantes,Olympique de Marseille,3.9,3.8,1.9,1.9091,1.25,1.25,1.5333,2.375,1.1667,5.0,1.5714,2.375,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-paris-saint-germain/UHsgI,2026-05-02,12:00,Paris Saint-Germain,Lorient,1.33,5.75,7.5,1.1,3.0,1.1429,1.6667,2.1,1.125,6.0,1.4,3.0,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-metz/bIsdI,2026-05-02,14:00,Metz,AS Monaco,7.5,5.75,1.33,3.25,1.1,1.1429,1.5,2.5,1.0714,9.0,1.2857,3.75,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-rc-lens/YHslI,2026-05-02,16:05,Nice,RC Lens,4.5,4.3333,1.67,2.15,1.1818,1.2,1.5714,2.25,1.1667,5.0,1.5333,2.5,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-lille/THsmI,2026-05-03,10:00,Lille,Le Havre,1.4,4.75,8.0,1.0833,2.75,1.1818,2.1,1.6667,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-rc-strasbourg/jIsGI,2026-05-03,12:15,RC Strasbourg,Toulouse,2.9,3.3,2.1,1.6154,1.3636,1.3,1.6154,2.2,1.25,4.0,1.8,2.0,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-stade-brestois/pJsvwc,2026-05-03,12:15,Paris FC,Stade Brestois,1.95,3.7,3.75,1.25,1.8,1.2857,1.6154,2.2,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-auxerre/WHsJI,2026-05-03,12:15,Auxerre,Angers,1.7,3.8,5.0,1.1667,2.1,1.25,1.9091,1.9091,1.3,3.5,2.0,1.8,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-rennais-olympique-lyonnais/ZHsiI,2026-05-03,15:45,Olympique Lyonnais,Stade Rennais,2.05,3.9,3.25,1.3333,1.7273,1.25,1.5,2.5,1.1667,5.0,1.5333,2.5,77356,Ligue 1 25/26
+https://www.sofascore.com/rc-lens-nantes/XHsYH,2026-05-08,15:45,RC Lens,Nantes,1.45,5.0,6.0,1.125,2.625,1.1667,1.6667,2.1,1.1667,5.0,1.5333,2.5,77356,Ligue 1 25/26
+https://www.sofascore.com/stade-brestois-paris-saint-germain/UHspJ,2026-05-10,16:00,Paris Saint-Germain,Stade Brestois,1.17,7.0,13.0,1.04,5.0,1.1,1.9091,1.9091,1.1,7.0,1.3636,3.2,77356,Ligue 1 25/26
+https://www.sofascore.com/le-havre-olympique-de-marseille/QHsmI,2026-05-10,16:00,Le Havre,Olympique de Marseille,3.5,3.7,2.0,1.8,1.2857,1.2857,1.5714,2.25,1.2,4.5,1.6667,2.2,77356,Ligue 1 25/26
+https://www.sofascore.com/as-monaco-lille/THsdI,2026-05-10,16:00,AS Monaco,Lille,2.38,3.8,2.7,1.4444,1.5333,1.25,1.5333,2.375,1.2,4.5,1.6154,2.3,77356,Ligue 1 25/26
+https://www.sofascore.com/toulouse-olympique-lyonnais/ZHsGI,2026-05-10,16:00,Toulouse,Olympique Lyonnais,4.3333,4.0,1.73,2.05,1.2,1.2222,1.75,2.0,1.2222,4.3333,1.7273,2.1,77356,Ligue 1 25/26
+https://www.sofascore.com/angers-rc-strasbourg/jIsJI,2026-05-10,16:00,Angers,RC Strasbourg,2.9,3.4,2.4,1.5333,1.4,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/nice-auxerre/WHslI,2026-05-10,16:00,Auxerre,Nice,2.35,3.4,2.9,1.4,1.5714,1.3,1.7,2.05,1.2857,3.75,1.9091,1.9091,77356,Ligue 1 25/26
+https://www.sofascore.com/paris-fc-stade-rennais/iIsvwc,2026-05-10,16:00,Stade Rennais,Paris FC,1.5,4.75,5.75,1.1429,2.5,1.1818,1.6154,2.2,1.1429,5.5,1.5,2.625,77356,Ligue 1 25/26
+https://www.sofascore.com/lorient-metz/bIsgI,2026-05-10,16:00,Metz,Lorient,3.2,3.7,2.15,1.6667,1.3636,1.2857,1.5714,2.25,1.2222,4.3333,1.6667,2.2,77356,Ligue 1 25/26

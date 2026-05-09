@@ -1,10 +1,11 @@
 import importlib
+import os
 import re
 import sys
 import unicodedata
 import __main__
 from itertools import combinations
-from datetime import datetime
+from datetime import date, datetime
 from pathlib import Path
 
 import joblib
@@ -21,7 +22,16 @@ SOFASCORE_REPORT_DIR = BASE_DIR / "files" / "sofascore_pipeline" / "reports"
 SOFASCORE_ODDS_DIR = BASE_DIR / "files" / "sofascore_pipeline" / "odds"
 SOFASCORE_PIPELINE_ROOT = BASE_DIR / "files" / "sofascore_pipeline"
 SOFASCORE_RESULTS_DIR = BASE_DIR / "files" / "sofascore_pipeline" / "results"
-WEEKEND_PREDICTIONS_PATH = SOFASCORE_REPORT_DIR / "weekend_value_predictions_2026-05-02_to_2026-05-04.csv"
+
+# Rango de fechas del fin de semana mostrado por defecto.
+# Editar estas dos constantes (o las variables de entorno DASHBOARD_WEEKEND_START / DASHBOARD_WEEKEND_END,
+# en formato YYYY-MM-DD) para apuntar el dashboard a otra fecha.
+WEEKEND_START_DATE = date.fromisoformat(os.environ.get("DASHBOARD_WEEKEND_START", "2026-05-08"))
+WEEKEND_END_DATE = date.fromisoformat(os.environ.get("DASHBOARD_WEEKEND_END", "2026-05-11"))
+WEEKEND_PREDICTIONS_PATH = (
+    SOFASCORE_REPORT_DIR
+    / f"weekend_value_predictions_{WEEKEND_START_DATE.isoformat()}_to_{WEEKEND_END_DATE.isoformat()}.csv"
+)
 DEFAULT_SOURCE_URL = (
     "https://www.cuotasahora.com/football/h2h/arsenal-hA1Zm19f/"
     "newcastle-p6ahwuwJ/#OQsq6PYa:over-under;2;"
@@ -185,7 +195,7 @@ def signed_pct(value):
 def friendly_market(value):
     labels = {
         "1X2": "Ganador",
-        "Doble oportunidad": "Doble chance",
+        "Doble oportunidad": "Doble oportunidad",
         "Goles": "Goles",
         "Ambos anotan": "Ambos marcan",
         "Combinada": "Combinada",
@@ -1428,7 +1438,7 @@ with st.sidebar:
     )
     date_range = st.date_input(
         "Fechas",
-        value=(datetime(2026, 5, 1).date(), datetime(2026, 5, 4).date()),
+        value=(WEEKEND_START_DATE, WEEKEND_END_DATE),
     )
     future_only = st.checkbox("Mostrar solo partidos pendientes", value=False)
     st.divider()
